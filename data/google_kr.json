@@ -1,7 +1,7 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-20T19:41:21+00:00",
+  "fetched_at": "2026-10-20T20:08:26+00:00",
   "items": [
     {
       "title": "슈투트가르트 대 아틀레티코",
@@ -49,7 +49,7 @@
     },
     {
       "title": "리버풀 대 비야레알",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Tue, 20 Oct 2026 11:10:00 -0700",
       "news": [
         {
@@ -71,7 +71,7 @@
     },
     {
       "title": "psg vs barcelona",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Tue, 20 Oct 2026 11:10:00 -0700",
       "news": [
         {
@@ -185,19 +185,19 @@
       "published": "Tue, 20 Oct 2026 09:30:00 -0700",
       "news": [
         {
-          "title": "Pakistan's Arafat Minhas' dream outing crushes England",
-          "source": "Cricbuzz",
-          "url": "https://m.cricbuzz.com/cricket-news/140591/arafat-minhas-dream-outing-crushes-england"
+          "title": "England chasing 303 to beat Pakistan in men’s tri-series cricket ODI – live",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/sport/live/2026/oct/20/pakistan-v-england-mens-tri-series-cricket-odi-live?page=with:block-6ad75b198f08ed94496495e5"
         },
         {
-          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
-          "source": "Cricbuzz",
-          "url": "https://m.cricbuzz.com/player-match-performance/match/170723/player/12258/batting?inningsId=2"
-        },
-        {
-          "title": "Cricket - Pakistan vs England - Aatif Nawaz talking after the game",
+          "title": "Pakistan vs England LIVE: ODI tri-series, Rawalpindi - cricket score, radio commentary & updates",
           "source": "BBC",
-          "url": "https://www.bbc.com/sport/cricket/videos/cr1exdqp0jd6o"
+          "url": "https://www.bbc.com/sport/cricket/live/cwnvlmez938qt"
+        },
+        {
+          "title": "Ball by Ball Commentary & Live Score - PAK vs ENG, 2nd Match",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/pakistan-odi-tri-series-2026-27-1550706/pakistan-vs-england-2nd-match-1550714/ball-by-ball-commentary"
         }
       ]
     },
