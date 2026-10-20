@@ -1,33 +1,61 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-20T16:14:51+00:00",
+  "fetched_at": "2026-10-20T17:15:39+00:00",
   "items": [
     {
-      "title": "종전",
-      "approx_traffic": "500+",
+      "title": "스디파",
+      "approx_traffic": "200+",
       "published": "Tue, 20 Oct 2026 08:10:00 -0700",
       "news": [
         {
-          "title": "\"美-이란, 이번 주 내 합의 돌파구 발표 예상\"",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440020"
+          "title": "'스디파', 8억 뷰 터진 레전드 무대 총출동…오늘(13일) 스페셜 방송",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_sn/0117_202610131018120500"
         },
         {
-          "title": "\"이란, 호르무즈서 선박 기관실 집중 공격‥선박 부족 우려\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6859445_36925.html"
+          "title": "SM 이름 앞세운 캐스퍼, 유관순 비하·마약의혹 BJ와 '스디파' 홍보 \"공정성 논란\"[SC이슈]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/10/20/HAZGCYJTMRSDMZRXMJSTQNJVMM/"
         },
         {
-          "title": "미 중간선거 놓고 '이번 기회 못 놓친다' 트럼프 벼르는 이란…호르무즈 해협서 한 주 평균 30척씩 노려",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12323908"
+          "title": "‘스디파’, 오늘(20일) 파이널 생방송…마지막 디렉터 크레딧 주인공 탄생",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112895245"
+        }
+      ]
+    },
+    {
+      "title": "데이비드",
+      "approx_traffic": "100+",
+      "published": "Tue, 20 Oct 2026 08:10:00 -0700",
+      "news": []
+    },
+    {
+      "title": "종전",
+      "approx_traffic": "100+",
+      "published": "Tue, 20 Oct 2026 08:10:00 -0700",
+      "news": [
+        {
+          "title": "\"우크라 대신 中·러 손잡는 트럼프, '21세기판 얄타회담' 포석\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261021001700071"
+        },
+        {
+          "title": "트럼프, 시진핑-푸틴 중국에서 만나 핵 문제 논의 의향 표명",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=719075"
+        },
+        {
+          "title": "트럼프, 비핵화 의제라지만…우크라이나 빼고 중·러와 회담 시사 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/10/20/2026102009205763420"
         }
       ]
     },
     {
       "title": "임라라",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Tue, 20 Oct 2026 08:00:00 -0700",
       "news": [
         {
@@ -58,14 +86,9 @@
           "url": "https://www.hani.co.kr/arti/international/america/1283290.html"
         },
         {
-          "title": "중간선거 '빨간불'‥트럼프·공화당 \"네 탓\" 내분",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6859173_37012.html"
-        },
-        {
-          "title": "美공화 ’책임론’ 내홍…’만원 관중’ 홍보 박차",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261020124755Cw8"
+          "title": "미국인 70% “트럼프, 중간선거 패배해도 안 받아들일 것”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20261021/134879295/1"
         }
       ]
     },
@@ -75,14 +98,14 @@
       "published": "Tue, 20 Oct 2026 07:30:00 -0700",
       "news": [
         {
-          "title": "우크라 쓰는 위성에 슬금슬금… 러, 우주서 무언의 위협 압박?",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/10/20/673USABRFVHCLCLFRLAEOF7RZQ/"
-        },
-        {
           "title": "러, '킬러위성' 가동했나…美 레이더위성 수백미터 앞 접근",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20261020137600009"
+        },
+        {
+          "title": "우크라 쓰는 위성에 슬금슬금… 러, 우주서 무언의 위협 압박?",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/international_general/2026/10/20/673USABRFVHCLCLFRLAEOF7RZQ/"
         },
         {
           "title": "러 위성, ‘우크라군 정보 제공’ 미 위성에 500m까지 접근···“전례 없는 기동”",
@@ -102,20 +125,20 @@
           "url": "https://www.cricinfo.com/series/australia-in-south-africa-2026-27-1525634/south-africa-vs-australia-2nd-test-1525660/ball-by-ball-commentary"
         },
         {
+          "title": "Australia limp to 3-1 after South Africa post 425-9 on day three of men’s second Test – as it happened",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/sport/live/2026/oct/20/south-africa-v-australia-second-test-day-three-cricket-st-georges-park-gqeberha-live-updates"
+        },
+        {
           "title": "South Africa vs Australia: Hosts' batting issues exposed again as Scott Boland takes four",
           "source": "BBC",
           "url": "https://www.bbc.com/sport/cricket/articles/c6rmy4mzl4wyo"
-        },
-        {
-          "title": "Blistering fightback, Warner slams ‘pathetic’ sight",
-          "source": "News.com.au",
-          "url": "https://www.news.com.au/sport/cricket/cricket-world-rages-as-archaic-rule-emerges-that-could-cost-australia-against-south-africa/live-coverage/f651e67c4a5a09107d42b8c4e0c94674"
         }
       ]
     },
     {
       "title": "ai 버블",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Tue, 20 Oct 2026 07:10:00 -0700",
       "news": [
         {
@@ -129,9 +152,9 @@
           "url": "https://www.businessinsider.com/ai-bubble-burst-stock-market-risks-politics-debt-chips-2026-10"
         },
         {
-          "title": "Wall St Week Ahead As AI rally wobbles, stock market's spotlight turns to earnings",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/legal/transactional/wall-st-week-ahead-ai-rally-wobbles-stock-markets-spotlight-turns-earnings-2026-10-16/"
+          "title": "‘How many canaries have we killed in the coal mine?’ — Wall Street debates if the latest AI bubble warnings are another head fake or the real thing",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/ai/articles/many-canaries-killed-coal-mine-194324541.html"
         }
       ]
     },
@@ -158,68 +181,24 @@
       ]
     },
     {
-      "title": "아나운서",
-      "approx_traffic": "500+",
-      "published": "Tue, 20 Oct 2026 06:30:00 -0700",
+      "title": "플레이오프 예매",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 06:40:00 -0700",
       "news": [
         {
-          "title": "KBS 아나운서 그만뒀다가 빚 1억…새벽 배송까지 뛰었다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610203818H"
+          "title": "[속보] 방사청, LIG D&A 뇌물·원가부정에 입찰참가 제한 2년 제재",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261020171400504"
         },
         {
-          "title": "“빚 8900만원에 돌반지 처분” 고대 출신 김선근 전 아나, KBS 퇴사 후 새벽 배송 하는 사연",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610201340003"
+          "title": "[공식발표] 韓야구 올 것이 왔다! KIA-삼성 플레이오프 예매 일정 공개, 대구-광주 입장권 언제 열릴까",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/21/GA4TENBUGBRTQNZVMU4DKNJZGQ/"
         },
         {
-          "title": "KBS 퇴사 4년 차 아나운서 \"돌반지 팔고 물류센터 뛰었다\" 고백",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610191531200896"
-        }
-      ]
-    },
-    {
-      "title": "전지현",
-      "approx_traffic": "1000+",
-      "published": "Tue, 20 Oct 2026 06:20:00 -0700",
-      "news": [
-        {
-          "title": "가장 클래식하고 현대적인, 전지현",
-          "source": "Vogue korea",
-          "url": "https://www.vogue.co.kr/2026/10/20/%EA%B0%80%EC%9E%A5-%ED%81%B4%EB%9E%98%EC%8B%9D%ED%95%98%EA%B3%A0-%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B8-%EC%A0%84%EC%A7%80%ED%98%84/"
-        },
-        {
-          "title": "전지현, 두 아들맘인데..슬립 드레스 입고 '요염' 수트로 '카리스마'",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261016011929721"
-        },
-        {
-          "title": "전지현, 슬립 원피스+레드립 소화한 올타임 레전드…맨살에 수트까지 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/tv/2026/10/16/HE2TAN3GHFSWGNZRHEYGKMBVMY/"
-        }
-      ]
-    },
-    {
-      "title": "погода завтра",
-      "approx_traffic": "1000+",
-      "published": "Tue, 20 Oct 2026 05:40:00 -0700",
-      "news": [
-        {
-          "title": "Приятная осень: какая погода ждет казанцев до конца октября",
-          "source": "Inkazan.ru",
-          "url": "https://inkazan.ru/news/2026-10-20/priyatnaya-osen-kakaya-pogoda-zhdet-kazantsev-do-kontsa-oktyabrya-5711823"
-        },
-        {
-          "title": "В Татарстане во вторник похолодает до минус 6 градусов",
-          "source": "БИЗНЕС Online — Новости Казани",
-          "url": "https://www.business-gazeta.ru/news/713829"
-        },
-        {
-          "title": "Арктический антициклон в Татарстане: прогноз на неделю",
-          "source": "Телеканал ТНВ Татарстан",
-          "url": "https://tnv.ru/news/tatarstan/581760-arkticheskiy-anticiklon-v-tatarstane-prognoz-na-nedelyu/"
+          "title": "삼성-KIA 플레이오프 입장권, 21일 오후 2시부터 예매",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/baseball/6326534"
         }
       ]
     }
