@@ -1,8 +1,52 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-20T17:15:39+00:00",
+  "fetched_at": "2026-10-20T18:07:53+00:00",
   "items": [
+    {
+      "title": "뉴데일리",
+      "approx_traffic": "500+",
+      "published": "Tue, 20 Oct 2026 09:40:00 -0700",
+      "news": [
+        {
+          "title": "대통령 지지율 46.4%…호남서만 긍정평가 더 높아-여론조사꽃",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11624578"
+        },
+        {
+          "title": "李 지지율 '3주 만에 반등' 37.3%‥민주·국힘 오차범위 내",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6858913_36911.html"
+        },
+        {
+          "title": "지지율 20% 목전, '데드캣 바운스' … '자기 최면' 빠진 李 대통령",
+          "source": "뉴데일리",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/10/20/2026102000326.html"
+        }
+      ]
+    },
+    {
+      "title": "pakistan national cricket team vs england cricket team standings",
+      "approx_traffic": "2000+",
+      "published": "Tue, 20 Oct 2026 09:30:00 -0700",
+      "news": [
+        {
+          "title": "Pakistan vs England: Sloppy visitors floored by Arafat Minhas in Rawalpindi",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/cricket/articles/c962ylv3l334o"
+        },
+        {
+          "title": "England collapse to 87-run defeat by Pakistan in men’s tri-series cricket ODI – live",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/sport/live/2026/oct/20/pakistan-v-england-mens-tri-series-cricket-odi-live?page=with:block-6ad777db8f08eaf643558473"
+        },
+        {
+          "title": "England slump to defeat against Pakistan in ODI tri-series after faltering chasing 303 in Rawalpindi",
+          "source": "Sky Sports",
+          "url": "https://www.skysports.com/cricket/news/13601229/england-slump-to-defeat-against-pakistan-in-odi-tri-series-after-faltering-chasing-303-in-rawalpindi"
+        }
+      ]
+    },
     {
       "title": "스디파",
       "approx_traffic": "200+",
@@ -26,32 +70,32 @@
       ]
     },
     {
+      "title": "종전",
+      "approx_traffic": "500+",
+      "published": "Tue, 20 Oct 2026 08:10:00 -0700",
+      "news": [
+        {
+          "title": "이란 혁명수비대 \"호르무즈서 유조선 2척 기뢰 충돌‥운항 중단\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6859415_36925.html"
+        },
+        {
+          "title": "\"이란, 호르무즈서 선박 기관실 집중 공격…선박 부족 우려\"",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008807066"
+        },
+        {
+          "title": "“이란, 중간선거 앞둔 트럼프에 타격 주려 종전협상 의도적 지연”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8690804"
+        }
+      ]
+    },
+    {
       "title": "데이비드",
       "approx_traffic": "100+",
       "published": "Tue, 20 Oct 2026 08:10:00 -0700",
       "news": []
-    },
-    {
-      "title": "종전",
-      "approx_traffic": "100+",
-      "published": "Tue, 20 Oct 2026 08:10:00 -0700",
-      "news": [
-        {
-          "title": "\"우크라 대신 中·러 손잡는 트럼프, '21세기판 얄타회담' 포석\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261021001700071"
-        },
-        {
-          "title": "트럼프, 시진핑-푸틴 중국에서 만나 핵 문제 논의 의향 표명",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=719075"
-        },
-        {
-          "title": "트럼프, 비핵화 의제라지만…우크라이나 빼고 중·러와 회담 시사 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/10/20/2026102009205763420"
-        }
-      ]
     },
     {
       "title": "임라라",
@@ -76,19 +120,46 @@
       ]
     },
     {
+      "title": "허윤동",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 07:50:00 -0700",
+      "news": [
+        {
+          "title": "'PO 코앞' 삼성, 10명 무더기 방출…1라운더도 짐 쌌다",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6593351"
+        },
+        {
+          "title": "프로야구 삼성, '1라운드 왼팔' 허윤동 포함 10명 방출",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261019076600007"
+        },
+        {
+          "title": "'13연패 끊었던 영웅도, 이정후가 극찬한 유망주도…' 삼성, 양현·허윤동·홍현빈 등 10명과 결별",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112894978"
+        }
+      ]
+    },
+    {
       "title": "트럼프",
       "approx_traffic": "100+",
       "published": "Tue, 20 Oct 2026 07:50:00 -0700",
       "news": [
+        {
+          "title": "\"민주당 장악, 재앙 닥칠 것\" 경고…백악관 참모들 ‘나부터 살자’",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12323951"
+        },
         {
           "title": "트럼프 지지율 31%로 더 추락…거센 심판론에 상·하원 판세 요동",
           "source": "한겨레",
           "url": "https://www.hani.co.kr/arti/international/america/1283290.html"
         },
         {
-          "title": "미국인 70% “트럼프, 중간선거 패배해도 안 받아들일 것”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20261021/134879295/1"
+          "title": "중간선거 '빨간불'‥트럼프·공화당 \"네 탓\" 내분",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6859173_37012.html"
         }
       ]
     },
@@ -98,14 +169,14 @@
       "published": "Tue, 20 Oct 2026 07:30:00 -0700",
       "news": [
         {
-          "title": "러, '킬러위성' 가동했나…美 레이더위성 수백미터 앞 접근",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261020137600009"
-        },
-        {
           "title": "우크라 쓰는 위성에 슬금슬금… 러, 우주서 무언의 위협 압박?",
           "source": "조선일보",
           "url": "https://www.chosun.com/international/international_general/2026/10/20/673USABRFVHCLCLFRLAEOF7RZQ/"
+        },
+        {
+          "title": "러, '킬러위성' 가동했나…美 레이더위성 수백미터 앞 접근",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261020137600009"
         },
         {
           "title": "러 위성, ‘우크라군 정보 제공’ 미 위성에 500m까지 접근···“전례 없는 기동”",
@@ -133,72 +204,6 @@
           "title": "South Africa vs Australia: Hosts' batting issues exposed again as Scott Boland takes four",
           "source": "BBC",
           "url": "https://www.bbc.com/sport/cricket/articles/c6rmy4mzl4wyo"
-        }
-      ]
-    },
-    {
-      "title": "ai 버블",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 07:10:00 -0700",
-      "news": [
-        {
-          "title": "What if an AI bubble bursts — and that accelerates AI job losses? : Planet Money",
-          "source": "NPR",
-          "url": "https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses"
-        },
-        {
-          "title": "An AI bust could come from places investors aren't watching, an economist says",
-          "source": "Business Insider",
-          "url": "https://www.businessinsider.com/ai-bubble-burst-stock-market-risks-politics-debt-chips-2026-10"
-        },
-        {
-          "title": "‘How many canaries have we killed in the coal mine?’ — Wall Street debates if the latest AI bubble warnings are another head fake or the real thing",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/ai/articles/many-canaries-killed-coal-mine-194324541.html"
-        }
-      ]
-    },
-    {
-      "title": "김천상무프로축구단",
-      "approx_traffic": "100+",
-      "published": "Tue, 20 Oct 2026 06:40:00 -0700",
-      "news": [
-        {
-          "title": "K리그, 24일 운명의 33라운드...우승·꼴찌 확정되나?",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0107_202610210001055964"
-        },
-        {
-          "title": "‘김기동 매직’ FC서울, 10년만의 우승 눈앞… ‘이정효 매직’ 수원삼성, 3년만의 승격 유력",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20261020/134870573/2"
-        },
-        {
-          "title": "FC서울, MVP 후보 누굴 밀까",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610200700006"
-        }
-      ]
-    },
-    {
-      "title": "플레이오프 예매",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 06:40:00 -0700",
-      "news": [
-        {
-          "title": "[속보] 방사청, LIG D&A 뇌물·원가부정에 입찰참가 제한 2년 제재",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261020171400504"
-        },
-        {
-          "title": "[공식발표] 韓야구 올 것이 왔다! KIA-삼성 플레이오프 예매 일정 공개, 대구-광주 입장권 언제 열릴까",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/21/GA4TENBUGBRTQNZVMU4DKNJZGQ/"
-        },
-        {
-          "title": "삼성-KIA 플레이오프 입장권, 21일 오후 2시부터 예매",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/baseball/6326534"
         }
       ]
     }
