@@ -1,17 +1,149 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-20T15:16:32+00:00",
+  "fetched_at": "2026-10-20T16:14:51+00:00",
   "items": [
+    {
+      "title": "종전",
+      "approx_traffic": "500+",
+      "published": "Tue, 20 Oct 2026 08:10:00 -0700",
+      "news": [
+        {
+          "title": "\"美-이란, 이번 주 내 합의 돌파구 발표 예상\"",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440020"
+        },
+        {
+          "title": "\"이란, 호르무즈서 선박 기관실 집중 공격‥선박 부족 우려\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6859445_36925.html"
+        },
+        {
+          "title": "미 중간선거 놓고 '이번 기회 못 놓친다' 트럼프 벼르는 이란…호르무즈 해협서 한 주 평균 30척씩 노려",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12323908"
+        }
+      ]
+    },
+    {
+      "title": "임라라",
+      "approx_traffic": "100+",
+      "published": "Tue, 20 Oct 2026 08:00:00 -0700",
+      "news": [
+        {
+          "title": "임라라♥손민수, 쌍둥이 남매 초호화 돌잔치 공개..28년차 인기가수 축하무대(슈돌) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/20/GEZWMMRVGI4TIZJYGRRTGMZWGI/"
+        },
+        {
+          "title": "임라라, 쌍둥이 첫돌에 결국 눈물…“밤새 직접 노래 가사 써” (슈돌)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261020/134871764/1"
+        },
+        {
+          "title": "“그냥 돌잔치 아니다” 임라라♥손민수, ‘슈돌’서 초호화 돌잔치 현장 공개…촬영 인력만 45명 투입",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610200936003"
+        }
+      ]
+    },
+    {
+      "title": "트럼프",
+      "approx_traffic": "100+",
+      "published": "Tue, 20 Oct 2026 07:50:00 -0700",
+      "news": [
+        {
+          "title": "트럼프 지지율 31%로 더 추락…거센 심판론에 상·하원 판세 요동",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/international/america/1283290.html"
+        },
+        {
+          "title": "중간선거 '빨간불'‥트럼프·공화당 \"네 탓\" 내분",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6859173_37012.html"
+        },
+        {
+          "title": "美공화 ’책임론’ 내홍…’만원 관중’ 홍보 박차",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261020124755Cw8"
+        }
+      ]
+    },
+    {
+      "title": "레이더",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 07:30:00 -0700",
+      "news": [
+        {
+          "title": "우크라 쓰는 위성에 슬금슬금… 러, 우주서 무언의 위협 압박?",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/international_general/2026/10/20/673USABRFVHCLCLFRLAEOF7RZQ/"
+        },
+        {
+          "title": "러, '킬러위성' 가동했나…美 레이더위성 수백미터 앞 접근",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261020137600009"
+        },
+        {
+          "title": "러 위성, ‘우크라군 정보 제공’ 미 위성에 500m까지 접근···“전례 없는 기동”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610201715001"
+        }
+      ]
+    },
+    {
+      "title": "south africa vs australia",
+      "approx_traffic": "100+",
+      "published": "Tue, 20 Oct 2026 07:20:00 -0700",
+      "news": [
+        {
+          "title": "Ball by Ball Commentary & Live Score - SA vs AUS, 2nd Test",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/australia-in-south-africa-2026-27-1525634/south-africa-vs-australia-2nd-test-1525660/ball-by-ball-commentary"
+        },
+        {
+          "title": "South Africa vs Australia: Hosts' batting issues exposed again as Scott Boland takes four",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/cricket/articles/c6rmy4mzl4wyo"
+        },
+        {
+          "title": "Blistering fightback, Warner slams ‘pathetic’ sight",
+          "source": "News.com.au",
+          "url": "https://www.news.com.au/sport/cricket/cricket-world-rages-as-archaic-rule-emerges-that-could-cost-australia-against-south-africa/live-coverage/f651e67c4a5a09107d42b8c4e0c94674"
+        }
+      ]
+    },
+    {
+      "title": "ai 버블",
+      "approx_traffic": "100+",
+      "published": "Tue, 20 Oct 2026 07:10:00 -0700",
+      "news": [
+        {
+          "title": "What if an AI bubble bursts — and that accelerates AI job losses? : Planet Money",
+          "source": "NPR",
+          "url": "https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses"
+        },
+        {
+          "title": "An AI bust could come from places investors aren't watching, an economist says",
+          "source": "Business Insider",
+          "url": "https://www.businessinsider.com/ai-bubble-burst-stock-market-risks-politics-debt-chips-2026-10"
+        },
+        {
+          "title": "Wall St Week Ahead As AI rally wobbles, stock market's spotlight turns to earnings",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/legal/transactional/wall-st-week-ahead-ai-rally-wobbles-stock-markets-spotlight-turns-earnings-2026-10-16/"
+        }
+      ]
+    },
     {
       "title": "김천상무프로축구단",
       "approx_traffic": "100+",
       "published": "Tue, 20 Oct 2026 06:40:00 -0700",
       "news": [
         {
-          "title": "우승도, 꼴찌도 확정될까…24일 K리그1 운명의 33라운드",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261020076800007"
+          "title": "K리그, 24일 운명의 33라운드...우승·꼴찌 확정되나?",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0107_202610210001055964"
         },
         {
           "title": "‘김기동 매직’ FC서울, 10년만의 우승 눈앞… ‘이정효 매직’ 수원삼성, 3년만의 승격 유력",
@@ -27,7 +159,7 @@
     },
     {
       "title": "아나운서",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Tue, 20 Oct 2026 06:30:00 -0700",
       "news": [
         {
@@ -41,37 +173,15 @@
           "url": "https://sports.khan.co.kr/article/202610201340003"
         },
         {
-          "title": "KBS 퇴사 후 카드빚 8900만원…아이 돌반지까지 판 아나운서 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/10/19/2026101913263453281"
-        }
-      ]
-    },
-    {
-      "title": "선박",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 06:30:00 -0700",
-      "news": [
-        {
-          "title": "\"美-이란, 이번 주 내 합의 돌파구 발표 예상\"",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440020"
-        },
-        {
-          "title": "“이란, 중간선거 앞둔 트럼프에 타격 주려 종전협상 의도적 지연”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8690804"
-        },
-        {
-          "title": "이란 \"'폭탄의 아버지'로 대응...\"해저케이블 공격도 가능\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202610201052294026"
+          "title": "KBS 퇴사 4년 차 아나운서 \"돌반지 팔고 물류센터 뛰었다\" 고백",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202610191531200896"
         }
       ]
     },
     {
       "title": "전지현",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Tue, 20 Oct 2026 06:20:00 -0700",
       "news": [
         {
@@ -110,111 +220,6 @@
           "title": "Арктический антициклон в Татарстане: прогноз на неделю",
           "source": "Телеканал ТНВ Татарстан",
           "url": "https://tnv.ru/news/tatarstan/581760-arkticheskiy-anticiklon-v-tatarstane-prognoz-na-nedelyu/"
-        }
-      ]
-    },
-    {
-      "title": "남현종",
-      "approx_traffic": "100+",
-      "published": "Tue, 20 Oct 2026 05:30:00 -0700",
-      "news": [
-        {
-          "title": "남현종 KBS 아나운서, 11월 결혼한다",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261020_0003833613"
-        },
-        {
-          "title": "'11월 결혼' 남현종 \"웃는 모습 예쁜 사람…이영표, 아내 마음 챙기라고 조언",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6326244"
-        },
-        {
-          "title": "남현종 KBS 아나운서, 11월 결혼…\"소개팅 후 직진\"",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261020001111"
-        }
-      ]
-    },
-    {
-      "title": "한준수",
-      "approx_traffic": "100+",
-      "published": "Tue, 20 Oct 2026 05:20:00 -0700",
-      "news": [
-        {
-          "title": "[사진]한준수, '준PO 3차전 두 자릿수 득점 완성시키는 솔로포' - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/10/20/G42WCZTFHFSGEZTBGYYGEZDGGU/"
-        },
-        {
-          "title": "열광의 KIA 팬들",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261020_0021497566"
-        },
-        {
-          "title": "[AI그래픽] KBO 준PO 3차전, KIA 한준수 7회 솔로 홈런...KIA 10-1 리드",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261020001226"
-        }
-      ]
-    },
-    {
-      "title": "임시완",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 05:10:00 -0700",
-      "news": [
-        {
-          "title": "임시완·설인아 주연 '나의 유죄인간' 5.6％ 출발",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261020035800005"
-        },
-        {
-          "title": "카카오엔터 로맨스 IP ‘여자인 걸 왜 모르지?’ 드라마로 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/it-science/ict/2026/10/20/UZD2PR7PQJETZKQ3AK4SS7ZQFQ/"
-        },
-        {
-          "title": "‘나의 유죄인간’ 김정현, 능청미 장착한 변호사 완벽 변신",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261020/134875398/1"
-        }
-      ]
-    },
-    {
-      "title": "류현진",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 05:10:00 -0700",
-      "news": [
-        {
-          "title": "류현진 최초! 아내 배지현과 대전서 나눔 플리마켓 연다, 수익금 전액 기부 결단 \"많은 분들 방문해주시길\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/20/GBSDGYJZGM4WKZTEGA2DEZRZMM/"
-        },
-        {
-          "title": "류현진·배지현 부부, 25일 첫 나눔 플리마켓 개최…수익금 전액 기부",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/baseball/6325907"
-        },
-        {
-          "title": "류현진·배지현 부부, 25일 대전서 첫 나눔 플리마켓",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=03755606645614888&mediaCodeNo=257"
-        }
-      ]
-    },
-    {
-      "title": "기획",
-      "approx_traffic": "500+",
-      "published": "Tue, 20 Oct 2026 05:00:00 -0700",
-      "news": [
-        {
-          "title": "제주도개발공사 기획총괄 상임이사 인선 착수",
-          "source": "제주의소리",
-          "url": "https://www.jejusori.net/news/articleView.html?idxno=507488"
-        },
-        {
-          "title": "제주개발공사 ‘2인자’ 인선 착수 ... 기획총괄이사 공모",
-          "source": "제이누리",
-          "url": "https://www.jnuri.net/news/article.html?no=70515"
         }
       ]
     }
