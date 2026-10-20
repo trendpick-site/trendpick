@@ -1,225 +1,215 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-20T12:48:24+00:00",
+  "fetched_at": "2026-10-20T13:48:30+00:00",
   "items": [
     {
-      "title": "여론",
-      "approx_traffic": "2000+",
-      "published": "Tue, 20 Oct 2026 04:30:00 -0700",
-      "news": [
-        {
-          "title": "법원, ‘명태균 여론조사 대납’ 오세훈 항소심 선고 생중계 결정",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8690286"
-        },
-        {
-          "title": "[고수다] 오세훈 운명 걸린 23일 선고‥\"최대 위기지만 기회될 수도\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6859322_36974.html"
-        },
-        {
-          "title": "23일 운명의 선고 앞둔 오세훈… 정치권의 엇갈린 전망",
-          "source": "에너지경제신문",
-          "url": "https://www.ekn.kr/web/view.php?key=20261020025268720"
-        }
-      ]
-    },
-    {
-      "title": "육영수",
-      "approx_traffic": "1000+",
-      "published": "Tue, 20 Oct 2026 04:10:00 -0700",
-      "news": [
-        {
-          "title": "“육영수 가장 존경” 44.2% 1위…2위 이희호 20.4%-여론조사공정",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11624707"
-        },
-        {
-          "title": "김민석 당대표 \"긍정\" 28.0% vs \"부정\" 66.3% [펜앤여론조사]",
-          "source": "펜앤마이크",
-          "url": "https://www.pennmike.com/news/articleView.html?idxno=129858"
-        },
-        {
-          "title": "`가장 존경하는 영부인` 2위 이희호, 3위 권양숙, 4위 김정숙…1위는?",
-          "source": "매일신문",
-          "url": "https://www.imaeil.com/page/view/2026102009103277589"
-        }
-      ]
-    },
-    {
-      "title": "강헌",
+      "title": "погода завтра",
       "approx_traffic": "500+",
-      "published": "Tue, 20 Oct 2026 04:10:00 -0700",
+      "published": "Tue, 20 Oct 2026 05:40:00 -0700",
       "news": [
         {
-          "title": "대중음악평론가 강헌 별세…향년 64세",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610202053001"
+          "title": "Приятная осень: какая погода ждет казанцев до конца октября",
+          "source": "Inkazan.ru",
+          "url": "https://inkazan.ru/news/2026-10-20/priyatnaya-osen-kakaya-pogoda-zhdet-kazantsev-do-kontsa-oktyabrya-5711823"
         },
         {
-          "title": "‘대중음악 평론 거목’ 강헌 한국문화예술교육진흥원 이사장 별세… 향년 64세",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261020580637"
+          "title": "В Татарстане во вторник похолодает до минус 6 градусов",
+          "source": "БИЗНЕС Online — Новости Казани",
+          "url": "https://www.business-gazeta.ru/news/713829"
         },
         {
-          "title": "대중음악 비평의 한 시대 이끈 강헌 문화예술교육진흥원 이사장 별세",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026102020463703183"
+          "title": "Арктический антициклон в Татарстане: прогноз на неделю",
+          "source": "Телеканал ТНВ Татарстан",
+          "url": "https://tnv.ru/news/tatarstan/581760-arkticheskiy-anticiklon-v-tatarstane-prognoz-na-nedelyu/"
         }
       ]
     },
     {
-      "title": "설인아",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 04:00:00 -0700",
-      "news": [
-        {
-          "title": "둘이 뭐야? 설인아 \"임시완 처음엔 튕겼다\"…부산행 KTX 탄 사연 ('살롱드립2') - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/20/MY2DOZJRGQZDEYJSGEZTQYJXGI/"
-        },
-        {
-          "title": "'살롱드립' 설인아 \"가슴 붕대 종류별로 구매\"…남장 연기 비화 고백",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6326403"
-        },
-        {
-          "title": "설인아, 임시완 미모에 진짜 심쿵.. \"너무 잘생기고 예뻐\" 감탄('살롱드립2')",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112895589"
-        }
-      ]
-    },
-    {
-      "title": "fire",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 04:00:00 -0700",
-      "news": [
-        {
-          "title": "'Our babies are coughing': Life at epicentre of Indonesian wildfires choking Singapore and Malaysia with haze",
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/live/c6y93098e795t"
-        },
-        {
-          "title": "Smog in Indonesia disrupted 2,604 domestic flights — Channel NewsAsia",
-          "source": "UA.NEWS",
-          "url": "https://ua.news/en/world/smog-v-indoneziyi-porushiv-2604-vnutrishni-reisi-channel-newsasia"
-        },
-        {
-          "title": "Licensable video: Wildfire Haze Begins Blanketing Aceh - 10/16/2026",
-          "source": "Reuters Connect",
-          "url": "https://www.reutersconnect.com/item/wildfire-haze-begins-blanketing-aceh-10162026/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XTlVSQ1JFWkFXSUxERklSRTI2MTAxOU5QOUhN"
-        }
-      ]
-    },
-    {
-      "title": "서경배",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 04:00:00 -0700",
-      "news": [
-        {
-          "title": "서경배 회장, 친인척 5명에 아모레퍼시픽 주식 45억원어치 증여(종합)",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440170"
-        },
-        {
-          "title": "서경배, 친인척 5명에 아모레 지분 증여…45억원 규모",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261020001114"
-        },
-        {
-          "title": "차녀 이어 친인척 5명까지…서경배 회장, 올해 22만3891주 가족 증여",
-          "source": "아시아투데이",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261020010006641"
-        }
-      ]
-    },
-    {
-      "title": "크보",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 04:00:00 -0700",
-      "news": [
-        {
-          "title": "[Official Announcement] From “Demotion Crisis” to “New KBO History”: Hilliard Leads KT to Championship and Becomes First Foreign Player to Win Monthly MVP Twice",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/en/sports/2026/10/20/2026102014422093504"
-        },
-        {
-          "title": "Hilliard Becomes First Foreign Player to Win Monthly MVP Twice",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/10/20/4WM7PLCJPFEK3JBJMZED5EI43U/"
-        },
-        {
-          "title": "Wiz slugger Hilliard voted KBO's top player for final month of reg. season",
-          "source": "The Korea Times",
-          "url": "https://www.koreatimes.co.kr/sports/20261020/wiz-slugger-hilliard-voted-kbos-top-player-for-final-month-of-reg-season"
-        }
-      ]
-    },
-    {
-      "title": "선수",
-      "approx_traffic": "500+",
-      "published": "Tue, 20 Oct 2026 03:50:00 -0700",
-      "news": [
-        {
-          "title": "경기도 유도, 제주 돌풍 잠재우고 ‘26연패 왕조’ 완성 [전국체전 화제의 팀]",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261019580444"
-        },
-        {
-          "title": "국내무대는 좁다! 박혜정 전국체전 4연패",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8688658"
-        },
-        {
-          "title": "진안군청 역도팀, 전국체전서 은메달 4개·동메달 2개 획득",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/jeonbuk/6325893"
-        }
-      ]
-    },
-    {
-      "title": "박충권",
-      "approx_traffic": "500+",
-      "published": "Tue, 20 Oct 2026 03:50:00 -0700",
-      "news": [
-        {
-          "title": "북한 군사력, 이란보다 10배 강해… 핵 빼고 싸워도 어렵다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/opinion/2026/10/18/7N24WTOEDNAQZKHTVB35FCFKHY/"
-        },
-        {
-          "title": "[조경일의 시사직격] 야당의 국군에 대한 박한 평가가 아쉽다",
-          "source": "뉴스프리존",
-          "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=714774"
-        },
-        {
-          "title": "\"북한은 핵무기 없이 싸워도 남한 이긴다\"",
-          "source": "위키트리",
-          "url": "https://www.wikitree.co.kr/articles/1167335"
-        }
-      ]
-    },
-    {
-      "title": "m",
+      "title": "남현종",
       "approx_traffic": "100+",
-      "published": "Tue, 20 Oct 2026 03:50:00 -0700",
+      "published": "Tue, 20 Oct 2026 05:30:00 -0700",
       "news": [
         {
-          "title": "Timberwolves agree to 1-year, $40M extension with McDaniels",
-          "source": "ESPN",
-          "url": "https://www.espn.com/nba/story/_/id/50223341/timberwolves-agree-1-year-40m-extension-mcdaniels"
+          "title": "남현종 KBS 아나운서, 11월 결혼한다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261020_0003833613"
         },
         {
-          "title": "Reports: Wolves, McDaniels agree to 1-year, $40 million extension",
-          "source": "NBA.com",
-          "url": "https://www.nba.com/news/reports-wolves-mcdaniels-agree-to-1-year-40-million-extension"
+          "title": "'11월 결혼' 남현종 \"웃는 모습 예쁜 사람…이영표, 아내 마음 챙기라고 조언",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6326244"
         },
         {
-          "title": "Wolves secure key piece of their core with Jaden McDaniels’ $40 million extension",
-          "source": "Star Tribune",
-          "url": "https://www.startribune.com/minnesota-timberwolves-jaden-mcdaniels-contract-extension-salary-wolves-roster-salary-cap-2026-27/601903071"
+          "title": "남현종 KBS 아나운서, 11월 결혼…\"소개팅 후 직진\"",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261020001111"
+        }
+      ]
+    },
+    {
+      "title": "임시완",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 05:10:00 -0700",
+      "news": [
+        {
+          "title": "임시완·설인아 주연 '나의 유죄인간' 5.6％ 출발",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261020035800005"
+        },
+        {
+          "title": "카카오엔터 로맨스 IP ‘여자인 걸 왜 모르지?’ 드라마로 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/it-science/ict/2026/10/20/UZD2PR7PQJETZKQ3AK4SS7ZQFQ/"
+        },
+        {
+          "title": "‘나의 유죄인간’ 김정현, 능청미 장착한 변호사 완벽 변신",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261020/134875398/1"
+        }
+      ]
+    },
+    {
+      "title": "류현진",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 05:10:00 -0700",
+      "news": [
+        {
+          "title": "류현진 최초! 아내 배지현과 대전서 나눔 플리마켓 연다, 수익금 전액 기부 결단 “많은 분들 방문해주시길” - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/20/202610201339775213O"
+        },
+        {
+          "title": "류현진·배지현 부부, 25일 첫 나눔 플리마켓 개최…수익금 전액 기부",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/baseball/6325907"
+        },
+        {
+          "title": "류현진·배지현 부부, 25일 대전서 첫 나눔 플리마켓",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03755606645614888&mediaCodeNo=257"
+        }
+      ]
+    },
+    {
+      "title": "기획",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 05:00:00 -0700",
+      "news": [
+        {
+          "title": "제주도개발공사 기획총괄 상임이사 인선 착수",
+          "source": "제주의소리",
+          "url": "https://www.jejusori.net/news/articleView.html?idxno=507488"
+        },
+        {
+          "title": "제주개발공사 ‘2인자’ 인선 착수 ... 기획총괄이사 공모",
+          "source": "제이누리",
+          "url": "https://www.jnuri.net/news/article.html?no=70515"
+        }
+      ]
+    },
+    {
+      "title": "엔비디아",
+      "approx_traffic": "500+",
+      "published": "Tue, 20 Oct 2026 05:00:00 -0700",
+      "news": [
+        {
+          "title": "젠슨 황 \"AI 다음 물결은 피지컬 AI…다시는 이런 기회 없다\" [IT썰] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/tech/2026/10/20/2026102008021766513"
+        },
+        {
+          "title": "NVIDIA, GTC 베를린을 향해 유럽에 상륙하다",
+          "source": "NVIDIA",
+          "url": "https://blogs.nvidia.co.kr/blog/gtc-berlin-2026-news/"
+        },
+        {
+          "title": "메르츠 총리와 건배하는 젠슨 황 CEO",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo/NISI20261020_0002268064"
+        }
+      ]
+    },
+    {
+      "title": "후티 예멘",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 05:00:00 -0700",
+      "news": [
+        {
+          "title": "후티, 예멘·사우디 잇따라 공격… 정부군 훈련소서 53명 사망, 리야드 공항 폐쇄",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/international_general/2026/10/20/SHPUFFWYHNAVNIBNFMLDVGIBJI/"
+        },
+        {
+          "title": "후티 반군의 예멘 훈련 캠프 공격 사망자 73명으로 증가 - AP",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/economy-news/article-2133156"
+        },
+        {
+          "title": "후티 미사일에 예멘 58명 사망·200명 부상…사우디 투자회의 연기",
+          "source": "JTBC뉴스",
+          "url": "https://news.jtbc.co.kr/article/NB12323877"
+        }
+      ]
+    },
+    {
+      "title": "cuaca besok",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 05:00:00 -0700",
+      "news": [
+        {
+          "title": "Cuaca Jakarta Hari Ini 20 Oktober: Jaksel Berpotensi Hujan Ringan",
+          "source": "BeritaSatu.com",
+          "url": "https://www.beritasatu.com/dki-jakarta/3035086/cuaca-jakarta-hari-ini-20-oktober-jaksel-berpotensi-hujan-ringan"
+        },
+        {
+          "title": "Awal Pekan Ini Langit Jakarta Didominasi Berawan, Kelembapan Udara 41 hingga 76 Persen",
+          "source": "indoposco.id",
+          "url": "https://indoposco.id/2026/10/19/awal-pekan-ini-langit-jakarta-didominasi-berawan-kelembapan-udara-41-hingga-76-persen/"
+        },
+        {
+          "title": "BMKG Keluarkan Peringatan Hujan di Jabodetabek 19-21 Oktober, Cek Wilayahnya",
+          "source": "Kompas.com",
+          "url": "https://megapolitan.kompas.com/read/2026/10/19/21100551/bmkg-keluarkan-peringatan-hujan-di-jabodetabek-19-21-oktober-cek"
+        }
+      ]
+    },
+    {
+      "title": "weather tomorrow",
+      "approx_traffic": "2000+",
+      "published": "Tue, 20 Oct 2026 04:50:00 -0700",
+      "news": [
+        {
+          "title": "Weather update: IMD warns of heavy rains, strong winds across India, yellow Alert for Delhi",
+          "source": "The Week",
+          "url": "https://www.theweek.in/news/india/2026/10/20/weather-update-imd-warns-of-heavy-rains-strong-winds-across-india-yellow-alert-for-delhi.html"
+        },
+        {
+          "title": "Licensable picture: Rain Lashes Parts of the National Capital",
+          "source": "Reuters Connect",
+          "url": "https://www.reutersconnect.com/item/rain-lashes-parts-of-the-national-capital/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFTTkVXUzIwMjYxMDE1MDUzTA"
+        },
+        {
+          "title": "Mercury drops in Delhi after rainfall, AQI down to ‘satisfactory’ level | Latest News Delhi",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/cities/delhi-news/mercury-drops-in-delhi-after-rainfall-aqi-down-to-satisfactory-level-delhi-weather-today-pollution-air-quality-101792126046113.html"
+        }
+      ]
+    },
+    {
+      "title": "박정우",
+      "approx_traffic": "100+",
+      "published": "Tue, 20 Oct 2026 04:50:00 -0700",
+      "news": [
+        {
+          "title": "[포토] 박재현, 적시타 날리고 학다리 댄스 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/20/2026102019434854773"
+        },
+        {
+          "title": "[사진]슈퍼스타 김도영 준PO3차전 만루포, '위풍당당' - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/10/20/GFRWGZTBGE2TAYTFGUZWGMZVHA/"
         }
       ]
     }
