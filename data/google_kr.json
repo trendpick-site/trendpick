@@ -1,204 +1,220 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-20T23:06:01+00:00",
+  "fetched_at": "2026-10-20T23:35:20+00:00",
   "items": [
     {
-      "title": "오수미",
+      "title": "외환시장",
       "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 15:00:00 -0700",
+      "published": "Tue, 20 Oct 2026 15:30:00 -0700",
       "news": [
         {
-          "title": "강신일♥오수미 집 공개…서장훈 “너무 좋다”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261021/134879210/1"
+          "title": "원/달러 환율 1,325원 연저점 또 경신…원/엔 환율도",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261020131100002"
         },
         {
-          "title": "[다시보기] 동상이몽2_너는 내 운명 459회",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/enter/dongsang2/vod/52006/22000638470"
+          "title": "수출 호조에 원화값 1320원대…연말 1200원대 후반 전망도",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1177722"
         },
         {
-          "title": "47세에 간암 걸린 강신일…수술 2주 만에 촬영장 복귀한 사연",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261020143103664"
+          "title": "[외환-마감] '네고·옵션 셀'에 3거래일 연속 연저점",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440216"
         }
       ]
     },
     {
-      "title": "天氣",
+      "title": "문재인",
       "approx_traffic": "100+",
-      "published": "Tue, 20 Oct 2026 14:50:00 -0700",
+      "published": "Tue, 20 Oct 2026 15:30:00 -0700",
       "news": [
         {
-          "title": "颱風薔琵最快明深夜海警 週五、六最接近台灣",
-          "source": "你的公共電視",
-          "url": "https://news.pts.org.tw/article/832118"
-        },
-        {
-          "title": "薔琵路徑又東修不登陸？氣象署誤差圈排除本島 2地侵襲率仍破6成",
-          "source": "自由時報",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5612507"
-        }
-      ]
-    },
-    {
-      "title": "임영웅",
-      "approx_traffic": "100+",
-      "published": "Tue, 20 Oct 2026 14:50:00 -0700",
-      "news": [
-        {
-          "title": "임영웅, 빌보드 코리아에 무려 13곡 진입…‘사랑은 늘 도망가’ 19위",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261021/134879461/1"
-        },
-        {
-          "title": "임영웅, 빌보드 코리아 ‘글로벌 K-송즈’ 10곡 차트인",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610210731003"
-        },
-        {
-          "title": "임영웅, 290주 연속 아이돌차트 1위... 나머지 순위는?",
-          "source": "금강일보",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1188114"
-        }
-      ]
-    },
-    {
-      "title": "klasemen psg vs fc barcelona",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 14:40:00 -0700",
-      "news": []
-    },
-    {
-      "title": "thứ hạng của psg gặp barcelona",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 14:40:00 -0700",
-      "news": [
-        {
-          "title": "PSG quật ngã Barca trong bữa tiệc bàn thắng",
-          "source": "VnExpress",
-          "url": "https://vnexpress.net/psg-quat-nga-barca-trong-bua-tiec-ban-thang-5134846.html"
-        },
-        {
-          "title": "Tại sao các hãng công nghệ tự làm chip AI?",
-          "source": "VnExpress",
-          "url": "https://vnexpress.net/tai-sao-cac-hang-cong-nghe-tu-lam-chip-ai-5134331.html"
-        },
-        {
-          "title": "Vùng đất có biên giới lồng ghép 3 lớp như búp bê Nga",
-          "source": "VnExpress",
-          "url": "https://vnexpress.net/vung-dat-co-bien-gioi-long-ghep-3-lop-nhu-bup-be-nga-5133733.html"
-        }
-      ]
-    },
-    {
-      "title": "天気",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 14:40:00 -0700",
-      "news": [
-        {
-          "title": "台風30号 本州付近に来週接近恐れ",
-          "source": "Yahoo!ニュース",
-          "url": "https://news.yahoo.co.jp/pickup/6599518"
-        },
-        {
-          "title": "明日21日は北日本で警報級大雨・暴風おそれ 東京など真夏日か 台風30号は沖縄へ(気象予報士 石榑 亜紀子)",
-          "source": "tenki.jp",
-          "url": "https://tenki.jp/forecaster/gureweather/2026/10/20/41026.html"
-        },
-        {
-          "title": "【10月21日 きょうの天気】 日本海側で雷雨や激しい雨のおそれ 太平洋側は過去最も遅い真夏日も 北海道は夜から風が強まり次第に山で雪に",
-          "source": "TBS NEWS DIG",
-          "url": "https://newsdig.tbs.co.jp/articles/-/3026366"
-        }
-      ]
-    },
-    {
-      "title": "thời tiết",
-      "approx_traffic": "2000+",
-      "published": "Tue, 20 Oct 2026 14:40:00 -0700",
-      "news": [
-        {
-          "title": "Dự báo thời tiết 10 ngày tới từ đêm 20.10 đến 30.10 trên cả nước",
-          "source": "Laodong.vn",
-          "url": "https://laodong.vn/moi-truong/du-bao-thoi-tiet-10-ngay-toi-tu-dem-2010-den-3010-tren-ca-nuoc-1785187.ldo"
-        },
-        {
-          "title": "Không khí lạnh ảnh hưởng, miền Bắc và miền Trung giảm nhiệt nhẹ",
-          "source": "Báo Dân trí",
-          "url": "https://dantri.com.vn/thoi-tiet/khong-khi-lanh-anh-huong-mien-bac-va-mien-trung-giam-nhiet-nhe-20261020184002494.htm"
-        },
-        {
-          "title": "Bắc Bộ nắng nóng trước khi đón không khí lạnh, Trung Bộ và Nam Bộ có nơi mưa to",
-          "source": "Cục Khí tượng Thủy văn",
-          "url": "https://vnmha.mae.gov.vn/bac-bo-nang-nong-truoc-khi-don-khong-khi-lanh-trung-bo-va-nam-bo-co-noi-mua-to-18974.htm"
-        }
-      ]
-    },
-    {
-      "title": "후티",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 14:40:00 -0700",
-      "news": [
-        {
-          "title": "후티, 예멘·사우디 잇따라 공격… 정부군 훈련소서 53명 사망, 리야드 공항 폐쇄",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/10/20/SHPUFFWYHNAVNIBNFMLDVGIBJI/"
-        },
-        {
-          "title": "중동 무력 충돌 격화…울산, 투자유치단 파견 연기",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH2026102105361540b"
-        },
-        {
-          "title": "후티 미사일에 예멘 58명 사망·200명 부상…사우디 투자회의 연기",
+          "title": "문재인 전 대통령 ‘뇌물 혐의’ 국민참여재판 내년 1월 진행...증인 18명 채택",
           "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12323877"
+          "url": "https://news.jtbc.co.kr/article/NB12323911"
+        },
+        {
+          "title": "文 '3자 뇌물' 국민참여재판 내년 1월 11일 시작‥증인 18명 소환",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6859388_36918.html"
         }
       ]
     },
     {
-      "title": "สภาพอากาศ",
+      "title": "일기예보",
       "approx_traffic": "500+",
-      "published": "Tue, 20 Oct 2026 14:40:00 -0700",
+      "published": "Tue, 20 Oct 2026 15:20:00 -0700",
       "news": [
         {
-          "title": "สภาพอากาศวันนี้ -26 ต.ค.ภาคกลาง-กทม. ตะวันออก ใต้ ลมกระโชกแรง ระวังฝนตกหนัก",
-          "source": "thansettakij",
-          "url": "https://www.thansettakij.com/general-news/671875"
+          "title": "2026년 10월 21일 날씨 예보: 베트남 북부 지역에 \"이례적인\" 한랭 전선이 영향을 미칠 것으로 예상됩니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/du-bao-thoi-tiet-21-10-2026-mien-bac-don-khong-khi-lanh-la-thuong"
         },
         {
-          "title": "เฝ้าระวังน้ำท่วมขัง น้ำท่วมฉับพลัน น้ำป่าไหลหลาก และน้ำล้นตลิ่ง ช่วงวันที่ 23 – 26 ตุลาคม 2569",
-          "source": "thailandplus",
-          "url": "https://www.thailandplus.tv/archives/1065357"
+          "title": "약한 찬 공기가 곧 유입될 예정이며, 내일 오후 지역에 뇌우가 예상됩니다",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/moi-truong/sap-don-khong-khi-lanh-yeu-du-bao-khu-vuc-kha-nang-mua-dong-chieu-mai-1786442.ldo"
         },
         {
-          "title": "สทนช. เร่งคลี่คลายน้ำท่วมขัง ปรับแผนระบายน้ำเขื่อน เกาะติดฝนหนักภาคใต้",
-          "source": "Matichon Online",
-          "url": "https://www.matichon.co.th/economy/news_5941332"
+          "title": "한랭 전선의 영향으로 탄화에서 후에에 이르는 동북부 지역에 천둥번개가 예상됩니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/anh-huong-khong-khi-lanh-dong-bac-bo-tu-thanh-hoa-den-hue-mua-dong"
         }
       ]
     },
     {
-      "title": "погода",
-      "approx_traffic": "1000+",
-      "published": "Tue, 20 Oct 2026 14:30:00 -0700",
+      "title": "weather",
+      "approx_traffic": "2000+",
+      "published": "Tue, 20 Oct 2026 15:20:00 -0700",
       "news": [
         {
-          "title": "На Израиль надвигается осенний хамсин: какая погода ожидается до конца недели",
-          "source": "Vesty.co.il",
-          "url": "https://www.vesty.co.il/main/article/bybszkr2fl"
+          "title": "Denver weather: More sunshine and mild temperatures Tuesday",
+          "source": "Denver Gazette",
+          "url": "https://www.denvergazette.com/2026/10/20/denver-weather-more-sunshine-and-mild-temperatures-tuesday/"
         },
         {
-          "title": "Осень меняет планы — какой будет погода на этой неделе",
-          "source": "Cursorinfo",
-          "url": "https://cursorinfo.co.il/israel-news/osen-menyaet-plany-kakoj-budet-pogoda-na-etoj-nedele/"
+          "title": "Warmer rest of the week with mountain showers",
+          "source": "KKTV",
+          "url": "https://www.kktv.com/2026/10/19/warmer-rest-week-with-mountain-showers/"
         },
         {
-          "title": "Прогноз погоды в Израиле, 20.10.2026 Newsru.co.il",
-          "source": "NEWSru.co.il",
-          "url": "https://www.newsru.co.il/israel/20oct2026/pogoda.html"
+          "title": "Warm and dry week for most of us with heavy rain possible in parts of the high country by midweek",
+          "source": "KRDO",
+          "url": "https://krdo.com/news/top-stories/2026/10/19/warm-and-dry-week-for-most-of-us-with-heavy-rain-possible-in-parts-of-the-high-country-by-midweek/"
+        }
+      ]
+    },
+    {
+      "title": "псж – барселона турнирная таблица",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 15:20:00 -0700",
+      "news": [
+        {
+          "title": "Сафонов сделал сейв при выходе один на один в конце первого тайма в матче с «Барселоной",
+          "source": "https://www.championat.ru/",
+          "url": "https://www.championat.ru/football/news-6665716-safonov-sdelal-sejv-pri-vyhode-1-na-1-v-konce-pervogo-tajma-v-matche-s-barselonoj.html"
+        },
+        {
+          "title": "Сафонов вошел в стартовый состав «ПСЖ» на игру с «Барселоной»",
+          "source": "Спорт Mail",
+          "url": "https://sportmail.ru/news/football-eurocups/72792948/"
+        },
+        {
+          "title": "\"Барселона\" поразила ворота Сафонова",
+          "source": "Sport.ru",
+          "url": "https://www.sport.ru/football/barselona-porazila-vorota-safonova/article661715/"
+        }
+      ]
+    },
+    {
+      "title": "windy",
+      "approx_traffic": "100+",
+      "published": "Tue, 20 Oct 2026 15:20:00 -0700",
+      "news": [
+        {
+          "title": "Cooler, windy day ahead Wednesday",
+          "source": "WHDH",
+          "url": "https://whdh.com/news/cooler-windy-day-ahead-wednesday/"
+        },
+        {
+          "title": "Video: Sunny, but breezy day ahead",
+          "source": "WCVB",
+          "url": "https://www.wcvb.com/article/video-sunny-but-breezy-day-ahead/74189928"
+        },
+        {
+          "title": "Video: Gusty Tuesday, sunny weekend ahead",
+          "source": "Yahoo",
+          "url": "https://www.yahoo.com/news/videos/video-gusty-tuesday-sunny-weekend-202523744.html"
+        }
+      ]
+    },
+    {
+      "title": "조혜련",
+      "approx_traffic": "2000+",
+      "published": "Tue, 20 Oct 2026 15:10:00 -0700",
+      "news": [
+        {
+          "title": "조혜련, \"SK하이닉스, 20년 전 여걸식스때 300원..수익3배 놓쳐\" ('머니인더트랩')",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/21/GNSDGZRTGNQTCOBTMM4DCNLCGQ/"
+        },
+        {
+          "title": "엄마가 조혜련인데? \"아들 우주, 학자금 대출 받게 해..독립 위해\" 눈길",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112896033"
+        },
+        {
+          "title": "한 달 수입 16만원이었다..조혜련 \"공장에서 일하기도\" 회상 ('물린음악회')",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261020091940116"
+        }
+      ]
+    },
+    {
+      "title": "오늘날씨",
+      "approx_traffic": "1000+",
+      "published": "Tue, 20 Oct 2026 15:10:00 -0700",
+      "news": [
+        {
+          "title": "[날씨] 오전까지 곳곳 비...비 그친 뒤 기온 '뚝'",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0108_202610210726264856"
+        },
+        {
+          "title": "전남광주, 찬공기에 한낮 18도…시속 55㎞ 강풍 '체감 뚝'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261021_0003834210"
+        },
+        {
+          "title": "[날씨] 수요일 낮 쌀쌀하고 바람 강하게 불어…곳곳에 비 소식",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261020149500004"
+        }
+      ]
+    },
+    {
+      "title": "제1도련선",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 15:10:00 -0700",
+      "news": [
+        {
+          "title": "美육군 \"중국과 분쟁 발발 첫날부터 총전력 투입\"… 새 지침 공개",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/us/2026/10/21/PIP3Y7C6NNHFPJV3WCPIEDL2XQ/"
+        },
+        {
+          "title": "미군, 中겨냥 제1도련선에 전력 집중 “전쟁 첫날 즉각 대응”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20261020/134878625/2"
+        },
+        {
+          "title": "美 ‘中 최우선 위협’ 상정 새 전투지침… “대만방어 일관된 입장” 한미일 협력 강조",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11624818"
+        }
+      ]
+    },
+    {
+      "title": "새만금",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 15:10:00 -0700",
+      "news": [
+        {
+          "title": "전북특별자치도 · 새만금개발청, '협업' 현대차 투자 지원 실무협의체 운영",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3724642"
+        },
+        {
+          "title": "전주시, 2026년 전주시 수소산업 심포지엄 개최",
+          "source": "전북엔비전",
+          "url": "https://www.jnv.co.kr/news/articleView.html?idxno=15601"
+        },
+        {
+          "title": "전북테크노파크 에너지산업육성단장 김영권 ‘R&D 혁신을 통한 전주시 수소모빌리티 생태계 구축 방안’",
+          "source": "전북도민일보",
+          "url": "https://www.domin.co.kr/news/articleView.html?idxno=1571571&sc_section_code=S1N8"
         }
       ]
     }
