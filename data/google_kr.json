@@ -1,225 +1,204 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-20T22:37:37+00:00",
+  "fetched_at": "2026-10-20T23:06:01+00:00",
   "items": [
     {
-      "title": "погода",
-      "approx_traffic": "500+",
-      "published": "Tue, 20 Oct 2026 14:30:00 -0700",
+      "title": "오수미",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 15:00:00 -0700",
       "news": [
         {
-          "title": "Россию охватывают заморозки: где похолодает до минус 5 и чего ждать дальше",
-          "source": "Росбалт",
-          "url": "https://www.rosbalt.ru/news/2026-10-20/rossiyu-ohvatyvayut-zamorozki-gde-poholodaet-do-minus-5-i-chego-zhdat-dalshe-5711644"
-        },
-        {
-          "title": "Москва и Санкт-Петербург пережили самую холодную ночь осени",
-          "source": "Погода Mail",
-          "url": "https://pogoda.mail.ru/news/72782599/"
-        },
-        {
-          "title": "Москвичей предупредили об очередных заморозках",
-          "source": "Lenta News",
-          "url": "https://lenta.news/news/2026/10/20/moskvichey-predupredili-ob-ocherednyh-zamorozkah/"
-        }
-      ]
-    },
-    {
-      "title": "박홍근",
-      "approx_traffic": "100+",
-      "published": "Tue, 20 Oct 2026 14:30:00 -0700",
-      "news": [
-        {
-          "title": "박홍근 “생중계 국무회의, 오늘도 열띤 토론”…李 “너무 잘하고 계셔”",
+          "title": "강신일♥오수미 집 공개…서장훈 “너무 좋다”",
           "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20261020/134878320/2"
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261021/134879210/1"
         },
         {
-          "title": "이재명 대통령, '한성숙 총리, 임광현 비서실장과 함께'",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20261020_0021496111"
+          "title": "[다시보기] 동상이몽2_너는 내 운명 459회",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/enter/dongsang2/vod/52006/22000638470"
         },
         {
-          "title": "\"거짓말 이해할 수 없어\"... 대통령, 생중계 논란에 선 긋기 [자막뉴스]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0134_202610190939322641"
+          "title": "47세에 간암 걸린 강신일…수술 2주 만에 촬영장 복귀한 사연",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261020143103664"
         }
       ]
     },
     {
-      "title": "다우 존스 산업평균지수",
+      "title": "天氣",
+      "approx_traffic": "100+",
+      "published": "Tue, 20 Oct 2026 14:50:00 -0700",
+      "news": [
+        {
+          "title": "颱風薔琵最快明深夜海警 週五、六最接近台灣",
+          "source": "你的公共電視",
+          "url": "https://news.pts.org.tw/article/832118"
+        },
+        {
+          "title": "薔琵路徑又東修不登陸？氣象署誤差圈排除本島 2地侵襲率仍破6成",
+          "source": "自由時報",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5612507"
+        }
+      ]
+    },
+    {
+      "title": "임영웅",
+      "approx_traffic": "100+",
+      "published": "Tue, 20 Oct 2026 14:50:00 -0700",
+      "news": [
+        {
+          "title": "임영웅, 빌보드 코리아에 무려 13곡 진입…‘사랑은 늘 도망가’ 19위",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261021/134879461/1"
+        },
+        {
+          "title": "임영웅, 빌보드 코리아 ‘글로벌 K-송즈’ 10곡 차트인",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610210731003"
+        },
+        {
+          "title": "임영웅, 290주 연속 아이돌차트 1위... 나머지 순위는?",
+          "source": "금강일보",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1188114"
+        }
+      ]
+    },
+    {
+      "title": "klasemen psg vs fc barcelona",
       "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 14:40:00 -0700",
+      "news": []
+    },
+    {
+      "title": "thứ hạng của psg gặp barcelona",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 14:40:00 -0700",
+      "news": [
+        {
+          "title": "PSG quật ngã Barca trong bữa tiệc bàn thắng",
+          "source": "VnExpress",
+          "url": "https://vnexpress.net/psg-quat-nga-barca-trong-bua-tiec-ban-thang-5134846.html"
+        },
+        {
+          "title": "Tại sao các hãng công nghệ tự làm chip AI?",
+          "source": "VnExpress",
+          "url": "https://vnexpress.net/tai-sao-cac-hang-cong-nghe-tu-lam-chip-ai-5134331.html"
+        },
+        {
+          "title": "Vùng đất có biên giới lồng ghép 3 lớp như búp bê Nga",
+          "source": "VnExpress",
+          "url": "https://vnexpress.net/vung-dat-co-bien-gioi-long-ghep-3-lop-nhu-bup-be-nga-5133733.html"
+        }
+      ]
+    },
+    {
+      "title": "天気",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 14:40:00 -0700",
+      "news": [
+        {
+          "title": "台風30号 本州付近に来週接近恐れ",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/pickup/6599518"
+        },
+        {
+          "title": "明日21日は北日本で警報級大雨・暴風おそれ 東京など真夏日か 台風30号は沖縄へ(気象予報士 石榑 亜紀子)",
+          "source": "tenki.jp",
+          "url": "https://tenki.jp/forecaster/gureweather/2026/10/20/41026.html"
+        },
+        {
+          "title": "【10月21日 きょうの天気】 日本海側で雷雨や激しい雨のおそれ 太平洋側は過去最も遅い真夏日も 北海道は夜から風が強まり次第に山で雪に",
+          "source": "TBS NEWS DIG",
+          "url": "https://newsdig.tbs.co.jp/articles/-/3026366"
+        }
+      ]
+    },
+    {
+      "title": "thời tiết",
+      "approx_traffic": "2000+",
+      "published": "Tue, 20 Oct 2026 14:40:00 -0700",
+      "news": [
+        {
+          "title": "Dự báo thời tiết 10 ngày tới từ đêm 20.10 đến 30.10 trên cả nước",
+          "source": "Laodong.vn",
+          "url": "https://laodong.vn/moi-truong/du-bao-thoi-tiet-10-ngay-toi-tu-dem-2010-den-3010-tren-ca-nuoc-1785187.ldo"
+        },
+        {
+          "title": "Không khí lạnh ảnh hưởng, miền Bắc và miền Trung giảm nhiệt nhẹ",
+          "source": "Báo Dân trí",
+          "url": "https://dantri.com.vn/thoi-tiet/khong-khi-lanh-anh-huong-mien-bac-va-mien-trung-giam-nhiet-nhe-20261020184002494.htm"
+        },
+        {
+          "title": "Bắc Bộ nắng nóng trước khi đón không khí lạnh, Trung Bộ và Nam Bộ có nơi mưa to",
+          "source": "Cục Khí tượng Thủy văn",
+          "url": "https://vnmha.mae.gov.vn/bac-bo-nang-nong-truoc-khi-don-khong-khi-lanh-trung-bo-va-nam-bo-co-noi-mua-to-18974.htm"
+        }
+      ]
+    },
+    {
+      "title": "후티",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 14:40:00 -0700",
+      "news": [
+        {
+          "title": "후티, 예멘·사우디 잇따라 공격… 정부군 훈련소서 53명 사망, 리야드 공항 폐쇄",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/international_general/2026/10/20/SHPUFFWYHNAVNIBNFMLDVGIBJI/"
+        },
+        {
+          "title": "중동 무력 충돌 격화…울산, 투자유치단 파견 연기",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH2026102105361540b"
+        },
+        {
+          "title": "후티 미사일에 예멘 58명 사망·200명 부상…사우디 투자회의 연기",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12323877"
+        }
+      ]
+    },
+    {
+      "title": "สภาพอากาศ",
+      "approx_traffic": "500+",
+      "published": "Tue, 20 Oct 2026 14:40:00 -0700",
+      "news": [
+        {
+          "title": "สภาพอากาศวันนี้ -26 ต.ค.ภาคกลาง-กทม. ตะวันออก ใต้ ลมกระโชกแรง ระวังฝนตกหนัก",
+          "source": "thansettakij",
+          "url": "https://www.thansettakij.com/general-news/671875"
+        },
+        {
+          "title": "เฝ้าระวังน้ำท่วมขัง น้ำท่วมฉับพลัน น้ำป่าไหลหลาก และน้ำล้นตลิ่ง ช่วงวันที่ 23 – 26 ตุลาคม 2569",
+          "source": "thailandplus",
+          "url": "https://www.thailandplus.tv/archives/1065357"
+        },
+        {
+          "title": "สทนช. เร่งคลี่คลายน้ำท่วมขัง ปรับแผนระบายน้ำเขื่อน เกาะติดฝนหนักภาคใต้",
+          "source": "Matichon Online",
+          "url": "https://www.matichon.co.th/economy/news_5941332"
+        }
+      ]
+    },
+    {
+      "title": "погода",
+      "approx_traffic": "1000+",
       "published": "Tue, 20 Oct 2026 14:30:00 -0700",
       "news": [
         {
-          "title": "뉴욕증시, 실적 호조·유가 하락에 투자심리 개선…다우 1%↑",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261021006700072"
+          "title": "На Израиль надвигается осенний хамсин: какая погода ожидается до конца недели",
+          "source": "Vesty.co.il",
+          "url": "https://www.vesty.co.il/main/article/bybszkr2fl"
         },
         {
-          "title": "증시 반등했지만…'한국 AI 30% 폭락'에 숨죽인 빅테크[뉴욕마감] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/10/21/2026102106475697966"
+          "title": "Осень меняет планы — какой будет погода на этой неделе",
+          "source": "Cursorinfo",
+          "url": "https://cursorinfo.co.il/israel-news/osen-menyaet-plany-kakoj-budet-pogoda-na-etoj-nedele/"
         },
         {
-          "title": "기술주 반등에 나스닥 1%↑···필라델피아 반도체 9거래일 만에 상승 마감",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610200723001"
-        }
-      ]
-    },
-    {
-      "title": "psg vs fc barcelona standings",
-      "approx_traffic": "1000+",
-      "published": "Tue, 20 Oct 2026 14:20:00 -0700",
-      "news": [
-        {
-          "title": "Barcelona, PSG thriller in Champions League proves these are the two best",
-          "source": "ESPN",
-          "url": "https://www.espn.com/soccer/story/_/id/50231578/barcelona-psg-thriller-champions-league-proves-two-best"
-        },
-        {
-          "title": "PSG 4-2 Barcelona: European giants play out classic as Hansi Flick's side handed first defeat of the season",
-          "source": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/13600929/psg-4-2-barcelona-european-giants-turn-out-in-classic-as-hansi-flicks-side-handed-first-defeat-of-the-season"
-        },
-        {
-          "title": "PSG vs. Barcelona: Livestream 2026 Champions League Soccer From Anywhere",
-          "source": "CNET",
-          "url": "https://www.cnet.com/tech/services-and-software/psg-vs-barcelona-livestream-2026-champions-league-soccer-from-anywhere/"
-        }
-      ]
-    },
-    {
-      "title": "아이온큐",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 14:20:00 -0700",
-      "news": [
-        {
-          "title": "아이온큐 주가, 30.78달러 1.60% 하락 마감",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16252112"
-        },
-        {
-          "title": "IonQ Stock Fell 9% as Investors Weighed Up to $1.3 Billion in New Shares. Here’s What It Means for Holders",
-          "source": "TIKR.com",
-          "url": "https://www.tikr.com/ko/blog/ionq-stock-fell-9-as-investors-weighed-up-to-1-3-billion-in-new-shares-heres-what-it-means-for-holders"
-        },
-        {
-          "title": "'반도체 한파'에 양자 컴퓨팅까지 '꽁꽁'...퀀티넘 6.98%·아이온큐 4.25%↓",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Securities/2026/10/20261014065250303e250e8e188_1"
-        }
-      ]
-    },
-    {
-      "title": "vix",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 14:20:00 -0700",
-      "news": [
-        {
-          "title": "Grayscale ETF investors selling their Zcash after a 30% pull",
-          "source": "KuCoin",
-          "url": "https://www.kucoin.com/news/insight/ZEC/6ad7d218c31ba80007324675"
-        },
-        {
-          "title": "VIX, Bonds and Crude Oil: Tuesday’s Critical Market Signals",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/analysis/vix-bonds-and-crude-oil-tuesdays-critical-market-signals-200689912"
-        },
-        {
-          "title": "Buy the Madman!",
-          "source": "MacroBusiness",
-          "url": "https://www.macrobusiness.com.au/2026/10/buy-the-madman/"
-        }
-      ]
-    },
-    {
-      "title": "부산날씨",
-      "approx_traffic": "100+",
-      "published": "Tue, 20 Oct 2026 14:20:00 -0700",
-      "news": [
-        {
-          "title": "[날씨] 경남 내일 새벽까지 비…밤부터 찬 공기 남하",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8690546"
-        },
-        {
-          "title": "부산, 흐리다 차차 맑아져…예상 강수량5㎜ 미만",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261021_0003834162"
-        },
-        {
-          "title": "울산, 흐리고 비… 예상 강수량 최대 50mm",
-          "source": "울산종합일보",
-          "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065571408476220"
-        }
-      ]
-    },
-    {
-      "title": "브롬리 대 레스터 시티",
-      "approx_traffic": "100+",
-      "published": "Tue, 20 Oct 2026 14:20:00 -0700",
-      "news": [
-        {
-          "title": "Bromley 0-4 Leicester City: Foxes make it back-to-back wins",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cqm26yjz8kkpt"
-        },
-        {
-          "title": "Bromley - Leicester 0-4",
-          "source": "Flashscore.com",
-          "url": "https://www.flashscore.com/match/football/bromley-Opdcd08Q/leicester-KrrdAMyI/"
-        },
-        {
-          "title": "Russell Martin revels in four-goal victory as Leicester record back-to-back wins",
-          "source": "Runcorn and Widnes World",
-          "url": "https://www.runcornandwidnesworld.co.uk/sport/national/26655448.russell-martin-revels-four-goal-victory-leicester-record-back-to-back-wins/"
-        }
-      ]
-    },
-    {
-      "title": "天气",
-      "approx_traffic": "500+",
-      "published": "Tue, 20 Oct 2026 14:20:00 -0700",
-      "news": [
-        {
-          "title": "21日是星期三，随着白天开始有冷空气来袭，天气将转凉。 由于风力较大，体感温度将进一步降低。",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/cn/society/12181283"
-        },
-        {
-          "title": "“地下停车场超40℃，苦等5小时”暴雨中被困的新世界百货江南店顾客- 阿视亚经济",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/cn/article/2026101908135655546"
-        },
-        {
-          "title": "道路内涝",
-          "source": "韩联社",
-          "url": "https://cn.yna.co.kr/view/PYH20261018077100881?section=image/photos"
-        }
-      ]
-    },
-    {
-      "title": "건강보험",
-      "approx_traffic": "1000+",
-      "published": "Tue, 20 Oct 2026 14:10:00 -0700",
-      "news": [
-        {
-          "title": "은퇴 후 가장 무서운 불청객 건강보험료",
-          "source": "이투데이",
-          "url": "https://bravo.etoday.co.kr/view/atc_view/20112"
-        },
-        {
-          "title": "건보료 정산 방식 바뀐다…394만 가구 3.3조 추가 납부 전망",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202610201113341668"
-        },
-        {
-          "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261020012700011"
+          "title": "Прогноз погоды в Израиле, 20.10.2026 Newsru.co.il",
+          "source": "NEWSru.co.il",
+          "url": "https://www.newsru.co.il/israel/20oct2026/pogoda.html"
         }
       ]
     }
