@@ -1,7 +1,7 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-20T18:07:53+00:00",
+  "fetched_at": "2026-10-20T18:43:22+00:00",
   "items": [
     {
       "title": "뉴데일리",
@@ -36,14 +36,14 @@
           "url": "https://www.bbc.com/sport/cricket/articles/c962ylv3l334o"
         },
         {
-          "title": "England collapse to 87-run defeat by Pakistan in men’s tri-series cricket ODI – live",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/sport/live/2026/oct/20/pakistan-v-england-mens-tri-series-cricket-odi-live?page=with:block-6ad777db8f08eaf643558473"
+          "title": "England captain Harry Brook laments 'wickets in clumps' in ODI batting collapse as Arafat Minhas stars for Pakistan",
+          "source": "Sky Sports",
+          "url": "https://www.skysports.com/cricket/news/13601367/england-captain-harry-brook-laments-wickets-in-clumps-in-odi-batting-collapse-as-arafat-minhas-stars-for-pakistan"
         },
         {
-          "title": "England slump to defeat against Pakistan in ODI tri-series after faltering chasing 303 in Rawalpindi",
-          "source": "Sky Sports",
-          "url": "https://www.skysports.com/cricket/news/13601229/england-slump-to-defeat-against-pakistan-in-odi-tri-series-after-faltering-chasing-303-in-rawalpindi"
+          "title": "Ball by Ball Commentary & Live Score - PAK vs ENG, 2nd Match",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/pakistan-odi-tri-series-2026-27-1550706/pakistan-vs-england-2nd-match-1550714/ball-by-ball-commentary"
         }
       ]
     },
@@ -85,9 +85,9 @@
           "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008807066"
         },
         {
-          "title": "“이란, 중간선거 앞둔 트럼프에 타격 주려 종전협상 의도적 지연”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8690804"
+          "title": "\"이란, 중간선거 앞둔 트럼프에 타격 주려 종전협상 지연\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261020178400071"
         }
       ]
     },
@@ -96,6 +96,28 @@
       "approx_traffic": "100+",
       "published": "Tue, 20 Oct 2026 08:10:00 -0700",
       "news": []
+    },
+    {
+      "title": "10 월 모의고사 등급 컷",
+      "approx_traffic": "10000+",
+      "published": "Tue, 20 Oct 2026 08:00:00 -0700",
+      "news": [
+        {
+          "title": "충북교육청, 10월 전국연합학력평가에 충북 고등학생 3만 1,474명 응시해 : 네이버 블로그",
+          "source": "Naver Blog",
+          "url": "https://blog.naver.com/PostView.naver?blogId=cbe_news&logNo=224447306459&redirect=Dlog"
+        },
+        {
+          "title": "[포토] 고3 '마지막 모의고사'",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1334646"
+        },
+        {
+          "title": "2027학년도 대학수학능력시험 D-30, 2026학년도 10월 고3 전국연합학력평가 실시 [포토뉴스]",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261020580403"
+        }
+      ]
     },
     {
       "title": "임라라",
@@ -108,14 +130,14 @@
           "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/20/GEZWMMRVGI4TIZJYGRRTGMZWGI/"
         },
         {
+          "title": "‘슈돌’ 강단둥이 남매 첫돌 맞았다… 임라라, 직접 쓴 노래 공개",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3441634"
+        },
+        {
           "title": "임라라, 쌍둥이 첫돌에 결국 눈물…“밤새 직접 노래 가사 써” (슈돌)",
           "source": "스포츠동아",
           "url": "https://sports.donga.com/ent/article/all/20261020/134871764/1"
-        },
-        {
-          "title": "“그냥 돌잔치 아니다” 임라라♥손민수, ‘슈돌’서 초호화 돌잔치 현장 공개…촬영 인력만 45명 투입",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610200936003"
         }
       ]
     },
@@ -155,11 +177,6 @@
           "title": "트럼프 지지율 31%로 더 추락…거센 심판론에 상·하원 판세 요동",
           "source": "한겨레",
           "url": "https://www.hani.co.kr/arti/international/america/1283290.html"
-        },
-        {
-          "title": "중간선거 '빨간불'‥트럼프·공화당 \"네 탓\" 내분",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6859173_37012.html"
         }
       ]
     },
@@ -169,6 +186,11 @@
       "published": "Tue, 20 Oct 2026 07:30:00 -0700",
       "news": [
         {
+          "title": "러 위성, ‘우크라군 정보 제공’ 미 위성에 500m까지 접근···“전례 없는 기동”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610201715001"
+        },
+        {
           "title": "우크라 쓰는 위성에 슬금슬금… 러, 우주서 무언의 위협 압박?",
           "source": "조선일보",
           "url": "https://www.chosun.com/international/international_general/2026/10/20/673USABRFVHCLCLFRLAEOF7RZQ/"
@@ -177,33 +199,6 @@
           "title": "러, '킬러위성' 가동했나…美 레이더위성 수백미터 앞 접근",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20261020137600009"
-        },
-        {
-          "title": "러 위성, ‘우크라군 정보 제공’ 미 위성에 500m까지 접근···“전례 없는 기동”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610201715001"
-        }
-      ]
-    },
-    {
-      "title": "south africa vs australia",
-      "approx_traffic": "100+",
-      "published": "Tue, 20 Oct 2026 07:20:00 -0700",
-      "news": [
-        {
-          "title": "Ball by Ball Commentary & Live Score - SA vs AUS, 2nd Test",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/australia-in-south-africa-2026-27-1525634/south-africa-vs-australia-2nd-test-1525660/ball-by-ball-commentary"
-        },
-        {
-          "title": "Australia limp to 3-1 after South Africa post 425-9 on day three of men’s second Test – as it happened",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/sport/live/2026/oct/20/south-africa-v-australia-second-test-day-three-cricket-st-georges-park-gqeberha-live-updates"
-        },
-        {
-          "title": "South Africa vs Australia: Hosts' batting issues exposed again as Scott Boland takes four",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/cricket/articles/c6rmy4mzl4wyo"
         }
       ]
     }
