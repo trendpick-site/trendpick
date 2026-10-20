@@ -1,6 +1,222 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": null,
-  "items": []
+  "fetched_at": "2026-10-20T07:36:37+00:00",
+  "items": [
+    {
+      "title": "가덕도신공항",
+      "approx_traffic": "500+",
+      "published": "Mon, 19 Oct 2026 23:20:00 -0700",
+      "news": [
+        {
+          "title": "[데스크칼럼] 발표는 빠르고, 공사는 더디다",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/realestate/general/6324804"
+        },
+        {
+          "title": "[2026 국감 브리핑]조경태 “최고 시스템 갖춘 건기연이 가덕도신공항 부지 침하 연구해야”",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20261020.99099005582"
+        },
+        {
+          "title": "BS한양 가덕도신공항 컨소시엄 탈퇴 의사 밝혀, 대우건설에 공문 전달",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=449819"
+        }
+      ]
+    },
+    {
+      "title": "플라잉카",
+      "approx_traffic": "100+",
+      "published": "Mon, 19 Oct 2026 23:20:00 -0700",
+      "news": [
+        {
+          "title": "주차 빌런에 공중 배달까지…테슬라 ‘로드스터’ 패러디 봇물",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8689506"
+        },
+        {
+          "title": "\"우리가 11년 먼저 날았다\"…테슬라가 쏘아올린 플라잉카 경쟁",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/videos/25183"
+        },
+        {
+          "title": "[단독] 테슬라 로드스터가 쏘아올린 플라잉카 열풍 … 현대차 기체 개발전략 재검토",
+          "source": "뉴데일리",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/20/2026102000126.html"
+        }
+      ]
+    },
+    {
+      "title": "삼전 닉스",
+      "approx_traffic": "10000+",
+      "published": "Mon, 19 Oct 2026 23:00:00 -0700",
+      "news": [
+        {
+          "title": "삼전닉스 속절없이 떨어지는데…그래도 \"사라\"는 증권가, 왜?",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026102033697"
+        },
+        {
+          "title": "PC, 메모리 대란 한숨 돌렸다…내년 'AI B2B' 승부수",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261019000211"
+        },
+        {
+          "title": "노무라증권 \"메모리 공급 부족 2028년까지…삼전닉스 '매수'\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261020111800008"
+        }
+      ]
+    },
+    {
+      "title": "보스턴 다이내믹스",
+      "approx_traffic": "200+",
+      "published": "Mon, 19 Oct 2026 23:00:00 -0700",
+      "news": [
+        {
+          "title": "현대차그룹, 미래 투자로 승부…신차로 안방 되찾고 빅테크 인재 영입",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026101998601"
+        },
+        {
+          "title": "현대차, 아틀라스 양산 준비 가속…RX팀 신설로 로봇사업 강화",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/10/2026101919371951262bd56fbc3c_1"
+        }
+      ]
+    },
+    {
+      "title": "지만원",
+      "approx_traffic": "1000+",
+      "published": "Mon, 19 Oct 2026 22:20:00 -0700",
+      "news": [
+        {
+          "title": "\"5·18 또 왜곡\" 혐의 '극우 논객' 지만원 구속영장 신청",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6859271_36918.html"
+        },
+        {
+          "title": "경찰, ‘5·18 광주시민 명예훼손’ 지만원에 구속영장 신청",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610201340001"
+        },
+        {
+          "title": "경찰, ‘5·18 북한군 개입’ 주장 지만원 구속영장 신청",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/area/capital/1283211.html"
+        }
+      ]
+    },
+    {
+      "title": "어린이집",
+      "approx_traffic": "500+",
+      "published": "Mon, 19 Oct 2026 22:10:00 -0700",
+      "news": [
+        {
+          "title": "아이 낳아도 육아에 '한숨'…\"어린이집 1세반 입소대기 8.5개월\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261019143900530"
+        },
+        {
+          "title": "어린이집 입소 대기만 10개월…저출생에도 ‘입소 전쟁’, 왜?",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261020580013"
+        },
+        {
+          "title": "“맛집도 이렇게는 안 기다려요”…어린이집 웨이팅이 무려 8개월",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/society/12180257"
+        }
+      ]
+    },
+    {
+      "title": "슈퍼 태풍",
+      "approx_traffic": "20000+",
+      "published": "Mon, 19 Oct 2026 22:00:00 -0700",
+      "news": [
+        {
+          "title": "'슈퍼태풍 참피' 한·일 사이로? 美 JTWC 예측 경로 보니",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6859272_36918.html"
+        },
+        {
+          "title": "태풍 ‘참피’에 제주 비바람…21일부터 기온 ‘뚝’",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=844801"
+        },
+        {
+          "title": "30호 '참피', 초강력 태풍 발달...타이완으로",
+          "source": "YTN 사이언스",
+          "url": "https://science.ytn.co.kr/program/program_view.php?s_mcd=0082&key=202610191100363149&s_hcd="
+        }
+      ]
+    },
+    {
+      "title": "김연아",
+      "approx_traffic": "2000+",
+      "published": "Mon, 19 Oct 2026 22:00:00 -0700",
+      "news": [
+        {
+          "title": "\"연아 퀸, 건들지마\"...도 넘은 日매체, 외모 평가에 韓팬들 뿔났다 [핫피플]",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112895221"
+        },
+        {
+          "title": "\"누군지 모르겠네\" 日 매체, 김연아 외모 변화 지적질 [소셜in]",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/521811"
+        },
+        {
+          "title": "\"김연아 얼굴 변했잖아! 박력 사라졌네\" 日 매체, 어떻게 이런 말을…'한국 피겨퀸' 향한 수상한 관심 언제 끌까",
+          "source": "www.xportsnews.com",
+          "url": "https://www.xportsnews.com/article/2209171"
+        }
+      ]
+    },
+    {
+      "title": "이혜원",
+      "approx_traffic": "5000+",
+      "published": "Mon, 19 Oct 2026 21:50:00 -0700",
+      "news": [
+        {
+          "title": "안정환·이혜원, 취업 성공한 딸과 골프 즐기는 일상... 피지컬 남다른 가족",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/20/HFSDKNRUG43TCNJZMU2DQOBTGI/"
+        },
+        {
+          "title": "안정환, 한국서 취업한 딸과 함께 골프장 나들이",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261020_0003832799"
+        },
+        {
+          "title": "'안정환♥' 이혜원, '뉴욕대 졸업' 딸과 자매 같네…온가족 골프장 출동",
+          "source": "www.xportsnews.com",
+          "url": "https://www.xportsnews.com/article/2209258"
+        }
+      ]
+    },
+    {
+      "title": "휴머노이드 로봇",
+      "approx_traffic": "2000+",
+      "published": "Mon, 19 Oct 2026 21:20:00 -0700",
+      "news": [
+        {
+          "title": "국감장에서 문워크?…KAIST 휴머노이드에 \"와∼!\"",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1177526"
+        },
+        {
+          "title": "[2026국감]과방위서 문워크 선보인 휴머노이드 로봇",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026102014192486813"
+        },
+        {
+          "title": "문 열리자 \"와!\"…국감장 나타난 180cm '신스틸러'",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806366"
+        }
+      ]
+    }
+  ]
 }
