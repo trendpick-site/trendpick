@@ -1,8 +1,113 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-20T11:12:40+00:00",
+  "fetched_at": "2026-10-20T11:46:13+00:00",
   "items": [
+    {
+      "title": "김구라",
+      "approx_traffic": "1000+",
+      "published": "Tue, 20 Oct 2026 03:30:00 -0700",
+      "news": [
+        {
+          "title": "김구라, 비행기서 승객에 불쾌감 \"배 툭 치면서 어이\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261020_0003833527"
+        },
+        {
+          "title": "김구라, 재혼 아내+6세 딸과 日여행 중 시비 걸렸다 \"배 툭 치고 '어이', 확 올라오더라\"(그리구라)",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-10-20/202610200100125870008183"
+        },
+        {
+          "title": "김구라, ♥12세 연하 아내 앞에서 봉변…\"배 툭 치며 `어이`, 확 올라왔다\"",
+          "source": "마이데일리",
+          "url": "https://mydaily.co.kr/page/view/2026102016064770072"
+        }
+      ]
+    },
+    {
+      "title": "스포츠",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 03:30:00 -0700",
+      "news": [
+        {
+          "title": "제주스포츠과학센터, 전국체전 22개 종목 선수 지원",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261020_0003832816"
+        },
+        {
+          "title": "영진전문대, 전국체전 씨름 선수 컨디셔닝 지원… 현장형 재활교육 강화",
+          "source": "뉴데일리 대구경북",
+          "url": "https://tk.newdaily.co.kr/site/data/html/2026/10/19/2026101900216.html"
+        }
+      ]
+    },
+    {
+      "title": "이석연",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 03:20:00 -0700",
+      "news": [
+        {
+          "title": "'盧사위' 곽상언 후원회장 된 이석연…\"정당 아닌 소신을 후원\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261020122900001"
+        },
+        {
+          "title": "[단독]‘盧사위’ 곽상언 후원회장 맡은 이석연 전 통합위원장 “노무현 정신은 권력에 취하지 않는 것”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11624712"
+        },
+        {
+          "title": "이석연, '盧 사위' 곽상언 후원회장 맡아…\"진영 박수보다 양심 정치인 후원\"",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261020001080"
+        }
+      ]
+    },
+    {
+      "title": "서울 지하철",
+      "approx_traffic": "2000+",
+      "published": "Tue, 20 Oct 2026 03:10:00 -0700",
+      "news": [
+        {
+          "title": "‘한국은 이게 가능해?’…CNN이 주목한 서울 지하철",
+          "source": "JTBC뉴스",
+          "url": "https://news.jtbc.co.kr/article/NB12323868"
+        },
+        {
+          "title": "“냉난방 되고 안전해”…CNN, 서울 지하철 극찬한 이유 [잇슈 키워드]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8689706"
+        },
+        {
+          "title": "\"한국에선 당연한 일인데\" 외국인들 감탄하더니…'초현대적' 극찬한 '이것'",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026101915441712283"
+        }
+      ]
+    },
+    {
+      "title": "헐크",
+      "approx_traffic": "100+",
+      "published": "Tue, 20 Oct 2026 03:10:00 -0700",
+      "news": [
+        {
+          "title": "Ramayana's Kumbhakarna used Mark Ruffalo's Hulk as reference, reveals Faisal Malik: 'He's massive' | Bollywood",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/entertainment/bollywood/ramayana-kumbhakarna-used-mark-ruffalo-hulk-as-reference-reveals-faisal-malik-marvel-mcu-ranbir-kapoor-sai-pallavi-yash-101792481947390.html"
+        },
+        {
+          "title": "Faisal Malik Draws Inspiration from Mark Ruffalo’s Hulk for Kumbhakarna Role in Ramayana",
+          "source": "www.zoomtventertainment.com",
+          "url": "https://www.zoomtventertainment.com/bollywood/faisal-malik-kumbhakarna-ramayana-hulk-inspiration-article-156372111"
+        },
+        {
+          "title": "'Used Mark Ruffalo's Hulk as referrence': Faisal Malik on playing Kumbhakarna in Ramayana",
+          "source": "Mid-Day",
+          "url": "https://www.mid-day.com/entertainment/bollywood-news/article/ramayana-faisal-malik-used-mark-ruffalo-hulk-as-referrence-for-kumbhakarna--23656059"
+        }
+      ]
+    },
     {
       "title": "육상 경기",
       "approx_traffic": "1000+",
@@ -26,14 +131,8 @@
       ]
     },
     {
-      "title": "서울 sk 대 안양 정관장",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 03:00:00 -0700",
-      "news": []
-    },
-    {
       "title": "기아타이거즈",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Tue, 20 Oct 2026 03:00:00 -0700",
       "news": [
         {
@@ -54,24 +153,46 @@
       ]
     },
     {
-      "title": "kbs",
-      "approx_traffic": "200+",
+      "title": "서울 sk 대 안양 정관장",
+      "approx_traffic": "500+",
       "published": "Tue, 20 Oct 2026 03:00:00 -0700",
       "news": [
         {
-          "title": "KBS Board Selects Lee Tae-hyun as President Candidate",
+          "title": "[현장리포트] 정관장 대형 악재. 1옵션 존 무니 무릎부상 결장. 부상 상태는? 다음 경기 출전 가능할까?",
           "source": "조선일보",
-          "url": "https://www.chosun.com/english/national-en/2026/10/20/2ZCTLRVVE5BIPIEKGV4QA352BU/"
+          "url": "https://www.chosun.com/sports/basketball/2026/10/20/MNQWIN3EMY4TGN3EMZRWIZBQGE/"
         },
         {
-          "title": "On the 19th, President Lee Jae Myung approved the appointment of two directors of the Korea Broadcas..",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/en/politics/12180060"
+          "title": "KBL 한국 프로농구 리그|KCC에 또 닥친 ‘부상 악령’, 허웅 복귀 요원…‘디펜딩 챔피언’의 험난한 시즌 초반 [SS포커스]",
+          "source": "ZUM 뉴스",
+          "url": "https://m.news.zum.com/photo/58117986/108383832?cm=news_photolist&r=4&thumb=1"
         },
         {
-          "title": "KBS Selects Lee Taehyun as New President Candidate; Nominates to President [Official]",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/en/star/2026/10/20/2026102019110221792"
+          "title": "허웅 결장 소식 전한 이상민 KCC 감독 \"골반·내전근 통증, 다음 경기도 아마 쉽지 않을 것\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/18/2026101814583288239"
+        }
+      ]
+    },
+    {
+      "title": "kbs",
+      "approx_traffic": "500+",
+      "published": "Tue, 20 Oct 2026 03:00:00 -0700",
+      "news": [
+        {
+          "title": "KBS 사장 최종 후보자에 PD 출신 이태현 전 콘텐츠웨이브 대표",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6859396_36932.html"
+        },
+        {
+          "title": "KBS 사장 최종 후보자에 이태현씨 선정",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610202018055"
+        },
+        {
+          "title": "이 대통령, 야당 추천 이강덕·장한식 KBS 이사 임명안 재가",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0101_202610192211179273"
         }
       ]
     },
@@ -94,116 +215,6 @@
           "title": "박세영·곽정욱 부부 '슈돌' 합류…14개월 딸 벌써 9.2㎏",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20261020_0003833242"
-        }
-      ]
-    },
-    {
-      "title": "기안84",
-      "approx_traffic": "5000+",
-      "published": "Tue, 20 Oct 2026 02:50:00 -0700",
-      "news": [
-        {
-          "title": "‘러너’ 기안84, 잦은 서울 주말 마라톤에 불평…“길 다 틀어막고”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1283286.html"
-        },
-        {
-          "title": "기안84, 우후죽순 마라톤 대회에 불편 \"길 다 틀어막아\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261020_0003832840"
-        },
-        {
-          "title": "\"길 다 틀어막아\"…기안84, 러닝대회 남발 쓴소리 [소셜in]",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/M/Detail/521831"
-        }
-      ]
-    },
-    {
-      "title": "kia vs lg",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 02:50:00 -0700",
-      "news": [
-        {
-          "title": "[Photo] Grand slam Kim Do-yeong beams in dugout - CHOSUNBIZ",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-photo-spo/2026/10/20/ZASPD2CFK5BHXLKM6AI5CLFSA4/"
-        },
-        {
-          "title": "Kim Do-yeong crushes grand slam, powers KIA toward playoff series win - CHOSUNBIZ",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-sports/2026/10/20/UTPAEXGGTFFQJPKCFKXDRKHD2A/"
-        },
-        {
-          "title": "Game 3 of the semi-playoff (semi-PO, best-of-five) between the 2026 Shinhan SOL KBO postseason KIA T..",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/en/sports/12180963"
-        }
-      ]
-    },
-    {
-      "title": "revolut",
-      "approx_traffic": "100+",
-      "published": "Tue, 20 Oct 2026 02:50:00 -0700",
-      "news": [
-        {
-          "title": "Google outage hits websites and apps as some bank customers report issues",
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/live/c58jd2kjp93xt"
-        },
-        {
-          "title": "Google Cloud services face outage in London, Revolut services down too",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/europe/google-cloud-services-experience-outage-europe-2026-10-20/"
-        },
-        {
-          "title": "Google Cloud Outage Takes Down Revolut and Other Banks in UK",
-          "source": "Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-20/google-cloud-outage-takes-down-revolut-and-other-banks-in-uk"
-        }
-      ]
-    },
-    {
-      "title": "티빙",
-      "approx_traffic": "5000+",
-      "published": "Tue, 20 Oct 2026 02:40:00 -0700",
-      "news": [
-        {
-          "title": "[김재섭의 뒤집어보기] 개인정보보호위원장 \"실효적 보상 아니면 감경 쉽지 않다\", 엉터리 보상안 내놓고 과징금 감경받는 행태 사라질까",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=449747"
-        },
-        {
-          "title": "티빙, 쿠팡플레이 제치고 OTT 2위 탈환 … 이용자 1000만명 육박",
-          "source": "뉴데일리",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/20/2026102000264.html"
-        },
-        {
-          "title": "[2026 국감] 이용자 늘 동안 보안 투자는 제자리…의료정보 유출 책임론",
-          "source": "알티케이뉴스",
-          "url": "https://www.rightknow.co.kr/news/articleView.html?idxno=35156"
-        }
-      ]
-    },
-    {
-      "title": "군수산업",
-      "approx_traffic": "500+",
-      "published": "Tue, 20 Oct 2026 02:40:00 -0700",
-      "news": [
-        {
-          "title": "한화에어로스페이스 \"美에 한국식 ‘전시체제’ 산업 역량 구축 목표\" By The Guru",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2132548"
-        },
-        {
-          "title": "한화 K9 차륜형 자주포, 美 독립연도 딴 제식명 ‘XM1776’ 받아",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20100871"
-        },
-        {
-          "title": "한화에어로, 美 3조 투자·유럽 생산망 확대…K-방산 '현지화 승부'",
-          "source": "더팩트",
-          "url": "https://news.tf.co.kr/read/economy/2378295.htm"
         }
       ]
     }
