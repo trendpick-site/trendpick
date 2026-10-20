@@ -1,8 +1,30 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-20T14:41:29+00:00",
+  "fetched_at": "2026-10-20T15:16:32+00:00",
   "items": [
+    {
+      "title": "김천상무프로축구단",
+      "approx_traffic": "100+",
+      "published": "Tue, 20 Oct 2026 06:40:00 -0700",
+      "news": [
+        {
+          "title": "우승도, 꼴찌도 확정될까…24일 K리그1 운명의 33라운드",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261020076800007"
+        },
+        {
+          "title": "‘김기동 매직’ FC서울, 10년만의 우승 눈앞… ‘이정효 매직’ 수원삼성, 3년만의 승격 유력",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20261020/134870573/2"
+        },
+        {
+          "title": "FC서울, MVP 후보 누굴 밀까",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610200700006"
+        }
+      ]
+    },
     {
       "title": "아나운서",
       "approx_traffic": "200+",
@@ -36,14 +58,14 @@
           "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440020"
         },
         {
-          "title": "호르무즈서 또 유조선 공격...브렌트유 5개월 만에 최고치",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20104045"
+          "title": "“이란, 중간선거 앞둔 트럼프에 타격 주려 종전협상 의도적 지연”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8690804"
         },
         {
-          "title": "미 중간선거 놓고 '이번 기회 못 놓친다' 트럼프 벼르는 이란…호르무즈 해협서 한 주 평균 30척씩 노려",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12323908"
+          "title": "이란 \"'폭탄의 아버지'로 대응...\"해저케이블 공격도 가능\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610201052294026"
         }
       ]
     },
@@ -102,20 +124,42 @@
           "url": "https://www.newsis.com/view/NISX20261020_0003833613"
         },
         {
-          "title": "남현종 KBS 아나운서, 11월 결혼…\"소개팅 후 직진\"",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261020001111"
-        },
-        {
           "title": "'11월 결혼' 남현종 \"웃는 모습 예쁜 사람…이영표, 아내 마음 챙기라고 조언",
           "source": "뉴스1",
           "url": "https://www.news1.kr/entertain/celebrity-topic/6326244"
+        },
+        {
+          "title": "남현종 KBS 아나운서, 11월 결혼…\"소개팅 후 직진\"",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261020001111"
+        }
+      ]
+    },
+    {
+      "title": "한준수",
+      "approx_traffic": "100+",
+      "published": "Tue, 20 Oct 2026 05:20:00 -0700",
+      "news": [
+        {
+          "title": "[사진]한준수, '준PO 3차전 두 자릿수 득점 완성시키는 솔로포' - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/10/20/G42WCZTFHFSGEZTBGYYGEZDGGU/"
+        },
+        {
+          "title": "열광의 KIA 팬들",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261020_0021497566"
+        },
+        {
+          "title": "[AI그래픽] KBO 준PO 3차전, KIA 한준수 7회 솔로 홈런...KIA 10-1 리드",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261020001226"
         }
       ]
     },
     {
       "title": "임시완",
-      "approx_traffic": "500+",
+      "approx_traffic": "200+",
       "published": "Tue, 20 Oct 2026 05:10:00 -0700",
       "news": [
         {
@@ -171,50 +215,6 @@
           "title": "제주개발공사 ‘2인자’ 인선 착수 ... 기획총괄이사 공모",
           "source": "제이누리",
           "url": "https://www.jnuri.net/news/article.html?no=70515"
-        }
-      ]
-    },
-    {
-      "title": "엔비디아",
-      "approx_traffic": "500+",
-      "published": "Tue, 20 Oct 2026 05:00:00 -0700",
-      "news": [
-        {
-          "title": "젠슨 황 \"AI 다음 물결은 피지컬 AI…다시는 이런 기회 없다\" [IT썰] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/tech/2026/10/20/2026102008021766513"
-        },
-        {
-          "title": "NVIDIA, GTC 베를린을 향해 유럽에 상륙하다",
-          "source": "NVIDIA",
-          "url": "https://blogs.nvidia.co.kr/blog/gtc-berlin-2026-news/"
-        },
-        {
-          "title": "독일 정부, 엔비디아와 AI 산업 추진 협력… 메르츠 총리 \"경제 재건 위해 AI 개방 필요\"",
-          "source": "다나와 자동차",
-          "url": "https://mauto.danawa.com/news/index.php?SearchKey=press&SearchWord=%EA%B8%80%EB%A1%9C%EB%B2%8C%EC%98%A4%ED%86%A0%EB%89%B4%EC%8A%A4&Tab=N1&pcUse=n&Work=detail&no=6072242"
-        }
-      ]
-    },
-    {
-      "title": "후티 예멘",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 05:00:00 -0700",
-      "news": [
-        {
-          "title": "후티, 예멘·사우디 잇따라 공격… 정부군 훈련소서 53명 사망, 리야드 공항 폐쇄",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/10/20/SHPUFFWYHNAVNIBNFMLDVGIBJI/"
-        },
-        {
-          "title": "후티가 박살낸 ‘빈살만의 꿈’",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/international/middleeast-africa/2026/10/21/20261021012010"
-        },
-        {
-          "title": "후티 미사일에 예멘 58명 사망·200명 부상…사우디 투자회의 연기",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12323877"
         }
       ]
     }
