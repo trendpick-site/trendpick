@@ -1,220 +1,225 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-20T11:46:13+00:00",
+  "fetched_at": "2026-10-20T12:48:24+00:00",
   "items": [
     {
-      "title": "김구라",
-      "approx_traffic": "1000+",
-      "published": "Tue, 20 Oct 2026 03:30:00 -0700",
-      "news": [
-        {
-          "title": "김구라, 비행기서 승객에 불쾌감 \"배 툭 치면서 어이\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261020_0003833527"
-        },
-        {
-          "title": "김구라, 재혼 아내+6세 딸과 日여행 중 시비 걸렸다 \"배 툭 치고 '어이', 확 올라오더라\"(그리구라)",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/entertainment/2026-10-20/202610200100125870008183"
-        },
-        {
-          "title": "김구라, ♥12세 연하 아내 앞에서 봉변…\"배 툭 치며 `어이`, 확 올라왔다\"",
-          "source": "마이데일리",
-          "url": "https://mydaily.co.kr/page/view/2026102016064770072"
-        }
-      ]
-    },
-    {
-      "title": "스포츠",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 03:30:00 -0700",
-      "news": [
-        {
-          "title": "제주스포츠과학센터, 전국체전 22개 종목 선수 지원",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261020_0003832816"
-        },
-        {
-          "title": "영진전문대, 전국체전 씨름 선수 컨디셔닝 지원… 현장형 재활교육 강화",
-          "source": "뉴데일리 대구경북",
-          "url": "https://tk.newdaily.co.kr/site/data/html/2026/10/19/2026101900216.html"
-        }
-      ]
-    },
-    {
-      "title": "이석연",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 03:20:00 -0700",
-      "news": [
-        {
-          "title": "'盧사위' 곽상언 후원회장 된 이석연…\"정당 아닌 소신을 후원\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261020122900001"
-        },
-        {
-          "title": "[단독]‘盧사위’ 곽상언 후원회장 맡은 이석연 전 통합위원장 “노무현 정신은 권력에 취하지 않는 것”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11624712"
-        },
-        {
-          "title": "이석연, '盧 사위' 곽상언 후원회장 맡아…\"진영 박수보다 양심 정치인 후원\"",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261020001080"
-        }
-      ]
-    },
-    {
-      "title": "서울 지하철",
+      "title": "여론",
       "approx_traffic": "2000+",
-      "published": "Tue, 20 Oct 2026 03:10:00 -0700",
+      "published": "Tue, 20 Oct 2026 04:30:00 -0700",
       "news": [
         {
-          "title": "‘한국은 이게 가능해?’…CNN이 주목한 서울 지하철",
-          "source": "JTBC뉴스",
-          "url": "https://news.jtbc.co.kr/article/NB12323868"
-        },
-        {
-          "title": "“냉난방 되고 안전해”…CNN, 서울 지하철 극찬한 이유 [잇슈 키워드]",
+          "title": "법원, ‘명태균 여론조사 대납’ 오세훈 항소심 선고 생중계 결정",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8689706"
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8690286"
         },
         {
-          "title": "\"한국에선 당연한 일인데\" 외국인들 감탄하더니…'초현대적' 극찬한 '이것'",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026101915441712283"
-        }
-      ]
-    },
-    {
-      "title": "헐크",
-      "approx_traffic": "100+",
-      "published": "Tue, 20 Oct 2026 03:10:00 -0700",
-      "news": [
-        {
-          "title": "Ramayana's Kumbhakarna used Mark Ruffalo's Hulk as reference, reveals Faisal Malik: 'He's massive' | Bollywood",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/entertainment/bollywood/ramayana-kumbhakarna-used-mark-ruffalo-hulk-as-reference-reveals-faisal-malik-marvel-mcu-ranbir-kapoor-sai-pallavi-yash-101792481947390.html"
-        },
-        {
-          "title": "Faisal Malik Draws Inspiration from Mark Ruffalo’s Hulk for Kumbhakarna Role in Ramayana",
-          "source": "www.zoomtventertainment.com",
-          "url": "https://www.zoomtventertainment.com/bollywood/faisal-malik-kumbhakarna-ramayana-hulk-inspiration-article-156372111"
-        },
-        {
-          "title": "'Used Mark Ruffalo's Hulk as referrence': Faisal Malik on playing Kumbhakarna in Ramayana",
-          "source": "Mid-Day",
-          "url": "https://www.mid-day.com/entertainment/bollywood-news/article/ramayana-faisal-malik-used-mark-ruffalo-hulk-as-referrence-for-kumbhakarna--23656059"
-        }
-      ]
-    },
-    {
-      "title": "육상 경기",
-      "approx_traffic": "1000+",
-      "published": "Tue, 20 Oct 2026 03:00:00 -0700",
-      "news": [
-        {
-          "title": "'피범벅 운동화' 이어 '생리통 투혼'…韓 마라톤, 또 울림",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6594086"
-        },
-        {
-          "title": "\"갑자기 생리 터졌어요\"…'미녀 마라토너' 박서연 첫 출전 대회서 7위 투혼",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6325735"
-        },
-        {
-          "title": "마라톤 뛰다 생리 시작…\"피 나는데도 완주하더라\" 응원 쏟아져 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/20/2026102014051584255"
-        }
-      ]
-    },
-    {
-      "title": "기아타이거즈",
-      "approx_traffic": "1000+",
-      "published": "Tue, 20 Oct 2026 03:00:00 -0700",
-      "news": [
-        {
-          "title": "3연승 도전 이범호 KIA 감독 \"카라스코 상대 좌타자 7명 배치\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261020155400007"
-        },
-        {
-          "title": "\"마지막 경기라 생각, 빡빡하게 간다\" 선발 퀵후크 불사, 이의리 정해영 불펜 총동원...이범호 3연승 대구행 강렬의지 성공할까 [준PO3]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/20/GNRTKMBQMQZTSOBWGFSTMN3BHA/"
-        },
-        {
-          "title": "기아, 준플레이오프 2연승‥1회에만 5득점",
+          "title": "[고수다] 오세훈 운명 걸린 23일 선고‥\"최대 위기지만 기회될 수도\"",
           "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6858878_37012.html"
+          "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6859322_36974.html"
+        },
+        {
+          "title": "23일 운명의 선고 앞둔 오세훈… 정치권의 엇갈린 전망",
+          "source": "에너지경제신문",
+          "url": "https://www.ekn.kr/web/view.php?key=20261020025268720"
         }
       ]
     },
     {
-      "title": "서울 sk 대 안양 정관장",
-      "approx_traffic": "500+",
-      "published": "Tue, 20 Oct 2026 03:00:00 -0700",
+      "title": "육영수",
+      "approx_traffic": "1000+",
+      "published": "Tue, 20 Oct 2026 04:10:00 -0700",
       "news": [
         {
-          "title": "[현장리포트] 정관장 대형 악재. 1옵션 존 무니 무릎부상 결장. 부상 상태는? 다음 경기 출전 가능할까?",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/basketball/2026/10/20/MNQWIN3EMY4TGN3EMZRWIZBQGE/"
+          "title": "“육영수 가장 존경” 44.2% 1위…2위 이희호 20.4%-여론조사공정",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11624707"
         },
         {
-          "title": "KBL 한국 프로농구 리그|KCC에 또 닥친 ‘부상 악령’, 허웅 복귀 요원…‘디펜딩 챔피언’의 험난한 시즌 초반 [SS포커스]",
-          "source": "ZUM 뉴스",
-          "url": "https://m.news.zum.com/photo/58117986/108383832?cm=news_photolist&r=4&thumb=1"
+          "title": "김민석 당대표 \"긍정\" 28.0% vs \"부정\" 66.3% [펜앤여론조사]",
+          "source": "펜앤마이크",
+          "url": "https://www.pennmike.com/news/articleView.html?idxno=129858"
         },
         {
-          "title": "허웅 결장 소식 전한 이상민 KCC 감독 \"골반·내전근 통증, 다음 경기도 아마 쉽지 않을 것\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/18/2026101814583288239"
+          "title": "`가장 존경하는 영부인` 2위 이희호, 3위 권양숙, 4위 김정숙…1위는?",
+          "source": "매일신문",
+          "url": "https://www.imaeil.com/page/view/2026102009103277589"
         }
       ]
     },
     {
-      "title": "kbs",
+      "title": "강헌",
       "approx_traffic": "500+",
-      "published": "Tue, 20 Oct 2026 03:00:00 -0700",
+      "published": "Tue, 20 Oct 2026 04:10:00 -0700",
       "news": [
         {
-          "title": "KBS 사장 최종 후보자에 PD 출신 이태현 전 콘텐츠웨이브 대표",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6859396_36932.html"
-        },
-        {
-          "title": "KBS 사장 최종 후보자에 이태현씨 선정",
+          "title": "대중음악평론가 강헌 별세…향년 64세",
           "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610202018055"
+          "url": "https://www.khan.co.kr/article/202610202053001"
         },
         {
-          "title": "이 대통령, 야당 추천 이강덕·장한식 KBS 이사 임명안 재가",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0101_202610192211179273"
+          "title": "‘대중음악 평론 거목’ 강헌 한국문화예술교육진흥원 이사장 별세… 향년 64세",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261020580637"
+        },
+        {
+          "title": "대중음악 비평의 한 시대 이끈 강헌 문화예술교육진흥원 이사장 별세",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026102020463703183"
         }
       ]
     },
     {
-      "title": "슈퍼맨이 돌아왔다",
-      "approx_traffic": "500+",
-      "published": "Tue, 20 Oct 2026 03:00:00 -0700",
+      "title": "설인아",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 04:00:00 -0700",
       "news": [
         {
-          "title": "박세영, 4년 만에 복귀한 ‘워킹맘’ 일상 공개",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261017509202"
+          "title": "둘이 뭐야? 설인아 \"임시완 처음엔 튕겼다\"…부산행 KTX 탄 사연 ('살롱드립2') - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/20/MY2DOZJRGQZDEYJSGEZTQYJXGI/"
         },
         {
-          "title": "박세영 “곽정욱과 8년 연애…내가 멱살 잡고 결혼했다”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20261020/134875985/2"
+          "title": "'살롱드립' 설인아 \"가슴 붕대 종류별로 구매\"…남장 연기 비화 고백",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6326403"
         },
         {
-          "title": "박세영·곽정욱 부부 '슈돌' 합류…14개월 딸 벌써 9.2㎏",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261020_0003833242"
+          "title": "설인아, 임시완 미모에 진짜 심쿵.. \"너무 잘생기고 예뻐\" 감탄('살롱드립2')",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112895589"
+        }
+      ]
+    },
+    {
+      "title": "fire",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 04:00:00 -0700",
+      "news": [
+        {
+          "title": "'Our babies are coughing': Life at epicentre of Indonesian wildfires choking Singapore and Malaysia with haze",
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/live/c6y93098e795t"
+        },
+        {
+          "title": "Smog in Indonesia disrupted 2,604 domestic flights — Channel NewsAsia",
+          "source": "UA.NEWS",
+          "url": "https://ua.news/en/world/smog-v-indoneziyi-porushiv-2604-vnutrishni-reisi-channel-newsasia"
+        },
+        {
+          "title": "Licensable video: Wildfire Haze Begins Blanketing Aceh - 10/16/2026",
+          "source": "Reuters Connect",
+          "url": "https://www.reutersconnect.com/item/wildfire-haze-begins-blanketing-aceh-10162026/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XTlVSQ1JFWkFXSUxERklSRTI2MTAxOU5QOUhN"
+        }
+      ]
+    },
+    {
+      "title": "서경배",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 04:00:00 -0700",
+      "news": [
+        {
+          "title": "서경배 회장, 친인척 5명에 아모레퍼시픽 주식 45억원어치 증여(종합)",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440170"
+        },
+        {
+          "title": "서경배, 친인척 5명에 아모레 지분 증여…45억원 규모",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261020001114"
+        },
+        {
+          "title": "차녀 이어 친인척 5명까지…서경배 회장, 올해 22만3891주 가족 증여",
+          "source": "아시아투데이",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261020010006641"
+        }
+      ]
+    },
+    {
+      "title": "크보",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 04:00:00 -0700",
+      "news": [
+        {
+          "title": "[Official Announcement] From “Demotion Crisis” to “New KBO History”: Hilliard Leads KT to Championship and Becomes First Foreign Player to Win Monthly MVP Twice",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/en/sports/2026/10/20/2026102014422093504"
+        },
+        {
+          "title": "Hilliard Becomes First Foreign Player to Win Monthly MVP Twice",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/10/20/4WM7PLCJPFEK3JBJMZED5EI43U/"
+        },
+        {
+          "title": "Wiz slugger Hilliard voted KBO's top player for final month of reg. season",
+          "source": "The Korea Times",
+          "url": "https://www.koreatimes.co.kr/sports/20261020/wiz-slugger-hilliard-voted-kbos-top-player-for-final-month-of-reg-season"
+        }
+      ]
+    },
+    {
+      "title": "선수",
+      "approx_traffic": "500+",
+      "published": "Tue, 20 Oct 2026 03:50:00 -0700",
+      "news": [
+        {
+          "title": "경기도 유도, 제주 돌풍 잠재우고 ‘26연패 왕조’ 완성 [전국체전 화제의 팀]",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261019580444"
+        },
+        {
+          "title": "국내무대는 좁다! 박혜정 전국체전 4연패",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8688658"
+        },
+        {
+          "title": "진안군청 역도팀, 전국체전서 은메달 4개·동메달 2개 획득",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/jeonbuk/6325893"
+        }
+      ]
+    },
+    {
+      "title": "박충권",
+      "approx_traffic": "500+",
+      "published": "Tue, 20 Oct 2026 03:50:00 -0700",
+      "news": [
+        {
+          "title": "북한 군사력, 이란보다 10배 강해… 핵 빼고 싸워도 어렵다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/opinion/2026/10/18/7N24WTOEDNAQZKHTVB35FCFKHY/"
+        },
+        {
+          "title": "[조경일의 시사직격] 야당의 국군에 대한 박한 평가가 아쉽다",
+          "source": "뉴스프리존",
+          "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=714774"
+        },
+        {
+          "title": "\"북한은 핵무기 없이 싸워도 남한 이긴다\"",
+          "source": "위키트리",
+          "url": "https://www.wikitree.co.kr/articles/1167335"
+        }
+      ]
+    },
+    {
+      "title": "m",
+      "approx_traffic": "100+",
+      "published": "Tue, 20 Oct 2026 03:50:00 -0700",
+      "news": [
+        {
+          "title": "Timberwolves agree to 1-year, $40M extension with McDaniels",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/story/_/id/50223341/timberwolves-agree-1-year-40m-extension-mcdaniels"
+        },
+        {
+          "title": "Reports: Wolves, McDaniels agree to 1-year, $40 million extension",
+          "source": "NBA.com",
+          "url": "https://www.nba.com/news/reports-wolves-mcdaniels-agree-to-1-year-40-million-extension"
+        },
+        {
+          "title": "Wolves secure key piece of their core with Jaden McDaniels’ $40 million extension",
+          "source": "Star Tribune",
+          "url": "https://www.startribune.com/minnesota-timberwolves-jaden-mcdaniels-contract-extension-salary-wolves-roster-salary-cap-2026-27/601903071"
         }
       ]
     }
