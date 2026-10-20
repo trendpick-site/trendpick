@@ -1,204 +1,209 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-20T10:41:29+00:00",
+  "fetched_at": "2026-10-20T11:12:40+00:00",
   "items": [
     {
-      "title": "동전주",
-      "approx_traffic": "500+",
-      "published": "Tue, 20 Oct 2026 02:30:00 -0700",
+      "title": "육상 경기",
+      "approx_traffic": "1000+",
+      "published": "Tue, 20 Oct 2026 03:00:00 -0700",
       "news": [
         {
-          "title": "3S, 주식 5대 1 병합 추진…동전주 규제 대응 '포석'",
-          "source": "블로터",
-          "url": "https://www.bloter.net/news/articleView.html?idxno=676036"
+          "title": "'피범벅 운동화' 이어 '생리통 투혼'…韓 마라톤, 또 울림",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6594086"
         },
         {
-          "title": "SK하닉 단일종목 레버리지, 5000원 아래로…이러다 ‘동전주’ 될라",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610201832001"
+          "title": "\"갑자기 생리 터졌어요\"…'미녀 마라토너' 박서연 첫 출전 대회서 7위 투혼",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6325735"
         },
         {
-          "title": "미국 주식 쓸어 담았는데 또 이 업종을…서학개미 잔고 16조 증발 - 머니투데이",
+          "title": "마라톤 뛰다 생리 시작…\"피 나는데도 완주하더라\" 응원 쏟아져 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/10/19/2026101915324974444"
+          "url": "https://www.mt.co.kr/sports/2026/10/20/2026102014051584255"
         }
       ]
     },
     {
-      "title": "대한전선",
-      "approx_traffic": "100+",
-      "published": "Tue, 20 Oct 2026 02:30:00 -0700",
-      "news": [
-        {
-          "title": "대한전선, 美법인 '턴키 반복수주'…해외 사업 핵심 축 부상",
-          "source": "FETV",
-          "url": "https://www.fetv.co.kr/news/articleView.html?idxno=312024"
-        },
-        {
-          "title": "대한전선, 英 전력망 투자 확대 속 현지 사업 보폭 넓혀",
-          "source": "매일일보",
-          "url": "https://www.m-i.kr/news/articleView.html?idxno=2006565"
-        },
-        {
-          "title": "국회 외교통일위원회, 대한전선 '영국 LPT2 프로젝트' 현장 방문",
-          "source": "에너지데일리",
-          "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=204070"
-        }
-      ]
-    },
-    {
-      "title": "탄핵",
-      "approx_traffic": "2000+",
-      "published": "Tue, 20 Oct 2026 02:20:00 -0700",
-      "news": [
-        {
-          "title": "혁신당, 조희대 탄핵추진 공동TF 제안‥\"김건희 석방 전 탄핵해야\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6859336_36911.html"
-        },
-        {
-          "title": "[포토뉴스] 대법원장 탄핵 공동행동 제안",
-          "source": "부산일보",
-          "url": "https://www.busan.com/view/busan/view.php?code=2026102018161506598"
-        },
-        {
-          "title": "법사위 손솔 \"조희대, '대통령 야망' 아니고선 이해 안 돼...한덕수·반기문 보는 듯\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0101_202610200735101470"
-        }
-      ]
-    },
-    {
-      "title": "메가",
+      "title": "서울 sk 대 안양 정관장",
       "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 02:20:00 -0700",
-      "news": [
-        {
-          "title": "[사설] ‘노동 규제 완화 특구’ 만들 여당의 초광역특구법, 숙의로 바로 잡아야",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610201855001"
-        },
-        {
-          "title": "경제계 “초광역특구법안 환영…노동특례는 경쟁력 제고에 필수”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8690363"
-        },
-        {
-          "title": "'주 52시간 예외' 결정 못한 與…\"시점 못박지 않고 숙의\"",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610201824155652"
-        }
-      ]
-    },
-    {
-      "title": "카를로스 벨라",
-      "approx_traffic": "1000+",
-      "published": "Tue, 20 Oct 2026 02:10:00 -0700",
-      "news": [
-        {
-          "title": "[동포의 창] 한인청소년합창단, 손흥민 출전 경기서 美 국가 제창·K팝 공연",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261020034800371"
-        },
-        {
-          "title": "’손흥민 골대 불운’ LAFC, 뉴욕 시티와 1 대 1 무승부",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261019054740INd"
-        },
-        {
-          "title": "손흥민이 벌써 구단 전설과 어깨 나란히?…34골 넣었던 MVP 기록까지 따라잡았다, 西언론도 주목",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610201847280729"
-        }
-      ]
-    },
-    {
-      "title": "등급컷",
-      "approx_traffic": "1000+",
-      "published": "Tue, 20 Oct 2026 02:10:00 -0700",
-      "news": [
-        {
-          "title": "충북교육청, 10월 전국연합학력평가에 충북 고등학생 3만 1,474명 응시해 : 네이버 블로그",
-          "source": "Naver Blog",
-          "url": "https://blog.naver.com/PostView.naver?blogId=cbe_news&logNo=224447306459&redirect=Dlog"
-        },
-        {
-          "title": "2027학년도 대학수학능력시험 D-30, 2026학년도 10월 고3 전국연합학력평가 실시 [포토뉴스]",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261020580403"
-        }
-      ]
-    },
-    {
-      "title": "딜라이브",
-      "approx_traffic": "100+",
-      "published": "Tue, 20 Oct 2026 02:10:00 -0700",
+      "published": "Tue, 20 Oct 2026 03:00:00 -0700",
       "news": []
     },
     {
-      "title": "ive looks can kill",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 02:00:00 -0700",
+      "title": "기아타이거즈",
+      "approx_traffic": "500+",
+      "published": "Tue, 20 Oct 2026 03:00:00 -0700",
       "news": [
         {
-          "title": "IVE premieres new album Lux Can Kill at Spotify DIVE Academy in Seoul - CHOSUNBIZ",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-entertainment/2026/10/20/EOUYZ3GNZVAARIW7JIMDWDIGYM/"
-        },
-        {
-          "title": "IVE’s ‘Girl Hero’ Strikes a Chord... ‘Looks Can Kill’ MV Tops YouTube’s Trending Worldwide Chart",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/en/musics/12180327"
-        },
-        {
-          "title": "Ive to release new song 'Looks Can Kill'",
-          "source": "Yonhap News Agency",
-          "url": "https://en.yna.co.kr/view/AEN20261019001900315"
-        }
-      ]
-    },
-    {
-      "title": "엘리나 스비톨리나",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 02:00:00 -0700",
-      "news": [
-        {
-          "title": "'테니스계 잉꼬부부' 스비톨리나-몽피스 '전쟁의 상처'에 결별",
+          "title": "3연승 도전 이범호 KIA 감독 \"카라스코 상대 좌타자 7명 배치\"",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261020069800007"
+          "url": "https://www.yna.co.kr/view/AKR20261020155400007"
         },
         {
-          "title": "“우크라 전쟁으로 상처”… ‘테니스 커플’ 스비톨리나, 몽피스와 이혼",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11624787"
+          "title": "\"마지막 경기라 생각, 빡빡하게 간다\" 선발 퀵후크 불사, 이의리 정해영 불펜 총동원...이범호 3연승 대구행 강렬의지 성공할까 [준PO3]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/20/GNRTKMBQMQZTSOBWGFSTMN3BHA/"
         },
         {
-          "title": "'테니스는 더 이상 중요하지 않아!' 이혼 충격에 현역 고별전도 취소했던 스타 커플 전말 밝혀졌다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/20/2026102005473949451"
+          "title": "기아, 준플레이오프 2연승‥1회에만 5득점",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6858878_37012.html"
         }
       ]
     },
     {
-      "title": "금양",
-      "approx_traffic": "100+",
-      "published": "Tue, 20 Oct 2026 02:00:00 -0700",
+      "title": "kbs",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 03:00:00 -0700",
       "news": [
         {
-          "title": "금양 부활할까…AI 데이터센터 진출 임시주총서 가결",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261020.22001005374"
+          "title": "KBS Board Selects Lee Tae-hyun as President Candidate",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/national-en/2026/10/20/2ZCTLRVVE5BIPIEKGV4QA352BU/"
         },
         {
-          "title": "금양 물적분할, 노르웨이 국부펀드 '반대'…주주수익·투명성 원칙 제시",
-          "source": "KPI뉴스",
-          "url": "https://kpinews.kr/newsView/1065541083271784"
+          "title": "On the 19th, President Lee Jae Myung approved the appointment of two directors of the Korea Broadcas..",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/en/politics/12180060"
         },
         {
-          "title": "'상폐 기로' 금양, 데이터센터 진출 위한 물적분할 안건 가결",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6593849"
+          "title": "KBS Selects Lee Taehyun as New President Candidate; Nominates to President [Official]",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/en/star/2026/10/20/2026102019110221792"
+        }
+      ]
+    },
+    {
+      "title": "슈퍼맨이 돌아왔다",
+      "approx_traffic": "500+",
+      "published": "Tue, 20 Oct 2026 03:00:00 -0700",
+      "news": [
+        {
+          "title": "박세영, 4년 만에 복귀한 ‘워킹맘’ 일상 공개",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261017509202"
+        },
+        {
+          "title": "박세영 “곽정욱과 8년 연애…내가 멱살 잡고 결혼했다”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20261020/134875985/2"
+        },
+        {
+          "title": "박세영·곽정욱 부부 '슈돌' 합류…14개월 딸 벌써 9.2㎏",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261020_0003833242"
+        }
+      ]
+    },
+    {
+      "title": "기안84",
+      "approx_traffic": "5000+",
+      "published": "Tue, 20 Oct 2026 02:50:00 -0700",
+      "news": [
+        {
+          "title": "‘러너’ 기안84, 잦은 서울 주말 마라톤에 불평…“길 다 틀어막고”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1283286.html"
+        },
+        {
+          "title": "기안84, 우후죽순 마라톤 대회에 불편 \"길 다 틀어막아\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261020_0003832840"
+        },
+        {
+          "title": "\"길 다 틀어막아\"…기안84, 러닝대회 남발 쓴소리 [소셜in]",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/M/Detail/521831"
+        }
+      ]
+    },
+    {
+      "title": "kia vs lg",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 02:50:00 -0700",
+      "news": [
+        {
+          "title": "[Photo] Grand slam Kim Do-yeong beams in dugout - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-photo-spo/2026/10/20/ZASPD2CFK5BHXLKM6AI5CLFSA4/"
+        },
+        {
+          "title": "Kim Do-yeong crushes grand slam, powers KIA toward playoff series win - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/10/20/UTPAEXGGTFFQJPKCFKXDRKHD2A/"
+        },
+        {
+          "title": "Game 3 of the semi-playoff (semi-PO, best-of-five) between the 2026 Shinhan SOL KBO postseason KIA T..",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/en/sports/12180963"
+        }
+      ]
+    },
+    {
+      "title": "revolut",
+      "approx_traffic": "100+",
+      "published": "Tue, 20 Oct 2026 02:50:00 -0700",
+      "news": [
+        {
+          "title": "Google outage hits websites and apps as some bank customers report issues",
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/live/c58jd2kjp93xt"
+        },
+        {
+          "title": "Google Cloud services face outage in London, Revolut services down too",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/europe/google-cloud-services-experience-outage-europe-2026-10-20/"
+        },
+        {
+          "title": "Google Cloud Outage Takes Down Revolut and Other Banks in UK",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-20/google-cloud-outage-takes-down-revolut-and-other-banks-in-uk"
+        }
+      ]
+    },
+    {
+      "title": "티빙",
+      "approx_traffic": "5000+",
+      "published": "Tue, 20 Oct 2026 02:40:00 -0700",
+      "news": [
+        {
+          "title": "[김재섭의 뒤집어보기] 개인정보보호위원장 \"실효적 보상 아니면 감경 쉽지 않다\", 엉터리 보상안 내놓고 과징금 감경받는 행태 사라질까",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=449747"
+        },
+        {
+          "title": "티빙, 쿠팡플레이 제치고 OTT 2위 탈환 … 이용자 1000만명 육박",
+          "source": "뉴데일리",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/20/2026102000264.html"
+        },
+        {
+          "title": "[2026 국감] 이용자 늘 동안 보안 투자는 제자리…의료정보 유출 책임론",
+          "source": "알티케이뉴스",
+          "url": "https://www.rightknow.co.kr/news/articleView.html?idxno=35156"
+        }
+      ]
+    },
+    {
+      "title": "군수산업",
+      "approx_traffic": "500+",
+      "published": "Tue, 20 Oct 2026 02:40:00 -0700",
+      "news": [
+        {
+          "title": "한화에어로스페이스 \"美에 한국식 ‘전시체제’ 산업 역량 구축 목표\" By The Guru",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2132548"
+        },
+        {
+          "title": "한화 K9 차륜형 자주포, 美 독립연도 딴 제식명 ‘XM1776’ 받아",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20100871"
+        },
+        {
+          "title": "한화에어로, 美 3조 투자·유럽 생산망 확대…K-방산 '현지화 승부'",
+          "source": "더팩트",
+          "url": "https://news.tf.co.kr/read/economy/2378295.htm"
         }
       ]
     }
