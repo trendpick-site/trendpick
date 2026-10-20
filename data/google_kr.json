@@ -1,11 +1,77 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-20T13:48:30+00:00",
+  "fetched_at": "2026-10-20T14:41:29+00:00",
   "items": [
     {
-      "title": "погода завтра",
+      "title": "아나운서",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 06:30:00 -0700",
+      "news": [
+        {
+          "title": "KBS 아나운서 그만뒀다가 빚 1억…새벽 배송까지 뛰었다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610203818H"
+        },
+        {
+          "title": "“빚 8900만원에 돌반지 처분” 고대 출신 김선근 전 아나, KBS 퇴사 후 새벽 배송 하는 사연",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610201340003"
+        },
+        {
+          "title": "KBS 퇴사 후 카드빚 8900만원…아이 돌반지까지 판 아나운서 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/19/2026101913263453281"
+        }
+      ]
+    },
+    {
+      "title": "선박",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 06:30:00 -0700",
+      "news": [
+        {
+          "title": "\"美-이란, 이번 주 내 합의 돌파구 발표 예상\"",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440020"
+        },
+        {
+          "title": "호르무즈서 또 유조선 공격...브렌트유 5개월 만에 최고치",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20104045"
+        },
+        {
+          "title": "미 중간선거 놓고 '이번 기회 못 놓친다' 트럼프 벼르는 이란…호르무즈 해협서 한 주 평균 30척씩 노려",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12323908"
+        }
+      ]
+    },
+    {
+      "title": "전지현",
       "approx_traffic": "500+",
+      "published": "Tue, 20 Oct 2026 06:20:00 -0700",
+      "news": [
+        {
+          "title": "가장 클래식하고 현대적인, 전지현",
+          "source": "Vogue korea",
+          "url": "https://www.vogue.co.kr/2026/10/20/%EA%B0%80%EC%9E%A5-%ED%81%B4%EB%9E%98%EC%8B%9D%ED%95%98%EA%B3%A0-%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B8-%EC%A0%84%EC%A7%80%ED%98%84/"
+        },
+        {
+          "title": "전지현, 두 아들맘인데..슬립 드레스 입고 '요염' 수트로 '카리스마'",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261016011929721"
+        },
+        {
+          "title": "전지현, 슬립 원피스+레드립 소화한 올타임 레전드…맨살에 수트까지 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/10/16/HE2TAN3GHFSWGNZRHEYGKMBVMY/"
+        }
+      ]
+    },
+    {
+      "title": "погода завтра",
+      "approx_traffic": "1000+",
       "published": "Tue, 20 Oct 2026 05:40:00 -0700",
       "news": [
         {
@@ -36,20 +102,20 @@
           "url": "https://www.newsis.com/view/NISX20261020_0003833613"
         },
         {
-          "title": "'11월 결혼' 남현종 \"웃는 모습 예쁜 사람…이영표, 아내 마음 챙기라고 조언",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6326244"
-        },
-        {
           "title": "남현종 KBS 아나운서, 11월 결혼…\"소개팅 후 직진\"",
           "source": "뉴스핌",
           "url": "https://www.newspim.com/news/view/20261020001111"
+        },
+        {
+          "title": "'11월 결혼' 남현종 \"웃는 모습 예쁜 사람…이영표, 아내 마음 챙기라고 조언",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6326244"
         }
       ]
     },
     {
       "title": "임시완",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Tue, 20 Oct 2026 05:10:00 -0700",
       "news": [
         {
@@ -75,9 +141,9 @@
       "published": "Tue, 20 Oct 2026 05:10:00 -0700",
       "news": [
         {
-          "title": "류현진 최초! 아내 배지현과 대전서 나눔 플리마켓 연다, 수익금 전액 기부 결단 “많은 분들 방문해주시길” - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/20/202610201339775213O"
+          "title": "류현진 최초! 아내 배지현과 대전서 나눔 플리마켓 연다, 수익금 전액 기부 결단 \"많은 분들 방문해주시길\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/20/GBSDGYJZGM4WKZTEGA2DEZRZMM/"
         },
         {
           "title": "류현진·배지현 부부, 25일 첫 나눔 플리마켓 개최…수익금 전액 기부",
@@ -93,7 +159,7 @@
     },
     {
       "title": "기획",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Tue, 20 Oct 2026 05:00:00 -0700",
       "news": [
         {
@@ -124,9 +190,9 @@
           "url": "https://blogs.nvidia.co.kr/blog/gtc-berlin-2026-news/"
         },
         {
-          "title": "메르츠 총리와 건배하는 젠슨 황 CEO",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20261020_0002268064"
+          "title": "독일 정부, 엔비디아와 AI 산업 추진 협력… 메르츠 총리 \"경제 재건 위해 AI 개방 필요\"",
+          "source": "다나와 자동차",
+          "url": "https://mauto.danawa.com/news/index.php?SearchKey=press&SearchWord=%EA%B8%80%EB%A1%9C%EB%B2%8C%EC%98%A4%ED%86%A0%EB%89%B4%EC%8A%A4&Tab=N1&pcUse=n&Work=detail&no=6072242"
         }
       ]
     },
@@ -141,75 +207,14 @@
           "url": "https://www.chosun.com/international/international_general/2026/10/20/SHPUFFWYHNAVNIBNFMLDVGIBJI/"
         },
         {
-          "title": "후티 반군의 예멘 훈련 캠프 공격 사망자 73명으로 증가 - AP",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/economy-news/article-2133156"
+          "title": "후티가 박살낸 ‘빈살만의 꿈’",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/international/middleeast-africa/2026/10/21/20261021012010"
         },
         {
           "title": "후티 미사일에 예멘 58명 사망·200명 부상…사우디 투자회의 연기",
-          "source": "JTBC뉴스",
+          "source": "JTBC",
           "url": "https://news.jtbc.co.kr/article/NB12323877"
-        }
-      ]
-    },
-    {
-      "title": "cuaca besok",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 05:00:00 -0700",
-      "news": [
-        {
-          "title": "Cuaca Jakarta Hari Ini 20 Oktober: Jaksel Berpotensi Hujan Ringan",
-          "source": "BeritaSatu.com",
-          "url": "https://www.beritasatu.com/dki-jakarta/3035086/cuaca-jakarta-hari-ini-20-oktober-jaksel-berpotensi-hujan-ringan"
-        },
-        {
-          "title": "Awal Pekan Ini Langit Jakarta Didominasi Berawan, Kelembapan Udara 41 hingga 76 Persen",
-          "source": "indoposco.id",
-          "url": "https://indoposco.id/2026/10/19/awal-pekan-ini-langit-jakarta-didominasi-berawan-kelembapan-udara-41-hingga-76-persen/"
-        },
-        {
-          "title": "BMKG Keluarkan Peringatan Hujan di Jabodetabek 19-21 Oktober, Cek Wilayahnya",
-          "source": "Kompas.com",
-          "url": "https://megapolitan.kompas.com/read/2026/10/19/21100551/bmkg-keluarkan-peringatan-hujan-di-jabodetabek-19-21-oktober-cek"
-        }
-      ]
-    },
-    {
-      "title": "weather tomorrow",
-      "approx_traffic": "2000+",
-      "published": "Tue, 20 Oct 2026 04:50:00 -0700",
-      "news": [
-        {
-          "title": "Weather update: IMD warns of heavy rains, strong winds across India, yellow Alert for Delhi",
-          "source": "The Week",
-          "url": "https://www.theweek.in/news/india/2026/10/20/weather-update-imd-warns-of-heavy-rains-strong-winds-across-india-yellow-alert-for-delhi.html"
-        },
-        {
-          "title": "Licensable picture: Rain Lashes Parts of the National Capital",
-          "source": "Reuters Connect",
-          "url": "https://www.reutersconnect.com/item/rain-lashes-parts-of-the-national-capital/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFTTkVXUzIwMjYxMDE1MDUzTA"
-        },
-        {
-          "title": "Mercury drops in Delhi after rainfall, AQI down to ‘satisfactory’ level | Latest News Delhi",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/cities/delhi-news/mercury-drops-in-delhi-after-rainfall-aqi-down-to-satisfactory-level-delhi-weather-today-pollution-air-quality-101792126046113.html"
-        }
-      ]
-    },
-    {
-      "title": "박정우",
-      "approx_traffic": "100+",
-      "published": "Tue, 20 Oct 2026 04:50:00 -0700",
-      "news": [
-        {
-          "title": "[포토] 박재현, 적시타 날리고 학다리 댄스 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/20/2026102019434854773"
-        },
-        {
-          "title": "[사진]슈퍼스타 김도영 준PO3차전 만루포, '위풍당당' - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/10/20/GFRWGZTBGE2TAYTFGUZWGMZVHA/"
         }
       ]
     }
