@@ -1,225 +1,225 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-20T21:12:34+00:00",
+  "fetched_at": "2026-10-20T21:46:07+00:00",
   "items": [
     {
-      "title": "더불어민주당",
+      "title": "금",
       "approx_traffic": "1000+",
-      "published": "Tue, 20 Oct 2026 13:00:00 -0700",
+      "published": "Tue, 20 Oct 2026 13:40:00 -0700",
       "news": [
         {
-          "title": "“김민석 데려온게 추미애…與 누구도 秋 징계 못 나서” [황형준의 법정모독]",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20261020/134877442/1"
+          "title": "금값 25% 급락했는데 아직 안 끝났다…“진짜 고점은 2030년 전후” [잘살아보세]",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261019516519"
         },
         {
-          "title": "연이은 '설화'에 '입단속' 나선 與 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/politics/2026/10/21/2026102019521483868"
+          "title": "고금리에 빛바랜 금…반등 분수령은 11월? [경제한방]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8689161"
         },
         {
-          "title": "\"쭉쭉 빨아먹어\" 하루 만에 사과‥민주당 투톱도 '당혹'",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6859422_37004.html"
+          "title": "[투데이’s 금 시세] 달러 강세·국채 금리 상승에 국내 금값 ‘털썩’ By 투데이코리아",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2132421"
         }
       ]
     },
     {
-      "title": "나폴리 대 보되/글림트",
-      "approx_traffic": "500+",
-      "published": "Tue, 20 Oct 2026 12:50:00 -0700",
+      "title": "운세",
+      "approx_traffic": "1000+",
+      "published": "Tue, 20 Oct 2026 13:40:00 -0700",
       "news": [
         {
-          "title": "Roma vs Slovan Bratislava: UEFA Champions League stats & head-to-head",
+          "title": "[오늘의 운세] 2026년 10월 21일 별자리 운세",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0121_202610210000000002"
+        },
+        {
+          "title": "[재미있는 오늘의 운세] 2026년 10월 21일",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261016000135"
+        },
+        {
+          "title": "[오늘의 운세] 10월 21일 수요일 (음력 9월 11일) 띠별 운세",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261016580209"
+        }
+      ]
+    },
+    {
+      "title": "날씨예보",
+      "approx_traffic": "100000+",
+      "published": "Tue, 20 Oct 2026 13:40:00 -0700",
+      "news": [
+        {
+          "title": "오늘∼내일 또 가을비...이젠 '4℃ 가을 추위' 온다",
+          "source": "YTN 사이언스",
+          "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202610201100022280"
+        },
+        {
+          "title": "‘가을 추위’에 농가도 채비…낮부터 기온 뚝",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8690869"
+        },
+        {
+          "title": "[날씨] 수요일 낮 쌀쌀하고 바람 강하게 불어…곳곳에 비 소식",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261020149500004"
+        }
+      ]
+    },
+    {
+      "title": "스페이스x 주가",
+      "approx_traffic": "100+",
+      "published": "Tue, 20 Oct 2026 13:30:00 -0700",
+      "news": [
+        {
+          "title": "스페이스X, 3분기 매출 161% 급증…AI 견인에 흑자 전환까지(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261021005851091"
+        },
+        {
+          "title": "Space Exploration Technologies 주가, 오늘 왜 하락하나?",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2133579"
+        },
+        {
+          "title": "스페이스X, 3분기 실적 공개 앞둬…스타링크 성장과 우주개발 비용 주목",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=844765"
+        }
+      ]
+    },
+    {
+      "title": "ลิเวอร์พูล พบ บิยาร์เรอัล",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 13:20:00 -0700",
+      "news": [
+        {
+          "title": "ลิเวอร์พูล ปะทะ บียาร์เรอัล: การปะทะกันของมิตรภาพยาวนาน 22 ปี",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/th/liverpool-villarreal-cuoc-doi-dau-giua-tinh-ban-22-nam"
+        },
+        {
+          "title": "ปรีวิว-ฟันธง! 'หงส์-เรือ'ปึ๊กพร้อมคว้าชัยแชมเปี้ยนส์ลีก",
+          "source": "แนวหน้า",
+          "url": "https://www.naewna.com/n/sports/123203/"
+        },
+        {
+          "title": "อิราโอล่า ย้ำชัด มูญอซ พร้อมลงเล่นทุกตำแหน่งที่ลิเวอร์พูลต้องการ",
+          "source": "pptvhd36.com",
+          "url": "https://www.pptvhd36.com/sport/news/285523"
+        }
+      ]
+    },
+    {
+      "title": "man city vs aek",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 13:20:00 -0700",
+      "news": [
+        {
+          "title": "Foden stars with hat-trick as Man City thrash AEK Athens",
           "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/ckvg7q2rx7zvt"
+          "url": "https://www.bbc.com/sport/football/live/cxnv014rdnpjt"
         },
         {
-          "title": "Gasperini Previews Slovan Fixture: “Every Match in This Competition Is Difficult”",
-          "source": "Chiesa Di Totti",
-          "url": "https://www.chiesaditotti.com/roma-matchday-coverage/43866/gasperini-previews-slovan-fixture-every-match-in-this-competition-is-difficult"
+          "title": "Man City fans stay away from 5-1 Champions League rout of AEK Athens",
+          "source": "iNFOnews.ca",
+          "url": "https://infonews.ca/news/7958999/man-city-fans-stay-away-from-5-1-champions-league-rout-of-aek-athens/"
         },
         {
-          "title": "The giallorossi squad for Roma-Slovan Bratislava",
-          "source": "AS Roma",
-          "url": "https://www.asroma.com/en/news/76106/the-giallorossi-squad-for-roma-slovan-bratislava"
+          "title": "Floyd Samba handed first Champions League start as Man City name Erling Haaland on bench against AEK Athens",
+          "source": "Dave.Sport",
+          "url": "https://dave.sport/news/floyd-samba-man-city-aek-athens-confirmed-lineups/"
         }
       ]
     },
     {
-      "title": "liverpool vs villarreal",
+      "title": "псж – барселона",
       "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 12:50:00 -0700",
+      "published": "Tue, 20 Oct 2026 13:20:00 -0700",
       "news": [
         {
-          "title": "Liverpool v Villarreal: Team news",
-          "source": "Liverpool FC",
-          "url": "https://www.liverpoolfc.com/news/liverpool-v-villarreal-team-news-champions-league"
+          "title": "«ПСЖ» — «Барселона»: Витинья забил третий мяч парижан на 81-й минуте",
+          "source": "https://www.championat.ru/",
+          "url": "https://www.championat.ru/football/news-6665818-pszh-barselona-vitinya-zabil-tretij-myach-parizhan-na-81-j-minute.html"
         },
         {
-          "title": "Licensable picture: UK: UEFA Champions League Matchday 3 of 8 Liverpool v Villarreal",
-          "source": "Reuters Connect",
-          "url": "https://www.reutersconnect.com/item/uk-uefa-champions-league-matchday-3-of-8-liverpool-v-villarreal/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBLTzRIOUI"
+          "title": "Сафонов вошел в стартовый состав «ПСЖ» на игру с «Барселоной»",
+          "source": "Спорт Mail",
+          "url": "https://sportmail.ru/news/football-eurocups/72792948/"
         },
         {
-          "title": "Van Dijk makes bizarre blunder in Liverpool UCL clash; watch 📹",
-          "source": "OneFootball",
-          "url": "https://onefootball.com/en/news/van-dijk-makes-bizarre-blunder-in-liverpool-ucl-clash-watch-43644277"
+          "title": "«Барселона» дважды прошила Сафонова, но пропустила от «ПСЖ» в два раза больше и проиграла впервые в сезоне",
+          "source": "Евро-Футбол",
+          "url": "https://www.euro-football.ru/article/45/1006389576_barselona_dvajdyi_proshila_safonova_no_propustila_ot_psj_v_dva_raza_bolshe_i_proigrala_vpervyie_v_sezone"
         }
       ]
     },
     {
-      "title": "현대 투싼",
+      "title": "양의지",
+      "approx_traffic": "100+",
+      "published": "Tue, 20 Oct 2026 13:20:00 -0700",
+      "news": [
+        {
+          "title": "'김재환과 똑같다' 사실상 무보상 FA 양의지, 두산 남느냐 떠나느냐",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/21/GA2TSZBWMEYDEZJYGFSTMNJRGU/"
+        },
+        {
+          "title": "'양의지, 2년 42억을 포기한다고?' 선수 옵션 행사할 수밖에 없는 이유…그렇게 줄 구단 없어",
+          "source": "마니아타임즈",
+          "url": "https://www.maniareport.com/view.php?ud=20261018155125610491b55a0d56_19"
+        },
+        {
+          "title": "두산 세대교체는 '절반의 성공'…타선 보강 절실 [송용준의 엑스트라 이닝]",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261015506680"
+        }
+      ]
+    },
+    {
+      "title": "박위",
       "approx_traffic": "2000+",
-      "published": "Tue, 20 Oct 2026 12:40:00 -0700",
+      "published": "Tue, 20 Oct 2026 13:10:00 -0700",
       "news": [
         {
-          "title": "\"가족용 SUV로 손색없어\"…현대차 5세대 투싼, 외신 '호평' 잇따라",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261020_0003832780"
+          "title": "[단독] 박위 침묵 속 영상 또 삭제···추락사고 회고도 내렸다",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610201005003"
         },
         {
-          "title": "현대자동차, 6년 만에 새로운 투싼…연비·출력 더 키웠다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026101998761"
+          "title": "박위, ‘낙상 사고’ 논란 여파 지속…유튜브 영상 20개 내렸다",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12180684"
         },
         {
-          "title": "현대차 신형 투싼, 가격 발표 대기…하이브리드 세제혜택도 변수",
-          "source": "유카포스트",
-          "url": "https://www.yuccapostkorea.com/news/articleView.html?idxno=2847"
+          "title": "'CCTV 저격 논란' 박위, 조용히 유튜브 영상 삭제…잡음 계속 [종합]",
+          "source": "MBC",
+          "url": "https://m.imbc.com/enews/view/521849"
         }
       ]
     },
     {
-      "title": "알나스르 대 네옴 sc",
-      "approx_traffic": "100+",
-      "published": "Tue, 20 Oct 2026 12:40:00 -0700",
-      "news": [
-        {
-          "title": "Full-length Replay: Al-Nassr vs Neom",
-          "source": "FOX Sports",
-          "url": "https://www.foxsports.com/replay/fmc-4xdskmox7bqsj02s"
-        },
-        {
-          "title": "Cristiano Ronaldo suffers setback as Kingsley Coman is reportedly sidelined for Al Nassr vs Neom",
-          "source": "World Soccer Talk",
-          "url": "https://worldsoccertalk.com/news/cristiano-ronaldo-suffers-setback-as-kingsley-coman-is-reportedly-sidelined-for-al-nassr-vs-neom/"
-        },
-        {
-          "title": "Video: Ronaldo misses a bizarre penalty and silences Al-Nassr's fans!",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/en/news/video-ronaldo-misses-a-bizarre-penalty-and-silences-al-nassr-fans/blt30a3aebacaee0a1b"
-        }
-      ]
-    },
-    {
-      "title": "ucl",
-      "approx_traffic": "100+",
-      "published": "Tue, 20 Oct 2026 12:20:00 -0700",
-      "news": [
-        {
-          "title": "Champions League starting and predicted line-ups: Matchday 3 team news, injuries, suspensions",
-          "source": "UEFA.com",
-          "url": "https://www.uefa.com/uefachampionsleague/news/02aa-21dd60778d8f-1ea14fd92256-1000--champions-league-starting-and-predicted-line-ups-matchday-3-/"
-        },
-        {
-          "title": "UCL Fantasy 2026/27: Expert team reveals for Matchday 3",
-          "source": "Fantasy Football Scout",
-          "url": "https://www.fantasyfootballscout.co.uk/2026/10/20/ucl-fantasy-2026-27-expert-team-reveals-for-matchday-3/"
-        },
-        {
-          "title": "Champions League Matchday 3 Rate My Team UCL Fantasy Team",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/champions-league-matchday-3-rate-094249505.html"
-        }
-      ]
-    },
-    {
-      "title": "psg",
+      "title": "psg đấu với barcelona",
       "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 12:10:00 -0700",
+      "published": "Tue, 20 Oct 2026 13:10:00 -0700",
       "news": [
         {
-          "title": "La composition OFFICIELLE du PSG contre le Barça, avec les choix forts de Luis Enrique !",
-          "source": "https://www.433foot.fr/",
-          "url": "https://www.433foot.fr/la-composition-officielle-du-psg-contre-le-barca-avec-les-choix-forts-de-luis-enrique/"
+          "title": "Video bóng đá PSG - Barcelona: Đỉnh cao châu Âu, 6 bàn ngoạn mục (Cúp C1)",
+          "source": "Tin tức 24h",
+          "url": "https://www.24h.com.vn/bong-da/video-bong-da-psg-barcelona-dinh-cao-chau-au-cup-c1-c48a1804361.html"
         },
         {
-          "title": "Les compositions des équipes pour le super match de Ligue des champions sont publiées",
-          "source": "KOHA.net",
-          "url": "https://www.koha.net/fr/futboll/publikohen-formacionet-e-superndeshjes-ne-champions"
+          "title": "Cách để ngăn chặn Lamine Yamal",
+          "source": "Laodong.vn",
+          "url": "https://laodong.vn/bong-da-quoc-te/cach-de-ngan-chan-lamine-yamal-1786422.ldo"
         },
         {
-          "title": "Depuis plus d'une décennie : le Barça va-t-il gâcher le record du PSG ?",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/fr/news/depuis-plus-d-une-decennie-le-barca-va-t-il-gacher-le-record-du-psg/blt44ed74ce41f04c1c"
-        }
-      ]
-    },
-    {
-      "title": "nba",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 12:10:00 -0700",
-      "news": [
-        {
-          "title": "Philadelphia adds LeBron to face champion New York in NBA season opener - CHOSUNBIZ",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-sports/2026/10/20/3PFLJAJ7DJCJ3HTRKTZ2XFPQZ4/"
-        },
-        {
-          "title": "Knicks Ticket Prices Are Soaring After Last Season’s Championship",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/20/business/knicks-tickets.html"
-        },
-        {
-          "title": "76ers’ Kentavious Caldwell-Pope knows all about Ring Nights getting ruined, and he just sent Knicks a warning",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/76ers-kentavious-caldwell-pope-knows-173401991.html"
-        }
-      ]
-    },
-    {
-      "title": "리버풀",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 12:10:00 -0700",
-      "news": [
-        {
-          "title": "\"그가 리버풀에서 성공할 것으로 보지 않는다\"…'이럴 수가' 리버풀 레전드, 2050억 미드필더 향한 혹평",
-          "source": "마이데일리",
-          "url": "https://www.mydaily.co.kr/page/view/2026102017094020484"
-        },
-        {
-          "title": "'먹튀 논란에 드디어 제대로 응답했다!' 비르츠, 무려 9차례 기회 창출+MOM 맹활약...반 다이크도 \"충분히 잘하고 있다\"",
-          "source": "포포투",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99507"
-        },
-        {
-          "title": "1,868억에 사온 비르츠인데… “이제 선발에서 빼라” 주장한 리버풀 레전드 캐러거, “50경기 이상 뛰었는데 달라질 것 같지 않다”",
-          "source": "베스트일레븐",
-          "url": "https://www.besteleven.com/news/articleView.html?idxno=313090"
-        }
-      ]
-    },
-    {
-      "title": "champions league",
-      "approx_traffic": "100+",
-      "published": "Tue, 20 Oct 2026 12:00:00 -0700",
-      "news": [
-        {
-          "title": "Barcelona's comeback destroyed! Vitinha silences Yamal with dramatic Champions League goal",
-          "source": "Dailysports",
-          "url": "https://dailysports.net/news/barcelonas-comeback-destroyed-vitinha-silences-yamal-with-dramatic-champions-league-goal/"
-        },
-        {
-          "title": "Dembélé, Olmo subbed off early in PSG clash with Barcelona",
-          "source": "ESPN",
-          "url": "https://www.espn.com/soccer/story/_/id/50230659/dembele-olmo-subbed-early-psg-barcelona"
-        },
-        {
-          "title": "Khvicha Kvaratskhelia, Marquinhos injury updates: PSG loses more stars vs Barcelona",
-          "source": "USA Today",
-          "url": "https://www.usatoday.com/story/sports/soccer/ucl/2026/10/20/kvaratskhelia-marquinos-injury-update-psg-barcelona-champions-league/92351240007/"
+          "title": "PSG là phép thử thực sự cho tham vọng của Barca",
+          "source": "yeuthethao.net.vn",
+          "url": "https://yeuthethao.net.vn/psg-la-phep-thu-thuc-su-cho-tham-vong-cua-barca-d899306.html"
         }
       ]
     }
