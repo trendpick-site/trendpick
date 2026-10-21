@@ -1,13 +1,150 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-21T10:15:18+00:00",
+  "fetched_at": "2026-10-21T11:12:28+00:00",
   "items": [
     {
+      "title": "sbs",
+      "approx_traffic": "2000+",
+      "published": "Wed, 21 Oct 2026 03:00:00 -0700",
+      "news": [
+        {
+          "title": "SBS names Kathryn Fink chief content officer in executive restructure",
+          "source": "IF Magazine",
+          "url": "https://if.com.au/sbs-names-kathryn-fink-chief-content-officer-in-executive-shake-up/"
+        },
+        {
+          "title": "SBS announces key appointments as part of new executive structure",
+          "source": "Radio Today",
+          "url": "https://radiotoday.com.au/sbs-announces-key-appointments-as-part-of-new-executive-structure/"
+        },
+        {
+          "title": "SBS Promotes Kathryn Fink to Chief Content Officer in Executive Restructure",
+          "source": "Variety Australia",
+          "url": "https://au.variety.com/2026/biz/news/sbs-promotes-kathryn-fink-to-chief-content-officer-41673/"
+        }
+      ]
+    },
+    {
+      "title": "php",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 02:50:00 -0700",
+      "news": [
+        {
+          "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html"
+        },
+        {
+          "title": "PHP warns it plans to release 2 emergency patches imminently",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/"
+        },
+        {
+          "title": "EU cybersecurity agency in warning on PHP vulnerabilities",
+          "source": "RTE.ie",
+          "url": "https://www.rte.ie/news/world/2026/1021/1596231-eu-cybersecurity/"
+        }
+      ]
+    },
+    {
+      "title": "배성재",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 02:50:00 -0700",
+      "news": [
+        {
+          "title": "로마로 신혼여행 간 김다영, ♥배성재 볼에 뽀뽀 세례 “남편 섬기겠다”",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20104166"
+        },
+        {
+          "title": "누리꾼들에 임신 포착된 김다영 \"웃음만 나는 수영복 샷\"…과감한 인증",
+          "source": "텐아시아",
+          "url": "https://www.tenasia.co.kr/article/2026101249734"
+        },
+        {
+          "title": "'배성재♥'김다영, 홍콩서 태교 \"남편 따라 쫄래쫄래\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261012_0003821743"
+        }
+      ]
+    },
+    {
+      "title": "국가유공자",
+      "approx_traffic": "500+",
+      "published": "Wed, 21 Oct 2026 02:40:00 -0700",
+      "news": [
+        {
+          "title": "김상욱 울산시장, 호국보훈가족 한마음 위안행사 참석",
+          "source": "울산종합일보",
+          "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065594189786625"
+        },
+        {
+          "title": "의정부시, 메모리얼파크서 ‘보훈가족 문화의 날’ 개최",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026102110211822834"
+        },
+        {
+          "title": "보훈가족의 손을 맞잡고 감사와 위로 나눈 청주",
+          "source": "충청매일",
+          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1106209"
+        }
+      ]
+    },
+    {
+      "title": "박보경",
+      "approx_traffic": "500+",
+      "published": "Wed, 21 Oct 2026 02:30:00 -0700",
+      "news": [
+        {
+          "title": "박보경 \"저도 두 아이 키우며 복귀…워킹맘 위대함 담고 싶었죠\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261020111700005"
+        },
+        {
+          "title": "\"로또 처음 사봐, 1등 당첨 감정은…\" 이준혁 '로또 1등도 출근합니다'[왓더OTT]",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6594489"
+        },
+        {
+          "title": "박보경 \"8년 공백? 진선규, 연기 아닌 걸로 돈 버는 꼴 못 보겠더라\" [인터뷰]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610203675H"
+        }
+      ]
+    },
+    {
+      "title": "손아섭",
+      "approx_traffic": "1000+",
+      "published": "Wed, 21 Oct 2026 02:30:00 -0700",
+      "news": [
+        {
+          "title": "'16억+@'에 롯데 떠난 손아섭은 지금.. 20억 포기한 박용택은 LG 영구결번",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/21/GJTGIN3BGVQTGOLFMJRGKYLBGY/"
+        },
+        {
+          "title": "고작 30살인데 방출 충격! 제2의 김동주로 불렸던 거포, 11년 프로생활 끝→왜 고개 숙였나 “죄송한 마음 갖고 떠난다”",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112896034"
+        },
+        {
+          "title": "베테랑 손아섭이 어쩌다가…두산에서 6개월 만에 방출 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/20/2026102009455986479"
+        }
+      ]
+    },
+    {
       "title": "죽음",
-      "approx_traffic": "5000+",
+      "approx_traffic": "10000+",
       "published": "Wed, 21 Oct 2026 02:10:00 -0700",
       "news": [
+        {
+          "title": "가족 있는데 '무연고'...장례까지 '258일'",
+          "source": "Tbc.co.kr",
+          "url": "https://www.tbc.co.kr/news/view?pno=20261013154818AE06772&id=212064&c1=code&c2="
+        },
         {
           "title": "[새벽메아리]혼자 맞는 죽음, 무엇이 두려운가?",
           "source": "전북일보 인터넷신문",
@@ -31,9 +168,9 @@
           "url": "https://www.yonhapnewstv.co.kr/news/AKR20261021145639y8j"
         },
         {
-          "title": "HD현대로보틱스, 열손가락 가진 ‘지능형 양팔로봇’ 공개",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20104535"
+          "title": "[기업] HD현대로보틱스, 자체 개발 '지능형 양팔로봇' 첫선",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0102_202610211825213242"
         },
         {
           "title": "대구시, 'FIX 2026 혁신상' 31개 혁신기업 선정… 22일 시상식 개최",
@@ -65,142 +202,10 @@
       ]
     },
     {
-      "title": "추위",
-      "approx_traffic": "1000+",
-      "published": "Wed, 21 Oct 2026 02:10:00 -0700",
-      "news": [
-        {
-          "title": "[날씨] 비구름 뒤 찬바람…한낮 쌀쌀, 내일 한파주의보",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261021131138Hq8"
-        },
-        {
-          "title": "낮부터 찬 바람 유입...내일 곳곳 영하권 ‘반짝 추위’",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/transport-environment/2026/10/21/TAK7T3MHGBHMLK5VURKR75YCHA/"
-        },
-        {
-          "title": "[날씨] 오전까지 곳곳 비...비 그친 뒤 기온 '뚝'",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0108_202610210726264856"
-        }
-      ]
-    },
-    {
       "title": "알렉산더 볼카노프스키",
       "approx_traffic": "100+",
       "published": "Wed, 21 Oct 2026 02:00:00 -0700",
       "news": []
-    },
-    {
-      "title": "저축",
-      "approx_traffic": "2000+",
-      "published": "Wed, 21 Oct 2026 01:40:00 -0700",
-      "news": [
-        {
-          "title": "핀다, 대원저축은행 품고 여수신 기능 탑재…금융위 최종 승인",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261021158900002"
-        },
-        {
-          "title": "핀다, 대원저축은행 인수 승인…대출 중개업체서 저축은행 대주주로",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/stock/stock_general/2026/10/21/GM2TCMZVGE2TMNJVGBRWCMRWGI/"
-        },
-        {
-          "title": "핀다, 대원저축은행 품는다…금융위 대주주 변경 승인",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440416"
-        }
-      ]
-    },
-    {
-      "title": "디에이치",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 01:40:00 -0700",
-      "news": [
-        {
-          "title": "달아나는 현대, 바짝 쫓는 삼성… 도시정비 1ㆍ2위 순위 다툼 ‘주목’",
-          "source": "대한경제",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610191345238390144"
-        },
-        {
-          "title": "목동·성수·광명…12조 '재건축 큰장' 선다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026102039611"
-        },
-        {
-          "title": "10대 건설사 정비수주 40조 돌파… 연말 ‘역대 최대’ 정조준",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261020500833"
-        }
-      ]
-    },
-    {
-      "title": "여자 배구",
-      "approx_traffic": "100+",
-      "published": "Wed, 21 Oct 2026 01:40:00 -0700",
-      "news": [
-        {
-          "title": "전국 여자 배구 선수권 대회의 멋진 경기들.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/man-nhan-nhung-man-tranh-tai-tai-giai-bong-chuyen-nu-vo-dich-quoc-gia"
-        },
-        {
-          "title": "오늘(10월 21일) 2026년 전국 여자 배구 선수권 대회 경기 일정",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/lich-thi-dau/lich-thi-dau-bong-chuyen-nu-vo-dich-quoc-gia-2026-hom-nay-2110-1786619.ldo"
-        },
-        {
-          "title": "VTV 빈디엔롱안이 준결승 진출을 확정했습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/vtv-binh-dien-long-an-gianh-ve-vao-ban-ket"
-        }
-      ]
-    },
-    {
-      "title": "광주 도시철도 2호선",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 01:40:00 -0700",
-      "news": [
-        {
-          "title": "내년 시운전 광주도시철도 2호선",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20261021_0021498188"
-        },
-        {
-          "title": "광주 도시철도 2호선 전동차 첫 공개…최대 153명 탑승",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026102114014833866"
-        },
-        {
-          "title": "[르포] \"앉을 자리 고작 36개뿐인데…\" 광주 2호선 '지옥철' 되나",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261021000799"
-        }
-      ]
-    },
-    {
-      "title": "대상포진 백신",
-      "approx_traffic": "2000+",
-      "published": "Wed, 21 Oct 2026 01:30:00 -0700",
-      "news": [
-        {
-          "title": "[HIT알공] 유바이오로직스, 대상포진 백신 'EuHZV주' 2상 신청",
-          "source": "히트뉴스",
-          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=80091"
-        },
-        {
-          "title": "유바이오로직스, 대상포진 백신 EuHZV 국내 1상 결과 발표",
-          "source": "데이터투자",
-          "url": "https://www.datatooza.com/article/2026102117585124752ef3b901a_80"
-        },
-        {
-          "title": "[속보] 유바이오로직스, 대상포진 백신 국내 임상 1상 결과 발표",
-          "source": "CBC뉴스",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=617884"
-        }
-      ]
     }
   ]
 }
