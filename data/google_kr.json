@@ -1,8 +1,140 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-21T01:41:52+00:00",
+  "fetched_at": "2026-10-21T02:12:40+00:00",
   "items": [
+    {
+      "title": "송중기",
+      "approx_traffic": "2000+",
+      "published": "Tue, 20 Oct 2026 18:00:00 -0700",
+      "news": [
+        {
+          "title": "\"송혜교랑...\" 팬이 한 말 들은 송중기...얼굴 찌푸린 이유 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/21/2026102107130012397"
+        },
+        {
+          "title": "송중기, 해외 팬들 앞에서 전처 송혜교 이름 들은 뒤 반응은…웃음기 사라졌다",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6326587"
+        },
+        {
+          "title": "송중기, '송혜교' 언급에 순간 굳은 표정…영상 확산",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261021_0003834137"
+        }
+      ]
+    },
+    {
+      "title": "해변",
+      "approx_traffic": "100+",
+      "published": "Tue, 20 Oct 2026 18:00:00 -0700",
+      "news": [
+        {
+          "title": "관광공사, 강릉 안목해변서 북트립 행사…노홍철·요조 북콘서트",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1178085"
+        },
+        {
+          "title": "노홍철·요조, 이번엔 바닷가 책방…강릉 안목해변서 만난다",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/industry/hotel-tourism/6326665"
+        },
+        {
+          "title": "제18회 강릉커피축제 손님맞이 준비 완료…'커피향 가득한 강릉으로 오세요'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/RPR20261020001300353"
+        }
+      ]
+    },
+    {
+      "title": "경기도교육청",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 18:00:00 -0700",
+      "news": [
+        {
+          "title": "경기도, ‘재정 비상’ 선언 후 칼끝 산하기관 향하나",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261020580484"
+        },
+        {
+          "title": "민선 9기 경기도 첫 조직개편안 발표… 5개 국 줄어든다",
+          "source": "경인일보",
+          "url": "https://www.kyeongin.com/article/1773002"
+        },
+        {
+          "title": "경기도, 5개 실국 줄이는 조직개편…재정·반도체 조직은 신설",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261020143000061"
+        }
+      ]
+    },
+    {
+      "title": "서울시교육청",
+      "approx_traffic": "100+",
+      "published": "Tue, 20 Oct 2026 18:00:00 -0700",
+      "news": [
+        {
+          "title": "충북교육청, 2027학년도 공‧사립 중등교사 임용시험에 1,297명 지원 : 네이버 블로그",
+          "source": "Naver Blog",
+          "url": "https://blog.naver.com/PostView.naver?blogId=cbe_news&logNo=224448043517&redirect=Dlog"
+        },
+        {
+          "title": "2027학년도 경남 공립 중등교사 임용 평균 경쟁률 7.19대 1",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261021062900052"
+        },
+        {
+          "title": "2027학년도 대구 중등임용 공립 7.72대1…사립 10.49대1",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261021_0003834606"
+        }
+      ]
+    },
+    {
+      "title": "박윤규",
+      "approx_traffic": "1000+",
+      "published": "Tue, 20 Oct 2026 17:50:00 -0700",
+      "news": [
+        {
+          "title": "최혁진 \"정보통신진흥원장, 375일 중 본원서 근무 36일\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261020_0003833376"
+        },
+        {
+          "title": "정보통신산업진흥원 박윤규 원장, 해외출장 절반 '셀프 승인'·본원 근무 36일",
+          "source": "로이슈",
+          "url": "https://www.lawissue.co.kr/view.php?ud=202610210006335209f4ab64559d_12"
+        },
+        {
+          "title": "[2026 국감] 정보통신산업진흥원장, 1년 6개월 재임 중 326일 출장",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1703653/2026-%EA%B5%AD%EA%B0%90-%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EC%82%B0%EC%97%85%EC%A7%84%ED%9D%A5%EC%9B%90%EC%9E%A5-1-2026"
+        }
+      ]
+    },
+    {
+      "title": "독도",
+      "approx_traffic": "500+",
+      "published": "Tue, 20 Oct 2026 17:50:00 -0700",
+      "news": [
+        {
+          "title": "서경덕·한국해비타트, 독도의용수비대 생존 대원 주거 개선",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261021_0003834417"
+        },
+        {
+          "title": "한국해비타트·서경덕 교수, 독도의 날 기념 ‘영웅의 집’ 영상 공개",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3726866"
+        },
+        {
+          "title": "Public Donations Help Provide Safer Housing for Two Veterans Who Protected 'Dokdo'",
+          "source": "TSN KOREA",
+          "url": "https://tsnkoreanews.com/news/article.html?no=28517"
+        }
+      ]
+    },
     {
       "title": "태풍 참피",
       "approx_traffic": "20000+",
@@ -14,9 +146,9 @@
           "url": "https://imnews.imbc.com/news/2026/society/article/6859272_36918.html"
         },
         {
-          "title": "초강력 태풍 '참피' 24일 대만·中 푸젠성 잇따라 상륙 전망",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261021_0003834541"
+          "title": "[속보] 제30호 태풍 ‘참피’ 더 강해지며 제주 온다…하루 만에 경로 바꿔",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261021580062"
         },
         {
           "title": "\"초강력 태풍 참피, 주말 제주 강타?\".. 대만 기상청 예보 주목",
@@ -36,9 +168,9 @@
           "url": "https://www.ytn.co.kr/_cs/_ln_0103_202610210846004839_005.html"
         },
         {
-          "title": "\"의인 가게 돈쭐 내러 왔어요\"…활기 되찾는 상가",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261020231006irP"
+          "title": "‘관계성 범죄’, 또 다시 질타만 하지 않으려면 [플랫]",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610201039001"
         }
       ]
     },
@@ -48,19 +180,19 @@
       "published": "Tue, 20 Oct 2026 17:30:00 -0700",
       "news": [
         {
-          "title": "[카드뉴스] 내 옆집 안녕하신가요? -행동편",
-          "source": "1코노미뉴스",
-          "url": "https://www.1conomynews.co.kr/news/articleView.html?idxno=50792"
+          "title": "정비사업 지연될라···중구 주민 ‘한양의 수도성곽’ 세계유산 등재 반대[서울25]",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610211028001"
         },
         {
-          "title": "중기부, 'EU 포장재 규제' 대응 간담회…수출 中企 애로 수렴",
+          "title": "\"남산 규제 풀렸더니 또 세계유산 규제\"… 중구 주민 3500명 등재 반대",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/national_general/2026/10/21/H5OD66CJ6JH3JEHYVSQFHA2XV4/"
+        },
+        {
+          "title": "재개발 늦어질라…서울 중구민들, 한양 수도성곽 세계유산등재 반대",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261020032200030"
-        },
-        {
-          "title": "EU 포장재 규제(PPWR) 대응, 중소기업 애로 듣는다",
-          "source": "서울Pn",
-          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=452492"
+          "url": "https://www.yna.co.kr/view/AKR20261021015900004?section=economy/all"
         }
       ]
     },
@@ -83,122 +215,6 @@
           "title": "김지원·김유정 앞세웠더니 터졌다…웃음꽃 핀 '이 회사' [엔터X스탁]",
           "source": "한국경제",
           "url": "https://www.hankyung.com/article/202610203588H"
-        }
-      ]
-    },
-    {
-      "title": "박진만",
-      "approx_traffic": "1000+",
-      "published": "Tue, 20 Oct 2026 17:20:00 -0700",
-      "news": [
-        {
-          "title": "2년 전 KS서 만났던 삼성 vs KIA, 가을야구 리턴매치…'너 잘 만났다'[PO]",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261020_0003834097"
-        },
-        {
-          "title": "박진만 삼성 감독 \"김도영은 스타…우리는 대처할 능력 갖췄다\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261020179900007"
-        },
-        {
-          "title": "LG는 셧아웃, 삼성은 이 선수 어떻게 막나, 유일한 약점은 전 동료 하나 뿐...통산 37홀드 잠수함은 이미 방출",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/21/G5RGKZBWMUZDSYRYGE4TIODCHA/"
-        }
-      ]
-    },
-    {
-      "title": "제이비어 브런슨",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 17:10:00 -0700",
-      "news": [
-        {
-          "title": "\"전작권 조기 전환 땐… 李엔 정치적 승리, 한미동맹은 약화 위험\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/politics/diplomacy-defense/2026/10/21/QOOB3LLJP5CGJMIV6XX4R7H4FQ/"
-        },
-        {
-          "title": "한병도 \"브런슨 발언에 국민 공분…발언에 신중 기해달라\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261021039600001"
-        },
-        {
-          "title": "[칼럼]4성 장군의 가벼운 입에 한반도 안보 맡길 수 있나",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6594316"
-        }
-      ]
-    },
-    {
-      "title": "엘리스그룹",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 17:10:00 -0700",
-      "news": [
-        {
-          "title": "'韓엘리스 폭락' 외신 집중조명…\"참담한 데뷔, AI투자 우려 증폭\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261021003200072"
-        },
-        {
-          "title": "[뉴욕증시] \"탄광의 카나리아\" AI 거품론 공포탄은 한국 기업?",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202610210639070810"
-        },
-        {
-          "title": "따상은 커녕 공모가 붕괴...코스닥 대어 '엘리스' 혹독한 신고식",
-          "source": "비즈워치",
-          "url": "https://news.bizwatch.co.kr/article/market/2026/10/20/0017"
-        }
-      ]
-    },
-    {
-      "title": "제너럴 모터스",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 17:00:00 -0700",
-      "news": [
-        {
-          "title": "GM beats on Q3 results, tightens profit outlook, unveils new $20 billion buyback",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/article/gm-beats-on-q3-results-tightens-profit-outlook-unveils-new-20-billion-buyback-134307573.html"
-        },
-        {
-          "title": "GM shares sink as automaker signals rising cost pressures",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/autos-transportation/gms-core-profit-rises-22-strength-pickup-truck-business-2026-10-20/"
-        },
-        {
-          "title": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html"
-        }
-      ]
-    },
-    {
-      "title": "육군사관학교",
-      "approx_traffic": "500+",
-      "published": "Tue, 20 Oct 2026 17:00:00 -0700",
-      "news": []
-    },
-    {
-      "title": "아들",
-      "approx_traffic": "10000+",
-      "published": "Tue, 20 Oct 2026 16:40:00 -0700",
-      "news": [
-        {
-          "title": "\"엄마 걱정할까 봐\"…새벽에 사라진 중3 아들이 남긴 카톡",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261020133453owB"
-        },
-        {
-          "title": "5살 아들의 “아빠 도망가!”···민속촌 귀신 체험이 선물한 평생의 감동",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610191854001"
-        },
-        {
-          "title": "[피플&포커스] “우리 아이 좀 혼내주세요” 민속촌 귀신들의 ‘참교육’",
-          "source": "천지일보",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3441214"
         }
       ]
     }
