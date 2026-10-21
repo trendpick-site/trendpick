@@ -1,27 +1,49 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-21T18:09:08+00:00",
+  "fetched_at": "2026-10-21T18:47:06+00:00",
   "items": [
     {
+      "title": "최형우",
+      "approx_traffic": "500+",
+      "published": "Wed, 21 Oct 2026 10:30:00 -0700",
+      "news": [
+        {
+          "title": "‘타율 .167’ 최악의 시즌 보낸 김영웅, 그래도 가을에는 ‘45홈런’ 김도영보다 무섭다…2003년생 동갑내기 PO 격돌 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/22/202610211817772350O"
+        },
+        {
+          "title": "‘적’ 된 최형우…KIA “경계 1순위”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610212022015"
+        },
+        {
+          "title": "’사자 vs 호랑이’ 빅매치 성사…KS 누가 가나?",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH202610211720123HI"
+        }
+      ]
+    },
+    {
       "title": "โกโม พบ แมนยู",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Wed, 21 Oct 2026 10:00:00 -0700",
       "news": [
         {
-          "title": "โคโม ทีมจากเซเรีย ดี จะพบกับ แมนเชสเตอร์ ยูไนเต็ด ในศึกแชมเปี้ยนส์ลีก",
+          "title": "การทำนายผลการแข่งขันระหว่างโคโมกับแมนเชสเตอร์ยูไนเต็ด: จุดสนใจสำคัญในการแย่งชิงตำแหน่งสูงสุด",
           "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/th/como-tu-serie-d-den-cham-tran-man-united-o-champions-league"
+          "url": "https://www.vietnam.vn/th/nhan-dinh-como-vs-manchester-united-diem-nong-cuoc-dua-top-dau"
         },
         {
-          "title": "LIVE ดูบอลสด ยูฟ่า โคโม่ พบ แมนยู คืนนี้ (21 ต.ค.) 23.45 น. ยูฟ่าแชมเปียนส์ลีก 2026-27",
-          "source": "Thairath",
-          "url": "https://www.thairath.co.th/sport/eurofootball/uefa/2965432"
-        },
-        {
-          "title": "⤮@*@((สตรีมมิ่ง)) แมนยู กับ โกโม ชมการถ่ายทอดสด 21 ตุลาคม 2569",
+          "title": "~^%#@[[บอลวันนี้]] โกโม vs แมนยู ถ่ายทอดสด",
           "source": "北陸地方整備局",
-          "url": "https://www.hrr.mlit.go.jp/chokoku/hatizyuuri/progress/pannellum/pannellum.htm?config=/%5C/%5C/humayrakter.github.io%2Fvideo%2Fsmc%2Fvideo-como-manu-th-03"
+          "url": "https://www.hrr.mlit.go.jp/chokoku/hatizyuuri/progress/pannellum/pannellum.htm?config=/%5C/%5C/humayrakter.github.io%2Fvideo%2Fsmc%2Fvideo-como-manu-th-28"
+        },
+        {
+          "title": "LIVE ถ่ายทอดสด โคโม่ พบ แมนยู ยูฟ่าแชมเปี้ยนส์ลีก วันนี้ 21 ต.ค.69",
+          "source": "posttoday",
+          "url": "https://www.posttoday.com/lifestyle/750765"
         }
       ]
     },
@@ -31,14 +53,14 @@
       "published": "Wed, 21 Oct 2026 09:40:00 -0700",
       "news": [
         {
-          "title": "Champions League live updates: Como host Man United in early match",
-          "source": "ESPN",
-          "url": "https://www.espn.com/soccer/story/_/id/50191263/champions-league-live-updates-manchester-united-bayern-arsenal-real-madrid"
+          "title": "Champions League: Man Utd visit Como, before Arsenal and Villa in action",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cwm2m2v4d5pvt"
         },
         {
-          "title": "Champions League: Man Utd trail Como after third-minute Paz curler",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cwm2m2v4d5pvt?page=2"
+          "title": "Como v Manchester United: Champions League – live",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/oct/21/como-v-manchester-united-champions-league-live"
         },
         {
           "title": "Team news for Como v United",
@@ -49,23 +71,45 @@
     },
     {
       "title": "como vs man utd",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Wed, 21 Oct 2026 09:00:00 -0700",
       "news": [
         {
-          "title": "El Como, de la Serie D, se enfrentará al Manchester United en la Liga de Campeones.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/es/como-tu-serie-d-den-cham-tran-man-united-o-champions-league"
-        },
-        {
-          "title": "Gol de Nico Paz para abrir el el duelo entre Como y Manchester United por la UEFA Champions League",
-          "source": "ESPN Deportes",
-          "url": "https://espndeportes.espn.com/futbol/champions-league/nota/_/id/17409855/video-como-vs-manchester-united-uefa-champions-league-gol-nico-paz"
+          "title": "A qué hora y dónde ver el Como vs. Manchester United de Champions League",
+          "source": "TUDN",
+          "url": "https://www.tudn.com/futbol/uefa-champions-league/como-vs-manchester-united-a-que-hora-y-donde-ver-el-partido-de-la-uefa-champions-league"
         },
         {
           "title": "🐌 El nuevo arranque desastroso del United hace historia para mal",
-          "source": "OneFootball",
-          "url": "https://onefootball.com/es/noticias/el-nuevo-arranque-desastroso-del-united-hace-historia-para-mal-43649294"
+          "source": "Yahoo",
+          "url": "https://es-us.noticias.yahoo.com/deportes/arranque-desastroso-united-historia-mal-171100560.html"
+        },
+        {
+          "title": "La llegada del Man United para medirse al Como",
+          "source": "UEFA.com",
+          "url": "https://es.uefa.com/uefachampionsleague/video/02aa-21e197821ae0-ee8cc480be83-1000--la-llegada-del-man-united-para-medirse-al-como/"
+        }
+      ]
+    },
+    {
+      "title": "주소",
+      "approx_traffic": "100+",
+      "published": "Wed, 21 Oct 2026 09:00:00 -0700",
+      "news": [
+        {
+          "title": "제도 빈틈 노리는 악용 꼼수 차단…'국가정상화 프로젝트' 2차 과제 추진",
+          "source": "정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148973821"
+        },
+        {
+          "title": "정부, 지방의원 외유성 출장 방지·국민연금 외국인 추납 개선",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261022500003"
+        },
+        {
+          "title": "건보료 체납 외국인 '출국 금지'…국가정상화 2차 과제 선정 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/economy/2026/10/20/2026102014171211749"
         }
       ]
     },
@@ -88,6 +132,28 @@
           "title": "맨유, 6경기 무승 안고 코모 원정 격돌 : 스포츠",
           "source": "재경일보",
           "url": "https://news.jkn.co.kr/post/1040697"
+        }
+      ]
+    },
+    {
+      "title": "흐비차",
+      "approx_traffic": "2000+",
+      "published": "Wed, 21 Oct 2026 08:30:00 -0700",
+      "news": [
+        {
+          "title": "바르셀로나, UCL 3차전서 PSG에 2-4 완패…시즌 공식전 첫 패배",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261021019600007"
+        },
+        {
+          "title": "[오피셜]'충격! 무릎 전방십자 인대 파열→시즌 아웃' 이강인의 친정 PSG 윙어 크바라츠헬리아 부상 심각→수술대 오른다..'허벅지 부상' 뎀벨레+마르키뇨스→수주 결장 불가피",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/10/22/GU2TQNRXGM3TSMZXMVTDAMJWGQ/"
+        },
+        {
+          "title": "시위·통금 속에서도 축구는 계속된다…프랑스 스포츠, 대부분 정상 개최",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610210814001"
         }
       ]
     },
@@ -129,9 +195,9 @@
           "url": "https://www.donga.com/news/Inter/article/all/20261021/134881751/1"
         },
         {
-          "title": "케네디家에 또 비보…로버트 손녀 카일, 투병 중 42세로 사망",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261021178100071"
+          "title": "대통령 암살부터 항공기 사고까지…RFK 손녀 죽음으로 돌아본 케네디가의 비극",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026102115272970802"
         }
       ]
     },
@@ -154,67 +220,6 @@
           "title": "싸움 부추겨 영상 찍고 유포…'야차룰' 경보",
           "source": "원주투데이",
           "url": "https://www.wonjutoday.co.kr/news/articleView.html?idxno=213060"
-        }
-      ]
-    },
-    {
-      "title": "샘 김",
-      "approx_traffic": "1000+",
-      "published": "Wed, 21 Oct 2026 06:40:00 -0700",
-      "news": [
-        {
-          "title": "'케데헌' 이재, 연인 샘킴과 한 달 앞당겨 한국서 깜짝 결혼",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6594018"
-        },
-        {
-          "title": "‘케데헌’ 이재, 외조부 신영균 옛 집터에서 깜짝 결혼",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610202018005"
-        },
-        {
-          "title": "[잇슈 컬처] ‘케데헌’ 이재, 외조부 신영균 옛 자택서 결혼식",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8690888"
-        }
-      ]
-    },
-    {
-      "title": "明天的天氣",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 06:40:00 -0700",
-      "news": [
-        {
-          "title": "颱風薔琵暴風侵襲率最新預估：北北基桃等10縣市突破八成 基隆、宜蘭99%",
-          "source": "Yahoo新聞",
-          "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E8%96%94%E7%90%B5%E6%9A%B4%E9%A2%A8%E4%BE%B5%E8%A5%B2%E7%8E%87%E6%9C%80%E6%96%B0%E9%A0%90%E4%BC%B0%EF%BC%9A%E5%8C%97%E5%8C%97%E5%9F%BA%E6%A1%83%E7%AD%8910%E7%B8%A3%E5%B8%82%E7%AA%81%E7%A0%B4%E5%85%AB%E6%88%90-%E5%9F%BA%E9%9A%86%E3%80%81%E5%AE%9C%E8%98%AD99-140043411.html"
-        },
-        {
-          "title": "薔琵逼近　北分署部署防洪、穩供與水庫減淤作業",
-          "source": "ETtoday新聞雲",
-          "url": "https://www.ettoday.net/news/20261021/3258758.htm"
-        },
-        {
-          "title": "「3D琵眼」神似黑巧甜甜圈！他也淪陷：被重擊了",
-          "source": "民視新聞網",
-          "url": "https://www.ftvnews.com.tw/news/detail/2026A21W0619"
-        }
-      ]
-    },
-    {
-      "title": "국유장기",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 06:30:00 -0700",
-      "news": [
-        {
-          "title": "[야고부-석민] 국유장기와 암살자(들)",
-          "source": "매일신문",
-          "url": "https://www.imaeil.com/page/view/2026102017351827211"
-        },
-        {
-          "title": "충격 다큐 ‘국유장기’ 안방서 본다… ‘중공’이 아닌 ‘중국’을 위해 꼭 봐야 하는 영화",
-          "source": "인터넷타임즈",
-          "url": "https://www.internettimes.co.kr/23/?idx=175156981&bmode=view"
         }
       ]
     }
