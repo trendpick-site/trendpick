@@ -1,8 +1,52 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-20T23:35:20+00:00",
+  "fetched_at": "2026-10-21T00:02:12+00:00",
   "items": [
+    {
+      "title": "유재석",
+      "approx_traffic": "500+",
+      "published": "Tue, 20 Oct 2026 15:50:00 -0700",
+      "news": [
+        {
+          "title": "'틈만나면,' 녹화 취소했던 유재석, 동생들에 '사과 플렉스'…\"다 사라\" 시청률 3.7% [종합] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/21/2026102108307267514"
+        },
+        {
+          "title": "틈만나면, : 유연석×채수빈×유재석×신승호, 무한 연습 끝내고 긴장 속에 마지막 도전!",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/enter/teum/clip/82063/OC482566599"
+        },
+        {
+          "title": "유재석, 쥐나서 쓰러진 후배 위해 발바닥 잡고 응급처치 '스윗하네'(틈만나면) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/20/MU4WCYRUMNSDANBQGFTDGNTDGI/"
+        }
+      ]
+    },
+    {
+      "title": "황선우",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 15:40:00 -0700",
+      "news": [
+        {
+          "title": "[전국체전] 수영 황선우, 6관왕 무산…개인혼영 200ｍ 실격",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261020167200007"
+        },
+        {
+          "title": "황선우·김영범, 나란히 3관왕‥'MVP 누가 될까'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6859438_37004.html"
+        },
+        {
+          "title": "황선우, 연이틀 금빛 물살…절친 김우민도 응원 더했다!",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8689712"
+        }
+      ]
+    },
     {
       "title": "외환시장",
       "approx_traffic": "200+",
@@ -14,14 +58,14 @@
           "url": "https://www.yna.co.kr/view/AKR20261020131100002"
         },
         {
+          "title": "달러 약세에 반도체 네고까지…환율 1320원대 하락 압력",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02624006645615216"
+        },
+        {
           "title": "수출 호조에 원화값 1320원대…연말 1200원대 후반 전망도",
           "source": "매일경제 마켓",
           "url": "https://stock.mk.co.kr/news/view/1177722"
-        },
-        {
-          "title": "[외환-마감] '네고·옵션 셀'에 3거래일 연속 연저점",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440216"
         }
       ]
     },
@@ -65,50 +109,6 @@
       ]
     },
     {
-      "title": "weather",
-      "approx_traffic": "2000+",
-      "published": "Tue, 20 Oct 2026 15:20:00 -0700",
-      "news": [
-        {
-          "title": "Denver weather: More sunshine and mild temperatures Tuesday",
-          "source": "Denver Gazette",
-          "url": "https://www.denvergazette.com/2026/10/20/denver-weather-more-sunshine-and-mild-temperatures-tuesday/"
-        },
-        {
-          "title": "Warmer rest of the week with mountain showers",
-          "source": "KKTV",
-          "url": "https://www.kktv.com/2026/10/19/warmer-rest-week-with-mountain-showers/"
-        },
-        {
-          "title": "Warm and dry week for most of us with heavy rain possible in parts of the high country by midweek",
-          "source": "KRDO",
-          "url": "https://krdo.com/news/top-stories/2026/10/19/warm-and-dry-week-for-most-of-us-with-heavy-rain-possible-in-parts-of-the-high-country-by-midweek/"
-        }
-      ]
-    },
-    {
-      "title": "псж – барселона турнирная таблица",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 15:20:00 -0700",
-      "news": [
-        {
-          "title": "Сафонов сделал сейв при выходе один на один в конце первого тайма в матче с «Барселоной",
-          "source": "https://www.championat.ru/",
-          "url": "https://www.championat.ru/football/news-6665716-safonov-sdelal-sejv-pri-vyhode-1-na-1-v-konce-pervogo-tajma-v-matche-s-barselonoj.html"
-        },
-        {
-          "title": "Сафонов вошел в стартовый состав «ПСЖ» на игру с «Барселоной»",
-          "source": "Спорт Mail",
-          "url": "https://sportmail.ru/news/football-eurocups/72792948/"
-        },
-        {
-          "title": "\"Барселона\" поразила ворота Сафонова",
-          "source": "Sport.ru",
-          "url": "https://www.sport.ru/football/barselona-porazila-vorota-safonova/article661715/"
-        }
-      ]
-    },
-    {
       "title": "windy",
       "approx_traffic": "100+",
       "published": "Tue, 20 Oct 2026 15:20:00 -0700",
@@ -131,19 +131,63 @@
       ]
     },
     {
+      "title": "weather",
+      "approx_traffic": "2000+",
+      "published": "Tue, 20 Oct 2026 15:20:00 -0700",
+      "news": [
+        {
+          "title": "Gusty winds and fire weather concerns coming to Panhandle",
+          "source": "mypanhandle.com",
+          "url": "https://www.mypanhandle.com/weather/weatherforecasts/gusty-winds-and-fire-weather-concerns-coming-to-panhandle/"
+        },
+        {
+          "title": "Increasing wind and low humidity raise fire concerns",
+          "source": "Yahoo",
+          "url": "https://www.yahoo.com/news/weather-news/articles/increasing-wind-low-humidity-raise-224408337.html"
+        },
+        {
+          "title": "Sunny Skies and Cool Nights Ahead",
+          "source": "Yahoo",
+          "url": "https://www.yahoo.com/news/videos/sunny-skies-cool-nights-ahead-223311139.html"
+        }
+      ]
+    },
+    {
+      "title": "псж – барселона турнирная таблица",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 15:20:00 -0700",
+      "news": [
+        {
+          "title": "Фото: Сафонов после пропущенного гола от «Барселоны» в Лиге чемпионов",
+          "source": "https://www.championat.ru/",
+          "url": "https://www.championat.ru/football/news-6665782-foto-safonov-posle-propuschennogo-gola-ot-barselony-v-lige-chempionov.html"
+        },
+        {
+          "title": "Текстовая трансляция ПСЖ - Барселона:",
+          "source": "Sport24.ru",
+          "url": "https://sport24.ru/football/leagues/uefa-champions-league/match/pari-sen-zhermen-barselona-2026-10-20/text-online"
+        },
+        {
+          "title": "Лига чемпионов: Результаты 20 октября и видеообзоры всех матчей. ПСЖ победил Барсу, хет-трик Фодена",
+          "source": "Спорт Шредингера",
+          "url": "https://sportilinet.kz/football/liga-chempionov-rezultatyi-oktyabrya-videoobzoryi-vseh-matchey-psj-pobedil-barsu-hettrik-fodena-16489/"
+        }
+      ]
+    },
+    {
       "title": "조혜련",
       "approx_traffic": "2000+",
       "published": "Tue, 20 Oct 2026 15:10:00 -0700",
       "news": [
         {
-          "title": "조혜련, \"SK하이닉스, 20년 전 여걸식스때 300원..수익3배 놓쳐\" ('머니인더트랩')",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/21/GNSDGZRTGNQTCOBTMM4DCNLCGQ/"
+          "title": "엄마가 조혜련인데? \"아들 우주, 학자금 대출 받게 해..독립 위해\" 눈길 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/21/MIYTKOBRGRRWIYRSGIYTONTEGA/"
         },
         {
-          "title": "엄마가 조혜련인데? \"아들 우주, 학자금 대출 받게 해..독립 위해\" 눈길",
+          "title": "6년간 '339억' 거래..김수용, 주식 큰손이었다? \"단타로 1억 벌었다고\"('물린음악회')",
           "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112896033"
+          "url": "https://www.osen.co.kr/article/G1112896023"
         },
         {
           "title": "한 달 수입 16만원이었다..조혜련 \"공장에서 일하기도\" 회상 ('물린음악회')",
@@ -153,7 +197,7 @@
       ]
     },
     {
-      "title": "오늘날씨",
+      "title": "오늘 날씨",
       "approx_traffic": "1000+",
       "published": "Tue, 20 Oct 2026 15:10:00 -0700",
       "news": [
@@ -168,53 +212,9 @@
           "url": "https://www.newsis.com/view/NISX20261021_0003834210"
         },
         {
-          "title": "[날씨] 수요일 낮 쌀쌀하고 바람 강하게 불어…곳곳에 비 소식",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261020149500004"
-        }
-      ]
-    },
-    {
-      "title": "제1도련선",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 15:10:00 -0700",
-      "news": [
-        {
-          "title": "美육군 \"중국과 분쟁 발발 첫날부터 총전력 투입\"… 새 지침 공개",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/us/2026/10/21/PIP3Y7C6NNHFPJV3WCPIEDL2XQ/"
-        },
-        {
-          "title": "미군, 中겨냥 제1도련선에 전력 집중 “전쟁 첫날 즉각 대응”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20261020/134878625/2"
-        },
-        {
-          "title": "美 ‘中 최우선 위협’ 상정 새 전투지침… “대만방어 일관된 입장” 한미일 협력 강조",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11624818"
-        }
-      ]
-    },
-    {
-      "title": "새만금",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 15:10:00 -0700",
-      "news": [
-        {
-          "title": "전북특별자치도 · 새만금개발청, '협업' 현대차 투자 지원 실무협의체 운영",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3724642"
-        },
-        {
-          "title": "전주시, 2026년 전주시 수소산업 심포지엄 개최",
-          "source": "전북엔비전",
-          "url": "https://www.jnv.co.kr/news/articleView.html?idxno=15601"
-        },
-        {
-          "title": "전북테크노파크 에너지산업육성단장 김영권 ‘R&D 혁신을 통한 전주시 수소모빌리티 생태계 구축 방안’",
-          "source": "전북도민일보",
-          "url": "https://www.domin.co.kr/news/articleView.html?idxno=1571571&sc_section_code=S1N8"
+          "title": "[날씨] 전국 곳곳 아침 약한 비‥오후부터 쌀쌀해져",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6859515_37012.html"
         }
       ]
     }
