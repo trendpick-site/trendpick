@@ -1,8 +1,52 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-21T11:12:28+00:00",
+  "fetched_at": "2026-10-21T11:47:16+00:00",
   "items": [
+    {
+      "title": "천궁",
+      "approx_traffic": "500+",
+      "published": "Wed, 21 Oct 2026 03:40:00 -0700",
+      "news": [
+        {
+          "title": "“패트리엇 10년 어떻게 기다려요?”…천궁-Ⅱ 중동 넘어 스위스까지? [경제한방]",
+          "source": "KBS 뉴스",
+          "url": "https://mobile.kbs.co.kr/news/view.do?ncd=8691327"
+        },
+        {
+          "title": "美 미사일 부족한데…호주가 새 방공망 찾는다, 韓 L-SAM 기회? [밀리터리+]",
+          "source": "나우뉴스",
+          "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20261020601019"
+        },
+        {
+          "title": "호주, 중거리 방공체계 도입 공식화…’한국형 사드’ L-SAM 주목 By The Guru",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2132321"
+        }
+      ]
+    },
+    {
+      "title": "이다현",
+      "approx_traffic": "500+",
+      "published": "Wed, 21 Oct 2026 03:10:00 -0700",
+      "news": [
+        {
+          "title": "이다현, 日 열도 매료시켰다! 팬들 \"여배우 외모에 실력도 압도적\"→감독도 \"머리 영리한 선수\" 극찬 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/21/2026102110492967876"
+        },
+        {
+          "title": "'여배우 같은 외모, 실력도 대단하다!' 韓 미녀 배구스타, 日 데뷔하자마자 블로킹 공동 1위…2G 28득점 맹활약",
+          "source": "엑스포츠뉴스",
+          "url": "https://www.xportsnews.com/article/2209808"
+        },
+        {
+          "title": "'이다현이 끝냈다' 듀스 접전 마침표 찍은 블로킹 포함…2G 연속 두자리수 점수 NEC, 히메지에 설욕",
+          "source": "마이데일리",
+          "url": "https://mydaily.co.kr/page/view/2026101908570730687"
+        }
+      ]
+    },
     {
       "title": "sbs",
       "approx_traffic": "2000+",
@@ -41,9 +85,9 @@
           "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/"
         },
         {
-          "title": "EU cybersecurity agency in warning on PHP vulnerabilities",
-          "source": "RTE.ie",
-          "url": "https://www.rte.ie/news/world/2026/1021/1596231-eu-cybersecurity/"
+          "title": "Hold on to your butts: Web admins braced for emergency PHP updates to plug leaked exploits",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/security/we-expect-mass-attacks-to-start-within-15-minutes-of-the-release-web-admins-braced-for-emergency-php-updates-to-plug-leaked-high-severity-holes/"
         }
       ]
     },
@@ -58,14 +102,14 @@
           "url": "https://www.sedaily.com/article/20104166"
         },
         {
-          "title": "누리꾼들에 임신 포착된 김다영 \"웃음만 나는 수영복 샷\"…과감한 인증",
-          "source": "텐아시아",
-          "url": "https://www.tenasia.co.kr/article/2026101249734"
+          "title": "'14살 연하' 김다영, ♥배성재 생일에 3단 뽀뽀…\"남편만 섬길 것\"",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014213"
         },
         {
-          "title": "'배성재♥'김다영, 홍콩서 태교 \"남편 따라 쫄래쫄래\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261012_0003821743"
+          "title": "'임신' 김다영, '14세 연상' ♥배성재 생일 까먹고 사과…\"남편만 섬길 것\" (다영아니야)",
+          "source": "엑스포츠뉴스",
+          "url": "https://www.xportsnews.com/article/2209251"
         }
       ]
     },
@@ -92,8 +136,30 @@
       ]
     },
     {
-      "title": "박보경",
+      "title": "북항이",
       "approx_traffic": "500+",
+      "published": "Wed, 21 Oct 2026 02:40:00 -0700",
+      "news": [
+        {
+          "title": "부산 북항 상어 ‘부캉이’ 수로 밖으로…유도작업 종료",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261021.99099006355"
+        },
+        {
+          "title": "‘부캉이 안녕, 고마웠어’…33일 만에 바다로 귀환 [현장]",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/area/yeongnam/1283508.html"
+        },
+        {
+          "title": "[속보] 상어 '부캉이' 수로 밖으로 이동…유도 작업 종료",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008808873"
+        }
+      ]
+    },
+    {
+      "title": "박보경",
+      "approx_traffic": "1000+",
       "published": "Wed, 21 Oct 2026 02:30:00 -0700",
       "news": [
         {
@@ -156,56 +222,6 @@
           "url": "https://www.beminor.com/news/articleView.html?idxno=30550"
         }
       ]
-    },
-    {
-      "title": "현대로보틱스",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 02:10:00 -0700",
-      "news": [
-        {
-          "title": "HD현대로보틱스, 피지컬 AI 기반 ’휴머노이드’ 공개",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261021145639y8j"
-        },
-        {
-          "title": "[기업] HD현대로보틱스, 자체 개발 '지능형 양팔로봇' 첫선",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202610211825213242"
-        },
-        {
-          "title": "대구시, 'FIX 2026 혁신상' 31개 혁신기업 선정… 22일 시상식 개최",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261021000440"
-        }
-      ]
-    },
-    {
-      "title": "한문철",
-      "approx_traffic": "100+",
-      "published": "Wed, 21 Oct 2026 02:10:00 -0700",
-      "news": [
-        {
-          "title": "주차 빌런에 공중 배달까지…테슬라 ‘로드스터’ 패러디 봇물",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8689506"
-        },
-        {
-          "title": "'제로백 1초' 순간 바나나 '뚝'‥3일 만에 찾아내자 \"알아챘네\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6859376_36925.html"
-        },
-        {
-          "title": "테슬라 날아오르자 뛰어넘은 플라잉카…보란 듯 솟구친 '비행 기술' [지금이뉴스]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0545_202610201420021296"
-        }
-      ]
-    },
-    {
-      "title": "알렉산더 볼카노프스키",
-      "approx_traffic": "100+",
-      "published": "Wed, 21 Oct 2026 02:00:00 -0700",
-      "news": []
     }
   ]
 }
