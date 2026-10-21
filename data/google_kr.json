@@ -1,11 +1,77 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-21T02:12:40+00:00",
+  "fetched_at": "2026-10-21T02:45:59+00:00",
   "items": [
     {
+      "title": "동탄신도시",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 18:40:00 -0700",
+      "news": [
+        {
+          "title": "\"국평 17억인데 싸다고?\"…서울도 아닌데 4만5000명 몰렸다 [주간이집]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026102031886"
+        },
+        {
+          "title": "[부동산 AD] 동탄1신도시 중심에 초고층 하이엔드 주거단지 ‘아크메르 동탄’ 분양",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1334688"
+        },
+        {
+          "title": "‘유모차부대’부터 연차 낸 ‘삼성맨’까지… ‘아크메르동탄’ 견본주택 이색 풍경",
+          "source": "www.dt.co.kr",
+          "url": "https://www.dt.co.kr/article/12090327"
+        }
+      ]
+    },
+    {
+      "title": "유니클로",
+      "approx_traffic": "1000+",
+      "published": "Tue, 20 Oct 2026 18:20:00 -0700",
+      "news": [
+        {
+          "title": "\"엔저 감당 못 해\"...유니클로, 가을·겨울 의류값 4% 올린다",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610201351340449"
+        },
+        {
+          "title": "유니클로, 엔저·원가 상승에 일본 내 가격 평균 4% 인상",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8690154"
+        },
+        {
+          "title": "유니클로, 日서 '감탄팬츠' 등 11개 제품 판매가 4% 인상",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026102014431690112"
+        }
+      ]
+    },
+    {
+      "title": "샌안토니오 대 오클라호마시티",
+      "approx_traffic": "1000+",
+      "published": "Tue, 20 Oct 2026 18:10:00 -0700",
+      "news": [
+        {
+          "title": "절대강자 없는 NBA… 이번 시즌도 ‘새 챔프’ 탄생?",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11625073"
+        },
+        {
+          "title": "'르브론 합류' 필라델피아, NBA 개막전서 '챔피언' 뉴욕 격파",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/basketball/6327064"
+        },
+        {
+          "title": "‘서고동저’ 절대 못 깰걸!… 닉스 우승, 얕보지 마라!",
+          "source": "세계일보",
+          "url": "https://m.segye.com/view/20261020519260"
+        }
+      ]
+    },
+    {
       "title": "송중기",
-      "approx_traffic": "2000+",
+      "approx_traffic": "5000+",
       "published": "Tue, 20 Oct 2026 18:00:00 -0700",
       "news": [
         {
@@ -14,22 +80,27 @@
           "url": "https://www.mt.co.kr/entertainment/2026/10/21/2026102107130012397"
         },
         {
-          "title": "송중기, 해외 팬들 앞에서 전처 송혜교 이름 들은 뒤 반응은…웃음기 사라졌다",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6326587"
-        },
-        {
           "title": "송중기, '송혜교' 언급에 순간 굳은 표정…영상 확산",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20261021_0003834137"
+        },
+        {
+          "title": "송중기, 해외 팬들 앞에서 전처 송혜교 이름 들은 뒤 반응은…웃음기 사라졌다",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6326587"
         }
       ]
     },
     {
       "title": "해변",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Tue, 20 Oct 2026 18:00:00 -0700",
       "news": [
+        {
+          "title": "제18회 강릉커피축제 손님맞이 준비 완료…'커피향 가득한 강릉으로 오세요'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/RPR20261020001300353"
+        },
         {
           "title": "관광공사, 강릉 안목해변서 북트립 행사…노홍철·요조 북콘서트",
           "source": "매일경제 마켓",
@@ -39,11 +110,6 @@
           "title": "노홍철·요조, 이번엔 바닷가 책방…강릉 안목해변서 만난다",
           "source": "뉴스1",
           "url": "https://www.news1.kr/industry/hotel-tourism/6326665"
-        },
-        {
-          "title": "제18회 강릉커피축제 손님맞이 준비 완료…'커피향 가득한 강릉으로 오세요'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/RPR20261020001300353"
         }
       ]
     },
@@ -53,19 +119,14 @@
       "published": "Tue, 20 Oct 2026 18:00:00 -0700",
       "news": [
         {
-          "title": "경기도, ‘재정 비상’ 선언 후 칼끝 산하기관 향하나",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261020580484"
+          "title": "경기교육청, 24일 '청소년 매니페스토 페스티벌' 개최",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261021_0003834767"
         },
         {
-          "title": "민선 9기 경기도 첫 조직개편안 발표… 5개 국 줄어든다",
-          "source": "경인일보",
-          "url": "https://www.kyeongin.com/article/1773002"
-        },
-        {
-          "title": "경기도, 5개 실국 줄이는 조직개편…재정·반도체 조직은 신설",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261020143000061"
+          "title": "약속과 실천 중요성 배우는 경기 청소년 매니페스토 페스티벌 개최",
+          "source": "중부일보",
+          "url": "https://www.joongboo.com/news/articleView.html?idxno=363739622"
         }
       ]
     },
@@ -92,6 +153,28 @@
       ]
     },
     {
+      "title": "독도",
+      "approx_traffic": "500+",
+      "published": "Tue, 20 Oct 2026 17:50:00 -0700",
+      "news": [
+        {
+          "title": "독립기념관 '독도의 날' 맞아 찾아가는 독도학교 진행",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261021_0003834758"
+        },
+        {
+          "title": "2028년 울릉도에 ‘독도교육원’ 문 연다",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261020/134877269/2"
+        },
+        {
+          "title": "국립해양박물관, 독도의날 맞아 24~25일 체험·공연 프로그램 운영",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/busan-gyeongnam/6326056"
+        }
+      ]
+    },
+    {
       "title": "박윤규",
       "approx_traffic": "1000+",
       "published": "Tue, 20 Oct 2026 17:50:00 -0700",
@@ -114,28 +197,6 @@
       ]
     },
     {
-      "title": "독도",
-      "approx_traffic": "500+",
-      "published": "Tue, 20 Oct 2026 17:50:00 -0700",
-      "news": [
-        {
-          "title": "서경덕·한국해비타트, 독도의용수비대 생존 대원 주거 개선",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261021_0003834417"
-        },
-        {
-          "title": "한국해비타트·서경덕 교수, 독도의 날 기념 ‘영웅의 집’ 영상 공개",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3726866"
-        },
-        {
-          "title": "Public Donations Help Provide Safer Housing for Two Veterans Who Protected 'Dokdo'",
-          "source": "TSN KOREA",
-          "url": "https://tsnkoreanews.com/news/article.html?no=28517"
-        }
-      ]
-    },
-    {
       "title": "태풍 참피",
       "approx_traffic": "20000+",
       "published": "Tue, 20 Oct 2026 17:30:00 -0700",
@@ -146,75 +207,14 @@
           "url": "https://imnews.imbc.com/news/2026/society/article/6859272_36918.html"
         },
         {
-          "title": "[속보] 제30호 태풍 ‘참피’ 더 강해지며 제주 온다…하루 만에 경로 바꿔",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261021580062"
-        },
-        {
           "title": "\"초강력 태풍 참피, 주말 제주 강타?\".. 대만 기상청 예보 주목",
           "source": "JIBS제주방송",
           "url": "https://www.jibs.co.kr/news/articles/articlesDetail/66741?feed=na"
-        }
-      ]
-    },
-    {
-      "title": "주간조선",
-      "approx_traffic": "500+",
-      "published": "Tue, 20 Oct 2026 17:30:00 -0700",
-      "news": [
-        {
-          "title": "[단독] 경찰, '흉기난동' 최충락 사이코패스 검사...\"자료 분석 중\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202610210846004839_005.html"
         },
         {
-          "title": "‘관계성 범죄’, 또 다시 질타만 하지 않으려면 [플랫]",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610201039001"
-        }
-      ]
-    },
-    {
-      "title": "카드뉴스",
-      "approx_traffic": "100+",
-      "published": "Tue, 20 Oct 2026 17:30:00 -0700",
-      "news": [
-        {
-          "title": "정비사업 지연될라···중구 주민 ‘한양의 수도성곽’ 세계유산 등재 반대[서울25]",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610211028001"
-        },
-        {
-          "title": "\"남산 규제 풀렸더니 또 세계유산 규제\"… 중구 주민 3500명 등재 반대",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/national_general/2026/10/21/H5OD66CJ6JH3JEHYVSQFHA2XV4/"
-        },
-        {
-          "title": "재개발 늦어질라…서울 중구민들, 한양 수도성곽 세계유산등재 반대",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261021015900004?section=economy/all"
-        }
-      ]
-    },
-    {
-      "title": "100일의 거짓말",
-      "approx_traffic": "1000+",
-      "published": "Tue, 20 Oct 2026 17:20:00 -0700",
-      "news": [
-        {
-          "title": "김유정과 박진영의 영화같은 순간",
-          "source": "엘르 코리아 │ ELLE KOREA",
-          "url": "https://www.elle.co.kr/article/1911658"
-        },
-        {
-          "title": "‘닥터X’·‘100일의 거짓말’…‘스드作’ 안방 ‘쌍끌이’",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11624781"
-        },
-        {
-          "title": "김지원·김유정 앞세웠더니 터졌다…웃음꽃 핀 '이 회사' [엔터X스탁]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610203588H"
+          "title": "제주 태풍 '참피' 북상 해상 기상악화…안전사고 주의보",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261020_0003833783"
         }
       ]
     }
