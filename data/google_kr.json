@@ -1,8 +1,30 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-22T18:07:22+00:00",
+  "fetched_at": "2026-10-22T18:44:07+00:00",
   "items": [
+    {
+      "title": "솔리다임",
+      "approx_traffic": "100+",
+      "published": "Thu, 22 Oct 2026 10:20:00 -0700",
+      "news": [
+        {
+          "title": "금감원장의 솔리다임 직격에 뜨끔한 보스턴다이내믹스",
+          "source": "인베스트조선",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/10/21/2026102180007.html"
+        },
+        {
+          "title": "금융위원장도 \"솔리다임, 중복상장 규제 대상\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/economy_general/2026/10/23/NSJTW5MGJFEMFIJYL4ECFD3WIY/"
+        },
+        {
+          "title": "이억원 \"솔리다임 증권신고 의무 따져봐야\"…주주보호 이행 시점 빈틈 지적엔 \"살필 것&...",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=05070886645615544"
+        }
+      ]
+    },
     {
       "title": "레흐 포즈난 대 선덜랜드",
       "approx_traffic": "200+",
@@ -14,7 +36,7 @@
           "url": "https://www.bbc.com/sport/football/live/cqz0vym1pk55t"
         },
         {
-          "title": "(3) Lech Poznan v Sunderland, Juventus v Rennes, and more: Europa League – live",
+          "title": "Lech Poznan v Sunderland, Juventus v Rennes, and more: Europa League – live",
           "source": "The Guardian",
           "url": "https://www.theguardian.com/football/live/2026/oct/22/lech-poznan-sunderland-juventus-rennes-bournemouth-milan-crystal-palace-celtic-europa-league-live"
         },
@@ -58,14 +80,14 @@
           "url": "https://www.bbc.com/sport/football/live/c52e9n7394jyt"
         },
         {
-          "title": "FK Jablonec vs. Brighton Lineups, Live Streaming, How & Where to Watch Conference League on TV",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/fk-jablonec-vs-brighton-lineups-143827680.html"
-        },
-        {
           "title": "Thursday best bets: Europa League and Conference League tips for October 22 2026",
           "source": "Sporting Life",
           "url": "https://www.sportinglife.com/football/news/thursday-best-bets-europa-league-and-conference-league-tips-for-october-22-2026/234943"
+        },
+        {
+          "title": "FK Jablonec vs. Brighton Lineups, Live Streaming, How & Where to Watch Conference League on TV",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/fk-jablonec-vs-brighton-lineups-143827680.html"
         }
       ]
     },
@@ -198,28 +220,6 @@
           "title": "[국제/축구] 태국 클럽 칸차나부리 파워 FC, 박항서 감독 경질설 일축… \"장기 프로젝트로 팀 구축 중\"",
           "source": "굿모닝베트남미디어",
           "url": "https://www.goodmorningvietnam.co.kr/news/article.html?no=84171"
-        }
-      ]
-    },
-    {
-      "title": "축구 선수",
-      "approx_traffic": "100+",
-      "published": "Thu, 22 Oct 2026 06:40:00 -0700",
-      "news": [
-        {
-          "title": "[崔宣 칼럼] 칼빈에서 대한민국으로, 그리고 세계로",
-          "source": "뉴스앤넷",
-          "url": "https://www.newsnnet.com/news/articleView.html?idxno=31036"
-        },
-        {
-          "title": "전 축구선수 故강지용 아내 저격글...\"거짓말한 당신들, 늘 부끄럽길\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/10/22/2026102205252495794"
-        },
-        {
-          "title": "\"사는 동안 늘 부끄럽길\"...'이숙캠' 故 강지용 아내, SNS에 의미심장 글",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610212150462507"
         }
       ]
     }
