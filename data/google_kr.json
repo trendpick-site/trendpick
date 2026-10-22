@@ -1,8 +1,206 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-22T21:14:33+00:00",
+  "fetched_at": "2026-10-22T22:09:46+00:00",
   "items": [
+    {
+      "title": "พยากรณ์อากาศ",
+      "approx_traffic": "100+",
+      "published": "Thu, 22 Oct 2026 14:00:00 -0700",
+      "news": [
+        {
+          "title": "วิกฤต! น้ำในเขื่อนพุ่ง 83% จ่อล้นตลิ่ง กทม. - ภาคใต้ ระวังฝนตกหนัก",
+          "source": "bangkokbiznews",
+          "url": "https://www.bangkokbiznews.com/news/news-update/1257559"
+        },
+        {
+          "title": "อัปเดตประกาศกรมอุตุฯ ฉ.12 | 22 ตุลาคม 2569 เวลา 17.00 น. 📌 เปลี่ยนแปลงจากฉบับก่อน 🟠 22 ต.ค. ลดพื้นที่เตือนฝนหนัก 4 จังหวัด ได้แก่ สระแก้ว กระบี่ ตรัง และสตูล ส่วนวันที่ 23–25 ต.ค. พื้นที่เตือนยังคงเดิม พื้นที่ที่คาดว่าจะได้รับผลกระทบรายวัน 📅 22 ตุลาคม 2569 🟠 ฝนหนัก ภาคตะวันอ",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/tmd.go.th/posts/%E0%B8%AD%E0%B8%B1%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%95%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%AD%E0%B8%B8%E0%B8%95%E0%B8%B8%E0%B8%AF-%E0%B8%8912-22-%E0%B8%95%E0%B8%B8%E0%B8%A5%E0%B8%B2%E0%B8%84%E0%B8%A1-2569-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-1700-%E0%B8%99-%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B9%81%E0%B8%9B%E0%B8%A5%E0%B8%87%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99-22-%E0%B8%95%E0%B8%84/1586837996821663/"
+        },
+        {
+          "title": "กรมอุตุนิยมวิทยา ประกาศฉบับ 11 เตือนฝนหนัก 22-25 ต.ค. 2569",
+          "source": "คลาวด์ปัง",
+          "url": "https://readthecloud.co/%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%AD%E0%B8%B8%E0%B8%95%E0%B8%B8%E0%B8%99%E0%B8%B4%E0%B8%A2%E0%B8%A1%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2/"
+        }
+      ]
+    },
+    {
+      "title": "성리",
+      "approx_traffic": "100+",
+      "published": "Thu, 22 Oct 2026 14:00:00 -0700",
+      "news": [
+        {
+          "title": "가수 성리, 23일 ‘2026 대한민국 국향대전’ 출격→‘무명전설’ 전국 투어까지…공연 일정 보니?",
+          "source": "TopStarNews",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16253641"
+        },
+        {
+          "title": "[단독]성리, 탑스타 행보 지속…이번 주만 6개 스케줄 '바쁘다 바빠'",
+          "source": "더퍼블릭",
+          "url": "https://www.thepublic.kr/news/articleView.html?idxno=322944"
+        },
+        {
+          "title": "성리 ‘무뚝뚝’에 쏟아진 응원…“부르는 모든 노래를 성리화하는 매직”",
+          "source": "CBC뉴스",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=617896"
+        }
+      ]
+    },
+    {
+      "title": "교통",
+      "approx_traffic": "200+",
+      "published": "Thu, 22 Oct 2026 13:50:00 -0700",
+      "news": [
+        {
+          "title": "부산교통공사 노사 단체교섭 최종 타결…열차 정상운행",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261022198300051"
+        },
+        {
+          "title": "취임 첫날 파업 막은 김태호…부산도시철도 노사, 자정 넘겨 극적 합의…예정된 첫차 미운행 피해",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11625591"
+        },
+        {
+          "title": "부산지하철 노사 협상 결렬…노조, 7년 만에 23일 첫차부터 파업",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20261022025510132"
+        }
+      ]
+    },
+    {
+      "title": "엘니뇨",
+      "approx_traffic": "200+",
+      "published": "Thu, 22 Oct 2026 13:50:00 -0700",
+      "news": [
+        {
+          "title": "WMO “올겨울 역대 최강 엘니뇨” 경고…태평양 수온 3.8도↑ 한반도 영향은? [지금뉴스]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8692476"
+        },
+        {
+          "title": "세계기상기구(WMO) '엘니뇨 전례 없는 상황'‥동아시아 기온·강수 평년 웃돌 듯",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6859871_36918.html"
+        },
+        {
+          "title": "슈퍼엘니뇨發 이상기상 경고 나왔다…“11월 강수량 평년 2배 전망”",
+          "source": "농민신문",
+          "url": "https://www.nongmin.com/article/20261019500725"
+        }
+      ]
+    },
+    {
+      "title": "sk하이닉스",
+      "approx_traffic": "2000+",
+      "published": "Thu, 22 Oct 2026 13:40:00 -0700",
+      "news": [
+        {
+          "title": "[단독] SK하이닉스, 솔리다임 美 상장 전격 철회",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610229798i"
+        },
+        {
+          "title": "금감원장의 솔리다임 직격에 뜨끔한 보스턴다이내믹스",
+          "source": "인베스트조선",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/10/21/2026102180007.html"
+        },
+        {
+          "title": "이억원 \"솔리다임 증권신고 의무 따져봐야\"…주주보호 이행 시점 빈틈 지적엔 \"살필 것&...",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=05070886645615544"
+        }
+      ]
+    },
+    {
+      "title": "경찰",
+      "approx_traffic": "200+",
+      "published": "Thu, 22 Oct 2026 13:40:00 -0700",
+      "news": [
+        {
+          "title": "北 IT인력, 국내업체 위장 취업 첫 포착…개발까지 했다",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261022/134893264/1"
+        },
+        {
+          "title": "북한 IT 인력, 국내 민간업체 위장 취업 정황 첫 포착…경찰 수사 착수",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1283753.html"
+        },
+        {
+          "title": "북한 IT 인력 국내 기업 위장취업 정황…경찰 수사 중",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610222155001"
+        }
+      ]
+    },
+    {
+      "title": "한국경제신문사",
+      "approx_traffic": "100+",
+      "published": "Thu, 22 Oct 2026 13:30:00 -0700",
+      "news": [
+        {
+          "title": "프로기사협회 어린이바둑대회에 335명 참가…6개 부문서 열전",
+          "source": "사이버오로",
+          "url": "https://m.cyberoro.com/news/news_view.oro?div_no=A1&num=532883"
+        },
+        {
+          "title": "신진서 \"승부 속에서 재미 찾아보세요\"",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026102295121"
+        },
+        {
+          "title": "프로기사협회 어린이 바둑대회, 1천여 명 참석",
+          "source": "타이젬바둑",
+          "url": "https://m.tygem.com/news/news_view.html?seq=39825"
+        }
+      ]
+    },
+    {
+      "title": "육군사관학교",
+      "approx_traffic": "1000+",
+      "published": "Thu, 22 Oct 2026 13:20:00 -0700",
+      "news": [
+        {
+          "title": "사관학교 통합 놓고 격돌…“미래전 대비” vs “육사 폐지만 목적”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8692765"
+        },
+        {
+          "title": "육사 학교장 \"사관학교 통합, 계획보완·의견수렴 후 추진돼야\"",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261023051605xw4"
+        },
+        {
+          "title": "2026년 국방위원회 국정감사",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo/NISI20261022_0021499717"
+        }
+      ]
+    },
+    {
+      "title": "검사",
+      "approx_traffic": "200+",
+      "published": "Thu, 22 Oct 2026 13:20:00 -0700",
+      "news": [
+        {
+          "title": "\"李가 공소 취소 요청하면\" 묻자… 즉답 피한 공소청 수장",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/court_law/2026/10/23/C4S5LKPSHJAD3DJQXLOXQQAHDQ/"
+        },
+        {
+          "title": "이정현 검찰총장 대행 “정치검사였다면 윤석열에 붙었다...윤이 ‘자백 안하면 고통줘야’ 말해”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610221637001"
+        },
+        {
+          "title": "공소청 국감서도 '제미나이' 공방...강제북송도 충돌",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0101_202610222207353406"
+        }
+      ]
+    },
     {
       "title": "삼전 닉스",
       "approx_traffic": "5000+",
@@ -22,199 +220,6 @@
           "title": "삼전닉스도 '와르르'…코스피, 상승분 그대로 반납 [퇴근길픽]",
           "source": "YTN",
           "url": "https://www.ytn.co.kr/_ln/0541_202610221639427132"
-        }
-      ]
-    },
-    {
-      "title": "10월 22일",
-      "approx_traffic": "200+",
-      "published": "Thu, 22 Oct 2026 13:00:00 -0700",
-      "news": [
-        {
-          "title": "[오늘의 운세] 2026년 10월 22일 별자리 운세",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0121_202610220000000002"
-        },
-        {
-          "title": "[오늘의 운세] 오늘 뭐 먹지?…10월 22일 띠별 추천 점심메뉴",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026101247967"
-        },
-        {
-          "title": "[오늘의 운세] 10월 22일 목요일 (음력 9월 12일) 띠별 운세",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261016580223"
-        }
-      ]
-    },
-    {
-      "title": "손주",
-      "approx_traffic": "500+",
-      "published": "Thu, 22 Oct 2026 12:50:00 -0700",
-      "news": [
-        {
-          "title": "‘손주 돌봄’ 수당에… 할머니는 돈벌고, 엄마는 걱정 덜고[온나라 다함께 아이키우기 프로젝트]",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11625318"
-        },
-        {
-          "title": "손주 독박 육아하느라 집 옮기고 일 내려놓은 조부모들",
-          "source": "주간동아",
-          "url": "https://weekly.donga.com/society/article/all/11/6421405/1"
-        }
-      ]
-    },
-    {
-      "title": "콜 오브 듀티",
-      "approx_traffic": "100+",
-      "published": "Thu, 22 Oct 2026 12:50:00 -0700",
-      "news": [
-        {
-          "title": "북한의 남침 소재로 한 ‘콜 오브 듀티’ 신작 … 현실에서도 벌어질 수 있을까",
-          "source": "BBC",
-          "url": "https://www.bbc.com/korean/articles/ckpdg26vq3x8o"
-        },
-        {
-          "title": "[해보니] 한국 배경으로 돌아온 '콜 오브 듀티: 모던 워페어 4'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261019060500017"
-        },
-        {
-          "title": "런던 한복판에 등장한 한국 골목길",
-          "source": "heyPOP",
-          "url": "https://heypop.kr/n/144669/"
-        }
-      ]
-    },
-    {
-      "title": "환율",
-      "approx_traffic": "1000+",
-      "published": "Thu, 22 Oct 2026 12:30:00 -0700",
-      "news": [
-        {
-          "title": "기준금리 올리던 한은, 이번엔 3.00% 동결…그 배경은?",
-          "source": "네이버페이 머니스토리",
-          "url": "https://story.pay.naver.com/content/3759"
-        },
-        {
-          "title": "'긴축 속도조절' 한은, 기준금리 3% 동결… 내달 인상 나설까 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/economy/2026/10/23/2026102219560818337"
-        },
-        {
-          "title": "한국은행 \"올해·내년 성장률 전망치 상회\"",
-          "source": "YTN 사이언스",
-          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202610221607385786"
-        }
-      ]
-    },
-    {
-      "title": "피싱",
-      "approx_traffic": "1000+",
-      "published": "Thu, 22 Oct 2026 12:10:00 -0700",
-      "news": [
-        {
-          "title": "보이스피싱 피해금 10월부터 코인으로 돌려받을 수도…요청하면 거래소가 팔아 현금 지급 가능",
-          "source": "위키트리",
-          "url": "https://www.wikitree.co.kr/articles/1168437"
-        },
-        {
-          "title": "가상자산으로 빠져나간 피싱 피해금, 돌려받는다.",
-          "source": "브런치",
-          "url": "https://brunch.co.kr/@detective-kim/1620"
-        },
-        {
-          "title": "가상자산도 피해환급 대상에 포함…통신사기피해환급법 개정안 10월 1일 시행 예정",
-          "source": "위키트리",
-          "url": "https://www.wikitree.co.kr/articles/1167806"
-        }
-      ]
-    },
-    {
-      "title": "암",
-      "approx_traffic": "500+",
-      "published": "Thu, 22 Oct 2026 12:10:00 -0700",
-      "news": [
-        {
-          "title": "“얼굴 보니 90일 내 사망 가능성”…암 환자 생존 예측 AI 나왔다",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261020052429097"
-        },
-        {
-          "title": "“사진 한 장 찍었을 뿐인데”…얼굴만 보고 수명 나온다, 소름 돋는 정체",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20104579"
-        },
-        {
-          "title": "‘얼굴 사진 한 장’으로 암 환자 사망 위험 맞혀…생존율 예측 AI 나와",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/science/science_general/1283581.html"
-        }
-      ]
-    },
-    {
-      "title": "제16전투비행단",
-      "approx_traffic": "100+",
-      "published": "Thu, 22 Oct 2026 12:10:00 -0700",
-      "news": [
-        {
-          "title": "예천군, 공군 제16전투비행단 장병 대상 마약류 예방 교육 실시",
-          "source": "타임뉴스",
-          "url": "https://www.timenews.co.kr/article/1720234"
-        },
-        {
-          "title": "예천군, 공군 제16전투비행단 장병 대상 마약류 예방 교육 실시",
-          "source": "웹이코노미",
-          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2344736"
-        },
-        {
-          "title": "예천군, 공군 제16전투비행단 장병 대상 마약류 예방 교육 실시:중수청일보",
-          "source": "중수청일보",
-          "url": "https://www.unionilbo.com/2226739"
-        }
-      ]
-    },
-    {
-      "title": "젠슨 황",
-      "approx_traffic": "1000+",
-      "published": "Thu, 22 Oct 2026 11:50:00 -0700",
-      "news": [
-        {
-          "title": "중국발 메모리공포에 젠슨황 한마디…\"2029년까지 공급과잉 없다\"",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610229805i"
-        },
-        {
-          "title": "젠슨황 \"2029년 메모리 공급과잉 없다…메모리는 다다익선\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023004200091"
-        },
-        {
-          "title": "젠슨 황 \"2029년 메모리 공급과잉 없을 것\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/world/usa-canada/6329300"
-        }
-      ]
-    },
-    {
-      "title": "유로파리그",
-      "approx_traffic": "200+",
-      "published": "Thu, 22 Oct 2026 11:40:00 -0700",
-      "news": [
-        {
-          "title": "유로파 리그 셀틱 대 셀타 비고 경기 예측",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-celtic-vs-celta-vigo-tai-europa-league-1787306.ldo"
-        },
-        {
-          "title": "셀타비고 vs 유벤투스 예측: 선두 경쟁의 뜨거운 승부",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-celta-vigo-vs-juventus-diem-nong-cuoc-dua-top-dau"
-        },
-        {
-          "title": "유로파 리그 베식타스 대 크리스탈 팰리스 축구 예측",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-besiktas-vs-crystal-palace-tai-europa-league-1787169.ldo"
         }
       ]
     }
