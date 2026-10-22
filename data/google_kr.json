@@ -1,11 +1,99 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-22T05:13:34+00:00",
+  "fetched_at": "2026-10-22T06:11:03+00:00",
   "items": [
     {
+      "title": "육아휴직",
+      "approx_traffic": "500+",
+      "published": "Wed, 21 Oct 2026 22:00:00 -0700",
+      "news": [
+        {
+          "title": "육아휴직 냈더니 보복 해고·갑질… 위반 폭증에도 기소율 고작 2%",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261022580140"
+        },
+        {
+          "title": "\"육아휴직 신청하자 해고\"…`사업주 법 위반` 3년간 219건→607건",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=00&key=20261022.99099006451"
+        },
+        {
+          "title": "육아 휴직 후 퇴사율, 남녀 얼마나 다를까 조사해보니",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261022084817"
+        }
+      ]
+    },
+    {
+      "title": "분당 신도시",
+      "approx_traffic": "500+",
+      "published": "Wed, 21 Oct 2026 21:50:00 -0700",
+      "news": [
+        {
+          "title": "‘공사비 2.9조’ 분당 샛별마을 재건축, 연내 시공사 선정 나선다…GS·대우건설 '관심'",
+          "source": "디벨로퍼뉴스",
+          "url": "https://www.dpnews.co.kr/news/articleView.html?idxno=2628"
+        },
+        {
+          "title": "“천당 위 분당? 7억은 번다” 지금 사도 돈 되는 ‘로또 재건축’",
+          "source": "중앙일보",
+          "url": "https://www.joongang.co.kr/article/25471562"
+        },
+        {
+          "title": "서울 재개발 사면 대박?…전문가가 꼽은 유망 지역은 30곳 중 5곳",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261019_0003832108"
+        }
+      ]
+    },
+    {
+      "title": "론스타 펀드",
+      "approx_traffic": "500+",
+      "published": "Wed, 21 Oct 2026 21:50:00 -0700",
+      "news": [
+        {
+          "title": "[속보] 정부, 론스타와 '1,682억 세금반환' 파기환송심 승소",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202610221014355257_005.html"
+        },
+        {
+          "title": "론스타 ‘1682억 세금 반환 소송’ 파기환송심서 패소",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/court_law/2026/10/22/DYVCZO7BFBCQZLNLROSGKRTXGQ/"
+        },
+        {
+          "title": "법무부, 론스타 1600억원대 반환소송 승소…\"국고 유출 막아\"(종합)",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/court-prosecution/6328524"
+        }
+      ]
+    },
+    {
+      "title": "수사",
+      "approx_traffic": "1000+",
+      "published": "Wed, 21 Oct 2026 21:40:00 -0700",
+      "news": [
+        {
+          "title": "이 대통령 “중수청 지휘감독 포기하는 건 탄핵 사유”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610221409001"
+        },
+        {
+          "title": "靑 \"AI에 국정 기대지 않아‥사실 호도에 유감\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6859894_36911.html"
+        },
+        {
+          "title": "청와대 \"AI 국정 운영? 사실 왜곡…국무회의 수사 지휘 일체 없다\"",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12324306"
+        }
+      ]
+    },
+    {
       "title": "장시환",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Wed, 21 Oct 2026 21:00:00 -0700",
       "news": [
         {
@@ -19,31 +107,9 @@
           "url": "https://www.chosun.com/sports/baseball/2026/10/22/GYZDSZJTGI4TKMZXMZSTSZDGMQ/"
         },
         {
-          "title": "시즌 마무리한 LG, 11명 방출하며 선수단 정리…장시환·송대현은 은퇴",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261022_0003836595"
-        }
-      ]
-    },
-    {
-      "title": "분당신도시",
-      "approx_traffic": "100+",
-      "published": "Wed, 21 Oct 2026 21:00:00 -0700",
-      "news": [
-        {
-          "title": "“천당 위 분당? 7억은 번다” 지금 사도 돈 되는 ‘로또 재건축’",
-          "source": "중앙일보",
-          "url": "https://www.joongang.co.kr/article/25471562"
-        },
-        {
-          "title": "서울 재개발 사면 대박?…전문가가 꼽은 유망 지역은 30곳 중 5곳",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261019_0003832108"
-        },
-        {
-          "title": "\"재건축, 서울보다 분당이 유리\"..분담금 10억시대 유망 투자처는?",
-          "source": "땅집고",
-          "url": "https://realty.chosun.com/site/data/html_dir/2026/10/16/2026101600923.html"
+          "title": "’유니콘스 마지막 유산’ 떠난다…LG 불펜 장시환 현역 은퇴",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261022140030Isu"
         }
       ]
     },
@@ -59,9 +125,9 @@
       "published": "Wed, 21 Oct 2026 20:50:00 -0700",
       "news": [
         {
-          "title": "정지선, 유튜브 돌연 운영 중단 \"언젠가 시간이 흘러…\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261022_0003835962"
+          "title": "‘흑백요리사’ 정지선, 돌연 유튜브 중단…“언제 돌아올지 약속 못 해”",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261021162801439"
         },
         {
           "title": "정지선 셰프, 16만 유튜브 잠정 중단… “마지막 인사 아니길” - 조선비즈",
@@ -69,31 +135,31 @@
           "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/22/MJMQBS464ZG23IMQEHSX2MEJPM/"
         },
         {
-          "title": "‘흑백요리사’ 정지선, 돌연 유튜브 중단…“언제 돌아올지 약속 못 해”",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261021162801439"
+          "title": "\"당분간 새 영상 없다\"…정지선 셰프 돌연 유튜브 중단",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610227984H"
         }
       ]
     },
     {
-      "title": "장기 기증",
-      "approx_traffic": "2000+",
-      "published": "Wed, 21 Oct 2026 20:30:00 -0700",
+      "title": "소송",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 20:50:00 -0700",
       "news": [
         {
-          "title": "“19살 아들 가슴에 귀 대고 듣던 심장소리, 누군가의 몸에서 뛴다면…”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1283606.html"
+          "title": "영풍, 고려아연 이사진 상대 주주대표소송 1심 패소...\"항소할 것\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202610221129330535_005.html"
         },
         {
-          "title": "요리사 꿈꾸던 19세 청년, 장기기증으로 7명에 새 삶",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261022/134887739/1"
+          "title": "영풍·MBK, 고려아연 상대 1兆 소송전 잇따라 패소(종합2보)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261022070352004"
         },
         {
-          "title": "요리사 꿈 키우던 19세 강민수 군, 7명에게 새 생명 주고 ‘영면’",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261022580020"
+          "title": "당시 대표는 최윤범, 누가 94억 승인했나⋯ 측근 ‘상장사 되사기’ 우회지원 의혹",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261022500504"
         }
       ]
     },
@@ -108,102 +174,36 @@
           "url": "https://imnews.imbc.com/news/2026/society/article/6859874_36918.html"
         },
         {
+          "title": "아이 등교시키려 음주운전?…1시간 만에 ‘면허정지’ 2건 [현장영상]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8692494"
+        },
+        {
           "title": "\"어젯밤 맥주 2잔\"…스쿨존 단속 1시간만에 '면허정지' 2건",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20261022094600004"
-        },
-        {
-          "title": "아침 스쿨존 음주단속",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261022_0021499214"
         }
       ]
     },
     {
-      "title": "북항친수공원",
-      "approx_traffic": "1000+",
-      "published": "Wed, 21 Oct 2026 20:10:00 -0700",
-      "news": [
-        {
-          "title": "“부캉아 왜 돌아왔니 ㅠㅠ”…먼 바다로 나간줄 알았더니 전날 밤 수로 재진입",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610220907001"
-        },
-        {
-          "title": "수로 밖 나간 상어 '부캉이' 다시 돌아왔다…외해 복귀 못 해",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022023800051"
-        },
-        {
-          "title": "그물 뚫고 수로로 재진입한 부캉이...그물·틈새 보강 재작업",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0115_202610221029281438"
-        }
-      ]
-    },
-    {
-      "title": "nba",
-      "approx_traffic": "1000+",
-      "published": "Wed, 21 Oct 2026 20:10:00 -0700",
-      "news": [
-        {
-          "title": "Timberwolves' Backcourt Duo Edwards, Ball Lead 131-106 Win Over Heat",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/10/22/BLEWEQ2R4NHKRHQZZNILIBYRDY/"
-        },
-        {
-          "title": "The Minnesota Timberwolves beat the Miami Heat in the opener.Minnesota beat Miami 131-106 in an away..",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/en/sports/12182716"
-        },
-        {
-          "title": "Giannis takes blame for heavy defeat: “I have to be better”",
-          "source": "Eurohoops",
-          "url": "https://www.eurohoops.net/en/nba-news/2024119/giannis-antetokounmpo-talks-miami-heat-loss-nba/"
-        }
-      ]
-    },
-    {
-      "title": "김혜성",
+      "title": "장기 기증",
       "approx_traffic": "2000+",
-      "published": "Wed, 21 Oct 2026 20:00:00 -0700",
+      "published": "Wed, 21 Oct 2026 20:30:00 -0700",
       "news": [
         {
-          "title": "\"다저스 선택 후회한 적 없다\" 했지만, 경쟁자 또 생기나...김혜성 거론도 안한 日 매체, \"센터 내야수 보강해야\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/10/22/GI4DQYTGGEZTGMJWGFQTAYTCGI/"
+          "title": "“19살 아들 가슴에 귀 대고 듣던 심장소리, 누군가의 몸에서 뛴다면…”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1283606.html"
         },
         {
-          "title": "충격! “김혜성 결국 다저스 떠난다” 美 트레이드 방출 가능성 제기 왜? “다저스 좋아한다” 고백에도 불안한 입지 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/22/202610220730776386O"
-        },
-        {
-          "title": "“다저스 노쇠화 모두 알고 있잖아”…특급 유망주 기용 절실! 그런데 오타니·테오스카·터커 있다",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20261021/134884491/1"
-        }
-      ]
-    },
-    {
-      "title": "문상철",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 20:00:00 -0700",
-      "news": [
-        {
-          "title": "'끝내기 4회' kt 문상철, 은퇴 선언 \"뜨거운 응원 잊지 못할 것\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022086100007"
-        },
-        {
-          "title": "구원왕 김재윤 상대 130m 장외포, 가을 무력시위인 줄 알았는데…12년 '원클럽맨', 극적인 작별인사였다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/22/MU2DCNBTG4ZTGMRYMY2WMYJXGI/"
-        },
-        {
-          "title": "’KT 창단 멤버’ 문상철, 은퇴 선언… 2027시즌 중 은퇴식 개최",
+          "title": "\"아들 심장 누군가에게\"…요리사 꿈꾸던 19세, 7명 살리고 떠나",
           "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261022113704ukI"
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261022145240ZYV"
+        },
+        {
+          "title": "요리사 꿈꾸던 19세 청년, 장기기증으로 7명에 새 삶",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261022/134887739/1"
         }
       ]
     }
