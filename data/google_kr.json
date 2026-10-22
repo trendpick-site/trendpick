@@ -1,11 +1,165 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-22T06:11:03+00:00",
+  "fetched_at": "2026-10-22T06:55:43+00:00",
   "items": [
     {
-      "title": "육아휴직",
+      "title": "유조선",
       "approx_traffic": "500+",
+      "published": "Wed, 21 Oct 2026 22:50:00 -0700",
+      "news": [
+        {
+          "title": "이란 '그림자 선단' 비축유 동났나…아시아行 유조선 물량 소진",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261022091500009"
+        },
+        {
+          "title": "중동 원유수출, 전쟁 전 수준 넘어서‥호르무즈도 82%까지 회복",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6859569_36925.html"
+        },
+        {
+          "title": "美 봉쇄 장기화에…이란 그림자 선단 원유도 바닥",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03955686645615544"
+        }
+      ]
+    },
+    {
+      "title": "군위군",
+      "approx_traffic": "100+",
+      "published": "Wed, 21 Oct 2026 22:50:00 -0700",
+      "news": [
+        {
+          "title": "민생지원금 받으려고 농촌 위장전입한 공무원들···군위군 소속 20여명 등 40명 송치",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610221104001"
+        },
+        {
+          "title": "대구경찰, 농어촌지원금 등 노리고 군위군 위장전입한 40명 송치",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261022052100053?section=society/accident"
+        },
+        {
+          "title": "군위군 공무원만 20여명... 경찰, 위장전입한 40명 송치",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/incident/2026/10/22/ACTNYVM2ARCFVJ4YOVMK6HHK2I/"
+        }
+      ]
+    },
+    {
+      "title": "백화점",
+      "approx_traffic": "500+",
+      "published": "Wed, 21 Oct 2026 22:40:00 -0700",
+      "news": [
+        {
+          "title": "청량리에 ‘롯데몰 벨리타운’ 개장···롯데백화점, 15년 만의 서울 신규 매장",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610221052001"
+        },
+        {
+          "title": "롯데百, 청량리에 ‘벨리타운’ 개점… 5400평 규모 초집약형 쇼핑몰",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3442210"
+        },
+        {
+          "title": "무신사, 대형 유통채널에 가방·모자 전문 편집숍 입점",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440483"
+        }
+      ]
+    },
+    {
+      "title": "토지거래허가제",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 22:40:00 -0700",
+      "news": [
+        {
+          "title": "‘외국인 부동산 투기’ 막겠다더니…집 사겠다는 100명 중 96명 통과",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/realestate/12182692"
+        },
+        {
+          "title": "서울 외국인 토지거래허가율 96%…\"실거주 의무 확인은 미흡\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261022053900001"
+        },
+        {
+          "title": "서울 외국인 주택매입 허가 96%…실거주 점검은 10건 중 4건 미완료",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610228177i"
+        }
+      ]
+    },
+    {
+      "title": "손예진",
+      "approx_traffic": "10000+",
+      "published": "Wed, 21 Oct 2026 22:30:00 -0700",
+      "news": [
+        {
+          "title": "손예진, 직접 차린 ‘9첩 반상’ 집밥 공개... 식탁 위 아기손 뽀짝",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/21/GMYWKZRSGVTDOZDFG4ZWKNZXHA/"
+        },
+        {
+          "title": "손예진, 현빈·아들과 집밥 일상…\"다 같이 먹을 때 제일 행복\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261022_0003836149"
+        },
+        {
+          "title": "손예진, ♥현빈·子 위한 수준급 밥상 공개…“이때가 제일 행복”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610220908013"
+        }
+      ]
+    },
+    {
+      "title": "한국투자증권",
+      "approx_traffic": "100+",
+      "published": "Wed, 21 Oct 2026 22:30:00 -0700",
+      "news": [
+        {
+          "title": "이억원 \"증권사, 해외 사모대출 확대 리스크 지속 점검\"",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440530"
+        },
+        {
+          "title": "[2026 국감] 김현정 \"한투 IMA, 해외 사모대출 비중 높아…부실 국내 전이 우려\"",
+          "source": "뉴스웍스",
+          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=900353"
+        },
+        {
+          "title": "한투證 IMA 해외 사모대출 5000억 육박···원금 지급 부담 우려",
+          "source": "뉴스웨이",
+          "url": "https://www.newsway.co.kr/news/view?ud=2026102214203095492"
+        }
+      ]
+    },
+    {
+      "title": "투자",
+      "approx_traffic": "5000+",
+      "published": "Wed, 21 Oct 2026 22:20:00 -0700",
+      "news": [
+        {
+          "title": "한화운용, 美 우주기업 '임펄스 스페이스' 투자…\"4회 연속\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261022098800008"
+        },
+        {
+          "title": "한화자산운용, 美 우주기업 임펄스 스페이스에 4번째 투자",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/stock/stock_general/2026/10/22/5WBWKBLL5ZEULA4KMEZATKFY2U/"
+        },
+        {
+          "title": "임동준號 한화운용, 글로벌 딥테크 공략 속도…美 임펄스 스페이스 후속 투자",
+          "source": "ER 이코노믹리뷰",
+          "url": "https://www.econovill.com/news/articleView.html?idxno=754543"
+        }
+      ]
+    },
+    {
+      "title": "육아휴직",
+      "approx_traffic": "1000+",
       "published": "Wed, 21 Oct 2026 22:00:00 -0700",
       "news": [
         {
@@ -14,20 +168,20 @@
           "url": "https://www.kyeonggi.com/article/20261022580140"
         },
         {
-          "title": "\"육아휴직 신청하자 해고\"…`사업주 법 위반` 3년간 219건→607건",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=00&key=20261022.99099006451"
-        },
-        {
           "title": "육아 휴직 후 퇴사율, 남녀 얼마나 다를까 조사해보니",
           "source": "지디넷코리아",
           "url": "https://zdnet.co.kr/view/?no=20261022084817"
+        },
+        {
+          "title": "\"육아휴직 신청하자 해고\"…`사업주 법 위반` 3년간 219건→607건",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=00&key=20261022.99099006451"
         }
       ]
     },
     {
       "title": "분당 신도시",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Wed, 21 Oct 2026 21:50:00 -0700",
       "news": [
         {
@@ -53,157 +207,19 @@
       "published": "Wed, 21 Oct 2026 21:50:00 -0700",
       "news": [
         {
-          "title": "[속보] 정부, 론스타와 '1,682억 세금반환' 파기환송심 승소",
+          "title": "론스타, '1,682억 세금반환' 파기환송심 패소...정부·서울시 승소",
           "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202610221014355257_005.html"
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202610221106083235_005.html"
         },
         {
-          "title": "론스타 ‘1682억 세금 반환 소송’ 파기환송심서 패소",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/court_law/2026/10/22/DYVCZO7BFBCQZLNLROSGKRTXGQ/"
+          "title": "정부, 론스타 2800억 원대 법인세 반환소송 파기환송심서 전부 승소",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974107&pWise=sub&pWiseSub=R3"
         },
         {
           "title": "법무부, 론스타 1600억원대 반환소송 승소…\"국고 유출 막아\"(종합)",
           "source": "뉴스1",
           "url": "https://www.news1.kr/society/court-prosecution/6328524"
-        }
-      ]
-    },
-    {
-      "title": "수사",
-      "approx_traffic": "1000+",
-      "published": "Wed, 21 Oct 2026 21:40:00 -0700",
-      "news": [
-        {
-          "title": "이 대통령 “중수청 지휘감독 포기하는 건 탄핵 사유”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610221409001"
-        },
-        {
-          "title": "靑 \"AI에 국정 기대지 않아‥사실 호도에 유감\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6859894_36911.html"
-        },
-        {
-          "title": "청와대 \"AI 국정 운영? 사실 왜곡…국무회의 수사 지휘 일체 없다\"",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12324306"
-        }
-      ]
-    },
-    {
-      "title": "장시환",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 21:00:00 -0700",
-      "news": [
-        {
-          "title": "찬란했던 현대 왕조, 마지막 선수 떠난다…LG 장시환 현역 은퇴",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8692433"
-        },
-        {
-          "title": "[오피셜]롯데→한화→LG, '현대' 마지막 유산, 20년 마운드 인생 마침표, 가을야구 광탈 LG 11명 방출 '체질개선' 본격화",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/22/GYZDSZJTGI4TKMZXMZSTSZDGMQ/"
-        },
-        {
-          "title": "’유니콘스 마지막 유산’ 떠난다…LG 불펜 장시환 현역 은퇴",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261022140030Isu"
-        }
-      ]
-    },
-    {
-      "title": "짱구",
-      "approx_traffic": "100+",
-      "published": "Wed, 21 Oct 2026 21:00:00 -0700",
-      "news": []
-    },
-    {
-      "title": "정지선",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 20:50:00 -0700",
-      "news": [
-        {
-          "title": "‘흑백요리사’ 정지선, 돌연 유튜브 중단…“언제 돌아올지 약속 못 해”",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261021162801439"
-        },
-        {
-          "title": "정지선 셰프, 16만 유튜브 잠정 중단… “마지막 인사 아니길” - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/22/MJMQBS464ZG23IMQEHSX2MEJPM/"
-        },
-        {
-          "title": "\"당분간 새 영상 없다\"…정지선 셰프 돌연 유튜브 중단",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610227984H"
-        }
-      ]
-    },
-    {
-      "title": "소송",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 20:50:00 -0700",
-      "news": [
-        {
-          "title": "영풍, 고려아연 이사진 상대 주주대표소송 1심 패소...\"항소할 것\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202610221129330535_005.html"
-        },
-        {
-          "title": "영풍·MBK, 고려아연 상대 1兆 소송전 잇따라 패소(종합2보)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022070352004"
-        },
-        {
-          "title": "당시 대표는 최윤범, 누가 94억 승인했나⋯ 측근 ‘상장사 되사기’ 우회지원 의혹",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261022500504"
-        }
-      ]
-    },
-    {
-      "title": "음주 운전",
-      "approx_traffic": "2000+",
-      "published": "Wed, 21 Oct 2026 20:30:00 -0700",
-      "news": [
-        {
-          "title": "\"자녀 학교 데려다주던 길\"‥등굣길 스쿨존 음주 단속에 2건 적발",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6859874_36918.html"
-        },
-        {
-          "title": "아이 등교시키려 음주운전?…1시간 만에 ‘면허정지’ 2건 [현장영상]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8692494"
-        },
-        {
-          "title": "\"어젯밤 맥주 2잔\"…스쿨존 단속 1시간만에 '면허정지' 2건",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022094600004"
-        }
-      ]
-    },
-    {
-      "title": "장기 기증",
-      "approx_traffic": "2000+",
-      "published": "Wed, 21 Oct 2026 20:30:00 -0700",
-      "news": [
-        {
-          "title": "“19살 아들 가슴에 귀 대고 듣던 심장소리, 누군가의 몸에서 뛴다면…”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1283606.html"
-        },
-        {
-          "title": "\"아들 심장 누군가에게\"…요리사 꿈꾸던 19세, 7명 살리고 떠나",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261022145240ZYV"
-        },
-        {
-          "title": "요리사 꿈꾸던 19세 청년, 장기기증으로 7명에 새 삶",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261022/134887739/1"
         }
       ]
     }
