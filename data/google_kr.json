@@ -1,11 +1,187 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-22T03:39:08+00:00",
+  "fetched_at": "2026-10-22T04:15:13+00:00",
   "items": [
     {
-      "title": "순직",
+      "title": "브래디 앤더슨",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 20:10:00 -0700",
+      "news": [
+        {
+          "title": "스테파니, 메이저리거 ‘23살 연상’ 美남친 언급..“술·담배 안하고 몸 단단” (‘노빠꾸’)",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/21/HA4TOYJTHAZDCMRVMY3WCMTBGM/"
+        },
+        {
+          "title": "'천상지희' 스테파니 \"23세 연상 美 남친, 집에서 옷 거의 안 입고 다닌다\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6327968"
+        },
+        {
+          "title": "스테파니 \"23살 연상 美 남친, 세대차 없다…빚 갚아줄수 있지만 안 갚아줘\"",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014658"
+        }
+      ]
+    },
+    {
+      "title": "nba",
+      "approx_traffic": "500+",
+      "published": "Wed, 21 Oct 2026 20:10:00 -0700",
+      "news": [
+        {
+          "title": "Kyrie Irving hints at retiring before early 40s. ‘Not the same NBA I fell in love with as a kid’ - The Athletic",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/athletic/7705366/2026/10/19/kyrie-irving-nba-gambling-retire-mavericks/"
+        },
+        {
+          "title": "Mavs Notes: Irving, Powell, Cisse, Injuries, Johnson",
+          "source": "Hoops Rumors",
+          "url": "https://www.hoopsrumors.com/2026/10/mavs-notes-irving-powell-cisse-injuries-johnson.html"
+        },
+        {
+          "title": "Mavericks' Kyrie Irving Has No Interest in Matching LeBron James’ Longevity",
+          "source": "Sports Illustrated",
+          "url": "https://www.si.com/nba/mavericks/onsi/dallas-mavericks-kyrie-irving-no-interest-matching-lebron-james-longevity-"
+        }
+      ]
+    },
+    {
+      "title": "북항친수공원",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 20:10:00 -0700",
+      "news": [
+        {
+          "title": "“부캉아 왜 돌아왔니 ㅠㅠ”…먼 바다로 나간줄 알았더니 전날 밤 수로 재진입",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610220907001"
+        },
+        {
+          "title": "수로 밖 나간 상어 '부캉이' 다시 돌아왔다…외해 복귀 못 해",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261022023800051"
+        },
+        {
+          "title": "부캉이 재진입… 해양생물전문가들 “외해 재유도가 최우선”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/animalpeople/human_animal/1283616.html"
+        }
+      ]
+    },
+    {
+      "title": "김혜성",
+      "approx_traffic": "2000+",
+      "published": "Wed, 21 Oct 2026 20:00:00 -0700",
+      "news": [
+        {
+          "title": "충격! “김혜성 결국 다저스 떠난다” 美 트레이드 방출 가능성 제기 왜? “다저스 좋아한다” 고백에도 불안한 입지 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/22/202610220730776386O"
+        },
+        {
+          "title": "투수 교체 타이밍 놓치더니, 대타까지 실패…또 소환된 '돌버츠', 스윕승 거둔 적장 생각은 달랐다?",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/10/21/G44TANBZGAZGMNLGMIZDSNZUMY/"
+        },
+        {
+          "title": "“다저스 노쇠화 모두 알고 있잖아”…특급 유망주 기용 절실! 그런데 오타니·테오스카·터커 있다",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/sports/article/all/20261021/134884491/1"
+        }
+      ]
+    },
+    {
+      "title": "문상철",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 20:00:00 -0700",
+      "news": [
+        {
+          "title": "‘끝내기 4회’ kt 문상철, 은퇴 선언 “뜨거운 응원 잊지 못할 것”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8692399"
+        },
+        {
+          "title": "’KT 창단 멤버’ 문상철, 은퇴 선언… 2027시즌 중 은퇴식 개최",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261022113704ukI"
+        },
+        {
+          "title": "[공식발표] ‘35세’ 안우진 킬러 전격 은퇴 선언, 창단 멤버 합류→12년 커리어 마침표 “위즈파크 함성, 평생 잊지 못할 것”",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112896641"
+        }
+      ]
+    },
+    {
+      "title": "길바닥",
+      "approx_traffic": "500+",
+      "published": "Wed, 21 Oct 2026 19:50:00 -0700",
+      "news": [
+        {
+          "title": "“인도여행 후 실종?” 납치 의심 女 유튜버… ‘궁금한 이야기 Y’까지 나섰다",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610220014003"
+        },
+        {
+          "title": "인도 여행 후 사라진 女유튜버 '길바닥'...결국 SBS가 찾아나섰다",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-10-22/202610220100141510009233"
+        },
+        {
+          "title": "인도 여행중 소식 끊인 女 유튜버…결국 방송서 취재 나섰다 [자막뉴스]",
+          "source": "채널A 뉴스",
+          "url": "https://ichannela.com/news/detail/000000556289.do"
+        }
+      ]
+    },
+    {
+      "title": "퇴직",
       "approx_traffic": "1000+",
+      "published": "Wed, 21 Oct 2026 19:40:00 -0700",
+      "news": [
+        {
+          "title": "\"내 노후자금 어쩌나\" 연금 개미들 눈물…12조 증발",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026102167161"
+        },
+        {
+          "title": "iM증권, 3분기 퇴직연금 IRP 수익률 20.8%…증권사 1위",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03726086645615544"
+        },
+        {
+          "title": "우리은행, 3분기 퇴직연금 DC 수익률 1위",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261022000041"
+        }
+      ]
+    },
+    {
+      "title": "이창훈",
+      "approx_traffic": "500+",
+      "published": "Wed, 21 Oct 2026 19:40:00 -0700",
+      "news": [
+        {
+          "title": "이창훈, 17세 연하 아내와 첫 만남…\"심형탁 소개로 만나\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261021_0003834985"
+        },
+        {
+          "title": "이창훈 \"주식 때문에 스트레스…홀랑 다 날렸다\" 투자 실패 고백",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6327354"
+        },
+        {
+          "title": "오은영 ‘과보호’ 경고 결국…이창훈 “고2 딸, 전자레인지도 못 돌려” 후회",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/culture/12182438"
+        }
+      ]
+    },
+    {
+      "title": "순직",
+      "approx_traffic": "2000+",
       "published": "Wed, 21 Oct 2026 19:30:00 -0700",
       "news": [
         {
@@ -19,207 +195,31 @@
           "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148973976"
         },
         {
-          "title": "(경기도 대변인 서면 브리핑)추미애 지사, ‘소방관 안전 강화 위한 대책 마련’ 지시",
-          "source": "경기도뉴스포털",
-          "url": "https://gnews.gg.go.kr/briefing/brief_gongbo_view.do?BS_CODE=s017&number=71777"
-        }
-      ]
-    },
-    {
-      "title": "외야수",
-      "approx_traffic": "500+",
-      "published": "Wed, 21 Oct 2026 19:30:00 -0700",
-      "news": [
-        {
-          "title": "'깜짝' 국대 외야수 2루수 복귀 선언…\"미련 남아 후회하고 싶지 않았어요\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/21/GE4WGMTEMVQWINBWHA2WCZBQMU/"
-        },
-        {
-          "title": "'16억+@'에 롯데 떠난 손아섭은 지금.. 20억 포기한 박용택은 LG 영구결번",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/21/GJTGIN3BGVQTGOLFMJRGKYLBGY/"
-        },
-        {
-          "title": "고작 30살인데 방출 충격! 제2의 김동주로 불렸던 거포, 11년 프로생활 끝→왜 고개 숙였나 “죄송한 마음 갖고 떠난다”",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112896034"
+          "title": "'진입하라' 해놓고 \"인화물질 많다\" 뒷북 무전",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6859501_37012.html"
         }
       ]
     },
     {
       "title": "구매력",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Wed, 21 Oct 2026 19:30:00 -0700",
       "news": [
         {
-          "title": "한은, 기준금리 연 3.0%로 동결…\"인상 효과 점검해야\"",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610227805i"
+          "title": "한은, 기준금리 연 3.0% 동결‥긴축 속도 조절",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6859857_36932.html"
         },
         {
-          "title": "신현송 “물가, 후년에는 목표 수준 가까이 갈 것”",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03932726645615544"
+          "title": "금통위 만장일치 동결…인상 영향 점검·추가 인상기조는 유지(종합)",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440589"
         },
         {
           "title": "[속보] 한국은행, 기준금리 연 3.00%로 동결",
           "source": "YTN",
           "url": "https://www.ytn.co.kr/_cs/_ln_0102_202610220953133009_005.html"
-        }
-      ]
-    },
-    {
-      "title": "이동국",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 19:30:00 -0700",
-      "news": [
-        {
-          "title": "“10개월간 출근 26일?”…이동국·용인FC 해명은 [잇슈 키워드]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8692020"
-        },
-        {
-          "title": "'출근 안 한' 이동국, 근무 태만?…\"해외 협약·유소년 업무\" 시선도 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/10/22/2026102209565833959"
-        },
-        {
-          "title": "\"세금으로 연봉 '1억4천' 받는데 26일 출근\"…해명 보니",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=05169286645615216&mediaCodeNo=257"
-        }
-      ]
-    },
-    {
-      "title": "론스타",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 19:20:00 -0700",
-      "news": [
-        {
-          "title": "[속보] 론스타 ‘1682억 세금 반환 소송’ 파기환송심서 패소",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/court_law/2026/10/22/DYVCZO7BFBCQZLNLROSGKRTXGQ/"
-        },
-        {
-          "title": "\"론스타에 1,600억 세금 돌려줄 필요 없어\"…정부 승소",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261022114639xCq"
-        },
-        {
-          "title": "법무부 \"론스타펀드 2800억원 법인세 소송 전부 승소\"",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261022000680"
-        }
-      ]
-    },
-    {
-      "title": "데이터 센터",
-      "approx_traffic": "500+",
-      "published": "Wed, 21 Oct 2026 19:10:00 -0700",
-      "news": [
-        {
-          "title": "CJ대한통운 건설부문, KT클라우드 안산 AI데이터센터 공사 수주",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022056600003"
-        },
-        {
-          "title": "KT클라우드, 50MW 규모 '안산 AIDC' 착공…2029년 준공",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261022_0003836163"
-        },
-        {
-          "title": "KT 해킹 후유증에 3분기 실적 주춤, 박윤영 4분기부터 수익성 회복 '물꼬'",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=449804"
-        }
-      ]
-    },
-    {
-      "title": "메이플 이스케이프",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 19:10:00 -0700",
-      "news": [
-        {
-          "title": "게임에서 단서 찾고 홍대서 방탈출까지…넥슨, '메이플 이스케이프' 선보여",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1704669/%EA%B2%8C%EC%9E%84-%EB%8B%A8%EC%84%9C-%EC%B0%BE%EA%B3%A0-%ED%99%8D%EB%8C%80%EC%84%9C-%EB%B0%A9%ED%83%88%EC%B6%9C%EA%B9%8C%EC%A7%80%EB%84%A5%EC%8A%A8-2026"
-        },
-        {
-          "title": "메이플스토리, 5년 만에 금손 어워즈 개최…가을 업데이트 실시",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/entertainment/2026-10-22/202610220100141350009222"
-        },
-        {
-          "title": "메이플스토리 10월 부티크 기프트 총정리: 솔 헤카테 스킨 에스텔부터 한정 의상까지",
-          "source": "MMOEXP",
-          "url": "https://www.mmoexp.com/News/maplestory-october-boutique-gifts-from-the-new-estelle-sol-hecate-skin-to-limited-edition-outfits.html"
-        }
-      ]
-    },
-    {
-      "title": "kbs",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 19:00:00 -0700",
-      "news": [
-        {
-          "title": "Lee Hyun-wook vows to protect Silla and pursue Three Kingdoms unification - CHOSUNBIZ",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-entertainment/2026/10/22/HI4TEXFHC5DSPCOALHCR4O2XYA/"
-        },
-        {
-          "title": "KBS 'Munmu' Teaser Highlights King Munmu's Pledge to Protect Silla",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/kpop-culture-en/2026/10/22/6J3XO3M2BFCKJHODNKNHIZU6Y4/"
-        },
-        {
-          "title": "Yang Hyun-min, Lee Ji-hoon lead Tang power struggle in The Great King Munmu - CHOSUNBIZ",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-entertainment/2026/10/21/JXHQBSC3IJBTZEYGJQI535GQOI/"
-        }
-      ]
-    },
-    {
-      "title": "동탄신도시",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 18:50:00 -0700",
-      "news": [
-        {
-          "title": "\"국평 17억인데 싸다고?\"…서울도 아닌데 4만5000명 몰렸다 [주간이집]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026102031886"
-        },
-        {
-          "title": "유모차 행렬에 연차 낸 직장인까지…‘아크메르 동탄’ 북적",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/economy/article/all/20261022/134888343/1"
-        },
-        {
-          "title": "[부동산 AD] 동탄1신도시 중심에 초고층 하이엔드 주거단지 ‘아크메르 동탄’ 분양",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1334688"
-        }
-      ]
-    },
-    {
-      "title": "콜레스테롤",
-      "approx_traffic": "1000+",
-      "published": "Wed, 21 Oct 2026 18:20:00 -0700",
-      "news": [
-        {
-          "title": "동화약품, 복합형 이상지질혈증 치료제 '프라바펜캡슐' 출시···환자 선택권 확대",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=352701"
-        },
-        {
-          "title": "동화약품 ‘프라바펜캡슐’, 콜레스테롤·중성지방 한 캡슐에 선보여",
-          "source": "스트레이트뉴스",
-          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=313695"
-        },
-        {
-          "title": "동화약품 \"복합형 이상지질혈증 치료제 출시\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261022_0003836267"
         }
       ]
     }
