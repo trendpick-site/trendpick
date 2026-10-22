@@ -1,8 +1,52 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-22T02:12:18+00:00",
+  "fetched_at": "2026-10-22T02:45:52+00:00",
   "items": [
+    {
+      "title": "콜레스테롤",
+      "approx_traffic": "1000+",
+      "published": "Wed, 21 Oct 2026 18:20:00 -0700",
+      "news": [
+        {
+          "title": "동화약품, 복합형 이상지질혈증 치료제 '프라바펜캡슐' 출시···환자 선택권 확대",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=352701"
+        },
+        {
+          "title": "동화약품 ‘프라바펜캡슐’, 콜레스테롤·중성지방 한 캡슐에 선보여",
+          "source": "스트레이트뉴스",
+          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=313695"
+        },
+        {
+          "title": "동화약품 \"복합형 이상지질혈증 치료제 출시\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261022_0003836267"
+        }
+      ]
+    },
+    {
+      "title": "la 레이커스 대 골든 스테이트",
+      "approx_traffic": "2000+",
+      "published": "Wed, 21 Oct 2026 18:10:00 -0700",
+      "news": [
+        {
+          "title": "Lakers announce starting lineup for first game in post-LeBron era",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/lakers-announce-starting-lineup-first-015745120.html"
+        },
+        {
+          "title": "Lakers forwards Ziaire Williams and Matisse Thybulle grab final two starting spots",
+          "source": "Los Angeles Times",
+          "url": "https://www.latimes.com/sports/lakers/story/2026-10-21/los-angeles-lakers-golden-state-warriors-nba-opening-game-recap"
+        },
+        {
+          "title": "Dončić, Reaves, Thybulle, Williams, Kessler start",
+          "source": "NBC Sports",
+          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-21/doncic-reaves-thybulle-williams-kessler-start"
+        }
+      ]
+    },
     {
       "title": "반도체산업",
       "approx_traffic": "200+",
@@ -27,7 +71,7 @@
     },
     {
       "title": "금리",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Wed, 21 Oct 2026 17:50:00 -0700",
       "news": [
         {
@@ -36,20 +80,20 @@
           "url": "https://imnews.imbc.com/news/2026/econo/article/6859857_36932.html"
         },
         {
-          "title": "[속보] 한은 금통위, 기준금리 3%로 동결",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/economy_general/2026/10/22/6HXVAFCG2BAXFCLSPHFM5LN6CA/"
+          "title": "[속보]신현송 \"환율, 예측가능성이 중요…예년보다 아직도 원화 약세\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/economy/2026/10/22/2026102211004448091"
         },
         {
-          "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022062900011"
+          "title": "한국은행, 기준금리 3%로 유지… 2회 연속 인상 후 ‘숨고르기’ - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/policy/policy_sub/2026/10/22/7MY2TPTAURFNJFP2Y42QHPIUBM/"
         }
       ]
     },
     {
       "title": "초코파이",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Wed, 21 Oct 2026 17:30:00 -0700",
       "news": [
         {
@@ -159,7 +203,7 @@
     },
     {
       "title": "프랑스 오픈",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Wed, 21 Oct 2026 16:40:00 -0700",
       "news": [
         {
@@ -168,58 +212,14 @@
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8691601"
         },
         {
-          "title": "안세영 \"아직 발목에 불편감\"…주심 판단에 아쉬움 토로",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008809160&plink=ENTER&cooper=SBSNEWSMAIN"
-        },
-        {
           "title": "부상 딛고 '25분 만에 완승'‥안세영, 시즌 10번째 우승 향해 순항",
           "source": "MBC 뉴스",
           "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6859723_37004.html"
-        }
-      ]
-    },
-    {
-      "title": "크비차 크바라트스켈리아",
-      "approx_traffic": "500+",
-      "published": "Wed, 21 Oct 2026 16:30:00 -0700",
-      "news": [
-        {
-          "title": "PSG star Khvicha Kvaratskhelia ruptures ACL; Dembélé, Marquinhos out 'weeks'",
-          "source": "ESPN",
-          "url": "https://www.espn.com/soccer/story/_/id/50235833/khvicha-kvaratskhelia-ruptured-acl-paris-saint-germain-confirm"
         },
         {
-          "title": "PSG's Kvaratskhelia to have surgery on ruptured ACL",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/articles/cxnv0ed5pz23o"
-        },
-        {
-          "title": "'Why me?': PSG's Kvaratskhelia set for knee surgery, Dembele out for weeks",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/sports/soccer/psgs-kvaratskhelia-undergo-surgery-torn-acl-dembele-out-few-weeks-2026-10-21/"
-        }
-      ]
-    },
-    {
-      "title": "버스",
-      "approx_traffic": "1000+",
-      "published": "Wed, 21 Oct 2026 16:30:00 -0700",
-      "news": [
-        {
-          "title": "“버스 무임승차 외국인 잇따라…해외서 ‘한국여행 팁’ 공유”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261022/134886780/2"
-        },
-        {
-          "title": "“잔액 부족” 못 들은 척 버스 타, 외국인 관광객 ‘무임승차’ 꿀팁?",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261021152322117"
-        },
-        {
-          "title": "\"잔액 부족\" 소리에도 슬쩍…외국인 '공짜 버스' 탑승에 분통",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610227402H"
+          "title": "안세영 \"아직 발목에 불편감\"…주심 판단에 아쉬움 토로",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008809160&plink=ENTER&cooper=SBSNEWSMAIN"
         }
       ]
     }
