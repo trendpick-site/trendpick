@@ -1,8 +1,206 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-22T02:45:52+00:00",
+  "fetched_at": "2026-10-22T03:39:08+00:00",
   "items": [
+    {
+      "title": "순직",
+      "approx_traffic": "1000+",
+      "published": "Wed, 21 Oct 2026 19:30:00 -0700",
+      "news": [
+        {
+          "title": "유진그룹, 부천 화재 순직 소방관 유족에 위로금·학자금",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261022067600003"
+        },
+        {
+          "title": "(설명자료) 소방청은 철저한 사고 원인 조사와 현장 지휘역량 강화를 통해 소방대원의 안전 확보에 최선을 다하겠습니다.",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148973976"
+        },
+        {
+          "title": "(경기도 대변인 서면 브리핑)추미애 지사, ‘소방관 안전 강화 위한 대책 마련’ 지시",
+          "source": "경기도뉴스포털",
+          "url": "https://gnews.gg.go.kr/briefing/brief_gongbo_view.do?BS_CODE=s017&number=71777"
+        }
+      ]
+    },
+    {
+      "title": "외야수",
+      "approx_traffic": "500+",
+      "published": "Wed, 21 Oct 2026 19:30:00 -0700",
+      "news": [
+        {
+          "title": "'깜짝' 국대 외야수 2루수 복귀 선언…\"미련 남아 후회하고 싶지 않았어요\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/21/GE4WGMTEMVQWINBWHA2WCZBQMU/"
+        },
+        {
+          "title": "'16억+@'에 롯데 떠난 손아섭은 지금.. 20억 포기한 박용택은 LG 영구결번",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/21/GJTGIN3BGVQTGOLFMJRGKYLBGY/"
+        },
+        {
+          "title": "고작 30살인데 방출 충격! 제2의 김동주로 불렸던 거포, 11년 프로생활 끝→왜 고개 숙였나 “죄송한 마음 갖고 떠난다”",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112896034"
+        }
+      ]
+    },
+    {
+      "title": "구매력",
+      "approx_traffic": "500+",
+      "published": "Wed, 21 Oct 2026 19:30:00 -0700",
+      "news": [
+        {
+          "title": "한은, 기준금리 연 3.0%로 동결…\"인상 효과 점검해야\"",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610227805i"
+        },
+        {
+          "title": "신현송 “물가, 후년에는 목표 수준 가까이 갈 것”",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03932726645615544"
+        },
+        {
+          "title": "[속보] 한국은행, 기준금리 연 3.00%로 동결",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0102_202610220953133009_005.html"
+        }
+      ]
+    },
+    {
+      "title": "이동국",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 19:30:00 -0700",
+      "news": [
+        {
+          "title": "“10개월간 출근 26일?”…이동국·용인FC 해명은 [잇슈 키워드]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8692020"
+        },
+        {
+          "title": "'출근 안 한' 이동국, 근무 태만?…\"해외 협약·유소년 업무\" 시선도 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/22/2026102209565833959"
+        },
+        {
+          "title": "\"세금으로 연봉 '1억4천' 받는데 26일 출근\"…해명 보니",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=05169286645615216&mediaCodeNo=257"
+        }
+      ]
+    },
+    {
+      "title": "론스타",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 19:20:00 -0700",
+      "news": [
+        {
+          "title": "[속보] 론스타 ‘1682억 세금 반환 소송’ 파기환송심서 패소",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/court_law/2026/10/22/DYVCZO7BFBCQZLNLROSGKRTXGQ/"
+        },
+        {
+          "title": "\"론스타에 1,600억 세금 돌려줄 필요 없어\"…정부 승소",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261022114639xCq"
+        },
+        {
+          "title": "법무부 \"론스타펀드 2800억원 법인세 소송 전부 승소\"",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261022000680"
+        }
+      ]
+    },
+    {
+      "title": "데이터 센터",
+      "approx_traffic": "500+",
+      "published": "Wed, 21 Oct 2026 19:10:00 -0700",
+      "news": [
+        {
+          "title": "CJ대한통운 건설부문, KT클라우드 안산 AI데이터센터 공사 수주",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261022056600003"
+        },
+        {
+          "title": "KT클라우드, 50MW 규모 '안산 AIDC' 착공…2029년 준공",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261022_0003836163"
+        },
+        {
+          "title": "KT 해킹 후유증에 3분기 실적 주춤, 박윤영 4분기부터 수익성 회복 '물꼬'",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=449804"
+        }
+      ]
+    },
+    {
+      "title": "메이플 이스케이프",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 19:10:00 -0700",
+      "news": [
+        {
+          "title": "게임에서 단서 찾고 홍대서 방탈출까지…넥슨, '메이플 이스케이프' 선보여",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1704669/%EA%B2%8C%EC%9E%84-%EB%8B%A8%EC%84%9C-%EC%B0%BE%EA%B3%A0-%ED%99%8D%EB%8C%80%EC%84%9C-%EB%B0%A9%ED%83%88%EC%B6%9C%EA%B9%8C%EC%A7%80%EB%84%A5%EC%8A%A8-2026"
+        },
+        {
+          "title": "메이플스토리, 5년 만에 금손 어워즈 개최…가을 업데이트 실시",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-10-22/202610220100141350009222"
+        },
+        {
+          "title": "메이플스토리 10월 부티크 기프트 총정리: 솔 헤카테 스킨 에스텔부터 한정 의상까지",
+          "source": "MMOEXP",
+          "url": "https://www.mmoexp.com/News/maplestory-october-boutique-gifts-from-the-new-estelle-sol-hecate-skin-to-limited-edition-outfits.html"
+        }
+      ]
+    },
+    {
+      "title": "kbs",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 19:00:00 -0700",
+      "news": [
+        {
+          "title": "Lee Hyun-wook vows to protect Silla and pursue Three Kingdoms unification - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-entertainment/2026/10/22/HI4TEXFHC5DSPCOALHCR4O2XYA/"
+        },
+        {
+          "title": "KBS 'Munmu' Teaser Highlights King Munmu's Pledge to Protect Silla",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/kpop-culture-en/2026/10/22/6J3XO3M2BFCKJHODNKNHIZU6Y4/"
+        },
+        {
+          "title": "Yang Hyun-min, Lee Ji-hoon lead Tang power struggle in The Great King Munmu - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-entertainment/2026/10/21/JXHQBSC3IJBTZEYGJQI535GQOI/"
+        }
+      ]
+    },
+    {
+      "title": "동탄신도시",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 18:50:00 -0700",
+      "news": [
+        {
+          "title": "\"국평 17억인데 싸다고?\"…서울도 아닌데 4만5000명 몰렸다 [주간이집]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026102031886"
+        },
+        {
+          "title": "유모차 행렬에 연차 낸 직장인까지…‘아크메르 동탄’ 북적",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/economy/article/all/20261022/134888343/1"
+        },
+        {
+          "title": "[부동산 AD] 동탄1신도시 중심에 초고층 하이엔드 주거단지 ‘아크메르 동탄’ 분양",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1334688"
+        }
+      ]
+    },
     {
       "title": "콜레스테롤",
       "approx_traffic": "1000+",
@@ -22,204 +220,6 @@
           "title": "동화약품 \"복합형 이상지질혈증 치료제 출시\"",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20261022_0003836267"
-        }
-      ]
-    },
-    {
-      "title": "la 레이커스 대 골든 스테이트",
-      "approx_traffic": "2000+",
-      "published": "Wed, 21 Oct 2026 18:10:00 -0700",
-      "news": [
-        {
-          "title": "Lakers announce starting lineup for first game in post-LeBron era",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/lakers-announce-starting-lineup-first-015745120.html"
-        },
-        {
-          "title": "Lakers forwards Ziaire Williams and Matisse Thybulle grab final two starting spots",
-          "source": "Los Angeles Times",
-          "url": "https://www.latimes.com/sports/lakers/story/2026-10-21/los-angeles-lakers-golden-state-warriors-nba-opening-game-recap"
-        },
-        {
-          "title": "Dončić, Reaves, Thybulle, Williams, Kessler start",
-          "source": "NBC Sports",
-          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-21/doncic-reaves-thybulle-williams-kessler-start"
-        }
-      ]
-    },
-    {
-      "title": "반도체산업",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 17:50:00 -0700",
-      "news": [
-        {
-          "title": "어플라이드 머티어리얼즈 코리아, 반도체의 날 산업포장 수훈",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022053400003"
-        },
-        {
-          "title": "캔터 피츠제럴드, 마진 전망 검토 후 어플라이드 머티어리얼즈 투자의견 유지",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/analyst-ratings/article-93CH-2133280"
-        },
-        {
-          "title": "어플라이드, 반도체의 날 산업포장 수훈… 글로벌 R&D 협력 공로",
-          "source": "아주경제",
-          "url": "https://www.ajunews.com/view/20261022091745089"
-        }
-      ]
-    },
-    {
-      "title": "금리",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 17:50:00 -0700",
-      "news": [
-        {
-          "title": "한은, 기준금리 연 3.0% 동결‥긴축 속도 조절",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6859857_36932.html"
-        },
-        {
-          "title": "[속보]신현송 \"환율, 예측가능성이 중요…예년보다 아직도 원화 약세\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/economy/2026/10/22/2026102211004448091"
-        },
-        {
-          "title": "한국은행, 기준금리 3%로 유지… 2회 연속 인상 후 ‘숨고르기’ - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/policy/policy_sub/2026/10/22/7MY2TPTAURFNJFP2Y42QHPIUBM/"
-        }
-      ]
-    },
-    {
-      "title": "초코파이",
-      "approx_traffic": "1000+",
-      "published": "Wed, 21 Oct 2026 17:30:00 -0700",
-      "news": [
-        {
-          "title": "오리온, '카스타드' 해외 인기에 생산라인 증설…연3천억원 규모",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022027300030"
-        },
-        {
-          "title": "한국에서 온 '고급 디저트'…중국·베트남서 대박 난 '오리온 카스타드' 생산라인 증설",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026102208025545397"
-        },
-        {
-          "title": "\"세계인이 찾는 카스타드\" 오리온, 韓·베트남·인도 생산라인 증설",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261022_0003836001"
-        }
-      ]
-    },
-    {
-      "title": "claude duet",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 17:30:00 -0700",
-      "news": [
-        {
-          "title": "Anthropic unveils Claude Duet AI agent app",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/technology/anthropic-unveils-claude-duet-ai-agent-app-2026-10-21/"
-        },
-        {
-          "title": "Anthropic announces preview of Claude Duet, a personal AI agent to take on Muse, Dots",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/21/anthropic-preview-of-claude-duet-personal-ai-agent-take-on-muse-dots.html"
-        },
-        {
-          "title": "Anthropic’s New Agent Has No Cute Mascot, and You Probably Can’t Try It Yet",
-          "source": "Gizmodo",
-          "url": "https://gizmodo.com/anthropics-new-agent-has-no-cute-mascot-and-you-probably-cant-try-it-yet-2000829184"
-        }
-      ]
-    },
-    {
-      "title": "독도",
-      "approx_traffic": "1000+",
-      "published": "Wed, 21 Oct 2026 17:20:00 -0700",
-      "news": [
-        {
-          "title": "'독도 영토주권 되새긴다'…경북도 독도의 달 기념행사",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261021122100053"
-        },
-        {
-          "title": "문서·지도부터 체험까지… 독립기념관, 찾아가는 독도학교",
-          "source": "천지일보",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3442213"
-        },
-        {
-          "title": "2028년 울릉도에 ‘독도교육원’ 문 연다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261020/134877269/2"
-        }
-      ]
-    },
-    {
-      "title": "레이 아미",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 17:20:00 -0700",
-      "news": [
-        {
-          "title": "무명 가수서 ‘케데헌’ 조이로… “예은이란 이름 자랑스러워”",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/culture-life/culture_general/2026/10/22/Z5NTUGWIR5AWBA5JVU4CHATXT4/"
-        },
-        {
-          "title": "레이 아미 \"김밥으로 놀림받았는데…'케데헌' 덕에 제 모습 찾았죠\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261020142300005"
-        },
-        {
-          "title": "레이 아미, 12년 만의 금의환향…'케데헌' 신드롬 지나 가장 한국적인 나로",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261021_0003834354"
-        }
-      ]
-    },
-    {
-      "title": "국가보훈부",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 16:50:00 -0700",
-      "news": [
-        {
-          "title": "보훈부, 신임 공직자 '독립·호국·민주' 현장체험 확대 추진",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6327985"
-        },
-        {
-          "title": "신임 공무원 독립·호국·민주 역사 현장교육 확대…국가인재원·보훈부 협력",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261022000234"
-        },
-        {
-          "title": "국가인재원·보훈부, 신임 공직자 역사교육 강화 논의",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261022500420"
-        }
-      ]
-    },
-    {
-      "title": "프랑스 오픈",
-      "approx_traffic": "500+",
-      "published": "Wed, 21 Oct 2026 16:40:00 -0700",
-      "news": [
-        {
-          "title": "부상 우려 지운 안세영, 25분 만에 프랑스오픈 16강 진출…시즌 10승 시동",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8691601"
-        },
-        {
-          "title": "부상 딛고 '25분 만에 완승'‥안세영, 시즌 10번째 우승 향해 순항",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6859723_37004.html"
-        },
-        {
-          "title": "안세영 \"아직 발목에 불편감\"…주심 판단에 아쉬움 토로",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008809160&plink=ENTER&cooper=SBSNEWSMAIN"
         }
       ]
     }
