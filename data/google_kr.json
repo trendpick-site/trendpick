@@ -1,27 +1,159 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-23T07:25:26+00:00",
+  "fetched_at": "2026-10-23T08:16:33+00:00",
   "items": [
+    {
+      "title": "에너지 위기",
+      "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 00:00:00 -0700",
+      "news": [
+        {
+          "title": "\"에너지 다음은 식량 위기\"…경유·비료값 급등에 엘니뇨까지",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261023007200072"
+        },
+        {
+          "title": "S&P 글로벌, 호르무즈 에너지 충격 글로벌 식량난으로 번질 위험",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440637"
+        },
+        {
+          "title": "[선재식]밀·콩 자급화가 시급하다",
+          "source": "열린순창",
+          "url": "https://www.opsc.kr/news/articleView.html?idxno=49271"
+        }
+      ]
+    },
+    {
+      "title": "인플 루 언서",
+      "approx_traffic": "1000+",
+      "published": "Thu, 22 Oct 2026 23:50:00 -0700",
+      "news": [
+        {
+          "title": "\"35층 추락, 생존\"…오른쪽 다리 잃은 27세 인플루언서 17개월 만에 컴백",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/world/general-world/6328661"
+        },
+        {
+          "title": "여성 스트리머, 35층 추락사했지만 살아남아 \"정말 운이 좋았어요\"",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nu-streamer-song-sot-sau-cu-roi-tang-35-toi-may-man"
+        },
+        {
+          "title": "35층 추락서 살아남은 中 싱웨이, 17개월 만에 복귀 : 국제",
+          "source": "재경일보",
+          "url": "https://news.jkn.co.kr/post/1042394"
+        }
+      ]
+    },
+    {
+      "title": "node.js 취약점",
+      "approx_traffic": "200+",
+      "published": "Thu, 22 Oct 2026 23:50:00 -0700",
+      "news": [
+        {
+          "title": "Node.js 2026년 10월 21일 보안패치 공개",
+          "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+          "url": "https://news.hada.io/topic?id=35798"
+        },
+        {
+          "title": "PHP 이어 Node.js도 뚫렸다... 원격 코드 실행 PoC 공개",
+          "source": "보안뉴스",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=146700"
+        },
+        {
+          "title": "배경훈 “PHP 취약점 계기, 범부처 종합대책 마련할 것”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8693627"
+        }
+      ]
+    },
+    {
+      "title": "사업",
+      "approx_traffic": "200+",
+      "published": "Thu, 22 Oct 2026 23:40:00 -0700",
+      "news": [
+        {
+          "title": "카카오, ‘2026 대한민국 소상공인대회’ 참가… 소상공인·지역 상생 사업 알린다",
+          "source": "카카오",
+          "url": "https://www.kakaocorp.com/page/detail/12178"
+        },
+        {
+          "title": "[부산소식]출입국·외국인청, 소상공인대회서 상담부스 등",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261023_0003838728"
+        },
+        {
+          "title": "“드론 날리고, 케이크 만들고, 맛보고 쇼핑까지”…전국 ‘동네 사장님’ 200곳 부산에 집결",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11625636"
+        }
+      ]
+    },
+    {
+      "title": "cve-2026-111497",
+      "approx_traffic": "200+",
+      "published": "Thu, 22 Oct 2026 23:30:00 -0700",
+      "news": [
+        {
+          "title": "Node2Shell: Node.js Brotli vulnerability allows remote code execution (CVE-2026-111497) and the fix",
+          "source": "Aikido Security",
+          "url": "https://www.aikido.dev/blog/node2shell-nodejs-brotli-rce-cve-2026-111497"
+        },
+        {
+          "title": "NEAR Co-Founder Flags Internet Security Risks as PHP, Node.js Patch Flaws",
+          "source": "TOKENPOST",
+          "url": "https://www.tokenpost.com/news/technology/38191"
+        },
+        {
+          "title": "Node.js has released security updates '22.23.4', '24.22.1', and '26.12.1', fixing a total of 10 vulnerabilities.",
+          "source": "GIGAZINE",
+          "url": "https://gigazine.net/gsc_news/en/20261022-node-js-security-releases/"
+        }
+      ]
+    },
+    {
+      "title": "풍자",
+      "approx_traffic": "200+",
+      "published": "Thu, 22 Oct 2026 23:30:00 -0700",
+      "news": [
+        {
+          "title": "풍자, 한혜진 옆 '이쁜척'…37㎏ 감량의 힘",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261021_0003835400"
+        },
+        {
+          "title": "\"풍자인 줄 몰랐다\"…37㎏ 빼고 확 달라진 얼굴 '깜짝' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/23/2026102315303718333"
+        },
+        {
+          "title": "\"살 쏙 빠지더니 이런 청순미가?\"...풍자, 긴 머리 늘어뜨린 '반전 비주얼'",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261021142725787"
+        }
+      ]
+    },
     {
       "title": "상장지수 펀드",
       "approx_traffic": "200+",
       "published": "Thu, 22 Oct 2026 23:10:00 -0700",
       "news": [
         {
+          "title": "국내외 우주기업 투자 등 ETF 3종, 27일 신규 상장",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261023151100008"
+        },
+        {
+          "title": "대형주에서 우주산업까지…한국거래소, ETF 3종 상장",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261023001160"
+        },
+        {
           "title": "중동발 공급 불안에 원유 ETF '들썩'…한달 새 두자릿수 급등",
           "source": "한국경제",
           "url": "https://www.hankyung.com/article/202610230944i"
-        },
-        {
-          "title": "[미국 ETF 히든 챔피언] (69) 정제 마진 급등에 CRAK 81% 잭팟",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261022001185"
-        },
-        {
-          "title": "상반기 팔던 美채권, 넉 달째 담는다…고금리에 달라진 투자 셈법",
-          "source": "www.dt.co.kr",
-          "url": "https://www.dt.co.kr/article/12090792"
         }
       ]
     },
@@ -49,7 +181,7 @@
     },
     {
       "title": "김미화",
-      "approx_traffic": "2000+",
+      "approx_traffic": "5000+",
       "published": "Thu, 22 Oct 2026 22:50:00 -0700",
       "news": [
         {
@@ -70,52 +202,8 @@
       ]
     },
     {
-      "title": "hd현대",
-      "approx_traffic": "1000+",
-      "published": "Thu, 22 Oct 2026 22:50:00 -0700",
-      "news": [
-        {
-          "title": "HD현대, 미국에 조선소 짓는다… 마스가 다시 속도",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/industry-company/2026/10/23/GFTCAZ4QLZG65PKQCZ4GRK6OTI/"
-        },
-        {
-          "title": "HD현대, 美에 신규 조선소 건립…키윗社와 합작법인 설립",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261023000203"
-        },
-        {
-          "title": "HD현대, 키윗과 美 조선산업 재건 나선다",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=719469"
-        }
-      ]
-    },
-    {
-      "title": "고종욱",
-      "approx_traffic": "200+",
-      "published": "Thu, 22 Oct 2026 22:50:00 -0700",
-      "news": [
-        {
-          "title": "프로야구 KIA, 고종욱·이창진·홍건희·김대유 방출",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023104200007"
-        },
-        {
-          "title": "FA로 친정 왔는데 ‘6.5억 먹튀’ 전락 홍건희 방출…KIA 선수단 정리",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/sport/baseball/2026/10/23/20261023500152"
-        },
-        {
-          "title": "[프로야구] KIA, 홍건희 복귀 1년 만에 결별…고종욱·이창진 등 6명 방출",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261023000899"
-        }
-      ]
-    },
-    {
       "title": "토스뱅크",
-      "approx_traffic": "200+",
+      "approx_traffic": "1000+",
       "published": "Thu, 22 Oct 2026 22:50:00 -0700",
       "news": [
         {
@@ -132,94 +220,6 @@
           "title": "토스뱅크, 325억원 규모 입금 오류… 2주간 250억원 회수 - 조선비즈",
           "source": "Chosunbiz",
           "url": "https://biz.chosun.com/stock/finance/2026/10/22/OS4XWUON4BCD5NZTB2DSHADPTE/"
-        }
-      ]
-    },
-    {
-      "title": "김광삼",
-      "approx_traffic": "500+",
-      "published": "Thu, 22 Oct 2026 22:40:00 -0700",
-      "news": [
-        {
-          "title": "‘류지현 체제’ 프로야구 한화, 김광삼 투수코치 영입",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8693652"
-        },
-        {
-          "title": "프로야구 한화, 김광삼 투수 코치·진종길 수비 코치 영입",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812088"
-        },
-        {
-          "title": "그가 떠난 자리엔 늘 '왕조'가 섰다,'1000승 명장' 유산 품은 류지현, 한화 미래가 밝은 이유",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/22/HEZDMOJUHEYGENDDMUYTEYZUGM/"
-        }
-      ]
-    },
-    {
-      "title": "기호일보",
-      "approx_traffic": "200+",
-      "published": "Thu, 22 Oct 2026 22:40:00 -0700",
-      "news": [
-        {
-          "title": "[긴급점검] 인천 영종 시내버스 운행 ‘개악’",
-          "source": "기호일보",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3038424"
-        },
-        {
-          "title": "인천공항 품은 영종, 정작 공항 가는 길은 먼 길?",
-          "source": "기호일보",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3038400"
-        },
-        {
-          "title": "캠핑과 트레킹에 안성맞춤 소야도",
-          "source": "기호일보",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3038346"
-        }
-      ]
-    },
-    {
-      "title": "인플루언서",
-      "approx_traffic": "500+",
-      "published": "Thu, 22 Oct 2026 22:30:00 -0700",
-      "news": [
-        {
-          "title": "\"35층 추락, 생존\"…오른쪽 다리 잃은 27세 인플루언서 17개월 만에 컴백",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/world/general-world/6328661"
-        },
-        {
-          "title": "여성 스트리머, 35층 추락사했지만 살아남아 \"정말 운이 좋았어요\"",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nu-streamer-song-sot-sau-cu-roi-tang-35-toi-may-man"
-        },
-        {
-          "title": "35층 추락서 살아남은 中 싱웨이, 17개월 만에 복귀 : 국제",
-          "source": "재경일보",
-          "url": "https://news.jkn.co.kr/post/1042394"
-        }
-      ]
-    },
-    {
-      "title": "한고은",
-      "approx_traffic": "5000+",
-      "published": "Thu, 22 Oct 2026 22:20:00 -0700",
-      "news": [
-        {
-          "title": "“내 재산 모두 남편에게” 한고은♥신영수, 유언장 쓰며 전한 눈물의 진심",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610231146003"
-        },
-        {
-          "title": "‘無자녀’ 한고은, ♥신영수에 전재산 상속 선언 \"유언장에 내 재산 다 가지라고 적어\"",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/entertainment/2026-10-22/202610220100146430009500"
-        },
-        {
-          "title": "\"전 재산 남편에게\"…한고은 유언장 쓴 이유 [소셜in]",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522194"
         }
       ]
     }
