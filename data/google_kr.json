@@ -1,11 +1,143 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-23T17:13:30+00:00",
+  "fetched_at": "2026-10-23T18:05:48+00:00",
   "items": [
     {
-      "title": "월즈",
+      "title": "ufc 333",
+      "approx_traffic": "100+",
+      "published": "Fri, 23 Oct 2026 10:00:00 -0700",
+      "news": [
+        {
+          "title": "Opinion: UFC 333 could reshape featherweight, bantamweight GOAT debates",
+          "source": "Sherdog",
+          "url": "https://www.sherdog.com/news/articles/Opinion-UFC-333-could-reshape-featherweight-bantamweight-GOAT-debates-203306"
+        },
+        {
+          "title": "‘It’s good to be back in Abu Dhabi’: Dana White sets the stage for UFC 333",
+          "source": "Arab News",
+          "url": "https://www.arabnews.com/sport/its-good-to-be-back-in-abu-dhabi-dana-white-sets-the-stage-for-ufc-333-3007902"
+        },
+        {
+          "title": "UFC 333 video: Alexander Volkanovski, Movsar Evloev make weight for title fight",
+          "source": "MMA Junkie",
+          "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/23/ufc-333-weigh-in-video-alexander-volkanovski-vs-movsar-evloev-official/92383876007/"
+        }
+      ]
+    },
+    {
+      "title": "롤",
       "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 09:50:00 -0700",
+      "news": [
+        {
+          "title": "[오!쎈 인터뷰] \"목표는 8강 진출\"… '칸나' 김창동이 꿈꾸는 2026 롤드컵",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112897466"
+        },
+        {
+          "title": "[Oh!쎈 롤챔스] LCK 아픔 딛고 유럽서 만개한 '예후'… \"이제는 쵸비·제카와 붙고 싶다\"",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261023003736690"
+        },
+        {
+          "title": "[롤드컵] '카엘' 김진홍, \"첫 목표는 최대한 8강 가는 것\"",
+          "source": "데일리e스포츠",
+          "url": "https://www.dailyesports.com/view.php?ud=202610230021136243b91e133c1f_27"
+        }
+      ]
+    },
+    {
+      "title": "업비트",
+      "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 09:50:00 -0700",
+      "news": [
+        {
+          "title": "업비트, 이니시아(INIT) 보안 사고 정황으로 입출금 일시 중단",
+          "source": "이코노미블록",
+          "url": "https://economybloc.com/article/119901/"
+        },
+        {
+          "title": "이니시아 \"보안 사고로 블록체인 운영 중단…영향 범위 조사\"",
+          "source": "이코노미블록",
+          "url": "https://economybloc.com/news/119902/"
+        },
+        {
+          "title": "비트코인 8만달러대 횡보 계속…美 기술주 부진에 '흔들' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/10/23/2026102317020138251"
+        }
+      ]
+    },
+    {
+      "title": "리그오브레전드",
+      "approx_traffic": "100+",
+      "published": "Fri, 23 Oct 2026 09:50:00 -0700",
+      "news": [
+        {
+          "title": "넥슨, '서든어택 챔피언십 시즌2' 24일 개막",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261023001115"
+        },
+        {
+          "title": "‘200 FPS 첫 도입’ 서든어택 승부가 달라진다…8000만원 우승 전쟁, 24일 개막",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1643550"
+        },
+        {
+          "title": "LoL 기반 TCG 리프트바운드, K/DA·월즈·T1 한정판 3종 출시",
+          "source": "인벤",
+          "url": "https://www.inven.co.kr/webzine/news/?news=322483&site=lol&iskin=lol"
+        }
+      ]
+    },
+    {
+      "title": "아프리카",
+      "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 09:40:00 -0700",
+      "news": [
+        {
+          "title": "AI 접목한 'K-검진'…세계은행 디지털 전문가도 \"발전 놀랍다\" 극찬 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/thebio/2026/10/22/2026102217121269700"
+        },
+        {
+          "title": "한국 의료 AI, 몽골 병원 뚫는다…뇌질환·암 진단 시장 공략",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20105191"
+        },
+        {
+          "title": "의사 부족한 아프리카에 한국형 AI 검진이 손 내민다",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202610231435431976"
+        }
+      ]
+    },
+    {
+      "title": "젠지",
+      "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 09:30:00 -0700",
+      "news": [
+        {
+          "title": "LCK 4개팀, 24일부터 롤드컵 스위스 스테이지 출격…젠지·한화생명은 중국과 격돌",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/10/22/G4ZWCMRXMVTDMYZSMJSDON3EGA/"
+        },
+        {
+          "title": "젠지 '듀로' 주민규 \"IG전? 당연히 이긴다⋯자고 일어나니 시차 적응 끝\" [인터뷰]",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2638630"
+        },
+        {
+          "title": "[오!쎈 인터뷰] \"잊혀지지 않는 선수로\"… '쇼메이커' 허수가 밝힌 2년 만의 롤드컵 출사표",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261021181740579"
+        }
+      ]
+    },
+    {
+      "title": "월즈",
+      "approx_traffic": "500+",
       "published": "Fri, 23 Oct 2026 09:10:00 -0700",
       "news": [
         {
@@ -27,7 +159,7 @@
     },
     {
       "title": "lck",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Fri, 23 Oct 2026 09:00:00 -0700",
       "news": [
         {
@@ -41,9 +173,9 @@
           "url": "https://egamersworld.com/lol/news/37904/sources-cloud9-to-part-ways-with-apa-and-zven-afte-b-4QLv-dn"
         },
         {
-          "title": "LYON Saint: \"In Scrims, Dhokla Went 15/0/2 Against HLE.\"",
-          "source": "Hotspawn",
-          "url": "https://www.hotspawn.com/league-of-legends/news/lyon-saint-worlds-2026-interview"
+          "title": "LoL 2026 Offseason Live Tracker",
+          "source": "Sheep Esports",
+          "url": "https://www.sheepesports.com/en/articles/lol-2026-offseason-live-tracker/en"
         }
       ]
     },
@@ -88,122 +220,6 @@
           "title": "장원영X주우재, '한정선' 먹고 소신발언 \"3시간 못기다려, 특별한 지 모르겠다\"",
           "source": "스포츠조선",
           "url": "https://www.sportschosun.com/entertainment/2026-10-23/202610230100149700009747"
-        }
-      ]
-    },
-    {
-      "title": "렌트 푸어",
-      "approx_traffic": "100+",
-      "published": "Fri, 23 Oct 2026 08:10:00 -0700",
-      "news": [
-        {
-          "title": "전세살이 설움 터졌다...\"한방에 2억 올려달래요\" \"월세도 낸다\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/estate/2026/10/23/2026102016445065255"
-        },
-        {
-          "title": "너도나도 “평수 줄여 이사”…소형아파트 전세지수 역대 최고",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/economy/property/1283428.html"
-        },
-        {
-          "title": "전고점 뚫은 전셋값 | 집코노미 타임즈",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610228530i"
-        }
-      ]
-    },
-    {
-      "title": "이선민",
-      "approx_traffic": "100+",
-      "published": "Fri, 23 Oct 2026 08:10:00 -0700",
-      "news": [
-        {
-          "title": "이선민, ‘모태 마름’ 코쿤 벌크업 나섰다…‘밥도둑 식단’ 도전",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261023/134896492/1"
-        },
-        {
-          "title": "'나혼산' 이선민, '모태 마름' 코드쿤스트 주방에 '당황'",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522225"
-        },
-        {
-          "title": "코쿤, 알고보니 이선민에 운동 플러팅..산스장서 브로맨스 폭발(나혼산) - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/22/GE4GKMZXMVSTOMJYGBRWEYZYME/"
-        }
-      ]
-    },
-    {
-      "title": "함소원",
-      "approx_traffic": "2000+",
-      "published": "Fri, 23 Oct 2026 08:00:00 -0700",
-      "news": [
-        {
-          "title": "함소원, 5년 만에 ♥전남편 진화와 재혼? “서로 진지하게 바라보는 중”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610230039003"
-        },
-        {
-          "title": "함소원, 큰 교통사고로 대소변 줄에 기저귀 차... \"前남편 진화가 간호\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/23/MVTDKZBUMFTDQNDEHE4WKNBQGI/"
-        },
-        {
-          "title": "함소원, 교통사고로 골반 다섯 곳 골절…\"하반신 감각 안 느껴져\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261023_0003838075"
-        }
-      ]
-    },
-    {
-      "title": "교통량",
-      "approx_traffic": "100+",
-      "published": "Fri, 23 Oct 2026 08:00:00 -0700",
-      "news": []
-    },
-    {
-      "title": "롤드컵",
-      "approx_traffic": "2000+",
-      "published": "Fri, 23 Oct 2026 07:50:00 -0700",
-      "news": [
-        {
-          "title": "[롤드컵] '버서커' 김민철, \"한화생명 상대 복수 원한다\"",
-          "source": "데일리e스포츠",
-          "url": "https://www.dailyesports.com/view.php?ud=202610230507146296b91e133c1f_27"
-        },
-        {
-          "title": "LCK 4개팀, 24일부터 롤드컵 스위스 스테이지 출격…젠지·한화생명은 중국과 격돌",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_general/2026/10/22/G4ZWCMRXMVTDMYZSMJSDON3EGA/"
-        },
-        {
-          "title": "[오!쎈 인터뷰] \"잊혀지지 않는 선수로\"… '쇼메이커' 허수가 밝힌 2년 만의 롤드컵 출사표",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112896601"
-        }
-      ]
-    },
-    {
-      "title": "하주석",
-      "approx_traffic": "100+",
-      "published": "Fri, 23 Oct 2026 07:50:00 -0700",
-      "news": [
-        {
-          "title": "[PO 포커스] '이적생' KIA 하주석, 2년 연속 KS 밟을까",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261023000683"
-        },
-        {
-          "title": "KIA 트레이드 이적생, 아내 응원에 힘낸다…\"괜히 루머 생길까 봐 조심스러워해요\"",
-          "source": "www.xportsnews.com",
-          "url": "https://www.xportsnews.com/article/2210543"
-        },
-        {
-          "title": "[사진]준PO3차전에서 안타 뽑아내는 KIA 하주석 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/10/20/GU3TKOJYMRQTKZRRGZRWMOJWHA/"
         }
       ]
     }
