@@ -1,8 +1,206 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-23T21:11:40+00:00",
+  "fetched_at": "2026-10-23T21:43:26+00:00",
   "items": [
+    {
+      "title": "운세",
+      "approx_traffic": "2000+",
+      "published": "Fri, 23 Oct 2026 13:40:00 -0700",
+      "news": [
+        {
+          "title": "[오늘의 운세] 2026년 10월 23일 별자리 운세",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0121_202610230000000002"
+        },
+        {
+          "title": "[오늘의 운세] 10월 24일 토요일 (음력 9월 14일) 띠별 운세",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261016580254"
+        },
+        {
+          "title": "10월 24일 오늘의 운세-띠별·별자리 총정리",
+          "source": "남도일보",
+          "url": "https://www.namdonews.com/news/articleView.html?idxno=926891"
+        }
+      ]
+    },
+    {
+      "title": "세균",
+      "approx_traffic": "500+",
+      "published": "Fri, 23 Oct 2026 13:40:00 -0700",
+      "news": [
+        {
+          "title": "한 입 먹고 또 찍는 ‘더블 딥’…입 속 세균 옮겨갈까?",
+          "source": "레이디경향",
+          "url": "https://lady.khan.co.kr/health/article/202610231333001"
+        },
+        {
+          "title": "서귀포 제주향 이번엔 청귤 음료 세균수 부적합 적발",
+          "source": "세이프타임즈",
+          "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=246685"
+        },
+        {
+          "title": "[회수] 제주향 청귤 회수",
+          "source": "스페셜타임스",
+          "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=476412"
+        }
+      ]
+    },
+    {
+      "title": "손주",
+      "approx_traffic": "500+",
+      "published": "Fri, 23 Oct 2026 13:40:00 -0700",
+      "news": [
+        {
+          "title": "‘손주 돌봄’ 수당에… 할머니는 돈벌고, 엄마는 걱정 덜고[온나라 다함께 아이키우기 프로젝트]",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11625318"
+        },
+        {
+          "title": "손주 독박 육아하느라 집 옮기고 일 내려놓은 조부모들",
+          "source": "주간동아",
+          "url": "https://weekly.donga.com/society/article/all/11/6421405/1"
+        },
+        {
+          "title": "손주 봐주는 노인, 일주일에 평균 27시간 맡는데… 절반이 ‘무보수’[온나라 다함께 아이키우기 프로젝트]",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11625316"
+        }
+      ]
+    },
+    {
+      "title": "lpl",
+      "approx_traffic": "100+",
+      "published": "Fri, 23 Oct 2026 13:40:00 -0700",
+      "news": [
+        {
+          "title": "Avon investment adviser pleads guilty in $3.3M fraud scheme",
+          "source": "Hartford Business Journal",
+          "url": "https://hartfordbusiness.com/article/avon-investment-adviser-pleads-guilty-in-3-3m-fraud-scheme/"
+        },
+        {
+          "title": "Ex-Connecticut investment advisor pleads guilty to wire fraud in $3.3M 'free-riding' scheme",
+          "source": "New Haven Register",
+          "url": "https://www.nhregister.com/news/article/andrew-m-komarow-guilty-plea-wire-fraud-avon-22489574.php"
+        },
+        {
+          "title": "Ex-LPL, special needs advisor pleads guilty in fraud case.",
+          "source": "InvestmentNews",
+          "url": "https://www.investmentnews.com/regulation-legal-compliance/ex-lpl-special-needs-advisor-pleads-guilty-in-fraud-case/268724"
+        }
+      ]
+    },
+    {
+      "title": "피싱",
+      "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 13:30:00 -0700",
+      "news": [
+        {
+          "title": "“AI, 전력망-수도시설 공격방법 90% 알아내”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20261023/134893747/2"
+        },
+        {
+          "title": "[단독]韓 해킹 악용된 '아르텍스' 개발사 CEO \"금융권 기술 지원 가능\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261023_0003837806"
+        },
+        {
+          "title": "클로드·그록으로 무장한 해커들, 중남미 은행 400여곳 사이버 공격 자동화",
+          "source": "AI타임스",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216541"
+        }
+      ]
+    },
+    {
+      "title": "상어",
+      "approx_traffic": "500+",
+      "published": "Fri, 23 Oct 2026 13:20:00 -0700",
+      "news": [
+        {
+          "title": "자취 감춘 ‘부캉이’ 잠영 중?…수로 인근엔 기름띠",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8693775"
+        },
+        {
+          "title": "부캉아, 이제는 우리가 지켜줄게",
+          "source": "사이언스타임즈",
+          "url": "https://www.sciencetimes.co.kr/nscvrg/view/menu/253?searchCategory=225&nscvrgSn=262558"
+        },
+        {
+          "title": "상어 '부캉이' 이제 진짜 바다로 돌아갔나…모습 안 보여",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6596113"
+        }
+      ]
+    },
+    {
+      "title": "동아일보",
+      "approx_traffic": "500+",
+      "published": "Fri, 23 Oct 2026 13:20:00 -0700",
+      "news": [
+        {
+          "title": "할아버지 찔러 숨지게 한 여대생에 법원 선처…이유는?",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261023/134895636/2"
+        },
+        {
+          "title": "친할아버지 숨지게 한 20대 손녀, 징역 5년…그는 왜 조부를 찔렀나",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20105546"
+        },
+        {
+          "title": "‘할아버지 살해’ 20대 손녀에 징역 5년…“살인 고의 인정 어려워”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8693602"
+        }
+      ]
+    },
+    {
+      "title": "사과",
+      "approx_traffic": "500+",
+      "published": "Fri, 23 Oct 2026 13:20:00 -0700",
+      "news": [
+        {
+          "title": "20돌 맞은 청송사과축제 다음달 4일 개막…블랙이글스 에어쇼 뜬다",
+          "source": "쿠키뉴스",
+          "url": "https://www.kukinews.com/article/view/kuk202610230139"
+        },
+        {
+          "title": "청송사과축제, 현비암 아래서 사과를 두드리자 바위처럼 영근 세월이 깨어났다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026102153421"
+        },
+        {
+          "title": "청송의 가을은 사과빛으로 춤춘다… 제20회 청송사과축제 11월 4일 개막",
+          "source": "씨원뉴스",
+          "url": "https://www.c1news.kr/news/articleView.html?idxno=203039"
+        }
+      ]
+    },
+    {
+      "title": "화재",
+      "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 13:10:00 -0700",
+      "news": [
+        {
+          "title": "“AI로 전기화재 원인 밝힌다”…전기안전공사, 화재감식 기술혁신 성과 공유",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=373833"
+        },
+        {
+          "title": "충남도의회 ‘전기차‧산업현장’ AI 화재감지 모델 논의",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3442631"
+        },
+        {
+          "title": "한동수 KAIST 교수 \"화재건물 속 소방관 위치 찾을 방법 있다\"",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261021175241"
+        }
+      ]
+    },
     {
       "title": "ai",
       "approx_traffic": "100+",
@@ -24,172 +222,6 @@
           "url": "https://www.cnbc.com/2026/10/23/php-vulnerabilities-ai-cybersecurity.html"
         }
       ]
-    },
-    {
-      "title": "승리",
-      "approx_traffic": "100+",
-      "published": "Fri, 23 Oct 2026 12:00:00 -0700",
-      "news": [
-        {
-          "title": "'소주병 위협 피소' 빅뱅 출신 승리 \"허위 사실로 합의 못 해\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261023_0003839266"
-        },
-        {
-          "title": "빅뱅 출신 승리, 특수폭행 혐의 부인…\"소주병 휘두른 적 없어\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023184900005"
-        },
-        {
-          "title": "[전문] ‘소주병 피소’ 승리 측 “고소인 합의 제안, 정식 수사 통해 밝힐 것”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610232030003"
-        }
-      ]
-    },
-    {
-      "title": "슈투트가르트 대 묀헨글라트바흐",
-      "approx_traffic": "200+",
-      "published": "Fri, 23 Oct 2026 11:50:00 -0700",
-      "news": [
-        {
-          "title": "German Bundesliga LIVE: Stuttgart v Borussia M'gladbach - watch, text coverage, scores, stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/ck1wv842335et"
-        },
-        {
-          "title": "🤯 Gladbach are alive! Crisis-hit Stuttgart fall apart yet again",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/gladbach-alive-crisis-hit-stuttgart-195100651.html"
-        },
-        {
-          "title": "!Herems Got the ways to watch Monchengladbach vs VfB Stuttgart 𝐋𝐈𝐕𝐄 Ｆｒｅｅ Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 24 October 2026",
-          "source": "小豆島町",
-          "url": "https://www.town.shodoshima.lg.jp/section/VR_choseiyoran/shodoshima349.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3ZlbXBpcmVzLmdpdGh1Yi5pby9UZXJhL2h0cy54bWwiLz48L2tycGFubz4=&id=to-watch-monchengladbach-vs-vfb-stuttgart-cbs-sports-achtk"
-        }
-      ]
-    },
-    {
-      "title": "입스위치 대 노팅엄 포레스트",
-      "approx_traffic": "1000+",
-      "published": "Fri, 23 Oct 2026 11:40:00 -0700",
-      "news": [
-        {
-          "title": "Rays vs. Brewers (Oct 23, 2026) Live Score",
-          "source": "ESPN",
-          "url": "https://www.espn.com/mlb/game/_/gameId/401908042/rays-brewers"
-        },
-        {
-          "title": "Ipswich vs. Nottm Forest (Oct 23, 2026) Team Stats",
-          "source": "ESPN",
-          "url": "https://www.espn.com/soccer/team-stats/_/gameId/401879253"
-        },
-        {
-          "title": "Bulls vs. Bucks (Oct 23, 2026) Live Odds, Player Props, and more",
-          "source": "ESPN",
-          "url": "https://www.espn.com/nba/odds/_/gameId/401909848"
-        }
-      ]
-    },
-    {
-      "title": "al",
-      "approx_traffic": "100+",
-      "published": "Fri, 23 Oct 2026 11:10:00 -0700",
-      "news": [
-        {
-          "title": "Tuberville boots reporter from Mobile campaign event",
-          "source": "Lagniappe Daily",
-          "url": "https://www.lagniappemobile.com/news/mobileal/tuberville-boots-reporter-from-mobile-campaign-event/article_74a2f3f9-2ad7-4db5-b846-7546cd9d1b97.html"
-        },
-        {
-          "title": "MAGA Senator Loses It Over Embarrassing Question",
-          "source": "Yahoo",
-          "url": "https://www.yahoo.com/news/politics/articles/maga-senator-loses-over-embarrassing-131746754.html"
-        },
-        {
-          "title": "Tuberville has journalist who questioned him kicked out of Alabama campaign rally",
-          "source": "AL.com",
-          "url": "https://www.al.com/politics/2026/10/tuberville-has-journalist-who-questioned-him-kicked-out-of-alabama-campaign-rally.html"
-        }
-      ]
-    },
-    {
-      "title": "월즈 2026",
-      "approx_traffic": "100+",
-      "published": "Fri, 23 Oct 2026 11:10:00 -0700",
-      "news": []
-    },
-    {
-      "title": "tes",
-      "approx_traffic": "200+",
-      "published": "Fri, 23 Oct 2026 11:00:00 -0700",
-      "news": [
-        {
-          "title": "\"Business as usual\": The mindset of Hanwha Life Esports' 'Gumayusi' Lee Min-hyeong",
-          "source": "Inven Global",
-          "url": "https://www.invenglobal.com/articles/27641/business-as-usual-the-mindset-of-hanwha-life-esports-gumayusi-lee-min-hyeong"
-        },
-        {
-          "title": "An Overwhelming Gap in Power... Hanwha Life Defeats TES in 23 Minutes",
-          "source": "Inven Global",
-          "url": "https://www.invenglobal.com/articles/27640/an-overwhelming-gap-in-power-hanwha-life-defeats-tes-in-23-minutes"
-        },
-        {
-          "title": "What to know for Week 7: Start Stroud, one WR to trade for and one to trade away",
-          "source": "ESPN",
-          "url": "https://www.espn.com/fantasy/football/story/_/id/50250199/fantasy-football-start-sit-decisions-week-7"
-        }
-      ]
-    },
-    {
-      "title": "페이커",
-      "approx_traffic": "2000+",
-      "published": "Fri, 23 Oct 2026 10:20:00 -0700",
-      "news": [
-        {
-          "title": "'페이커' 기념우표 구매 기다리는 시민들",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/PYH20261023012900013"
-        },
-        {
-          "title": "'507개 한정' 페이커 굿즈에 밤샘 행렬",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/photos/8175092"
-        },
-        {
-          "title": "'페이커' 이상혁 기념우표 발행 첫날 오픈런",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261023123832"
-        }
-      ]
-    },
-    {
-      "title": "로보택시",
-      "approx_traffic": "200+",
-      "published": "Fri, 23 Oct 2026 10:10:00 -0700",
-      "news": [
-        {
-          "title": "2028년 광주서 로보택시 상용화…자율주행 서비스 사업자 도입",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023096800003"
-        },
-        {
-          "title": "자율주행 실증·이동로봇 상용화 지원…창업기업 행정서류 절반으로 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/estate/2026/10/23/2026102209391866012"
-        },
-        {
-          "title": "\"로보택시 유상 이용 2028년 목표…택시업계 참여 모델 논의\"[일문일답]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/realestate/general/6328934"
-        }
-      ]
-    },
-    {
-      "title": "t1",
-      "approx_traffic": "100+",
-      "published": "Fri, 23 Oct 2026 10:10:00 -0700",
-      "news": []
     }
   ]
 }
