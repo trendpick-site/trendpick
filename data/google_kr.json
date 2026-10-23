@@ -1,8 +1,140 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-23T08:16:33+00:00",
+  "fetched_at": "2026-10-23T09:14:41+00:00",
   "items": [
+    {
+      "title": "아시안 게임",
+      "approx_traffic": "5000+",
+      "published": "Fri, 23 Oct 2026 01:00:00 -0700",
+      "news": [
+        {
+          "title": "AG서 한국 야구 울린 日 사회인투수, 프로 진출…라쿠텐 지명",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20261023/134897112/1"
+        },
+        {
+          "title": "韓 대표팀 7이닝 무실점 묶더니 결국 프로에 간다…\"팀 짊어질 수 있는 선수 되겠다\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/10/23/HBRDKOBYGEZDEOJWME3DAMLGGM/"
+        },
+        {
+          "title": "‘김도영 삼진 삼진’ 한국에 굴욕 안긴 日사회인, NPB가 뽑았다! 3순위 라쿠텐행 감격 “장차 팀을 짊어지겠다”",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112897059"
+        }
+      ]
+    },
+    {
+      "title": "아티스트컴퍼니",
+      "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 01:00:00 -0700",
+      "news": [
+        {
+          "title": "'이정재 최대주주' 아티스트컴퍼니, 전 임원 등 5명 '6억대 배임 혐의' 고소",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261023_0003838110"
+        },
+        {
+          "title": "[단독] 이정재 뿔났다···전 임직원 5명 ‘6억 배임’ 혐의 고소",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610230900003"
+        },
+        {
+          "title": "‘이정재 최대주주’ 아티스트컴퍼니, 전 임직원 5명 고소…6억대 배임 혐의",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20105417"
+        }
+      ]
+    },
+    {
+      "title": "손종원",
+      "approx_traffic": "1000+",
+      "published": "Fri, 23 Oct 2026 00:30:00 -0700",
+      "news": [
+        {
+          "title": "‘미쉐린 별’ 셰프 손종원, 신세계 ‘별’ 달았다…임원 승진",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261023/134897677/1"
+        },
+        {
+          "title": "[기업] 정용진, 13년 만에 이마트 대표이사 복귀...신세계, 역대 최대 임원 인사 단행",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0102_202610231132135441_005.html"
+        },
+        {
+          "title": "40개짜리 올리브영 '1조 공룡'으로 키운 전설…25년만에 친정 신세계 구원투수로",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026102312593974557"
+        }
+      ]
+    },
+    {
+      "title": "메디게이트뉴스",
+      "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 00:30:00 -0700",
+      "news": [
+        {
+          "title": "\"좋은 의사 되고 싶지만, 현실이 허락하지 않는다\"…필수의료 의사 '윤리적 좌절' 심각",
+          "source": "MEDI:GATE NEWS",
+          "url": "https://www.medigatenews.com/news/2247182509"
+        },
+        {
+          "title": "김교흥 의원, ‘인천대 공공의학전문대학원 설립법’ 대표발의",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1334813"
+        },
+        {
+          "title": "인천대 공공의전원 설립, 지역 국회의원 여야 없이 ‘한뜻’",
+          "source": "기호일보",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3038567"
+        }
+      ]
+    },
+    {
+      "title": "남유정",
+      "approx_traffic": "1000+",
+      "published": "Fri, 23 Oct 2026 00:20:00 -0700",
+      "news": [
+        {
+          "title": "전 연인 남유정은?…이규한 \"솔비 20년 전부터 좋아했다\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/23/2026102310240755286"
+        },
+        {
+          "title": "이규한, 솔비 유튜브 깜짝 등장…\"20년 전부터 좋아해\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261022_0003837643"
+        },
+        {
+          "title": "'이규한과 결혼' 솔비 \"43세에 결혼운, 자녀 1명\" 손금 풀이 화제",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6326795"
+        }
+      ]
+    },
+    {
+      "title": "ls에코에너지",
+      "approx_traffic": "100+",
+      "published": "Fri, 23 Oct 2026 00:20:00 -0700",
+      "news": [
+        {
+          "title": "'파격 당근' 던진 베트남 하이퐁시, LS에코에너지에 '해저케이블 추가 투자' 제안",
+          "source": "더구루",
+          "url": "https://www.theguru.co.kr/news/article.html?no=108698"
+        },
+        {
+          "title": "하이퐁은 해저 케이블 제품 개발 사업을 지원하는 도시입니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/hai-phong-tao-thuan-loi-de-doanh-nghiep-phat-trien-san-pham-cap-ngam-xuyen-bien"
+        },
+        {
+          "title": "호치민시 인민위원회 위원장 도 탄 쭝은 LS-VINA 케이블 및 시스템 주식회사와 업무 회의를 개최했습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/chu-tich-ubnd-thanh-pho-do-thanh-trung-lam-viec-voi-cong-ty-cp-cap-dien-va-he-thong-ls-vina"
+        }
+      ]
+    },
     {
       "title": "에너지 위기",
       "approx_traffic": "200+",
@@ -27,7 +159,7 @@
     },
     {
       "title": "인플 루 언서",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Thu, 22 Oct 2026 23:50:00 -0700",
       "news": [
         {
@@ -58,168 +190,36 @@
           "url": "https://news.hada.io/topic?id=35798"
         },
         {
+          "title": "Node.js 고위험 RCE 취약점 확인…긴급 패치 배포 : 테크/과학",
+          "source": "재경일보",
+          "url": "https://news.jkn.co.kr/post/1044806"
+        },
+        {
           "title": "PHP 이어 Node.js도 뚫렸다... 원격 코드 실행 PoC 공개",
           "source": "보안뉴스",
           "url": "https://www.boannews.com/news/articleView.html?idxno=146700"
-        },
-        {
-          "title": "배경훈 “PHP 취약점 계기, 범부처 종합대책 마련할 것”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8693627"
         }
       ]
     },
     {
       "title": "사업",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Thu, 22 Oct 2026 23:40:00 -0700",
       "news": [
         {
-          "title": "카카오, ‘2026 대한민국 소상공인대회’ 참가… 소상공인·지역 상생 사업 알린다",
-          "source": "카카오",
-          "url": "https://www.kakaocorp.com/page/detail/12178"
-        },
-        {
-          "title": "[부산소식]출입국·외국인청, 소상공인대회서 상담부스 등",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261023_0003838728"
-        },
-        {
-          "title": "“드론 날리고, 케이크 만들고, 맛보고 쇼핑까지”…전국 ‘동네 사장님’ 200곳 부산에 집결",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11625636"
-        }
-      ]
-    },
-    {
-      "title": "cve-2026-111497",
-      "approx_traffic": "200+",
-      "published": "Thu, 22 Oct 2026 23:30:00 -0700",
-      "news": [
-        {
-          "title": "Node2Shell: Node.js Brotli vulnerability allows remote code execution (CVE-2026-111497) and the fix",
-          "source": "Aikido Security",
-          "url": "https://www.aikido.dev/blog/node2shell-nodejs-brotli-rce-cve-2026-111497"
-        },
-        {
-          "title": "NEAR Co-Founder Flags Internet Security Risks as PHP, Node.js Patch Flaws",
-          "source": "TOKENPOST",
-          "url": "https://www.tokenpost.com/news/technology/38191"
-        },
-        {
-          "title": "Node.js has released security updates '22.23.4', '24.22.1', and '26.12.1', fixing a total of 10 vulnerabilities.",
-          "source": "GIGAZINE",
-          "url": "https://gigazine.net/gsc_news/en/20261022-node-js-security-releases/"
-        }
-      ]
-    },
-    {
-      "title": "풍자",
-      "approx_traffic": "200+",
-      "published": "Thu, 22 Oct 2026 23:30:00 -0700",
-      "news": [
-        {
-          "title": "풍자, 한혜진 옆 '이쁜척'…37㎏ 감량의 힘",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261021_0003835400"
-        },
-        {
-          "title": "\"풍자인 줄 몰랐다\"…37㎏ 빼고 확 달라진 얼굴 '깜짝' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/23/2026102315303718333"
-        },
-        {
-          "title": "\"살 쏙 빠지더니 이런 청순미가?\"...풍자, 긴 머리 늘어뜨린 '반전 비주얼'",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261021142725787"
-        }
-      ]
-    },
-    {
-      "title": "상장지수 펀드",
-      "approx_traffic": "200+",
-      "published": "Thu, 22 Oct 2026 23:10:00 -0700",
-      "news": [
-        {
-          "title": "국내외 우주기업 투자 등 ETF 3종, 27일 신규 상장",
+          "title": "포천시, 내년 지적 재조사 예정지로 '선단·설운지구' 지정",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023151100008"
+          "url": "https://www.yna.co.kr/view/AKR20261022123600060"
         },
         {
-          "title": "대형주에서 우주산업까지…한국거래소, ETF 3종 상장",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261023001160"
-        },
-        {
-          "title": "중동발 공급 불안에 원유 ETF '들썩'…한달 새 두자릿수 급등",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610230944i"
-        }
-      ]
-    },
-    {
-      "title": "조재호",
-      "approx_traffic": "2000+",
-      "published": "Thu, 22 Oct 2026 23:00:00 -0700",
-      "news": [
-        {
-          "title": "‘퍼펙트큐’ 김가영은 한지은 꺾고 ‘원조퀸’ 임정숙은 정수빈에 0:2→3:2 대역전승 8강행[NH농협카드LPBA]",
-          "source": "mkbn.mk.co.kr",
-          "url": "https://mkbn.mk.co.kr/news/sports/12183564"
-        },
-        {
-          "title": "'0-12서 대역전 드라마' 조재호, 승부치기 끝에 PBA 64강행",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022060000007"
-        },
-        {
-          "title": "\"언니 잘 좀 해봐\" 자극 받았나, 김보미 극적 8강 진출... 정작 우승자 정수빈은 '승승패패패' 16강서 탈락 [PBA 투어] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/23/2026102309452976520"
-        }
-      ]
-    },
-    {
-      "title": "김미화",
-      "approx_traffic": "5000+",
-      "published": "Thu, 22 Oct 2026 22:50:00 -0700",
-      "news": [
-        {
-          "title": "김미화, 모친상 비보…\"조용히 보내고 싶다\" 조문·조의금 사절 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/23/2026102311060876056"
-        },
-        {
-          "title": "김미화, 오늘 모친상 비보…\"조문·조의금·조화 정중히 사절\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261023_0003838285"
-        },
-        {
-          "title": "[단독] ‘코미디언’ 김미화 모친상, 조문·조의금 모두 사절…“기도해 주십시오”",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/entertain/12183817"
-        }
-      ]
-    },
-    {
-      "title": "토스뱅크",
-      "approx_traffic": "1000+",
-      "published": "Thu, 22 Oct 2026 22:50:00 -0700",
-      "news": [
-        {
-          "title": "토스뱅크 입금 오류 사고 325억원 규모…“80% 정정 완료, 72억은 회수 중”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610230827001"
-        },
-        {
-          "title": "\"이체 실패했는데 '띵동' 돈이 들어왔다\"…토스서 터진 325억 금융 사고",
+          "title": "성남시, 내년 시흥·상대원·야탑동 645필지 지적재조사",
           "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026102308175485907"
+          "url": "https://view.asiae.co.kr/article/2026102316412519244"
         },
         {
-          "title": "토스뱅크, 325억원 규모 입금 오류… 2주간 250억원 회수 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/stock/finance/2026/10/22/OS4XWUON4BCD5NZTB2DSHADPTE/"
+          "title": "[성남소식]2027년 지적재조사사업 실시계획 수립...3개 지구 645필지 선정",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1705247/%EC%84%B1%EB%82%A8%EC%86%8C%EC%8B%9D2027%EB%85%84-%EC%A7%80%EC%A0%81%EC%9E%AC%EC%A1%B0%EC%82%AC%EC%82%AC%EC%97%85-%EC%8B%A4%EC%8B%9C-2026"
         }
       ]
     }
