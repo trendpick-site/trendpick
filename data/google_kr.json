@@ -1,8 +1,118 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-23T10:46:06+00:00",
+  "fetched_at": "2026-10-23T11:40:54+00:00",
   "items": [
+    {
+      "title": "고양시",
+      "approx_traffic": "100+",
+      "published": "Fri, 23 Oct 2026 03:30:00 -0700",
+      "news": [
+        {
+          "title": "부산 서구, 통장 직무능력 향상 워크숍 개최",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=00&key=20261023.99099006871"
+        },
+        {
+          "title": "[포토] 마포구, 통장 직무교육",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/news/read?newsid=06110646645615544&mediaCodeNo=257"
+        },
+        {
+          "title": "양천구, 통장 520명 워크숍…내년 '통반협력단' 도입 준비",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/moi/6327430"
+        }
+      ]
+    },
+    {
+      "title": "전지현",
+      "approx_traffic": "1000+",
+      "published": "Fri, 23 Oct 2026 03:20:00 -0700",
+      "news": [
+        {
+          "title": "전지현, 세월 거스르는 미모",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261023000709"
+        },
+        {
+          "title": "클래스가 다른 선명한 복근, 전지현 [O! STAR 숏폼]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/23/MIZDENLGHBQTKMBQGJSDEYLDG4/"
+        },
+        {
+          "title": "안다르, 성수동 팝업 '안다르 인 모션' 운영",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202610221127065343"
+        }
+      ]
+    },
+    {
+      "title": "사고",
+      "approx_traffic": "2000+",
+      "published": "Fri, 23 Oct 2026 03:10:00 -0700",
+      "news": [
+        {
+          "title": "보령해경, 24∼31일 연안 안전사고 주의보 발령",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261023140200063"
+        },
+        {
+          "title": "평택해경, 24~31일 대조기 연안사고 '주의보'…순찰강화",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261023_0003838445"
+        },
+        {
+          "title": "울진·영덕 연안해안 '주의보' 발령...울진해경, 순찰 강화",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261021001222"
+        }
+      ]
+    },
+    {
+      "title": "홍명보",
+      "approx_traffic": "5000+",
+      "published": "Fri, 23 Oct 2026 02:50:00 -0700",
+      "news": [
+        {
+          "title": "김민재 5위! 그리고 홍명보 6위…한국 역대 최고 선수 TOP6 눈에 띄네→KIM 새로 진입",
+          "source": "엑스포츠뉴스",
+          "url": "https://www.xportsnews.com/article/2210691"
+        },
+        {
+          "title": "홍명보와 각별한 회사가 왜? 대한축구협회 뉴미디어 중계권 ‘삼자계약’ 미스터리",
+          "source": "일요신문",
+          "url": "https://www.ilyo.co.kr/?ac=article_view&entry_id=513280"
+        },
+        {
+          "title": "쿠팡 계약대금 팀트웰브 거쳐 당일 축구협회로…김재원 의원, 삼자계약 설계 경위·정몽규 이해충돌 의혹 제기",
+          "source": "창업일보",
+          "url": "https://www.news33.net/news/articleView.html?idxno=118841"
+        }
+      ]
+    },
+    {
+      "title": "나의 유죄인간",
+      "approx_traffic": "100+",
+      "published": "Fri, 23 Oct 2026 02:50:00 -0700",
+      "news": [
+        {
+          "title": "말투 독특 임시완 “사람 죽여봤어요?”…‘나의 유죄인간’ 미스터리",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261023/134894497/1"
+        },
+        {
+          "title": "'나의 유죄인간' '일잘러' 임시완, 예민함 뒤에 감춰신 속사정",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522256"
+        },
+        {
+          "title": "임시완, '남장' 설인아에 폭 안겼다..'나의 유죄인간' 최고 시청률 5.9% 유지",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/21/GZRGGZBWMU3GCNRRMY3DKMBXGQ/"
+        }
+      ]
+    },
     {
       "title": "수원 kt 대 원주 db",
       "approx_traffic": "500+",
@@ -14,14 +124,14 @@
           "url": "https://www.mt.co.kr/sports/2026/10/23/2026102319273226286"
         },
         {
+          "title": "'이럴 수가' DB 에이스가 아프다 \"호텔서 쉬고 있어\"…3연패 KT 호재 \"이빠이 준비했는데, 안전하게 턴오버 줄일 것\" [MD수원]",
+          "source": "마이데일리",
+          "url": "https://www.mydaily.co.kr/page/view/2026102318465651042"
+        },
+        {
           "title": "[JB프리뷰] 5경기 연속 실점 치솟은 KT, DB의 속공 잠재울 수 있을까",
           "source": "점프볼",
           "url": "https://jumpball.co.kr/news/newsview.php?ncode=1065575369604184"
-        },
-        {
-          "title": "[BK 프리뷰] ‘득점 10위 vs 1위’ KT-DB, 극과 극 화력의 맞대결",
-          "source": "바스켓코리아",
-          "url": "https://www.basketkorea.com/news/newsview.php?ncode=1065571997430103"
         }
       ]
     },
@@ -33,7 +143,7 @@
         {
           "title": "인제읍 청소년기자들 ‘취재현장 속으로’",
           "source": "강원도민일보",
-          "url": "https://www.kado.net/news/articleView.html?idxno=2080039"
+          "url": "https://www.kado.net/news/curationView.html?idxno=2080039"
         },
         {
           "title": "김별아 강원문화재단 이사장, 4년 임기 마치고 퇴임…공로패 전달",
@@ -43,13 +153,13 @@
         {
           "title": "강원문화재단, 김별아 이사장 퇴임식 개최",
           "source": "K-Classic News",
-          "url": "https://kclassicnews.com/news/article.html?no=230688"
+          "url": "https://www.kclassicnews.com/news/article.html?no=230688"
         }
       ]
     },
     {
       "title": "지석진",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Fri, 23 Oct 2026 02:20:00 -0700",
       "news": [
         {
@@ -110,116 +220,6 @@
           "title": "도지코인 0.08달러 붕괴…비트코인 급락에 0.075달러까지 추락하나",
           "source": "코인리더스",
           "url": "https://www.coinreaders.com/264792"
-        }
-      ]
-    },
-    {
-      "title": "형지글로벌",
-      "approx_traffic": "200+",
-      "published": "Fri, 23 Oct 2026 02:10:00 -0700",
-      "news": [
-        {
-          "title": "'동전주 상폐' 기업들, 효력정지 가처분 신청…\"정리매매 보류\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023139200008"
-        },
-        {
-          "title": "뉴인텍·형지글로벌, 주가 미달 상장폐지에 소송…거래소 ’정리매매 보류’ By EBN",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2138801"
-        },
-        {
-          "title": "1000원 벽 못 넘은 코스닥 5사, 첫 ‘동전주 상폐’",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/stock-finance/2026/10/23/5TYWWD3WNVCUJM6VJVLV5U2O3M/"
-        }
-      ]
-    },
-    {
-      "title": "양홍원",
-      "approx_traffic": "2000+",
-      "published": "Fri, 23 Oct 2026 02:00:00 -0700",
-      "news": [
-        {
-          "title": "양홍원, 결혼식 5일 만에 불륜설..폭로자 \"나 돈 필요해\" 녹취록·영상 공개",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/entertainment/2026-10-23/202610230100149470009731"
-        },
-        {
-          "title": "'5일 전 결혼' 양홍원, 불륜 의혹..폭로자 \"돈과 관심 필요\" [스타이슈]",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/star/2026/10/23/2026102317555144519"
-        },
-        {
-          "title": "원현주 결혼 양홍원, 파격 소감 후폭풍… 모텔 리뷰 \"진짜 성지 됐네\"",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3728725"
-        }
-      ]
-    },
-    {
-      "title": "슈퍼태풍",
-      "approx_traffic": "2000+",
-      "published": "Fri, 23 Oct 2026 02:00:00 -0700",
-      "news": [
-        {
-          "title": "태풍 '참피' 제주 접근 대비 총력",
-          "source": "제민일보",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=845162"
-        },
-        {
-          "title": "제주 향하던 태풍 ‘참피’, 일본으로 틀었다…제주·남부는 주말 내내 강한 비바람",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20105543"
-        },
-        {
-          "title": "\"제주 쪽\" 예고했던 日 기상청‥하루 만에 '일본 상륙' 경로 급수정",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6860008_36925.html"
-        }
-      ]
-    },
-    {
-      "title": "반지하",
-      "approx_traffic": "200+",
-      "published": "Fri, 23 Oct 2026 01:50:00 -0700",
-      "news": [
-        {
-          "title": "[재개발과 외지인] ② 13억짜리 반지하와 열 명의 주인",
-          "source": "뉴스타파",
-          "url": "https://newstapa.org/article/8brmn"
-        },
-        {
-          "title": "한남3구역 20년, 기록을 한 줄씩 추적했다",
-          "source": "뉴스타파",
-          "url": "https://newstapa.org/article/HBDz0"
-        },
-        {
-          "title": "[주간 뉴스타파] (네가 살던) 헌집 다오, (내가 살) 새집 짓게",
-          "source": "뉴스타파",
-          "url": "https://newstapa.org/article/I5BeX"
-        }
-      ]
-    },
-    {
-      "title": "마쓰이 히데키",
-      "approx_traffic": "500+",
-      "published": "Fri, 23 Oct 2026 01:40:00 -0700",
-      "news": [
-        {
-          "title": "일본야구 요미우리 새 감독에 '고질라' 마쓰이…순혈주의 고수",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023088100007"
-        },
-        {
-          "title": "'가정 폭력으로 돌연 사퇴' 충격에 빠졌던 명문 구단, 통산 507홈런 레전드 감독으로 선임",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/10/23/MFRDCNZSGFTGIOBQGE3GINZXGE/"
-        },
-        {
-          "title": "[속보] ‘고질라’ 마쓰이 히데키, 요미우리 새 감독 선임…23일 오후 기자회견",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112897103"
         }
       ]
     }
