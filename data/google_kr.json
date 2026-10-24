@@ -1,8 +1,30 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-24T22:34:53+00:00",
+  "fetched_at": "2026-10-24T23:02:15+00:00",
   "items": [
+    {
+      "title": "สภาพอากาศ",
+      "approx_traffic": "500+",
+      "published": "Sat, 24 Oct 2026 14:50:00 -0700",
+      "news": [
+        {
+          "title": "รัฐกำชับกรมท่าอากาศยานเตรียมพร้อมสนามบินภาคใต้รับมือฝนตกหนัก 23-26 ต.ค.นี้ : อินโฟเควสท์",
+          "source": "สำนักข่าวอินโฟเควสท์",
+          "url": "https://www.infoquest.co.th/2026/668120"
+        },
+        {
+          "title": "สรุปสถานการณ์น้ำภาพรวมของประเทศ วันที่ 24 ต.ค. 69 เวลา 7.00 น.",
+          "source": "thailandplus",
+          "url": "https://www.thailandplus.tv/archives/1066006"
+        },
+        {
+          "title": "ฝนขยายตัวต่อเนื่อง! ปทุมธานี–อยุธยา–สุพรรณบุรี จับตากลุ่มฝนช่วงบ่าย 📍 วันที่ 24 ตุลาคม 2569 เวลา 15.00 น. พบกลุ่มฝนปานกลางถึงหนักบางแห่งบริเวณนนทบุรี ปทุมธานี นครปฐม และพระนครศรีอยุธยา โดยกลุ่มฝนมีแนวโน้มขยายตัวเพิ่มขึ้น ↖️ กลุ่มฝนส่วนใหญ่เคลื่อนตัวไปทางทิศตะวันต",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/tmd.go.th/posts/%E0%B8%9D%E0%B8%99%E0%B8%82%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%99%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87-%E0%B8%9B%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5%E0%B8%AD%E0%B8%A2%E0%B8%B8%E0%B8%98%E0%B8%A2%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5-%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%95%E0%B8%B2%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%9D%E0%B8%99%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B8%9A%E0%B9%88%E0%B8%B2%E0%B8%A2-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-24-%E0%B8%95%E0%B8%B8%E0%B8%A5%E0%B8%B2%E0%B8%84/1588725536632909/"
+        }
+      ]
+    },
     {
       "title": "박현호",
       "approx_traffic": "500+",
@@ -36,14 +58,14 @@
           "url": "https://www.newsis.com/view/NISX20261024_0003839708"
         },
         {
-          "title": "\"2시간 만에 200억\"…이다해 출연한 中 광군제 라이브커머스 '대박'",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/article/2026102008105864202"
-        },
-        {
           "title": "이다해, 출산 앞두고 난데없는 성형설..'중국인' 스태프 때문이었다 [핫피플]",
           "source": "조선일보",
           "url": "https://www.chosun.com/entertainments/broadcast/2026/10/25/MU3TKMZYMJRGMM3FME2TCZRTME/"
+        },
+        {
+          "title": "\"2시간 만에 200억\"…이다해 출연한 中 광군제 라이브커머스 '대박'",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/article/2026102008105864202"
         }
       ]
     },
@@ -53,6 +75,11 @@
       "published": "Sat, 24 Oct 2026 14:00:00 -0700",
       "news": [
         {
+          "title": "손흥민이 대단한 거였다…레반돕 MLS서 실패한 영입 평가, 6경기 연속 무득점 ‘대굴욕’",
+          "source": "포포투",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99701"
+        },
+        {
           "title": "손흥민보다 대단했다…미국서 18경기 13골 6도움 “입단 3개월만 팀 송두리째 바꿔놔”",
           "source": "포포투",
           "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99696"
@@ -61,17 +88,12 @@
           "title": "한 명은 손흥민 뛰어넘은 대활약, 한 명은 손흥민보다 수준 미달...MLS 적응 희비 엇갈린 '월클 공격수'",
           "source": "스포츠조선",
           "url": "https://www.sportschosun.com/football/2026-10-24/202610240100153170009995"
-        },
-        {
-          "title": "이강인에게 ‘7번’ 물려주고 떠난 그리즈만 근황은? ‘14경기 12골 7도움’ 미국 무대 폭격 중",
-          "source": "풋볼리스트",
-          "url": "https://www.footballist.co.kr/news/articleView.html?idxno=216110"
         }
       ]
     },
     {
       "title": "대구날씨",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Sat, 24 Oct 2026 14:00:00 -0700",
       "news": [
         {
@@ -102,14 +124,14 @@
           "url": "https://www.jemin.com/news/articleView.html?idxno=845223"
         },
         {
-          "title": "'이강인 부상 복귀하자마자 슈팅 폭발!' 전반에만 오른발·왼발 연속 시도...ATM, 데포르티보전 전반 0-0 마무리 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/25/202610250404774398O"
+          "title": "이강인, 부상 우려 씻고 67분 활약…아틀레티코 라리가 6연승",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8694453"
         },
         {
-          "title": "한 달 넘게 침묵 중인 이강인, 데포르티보전서 공격포인트 정조준",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261023_0003838811"
+          "title": "\"이강인, ATM서 돋보인 몇 안 되는 선수\" 스페인 현지도 인정... \"두 번이나 멋진 골에 가까웠다\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/25/2026102506433953233"
         }
       ]
     },
@@ -129,9 +151,9 @@
           "url": "https://www.newsis.com/view/NISX20261023_0003839004"
         },
         {
-          "title": "구로구, 괴산군 절임배추 직거래행사…오는 26일부터 신청",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11625681"
+          "title": "“김치냉장고 채우러 가볼까”...전국 곳곳 ‘김장 축제’ 잇따라",
+          "source": "농민신문",
+          "url": "https://www.nongmin.com/article/20261022500137"
         }
       ]
     },
@@ -141,19 +163,19 @@
       "published": "Sat, 24 Oct 2026 13:50:00 -0700",
       "news": [
         {
-          "title": "Kimi Antonelli rise branded 'hell of a story' ahead of potential F1 title party",
-          "source": "RacingNews365",
-          "url": "https://racingnews365.com/kimi-antonelli-rise-branded-hell-of-a-story-ahead-of-potential-f1-title-party"
+          "title": "Kimi Antonelli in pole position for the title: \"I'm going to try to win\"",
+          "source": "https://www.autohebdof1.com/",
+          "url": "https://www.autohebdof1.com/news/f1/Kimi-Antonelli-is-in-pole-position-for-the-title--I%27m-going-to-try-to-win.html"
         },
         {
-          "title": "Mercedes's $10 Million Investment Turned a Prodigy Into a Champ | The Wall Street Journal - newspaper",
-          "source": "Magzter",
-          "url": "https://www.magzter.com/stories/newspaper/The-Wall-Street-Journal/MERCEDESS-10-MILLION-INVESTMENT-TURNED-A-PRODIGY-INTO-A-CHAMP"
+          "title": "The four key takeaways after qualifying for the United States Grand Prix",
+          "source": "GPblog",
+          "url": "https://www.gpblog.com/en/analysis/the-four-key-takeaways-after-qualifying-for-the-united-states-grand-prix"
         },
         {
-          "title": "Antonelli caught off guard by Vettel record question in Austin",
-          "source": "F1i.com",
-          "url": "https://f1i.com/news/575930-antonelli-caught-off-guard-by-vettel-record-question-in-austin.html"
+          "title": "Kimi Antonelli seals United States GP pole amid Russell and Hamilton blow",
+          "source": "PlanetF1",
+          "url": "https://www.planetf1.com/news/united-states-gp-antonelli-seals-pole-amid-russell-and-hamilton-setback"
         }
       ]
     },
@@ -163,19 +185,19 @@
       "published": "Sat, 24 Oct 2026 13:40:00 -0700",
       "news": [
         {
-          "title": "'코스피 50%' 붕괴된 삼전닉스…대안 없는 코스피 '수급 공백' 비상",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/finance/general-stock/6330538"
+          "title": "반도체 넘어 예술·의료지원까지...이건희 유산 재조명",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0102_202610250531313443"
         },
         {
-          "title": "\"삼전닉스 해도 해도 너무해…지금 주가, 최악 시나리오까지 반영\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261023_0003837991"
+          "title": "\"애니콜 빼면 1.5류\" 이건희 질책…갤럭시 '디자인 혁명' 결실로",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/business/12184372"
         },
         {
-          "title": "\"바닥 확인했다\" '금융위기급 저평가' 삼전닉스, W자 반등한다는데 언제쯤?[주末머니]",
-          "source": "아시아경제",
-          "url": "https://core.asiae.co.kr/article/2026102210593709714"
+          "title": "이재용, 귀국 직후 부친 선영으로…이건희 유산은",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261023230405Yny"
         }
       ]
     },
@@ -198,28 +220,6 @@
           "title": "포스코노조, 다음달 2일 무기한 파업…임금교섭 결렬",
           "source": "연합뉴스TV",
           "url": "https://www.yonhapnewstv.co.kr/news/MYH20261024135354YbE"
-        }
-      ]
-    },
-    {
-      "title": "로스앤젤레스 fc",
-      "approx_traffic": "500+",
-      "published": "Sat, 24 Oct 2026 13:20:00 -0700",
-      "news": [
-        {
-          "title": "“제가 그 누구보다 가장 열렬한 팬” 떠난 지 1년 반 지났음에도… 여전한 ‘토트넘 사랑’ 손흥민 ‘오피셜’ 공식입장 “아직도 그립습니다”",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E1%84%8C%E1%85%A6%E1%84%80%E1%85%A1-%E1%84%80%E1%85%B3-%E1%84%82%E1%85%AE%E1%84%80%E1%85%AE%E1%84%87%E1%85%A9%E1%84%83%E1%85%A1-%E1%84%80%E1%85%A1%E1%84%8C%E1%85%A1%E1%86%BC-%E1%84%8B%E1%85%A7%E1%86%AF%E1%84%85%E1%85%A7%E1%86%AF%E1%84%92%E1%85%A1%E1%86%AB-%E1%84%91%E1%85%A2%E1%86%AB-%E1%84%84%E1%85%A5%E1%84%82%E1%85%A1%E1%86%AB-%E1%84%8C%E1%85%B5-1%E1%84%82%E1%85%A7%E1%86%AB-%E1%84%87%E1%85%A1%E1%86%AB-%E1%84%8C%E1%85%B5%E1%84%82%E1%85%A1%E1%86%BB%E1%84%8B%E1%85%B3%E1%86%B7%E1%84%8B%E1%85%A6%E1%84%83%E1%85%A9--%E1%84%8B%E1%85%A7%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%92%E1%85%A1%E1%86%AB-%E1%84%90%E1%85%A9%E1%84%90%E1%85%B3%E1%84%82%E1%85%A5%E1%86%B7-%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%BC-%E1%84%89%E1%85%A9%E1%86%AB%E1%84%92%E1%85%B3%E1%86%BC%E1%84%86%E1%85%B5%E1%86%AB-%E1%84%8B%E1%85%A9%E1%84%91%E1%85%B5%E1%84%89%E1%85%A7%E1%86%AF-%E1%84%80%E1%85%A9%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%8C%E1%85%A1%E1%86%BC-%E1%84%8B%E1%85%A1%E1%84%8C%E1%85%B5%E1%86%A8%E1%84%83%E1%85%A9-%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%89%E1%85%B3%E1%86%B8%E1%84%82%E1%85%B5%E1%84%83%E1%85%A1/blt6a6769789d0804f2"
-        },
-        {
-          "title": "`메시와 리그 1위 경쟁` 손흥민, LAFC 역사 쓴다…`단일 시즌 최다 어시스트 눈앞`",
-          "source": "마이데일리",
-          "url": "https://mydaily.co.kr/page/view/2026102122345748951"
-        },
-        {
-          "title": "[동포의 창] 한인청소년합창단, 손흥민 출전 경기서 美 국가 제창·K팝 공연",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261020034800371"
         }
       ]
     }
