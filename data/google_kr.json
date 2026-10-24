@@ -1,11 +1,83 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-24T06:43:59+00:00",
+  "fetched_at": "2026-10-24T07:40:12+00:00",
   "items": [
     {
+      "title": "박지현",
+      "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 23:20:00 -0700",
+      "news": [
+        {
+          "title": "송민준, ‘수묵화 보이스’로 가을밤 버스킹에 짙은 여운 수놓아 (더 리슨)",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610230155003"
+        },
+        {
+          "title": "박지현 “항상 형 보면서 노래해”…DK 향한 애정 고백",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261022/134888156/1"
+        },
+        {
+          "title": "“발라드도 이렇게 잘했나?” 박지현, ‘더 리슨’서 폭발적인 가창력…시청자 호평",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1643524"
+        }
+      ]
+    },
+    {
+      "title": "이억원",
+      "approx_traffic": "100+",
+      "published": "Fri, 23 Oct 2026 23:10:00 -0700",
+      "news": [
+        {
+          "title": "금융위원장 \"산은 부산 이전 하지 않는 것으로 정리\" 파장",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20261022.99099006606"
+        },
+        {
+          "title": "금융위원장 “산은, 부산 안 온다”…부산시 “말실수”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8693807"
+        },
+        {
+          "title": "“산은 이전 않기로” 이억원 발언 파장",
+          "source": "부산일보",
+          "url": "https://mobile.busan.com/view/busan/view.php?code=2026102218312064410"
+        }
+      ]
+    },
+    {
+      "title": "김재윤",
+      "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 23:00:00 -0700",
+      "news": [
+        {
+          "title": "삼성, 엔트리서 '전거근 부상' 세이브왕 김재윤 제외…구자욱 포함[PO]",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261024_0003839590"
+        },
+        {
+          "title": "프로야구 삼성, PO 앞두고 날벼락…마무리 김재윤 부상 낙마",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813106"
+        },
+        {
+          "title": "[PO] '세이브왕' 삼성 김재윤, 부상 2주 이탈...백정현·좌승현에 이어 부상 악재",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261024000052"
+        }
+      ]
+    },
+    {
+      "title": "6.25 전쟁",
+      "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 22:50:00 -0700",
+      "news": []
+    },
+    {
       "title": "최태원",
-      "approx_traffic": "2000+",
+      "approx_traffic": "5000+",
       "published": "Fri, 23 Oct 2026 22:20:00 -0700",
       "news": [
         {
@@ -26,46 +98,36 @@
       ]
     },
     {
-      "title": "폴드8",
+      "title": "일본인",
       "approx_traffic": "1000+",
-      "published": "Fri, 23 Oct 2026 22:00:00 -0700",
+      "published": "Fri, 23 Oct 2026 22:10:00 -0700",
       "news": [
         {
-          "title": "삼성전자, 리센느와 손잡고 폴드8 여심 잡기 나선다",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023169900017"
+          "title": "한국인·일본인 머문 숙소 사진…“어느 쪽인지는 얘기 안하겠다”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261024/134900391/1"
         },
         {
-          "title": "갤럭시 Z폴드8, 유럽서도 통했다… 전작 대비 판매량 45% ‘껑충’",
-          "source": "경인일보",
-          "url": "https://www.kyeongin.com/article/1773283"
-        },
-        {
-          "title": "아이폰 듀오가 갤럭시Z폴드8 판매량 늘렸나",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261023134410"
+          "title": "한일 손님 숙소 비교 사진 공개에 온라인 갑론을박",
+          "source": "기독일보",
+          "url": "https://www.christiandaily.co.kr/news/166000"
         }
       ]
     },
     {
-      "title": "warriors vs grizzlies",
-      "approx_traffic": "100+",
+      "title": "서울 sk 대 창원 lg",
+      "approx_traffic": "1000+",
       "published": "Fri, 23 Oct 2026 21:50:00 -0700",
       "news": [
         {
-          "title": "Memphis Grizzlies caught enemy Golden State Warriors in enemy territory.",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/en/sports/12184798"
+          "title": "프로농구 SK, 20점 차 뒤집고 LG 격파…김낙현 결승 3점포",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261024038100007"
         },
         {
-          "title": "Ty Jerome stays hot, scores 28 points vs. GSW",
-          "source": "NBC Sports",
-          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-24/ty-jerome-stays-hot-scores-28-points-vs-gsw"
-        },
-        {
-          "title": "Warriors Fall to Grizzlies in Home Opener",
-          "source": "NBA.com",
-          "url": "https://warriors.com/news/gameday-recap-20261023"
+          "title": "유기상 '가볍게 3점슛'[포토]",
+          "source": "www.xportsnews.com",
+          "url": "https://www.xportsnews.com/article/2210948"
         }
       ]
     },
@@ -75,25 +137,25 @@
       "published": "Fri, 23 Oct 2026 21:20:00 -0700",
       "news": [
         {
-          "title": "'이기면 우승' FC서울 김기동 감독, 두 손 쥐고 \"오늘 끝내길\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261024031000007"
+          "title": "FC서울, 강원과 비기고 우승 축포…10년 만에 통산 7번째 우승",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8694285"
         },
         {
-          "title": "서울, 조기우승까지 ’승점 3’…상암 팬들로 북적",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261024140600Omk"
+          "title": "슈퍼스타 떠난 서울…클리말라·정승원·김진수 완벽 융화[K리그1 우승③]",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261023_0003838812"
         },
         {
-          "title": "구성윤, 전반 추가시간 PK 막았다...서울 강원 0-0, 울산 포항 0-2 우승까지 45분 [오!쎈 서울]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/football/2026/10/24/GE3TSZTGGEZDAYTBGRSTAYJSME/"
+          "title": "‘3년의 기다림이 만든 기동매직’…김기동, 서울을 어떻게 챔피언으로 바꿨나",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610241557003"
         }
       ]
     },
     {
       "title": "안양 대 전북",
-      "approx_traffic": "2000+",
+      "approx_traffic": "5000+",
       "published": "Fri, 23 Oct 2026 21:20:00 -0700",
       "news": []
     },
@@ -101,93 +163,21 @@
       "title": "인천 대 제주",
       "approx_traffic": "2000+",
       "published": "Fri, 23 Oct 2026 21:20:00 -0700",
-      "news": []
-    },
-    {
-      "title": "낚시",
-      "approx_traffic": "500+",
-      "published": "Fri, 23 Oct 2026 21:20:00 -0700",
       "news": [
         {
-          "title": "공원 연못서 낚은 몸통만한 잉어 메고 떠난 여성 놓고 ‘와글와글’",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20261023/134899915/2"
+          "title": "[프로축구 인천전적] 인천 3-1 제주",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261024037100007"
         },
         {
-          "title": "[와글와글] \"골칫거리 잡았는데?\"‥\"하면 안 되는 행동\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6860110_37012.html"
+          "title": "최종전서 웃은 인천 유나이티드… 제주 꺾고 극적 파이널A 진입",
+          "source": "경인일보",
+          "url": "https://www.kyeongin.com/article/1773294"
         },
         {
-          "title": "\"월척 잡았네\" 어깨에 잉어 메고 유유히…공원 발칵 뒤집혔다 - 머니투데이",
+          "title": "'오늘 우리 영광을 위해' 인천 팬들, '파이널A 걸린' 제주전 앞두고 '버스 맞이' 응원 [인천 현장] - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/10/24/2026102408534264999"
-        }
-      ]
-    },
-    {
-      "title": "삼성전기",
-      "approx_traffic": "2000+",
-      "published": "Fri, 23 Oct 2026 21:10:00 -0700",
-      "news": [
-        {
-          "title": "삼성전기·LG이노텍 실적 희비…AI 전략 달랐다",
-          "source": "IT조선",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172654"
-        },
-        {
-          "title": "[단독] 빅테크, 첨단기판 못구해 발동동 … 韓·日공장 증설에 돈 쏟아부어",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/business/12183246"
-        },
-        {
-          "title": "부산에 엔비디아 전용 생산라인 선다(종합)",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261023.22008006709"
-        }
-      ]
-    },
-    {
-      "title": "김천상무 대 대전",
-      "approx_traffic": "1000+",
-      "published": "Fri, 23 Oct 2026 21:10:00 -0700",
-      "news": [
-        {
-          "title": "[현장목소리] \"최대한 높은 곳까지 가보겠다\" 대전 황선홍 감독, 정규 시즌 '마지막 라운드' 김천전 앞두고 '의지 활활'",
-          "source": "Your Field",
-          "url": "https://yourfield.nexon.com/today/view/2025052909553641111?type=all"
-        },
-        {
-          "title": "김천상무, 대전과 정규라운드 마지막 경기…할로윈 홈경기 이벤트 진행",
-          "source": "웹이코노미",
-          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2344688"
-        },
-        {
-          "title": "김천상무, '든든한 동반자' 후원회 후원금 전달식 진행:중수청일보",
-          "source": "중수청일보",
-          "url": "https://unionilbo.com/2228778"
-        }
-      ]
-    },
-    {
-      "title": "노태문",
-      "approx_traffic": "200+",
-      "published": "Fri, 23 Oct 2026 21:10:00 -0700",
-      "news": [
-        {
-          "title": "삼성전자 전영현·노태문, '투톱 겸직' 바뀔까…메모리·MX 수장 인선 촉각",
-          "source": "데일리한국",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1417900"
-        },
-        {
-          "title": "[ET톡] '호황' 속 재계 인사, 불황의 청구서까지 내다봐야",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261021000197"
-        },
-        {
-          "title": "[정해균의 Zoom-人] ‘각양강색’ 전문경영인 부회장...사업 총괄부터 회장 보좌까지",
-          "source": "뉴스인사이드",
-          "url": "https://www.newsinside.kr/news/articleView.html?idxno=5031215"
+          "url": "https://www.mt.co.kr/sports/2026/10/24/2026102411191697138"
         }
       ]
     }
