@@ -1,27 +1,137 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-24T07:40:12+00:00",
+  "fetched_at": "2026-10-24T08:07:38+00:00",
   "items": [
+    {
+      "title": "new zealand vs india",
+      "approx_traffic": "200+",
+      "published": "Sat, 24 Oct 2026 00:00:00 -0700",
+      "news": [
+        {
+          "title": "Live: Black Caps v India - second T20",
+          "source": "Stuff",
+          "url": "https://www.stuff.co.nz/sport/361048920/live-black-caps-v-india-second-t20"
+        },
+        {
+          "title": "IND vs NZ 2nd T20I: New Zealand reach 66 runs in 10 overs against Team India",
+          "source": "Mid-Day",
+          "url": "https://www.mid-day.com/sports/cricket/article/ind-vs-nz-2nd-t20i-new-zealand-reach-66-runs-in-10-overs-against-team-india-23656720"
+        },
+        {
+          "title": "NZ vs IND 2nd T20I live streaming: Where to watch today's cricket match?",
+          "source": "Business Standard",
+          "url": "https://www.business-standard.com/cricket/news/nz-vs-ind-2nd-t20i-live-streaming-where-to-watch-today-s-cricket-match-126102300353_1.html"
+        }
+      ]
+    },
+    {
+      "title": "육상 경기",
+      "approx_traffic": "500+",
+      "published": "Sat, 24 Oct 2026 00:00:00 -0700",
+      "news": [
+        {
+          "title": "육상 장민호, 400m 세계신기록으로 장애인AG 2관왕…46초24",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/IPT20261023000017365"
+        },
+        {
+          "title": "충북 선수단, 아시안패러게임서 '메달 7개 수확'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261024_0003839585"
+        },
+        {
+          "title": "‘시각장애 스프린터’ 장민호, 세계신기록으로 2관왕",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694193"
+        }
+      ]
+    },
+    {
+      "title": "mlb",
+      "approx_traffic": "2000+",
+      "published": "Fri, 23 Oct 2026 23:50:00 -0700",
+      "news": [
+        {
+          "title": "Brewers reach World Series after 44 years as Misierowski fans five and Yelich drives early run - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/10/24/LQ7WBJVJB5DBRCETGPP6NDVEXE/"
+        },
+        {
+          "title": "The Milwaukee Brewers, the home team, laughed in Game 1 of the World Series.Milwaukee beat the Tampa..",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/en/sports/12184772"
+        },
+        {
+          "title": "Brewers weather ninth-inning storm, take Game 1 in front of raucous fans",
+          "source": "MLB.com",
+          "url": "https://www.mlb.com/news/brewers-win-world-series-game-1-2026"
+        }
+      ]
+    },
+    {
+      "title": "jtbc",
+      "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 23:50:00 -0700",
+      "news": [
+        {
+          "title": "[Photo] Hong Hwa-Yeon invites you to ‘The Final Table’",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/en/photos/12182919"
+        },
+        {
+          "title": "Ahn Hyeop-seop, \"The Chef Is Handsome\" [Video]",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/en/star/2026/10/22/2026102213191221176"
+        },
+        {
+          "title": "\"They infused drama into the cooking competition\"…'Final Table', an emotional showdown",
+          "source": "DIPE.CO.KR",
+          "url": "https://www.dipe.co.kr/2349647"
+        }
+      ]
+    },
+    {
+      "title": "자영업",
+      "approx_traffic": "5000+",
+      "published": "Fri, 23 Oct 2026 23:40:00 -0700",
+      "news": [
+        {
+          "title": "\"月 4억씩 팔아도 남는 게 없다\"…정준하도 두 손 든 '줄폐업 공포'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026102423057"
+        },
+        {
+          "title": "'월매출 4억' 횟집사장 정준하도 적자 걱정…“자영업자, 남는게 없다” 왜?",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261024000019"
+        },
+        {
+          "title": "정준하 \"IMF 때도 월매출 6000만 원…코로나 빼면 사업 실패 없어\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0117_202610231059361124"
+        }
+      ]
+    },
     {
       "title": "박지현",
       "approx_traffic": "200+",
       "published": "Fri, 23 Oct 2026 23:20:00 -0700",
       "news": [
         {
-          "title": "송민준, ‘수묵화 보이스’로 가을밤 버스킹에 짙은 여운 수놓아 (더 리슨)",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610230155003"
+          "title": "[포토] 이현중 '전국 유람 직관' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/23/2026102318532470307"
         },
         {
-          "title": "박지현 “항상 형 보면서 노래해”…DK 향한 애정 고백",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261022/134888156/1"
+          "title": "[농구장을 찾은 스타] NBA 도전 이현중, WNBA LA 스팍스 박지현 ′KT-DB전 관람′",
+          "source": "점프볼",
+          "url": "https://jumpball.co.kr/news/newsview.php?ncode=1065617671547679"
         },
         {
-          "title": "“발라드도 이렇게 잘했나?” 박지현, ‘더 리슨’서 폭발적인 가창력…시청자 호평",
-          "source": "스포츠서울",
-          "url": "https://www.sportsseoul.com/news/read/1643524"
+          "title": "[포토] 최혜린 '코트가 뜨겁다'",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/sports/2026/10/18/2026101817364729872"
         }
       ]
     },
@@ -71,13 +181,13 @@
     },
     {
       "title": "6.25 전쟁",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Fri, 23 Oct 2026 22:50:00 -0700",
       "news": []
     },
     {
       "title": "최태원",
-      "approx_traffic": "5000+",
+      "approx_traffic": "10000+",
       "published": "Fri, 23 Oct 2026 22:20:00 -0700",
       "news": [
         {
@@ -94,90 +204,6 @@
           "title": "힙지로로… 최태원, 격식 내려놓고 둘러앉아 소맥 '한잔' - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/industry/2026/10/23/2026102219444730559"
-        }
-      ]
-    },
-    {
-      "title": "일본인",
-      "approx_traffic": "1000+",
-      "published": "Fri, 23 Oct 2026 22:10:00 -0700",
-      "news": [
-        {
-          "title": "한국인·일본인 머문 숙소 사진…“어느 쪽인지는 얘기 안하겠다”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261024/134900391/1"
-        },
-        {
-          "title": "한일 손님 숙소 비교 사진 공개에 온라인 갑론을박",
-          "source": "기독일보",
-          "url": "https://www.christiandaily.co.kr/news/166000"
-        }
-      ]
-    },
-    {
-      "title": "서울 sk 대 창원 lg",
-      "approx_traffic": "1000+",
-      "published": "Fri, 23 Oct 2026 21:50:00 -0700",
-      "news": [
-        {
-          "title": "프로농구 SK, 20점 차 뒤집고 LG 격파…김낙현 결승 3점포",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261024038100007"
-        },
-        {
-          "title": "유기상 '가볍게 3점슛'[포토]",
-          "source": "www.xportsnews.com",
-          "url": "https://www.xportsnews.com/article/2210948"
-        }
-      ]
-    },
-    {
-      "title": "fc 서울 대 강원",
-      "approx_traffic": "5000+",
-      "published": "Fri, 23 Oct 2026 21:20:00 -0700",
-      "news": [
-        {
-          "title": "FC서울, 강원과 비기고 우승 축포…10년 만에 통산 7번째 우승",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8694285"
-        },
-        {
-          "title": "슈퍼스타 떠난 서울…클리말라·정승원·김진수 완벽 융화[K리그1 우승③]",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261023_0003838812"
-        },
-        {
-          "title": "‘3년의 기다림이 만든 기동매직’…김기동, 서울을 어떻게 챔피언으로 바꿨나",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610241557003"
-        }
-      ]
-    },
-    {
-      "title": "안양 대 전북",
-      "approx_traffic": "5000+",
-      "published": "Fri, 23 Oct 2026 21:20:00 -0700",
-      "news": []
-    },
-    {
-      "title": "인천 대 제주",
-      "approx_traffic": "2000+",
-      "published": "Fri, 23 Oct 2026 21:20:00 -0700",
-      "news": [
-        {
-          "title": "[프로축구 인천전적] 인천 3-1 제주",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261024037100007"
-        },
-        {
-          "title": "최종전서 웃은 인천 유나이티드… 제주 꺾고 극적 파이널A 진입",
-          "source": "경인일보",
-          "url": "https://www.kyeongin.com/article/1773294"
-        },
-        {
-          "title": "'오늘 우리 영광을 위해' 인천 팬들, '파이널A 걸린' 제주전 앞두고 '버스 맞이' 응원 [인천 현장] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/24/2026102411191697138"
         }
       ]
     }
