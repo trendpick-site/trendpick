@@ -1,8 +1,30 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-24T19:34:47+00:00",
+  "fetched_at": "2026-10-24T19:59:08+00:00",
   "items": [
+    {
+      "title": "아틀레티코",
+      "approx_traffic": "100+",
+      "published": "Sat, 24 Oct 2026 11:40:00 -0700",
+      "news": [
+        {
+          "title": "이강인, 챔피언스리그 결장 후 라리가 선발 복귀…아틀레티코는 선두 추격 도전",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=845223"
+        },
+        {
+          "title": "'대반전' 부상이라던 이강인, UCL 결장→단 4일 만에 선발 복귀 확정...시메오네, 라리가 6연승 도전 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/25/202610250401774133O"
+        },
+        {
+          "title": "한 달 넘게 침묵 중인 이강인, 데포르티보전서 공격포인트 정조준",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261023_0003838811"
+        }
+      ]
+    },
     {
       "title": "losene keita",
       "approx_traffic": "100+",
@@ -14,14 +36,14 @@
           "url": "https://www.leparisien.fr/sports/mma/personne-ne-croyait-en-moi-de-petit-ami-de-miss-belgique-en-prison-a-star-du-mma-le-destin-fabuleux-de-losene-keita-24-10-2026-4JAVZLIBTJARZKQOQYUQ2NGQDU.php"
         },
         {
-          "title": "UFC 333 : Un combat SURPRENANT entre Aaron Pico et Losene Keita (Résumé)",
-          "source": "RMC Sport",
-          "url": "https://rmcsport.bfmtv.com/sports-de-combat/mma/ufc/video-ufc-333-un-combat-surprenant-entre-aaron-pico-et-losene-keita-resume_VN-202610240413.html"
+          "title": "Losene Keita tombe dès le 1er round par TKO face à Aaron Pico lors de l’UFC 333",
+          "source": "ActuMMA",
+          "url": "https://www.actumma.com/losene-keita-tombe-des-le-1er-round-par-tko-face-a-aaron-pico-lors-de-lufc-333/194116/"
         },
         {
-          "title": "Losene Keita décortique le style d’Aaron Pico",
-          "source": "La Sueur",
-          "url": "https://lasueur.com/losene-keita-decortique-le-style-daaron-pico-24-10-2026"
+          "title": "Aaron Pico affirme être \"très bien préparé\" pour un combat imprévu contre Losene Keita à l'UFC 333",
+          "source": "Boxemag",
+          "url": "https://boxemag.ouest-france.fr/ufc/aaron-pico-affirme-etre-tres-bien-prepare-pour-un-combat-imprevu-contre-losene-keita-a-lufc-333/"
         }
       ]
     },
@@ -48,50 +70,6 @@
       ]
     },
     {
-      "title": "epl",
-      "approx_traffic": "2000+",
-      "published": "Sat, 24 Oct 2026 11:20:00 -0700",
-      "news": [
-        {
-          "title": "Premier League LIVE: Build-up, team news, live text, radio & score updates as it happens from across the Premier League",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cm4gvy14w7q4t"
-        },
-        {
-          "title": "Team news: Eze one of five changes to face Everton",
-          "source": "Arsenal.com",
-          "url": "https://www.arsenal.com/news/team-news-eze-one-of-five-changes-to-face-everton-aZIZd3e0c1Yj"
-        },
-        {
-          "title": "Arsenal 2-0 Everton, Coventry 0-1 Fulham: football clockwatch – as it happened",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/football/live/2026/oct/24/tottenham-arsenal-wsl-premier-league-efl-football-clockwatch-live"
-        }
-      ]
-    },
-    {
-      "title": "pl",
-      "approx_traffic": "100+",
-      "published": "Sat, 24 Oct 2026 11:10:00 -0700",
-      "news": [
-        {
-          "title": "Niesprawne czołgi w Braniewie? Agencja Uzbrojenia odpowiada",
-          "source": "Defence24",
-          "url": "https://defence24.pl/sily-zbrojne/niesprawne-czolgi-w-braniewie-agencja-uzbrojenia-odpowiada"
-        },
-        {
-          "title": "Polskie czołgi K2 na straży strategicznego odcinka granicy z Rosją. Co z usterkami maszyn?",
-          "source": "Zero.pl",
-          "url": "https://zero.pl/news/polskie-czolgi-k2-na-strazy-strategicznego-odcinka-granicy-z-rosja-co-z-usterkami-maszyn"
-        },
-        {
-          "title": "Czołgi za miliardy dla Polski popsute. Ok. 30 maszyn do naprawy. MON reaguje",
-          "source": "wnp.pl",
-          "url": "https://www.wnp.pl/bezpieczenstwo/czolgi-za-miliardy-dla-polski-popsute-ok-30-maszyn-do-naprawy-mon-reaguje,1112584.html"
-        }
-      ]
-    },
-    {
       "title": "lcp",
       "approx_traffic": "200+",
       "published": "Sat, 24 Oct 2026 11:10:00 -0700",
@@ -114,8 +92,30 @@
       ]
     },
     {
+      "title": "pl",
+      "approx_traffic": "100+",
+      "published": "Sat, 24 Oct 2026 11:10:00 -0700",
+      "news": [
+        {
+          "title": "Bogdan Borusewicz w Kijowie: jestem dziś tutaj, żeby ci ludzie nie czuli się osamotnieni",
+          "source": "Polska Agencja Prasowa SA",
+          "url": "https://www.pap.pl/aktualnosci/bogdan-borusewicz-w-kijowie-jestem-dzis-tutaj-zeby-ci-ludzie-nie-czuli-sie-osamotnieni"
+        },
+        {
+          "title": "Niesprawne czołgi w Braniewie? Agencja Uzbrojenia odpowiada",
+          "source": "Defence24",
+          "url": "https://defence24.pl/sily-zbrojne/niesprawne-czolgi-w-braniewie-agencja-uzbrojenia-odpowiada"
+        },
+        {
+          "title": "Polskie czołgi K2 na straży strategicznego odcinka granicy z Rosją. Co z usterkami maszyn?",
+          "source": "Zero.pl",
+          "url": "https://zero.pl/news/polskie-czolgi-k2-na-strazy-strategicznego-odcinka-granicy-z-rosja-co-z-usterkami-maszyn"
+        }
+      ]
+    },
+    {
       "title": "เชลซี พบ สเปอร์ส",
-      "approx_traffic": "500+",
+      "approx_traffic": "100+",
       "published": "Sat, 24 Oct 2026 11:10:00 -0700",
       "news": [
         {
@@ -141,19 +141,19 @@
       "published": "Sat, 24 Oct 2026 10:50:00 -0700",
       "news": [
         {
-          "title": "Skuld names new underwriting chief and CFO",
-          "source": "Business Insurance",
-          "url": "https://www.businessinsurance.com/skuld-names-new-underwriting-chief-and-cfo/"
+          "title": "Forgent Power Solutions Shares Plunge as CFO Exits Less Than a Year After IPO",
+          "source": "BigGo Finance",
+          "url": "https://finance.biggo.com/news/0de482ef-daae-4c17-8d71-ae3d0c76da67"
         },
         {
-          "title": "Positioning Skuld for future growth",
-          "source": "Cyprus Shipping News",
-          "url": "https://cyprusshippingnews.com/2026/10/23/positioning-skuld-for-future-growth/"
+          "title": "FPS Stock Plunges To Record Low, Falls Below IPO Price After CFO Ryan Fiedler's Exit",
+          "source": "TradingView",
+          "url": "https://fr.tradingview.com/news/stocktwits:56733c67d094b:0-fps-stock-plunges-to-record-low-falls-below-ipo-price-after-cfo-ryan-fiedler-s-exit/"
         },
         {
-          "title": "Skuld restructures leadership with new CUO, global heads",
-          "source": "Insurance Business",
-          "url": "https://www.insurancebusinessmag.com/uk/news/marine/skuld-restructures-leadership-with-new-cuo-global-heads-594484.aspx"
+          "title": "Forgent Power CFO leaves after a year",
+          "source": "CFO Dive",
+          "url": "https://www.cfodive.com/news/forgent-power-cfo-leaves-one-year-ipo-comp/833872/"
         }
       ]
     },
@@ -171,6 +171,11 @@
           "title": "보루시아 도르트문트 vs 아인트라흐트 프랑크푸르트 예측: 선두 자리를 노릴 기회",
           "source": "Vietnam.vn",
           "url": "https://www.vietnam.vn/ko/nhan-dinh-borussia-dortmund-vs-eintracht-frankfurt-co-hoi-bam-duoi-ngoi-dau"
+        },
+        {
+          "title": "도르트문트, 프랑크푸르트와 격돌…선두 추격전 : 스포츠",
+          "source": "재경일보",
+          "url": "https://news.jkn.co.kr/post/1047224"
         }
       ]
     },
