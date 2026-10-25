@@ -1,18 +1,145 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-25T04:15:05+00:00",
+  "fetched_at": "2026-10-25T05:10:42+00:00",
   "items": [
     {
-      "title": "저수지",
-      "approx_traffic": "1000+",
-      "published": "Sat, 24 Oct 2026 20:10:00 -0700",
+      "title": "kia 대 삼성",
+      "approx_traffic": "100000+",
+      "published": "Sat, 24 Oct 2026 21:00:00 -0700",
       "news": [
         {
-          "title": "가족과 저수지 낚시터 놀러왔다가 그만···초등생, 안성서 물에 빠져 숨져",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610250850001"
+          "title": "태풍 ‘참피’에 프로야구 플레이오프 1차전 취소…26일 재개",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694496"
         },
+        {
+          "title": "[포토] 최형우 '제가 떠나도 잘하네요 KIA' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/25/2026102513010010274"
+        },
+        {
+          "title": "프로야구 플레이오프 1차전 페덱 vs 네일 선발 투수 빅뱅",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261023123700007"
+        }
+      ]
+    },
+    {
+      "title": "사고",
+      "approx_traffic": "2000+",
+      "published": "Sat, 24 Oct 2026 21:00:00 -0700",
+      "news": [
+        {
+          "title": "인천서 노루 잡으려다 밭일하던 할아버지 쏜 60대 남성 조사",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6860424_36918.html"
+        },
+        {
+          "title": "노루 잡으려다 밭일 80대 노인에 발포…엽총 사고로 1명 부상",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11626023"
+        },
+        {
+          "title": "‘유해 야생 동물’ 고라니 잡으려다 밭일 하던 주민 다치게 한 60대 엽사…과실치상 혐의로 조사",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1334954"
+        }
+      ]
+    },
+    {
+      "title": "땅집고",
+      "approx_traffic": "2000+",
+      "published": "Sat, 24 Oct 2026 20:40:00 -0700",
+      "news": [
+        {
+          "title": "\"목에 칼 들어와도 안 사\" 다주택자 개그맨, 3개월 뒤 '코스피' 보니",
+          "source": "땅집고",
+          "url": "https://realty.chosun.com/site/data/html_dir/2026/10/23/2026102301872.html"
+        },
+        {
+          "title": "“목에 칼이 들어와도 지금 투자 안해” 3개월 전 황현희 말 재조명",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11624418"
+        },
+        {
+          "title": "\"목에 칼 들어와도 지금 주식 안 산다\"…황현희 3개월 전 경고 섬뜩",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6324667"
+        }
+      ]
+    },
+    {
+      "title": "대나무",
+      "approx_traffic": "500+",
+      "published": "Sat, 24 Oct 2026 20:40:00 -0700",
+      "news": [
+        {
+          "title": "“대나무 푹 끓였더니 석유가 나왔다!”…이게 말이 된다고?",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610250900011"
+        },
+        {
+          "title": "“이제 한국도 산유국되나요?”…대나무 끓였더니 석유가 나왔다는데",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/it/12184980"
+        },
+        {
+          "title": "대나무 연료는 배출량을 26배까지 줄일 수 있습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhien-lieu-tu-tre-co-the-giam-phat-thai-26-lan"
+        }
+      ]
+    },
+    {
+      "title": "kbo",
+      "approx_traffic": "500+",
+      "published": "Sat, 24 Oct 2026 20:20:00 -0700",
+      "news": [
+        {
+          "title": "Samsung Lions turn to Lee Seung-min as closer after Kim Jae-yoon injury",
+          "source": "Korea JoongAng Daily",
+          "url": "https://www.koreajoongangdaily.com/sports/samsung-lions-turn-to-lee-seungmin-as-closer-after-kim-jaeyoon-injury/12936627"
+        },
+        {
+          "title": "Kim Jae-yoon injury sidelines closer despite 35-save season - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/10/25/FABU2LDEJJGCJK3MVTSC34C4YM/"
+        },
+        {
+          "title": "Lions reliever eager for shot at revenge in KBO postseason",
+          "source": "Yonhap News Agency",
+          "url": "https://en.yna.co.kr/view/AEN20261025003200315"
+        }
+      ]
+    },
+    {
+      "title": "이세돌",
+      "approx_traffic": "100+",
+      "published": "Sat, 24 Oct 2026 20:20:00 -0700",
+      "news": [
+        {
+          "title": "이세돌, 20kg 맥주통 메고 야구장 누벼",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261024501646"
+        },
+        {
+          "title": "[잇슈 컬처] 알파고 이긴 이세돌 취업 도전…KBS2 ‘백수 이세돌’",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8693181"
+        },
+        {
+          "title": "'알파고와 대국' 이세돌, AI로 대체 힘든 직업 찾았다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261023_0003839041"
+        }
+      ]
+    },
+    {
+      "title": "저수지",
+      "approx_traffic": "2000+",
+      "published": "Sat, 24 Oct 2026 20:10:00 -0700",
+      "news": [
         {
           "title": "[속보]심야 저수지 낚시터서 초등학생 물에 빠져 숨져",
           "source": "문화일보",
@@ -22,28 +149,11 @@
           "title": "안성 낚시터서 초등생 물에 빠져 숨져…수색 3시간여 만에 발견",
           "source": "동아일보",
           "url": "https://www.donga.com/news/Society/article/all/20261025/134902043/1"
-        }
-      ]
-    },
-    {
-      "title": "플레이오프",
-      "approx_traffic": "2000+",
-      "published": "Sat, 24 Oct 2026 20:10:00 -0700",
-      "news": [
-        {
-          "title": "프로야구 플레이오프 1차전 페덱 vs 네일 선발 투수 빅뱅",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023123700007"
         },
         {
-          "title": "[포토] 김도영 '비가 우리에게 도움' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/25/2026102512493116214"
-        },
-        {
-          "title": "‘쉬어간 삼성’ vs ‘기세의 KIA’…내일 PO 1차전 격돌",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694250"
+          "title": "가족과 저수지 낚시터 놀러왔다가 그만···초등생, 안성서 물에 빠져 숨져",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610250850001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
         }
       ]
     },
@@ -93,133 +203,23 @@
     },
     {
       "title": "삼성 엑시노스",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Sat, 24 Oct 2026 19:40:00 -0700",
       "news": [
-        {
-          "title": "삼성 '엑시노스 2700', 성능 시험서 퀄컴 최신칩 앞서",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023080600003"
-        },
         {
           "title": "삼성 ‘엑시노스 2700’, 내부 시험서 퀄컴 최신 AP 앞서…멀티코어 성능 약 20% 우위 - 조선비즈",
           "source": "Chosunbiz",
           "url": "https://biz.chosun.com/it-science/ict/2026/10/25/LYNO7ACPWRECDA5UDZRHHMLA6E/"
         },
         {
+          "title": "삼성 '엑시노스 2700', 성능 시험서 퀄컴 최신칩 앞서",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261023080600003"
+        },
+        {
           "title": "엑시노스 2700, 차세대 스냅드래곤 앞섰다…갤럭시 탑재 확대 기대",
           "source": "스트레이트뉴스",
           "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=313863"
-        }
-      ]
-    },
-    {
-      "title": "스포츠조선",
-      "approx_traffic": "1000+",
-      "published": "Sat, 24 Oct 2026 19:30:00 -0700",
-      "news": [
-        {
-          "title": "日 베스트셀러 작가 무라카미 류 별세",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/culture-life/culture_general/2026/10/24/2LS3VUMCD5EDXLY5LI5LZ3IIII/"
-        },
-        {
-          "title": "일본 사회 불안과 욕망을 해부한 소설가 무라카미 류 별세",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202610231622011"
-        },
-        {
-          "title": "일 작가 무라카미 류 별세...날카로운 사회 묘사 소설 집필",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202610232121293757"
-        }
-      ]
-    },
-    {
-      "title": "kbs",
-      "approx_traffic": "200+",
-      "published": "Sat, 24 Oct 2026 19:20:00 -0700",
-      "news": [
-        {
-          "title": "Song Ga-in's Fusion Hanbok Shines at KBS Special",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/kpop-culture-en/2026/10/24/ORFJ2CLHA5AXRBUDHZHSN4HKEA/"
-        },
-        {
-          "title": "Lee Chan-won transforms into a history commentator… \"May you enjoy great fortune and prosperity\" moving greeting [Immortal Songs]",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/en/broadcast-show/2026/10/24/2026102418491858955"
-        },
-        {
-          "title": "Song Gain stuns in fusion hanbok on KBS 'Immortal Songs' royal special - CHOSUNBIZ",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-entertainment/2026/10/24/IERPBQEKZNCIBMBCKQPE7LKHUM/"
-        }
-      ]
-    },
-    {
-      "title": "네이마르",
-      "approx_traffic": "200+",
-      "published": "Sat, 24 Oct 2026 19:20:00 -0700",
-      "news": [
-        {
-          "title": "Simply unbelievable! Neymar sent off under the 'Vini Jr law'",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/simply-unbelievable-neymar-sent-off-014200731.html"
-        },
-        {
-          "title": "Unseen hero keeps Bahia on terms at Santos",
-          "source": "OneFootball",
-          "url": "https://onefootball.com/en/news/unseen-hero-keeps-bahia-on-terms-at-santos-43667608"
-        },
-        {
-          "title": "Luan Peres rescues Santos with stoppage time header as Bahia held",
-          "source": "OneFootball",
-          "url": "https://onefootball.com/en/news/luan-peres-rescues-santos-with-stoppage-time-header-as-bahia-held-43667606"
-        }
-      ]
-    },
-    {
-      "title": "할리우드",
-      "approx_traffic": "100+",
-      "published": "Sat, 24 Oct 2026 19:10:00 -0700",
-      "news": [
-        {
-          "title": "폭우 뒤 할리우드서 나무 쓰러져 차량 2대 파손",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261023163730726"
-        },
-        {
-          "title": "키아누 리브스, 마동석과 만날까…'악인전' 美 리메이크 출연 논의 중",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008810717"
-        },
-        {
-          "title": "'아이언 피스트'와 '펜슬 킬러'의 대결",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nam-dam-thep-dung-do-sat-thu-but-chi"
-        }
-      ]
-    },
-    {
-      "title": "경상수지",
-      "approx_traffic": "500+",
-      "published": "Sat, 24 Oct 2026 18:30:00 -0700",
-      "news": [
-        {
-          "title": "韓 2분기 경상흑자 세계 2위...‘제조업 강국’ 독·일 합계마저 제쳐",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/economy_general/2026/10/25/2327C5MI5VHM7LFLKW5YI2ZMOA/"
-        },
-        {
-          "title": "한국 경상흑자, '제조업 대국' 독·일 합계보다 많아…사상 처음",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261024050300002"
-        },
-        {
-          "title": "한국 2분기 경상흑자 독일과 일본 합친 것보다 많았다",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610251129001"
         }
       ]
     }
