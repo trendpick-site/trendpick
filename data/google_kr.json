@@ -1,33 +1,116 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-25T06:47:05+00:00",
+  "fetched_at": "2026-10-25T07:42:04+00:00",
   "items": [
     {
-      "title": "k리그2",
+      "title": "중고",
+      "approx_traffic": "2000+",
+      "published": "Sat, 24 Oct 2026 23:30:00 -0700",
+      "news": [
+        {
+          "title": "시댁에 준 선물, 반값에 중고 거래 등장…판매자 알고 보니 '형님네'",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6330113"
+        },
+        {
+          "title": "\"친정이 시댁에 보낸 선물, 당근에 반값으로\"…판매자 알고 보니 '형님네'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261025_0003839785"
+        },
+        {
+          "title": "“친정서 매번 정성 들여 시댁에 준 선물들이 반값 중고 거래... 판매자 알고 소름 돋았다”",
+          "source": "위키트리",
+          "url": "https://www.wikitree.co.kr/articles/1168918"
+        }
+      ]
+    },
+    {
+      "title": "염소",
       "approx_traffic": "200+",
+      "published": "Sat, 24 Oct 2026 23:20:00 -0700",
+      "news": [
+        {
+          "title": "일본 도심에 나타난 염소 두 마리…제초 작업 임무 부여",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20261025/134902338/1"
+        },
+        {
+          "title": "일본 도심 한복판에 웬 염소 두 마리…’특별한 임무’ 뭐길래",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261023165330PvP"
+        }
+      ]
+    },
+    {
+      "title": "kbo리그",
+      "approx_traffic": "5000+",
+      "published": "Sat, 24 Oct 2026 23:00:00 -0700",
+      "news": [
+        {
+          "title": "KIA 때문에 KBO 9개 구단 바빠졌다… 명단 한번 화려하네, ‘방출 신화’로 KIA 겨눌까",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1015158"
+        },
+        {
+          "title": "연봉 6억5000만원 받았는데, 고작 4이닝 던지고 방출…왜 15억 옵트 아웃 대모험 선택했었나 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/24/202610232010776941O"
+        },
+        {
+          "title": "[오피셜] ‘1년 최대 7억’ 이렇게 끝날 줄이야…6년 만에 친정 유니폼 입은 홍건희, 3경기 등판→부상→끝내 방출",
+          "source": "스포탈코리아",
+          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553639957"
+        }
+      ]
+    },
+    {
+      "title": "정준하",
+      "approx_traffic": "1000+",
+      "published": "Sat, 24 Oct 2026 22:50:00 -0700",
+      "news": [
+        {
+          "title": "‘놀면 뭐하니?’ 유재석·정준하, 주우재·곽범에 발끈…‘먹쪄 모임’ 뒤집은 막내들의 반란",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=845185"
+        },
+        {
+          "title": "2054 시청률 土 예능 1위 '놀뭐?' 정준하, 자작시 '가을 전어'로 초토화",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522377"
+        },
+        {
+          "title": "정준하, 7500원 아이스크림 가격 논란에…\"美 본사가 정한 가격\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261024_0003839696"
+        }
+      ]
+    },
+    {
+      "title": "k리그2",
+      "approx_traffic": "500+",
       "published": "Sat, 24 Oct 2026 22:30:00 -0700",
       "news": [
+        {
+          "title": "K리그2 수원 삼성, 1부 리그 승격 눈 앞",
+          "source": "기호일보",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3038777"
+        },
         {
           "title": "'오직 수원만 신경 쓴다' 이정효 감독 \"체력·기분 관계없이 일관성 보여야\" [성남 현장] - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/sports/2026/10/25/2026102512413253348"
         },
         {
-          "title": "\"똥개도 안방에서는 50% 먹고 간다\" 김해운 감독, 수원전 화끈한 홈 승리 다짐 [성남 현장] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/25/2026102512421188713"
-        },
-        {
-          "title": "[K리그2 프리뷰]'서울E와 동률' 15경기 무패 수원FC, 한발 치고 나갈까...6연승 수원은 성남과 '마계 대전'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/football/2026/10/23/GJRDMYJTGNSDGNRUGA3DAM3BMU/"
+          "title": "K리그2 선두 수원, 7연승 질주…2위 수원FC는 15경기 무패 마침표",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261025_0003840017"
         }
       ]
     },
     {
       "title": "프랑스",
-      "approx_traffic": "2000+",
+      "approx_traffic": "5000+",
       "published": "Sat, 24 Oct 2026 22:20:00 -0700",
       "news": [
         {
@@ -36,14 +119,14 @@
           "url": "https://www.munhwa.com/article/11625952"
         },
         {
-          "title": "프랑스의 작은 학생 시위는 어떻게 전국 시위로 번졌나",
+          "title": "\"두 번은 안 당해\"…유럽 상점들, 합판으로 막고 경비 강화 '철통방어'",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261025_0003839953"
+          "url": "https://www.newsis.com/view/NISX20261025_0003840040"
         },
         {
-          "title": "이탈리아 전역 시위 몸살... 콜로세움도 뚫렸다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/10/25/75KUGXJOBFE3NK77TY7CLYGVIQ/"
+          "title": "최루탄에 물대포까지...언제 폭발해도 이상하지 않은 프랑스 [자막뉴스]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0134_202610250856594223_001"
         }
       ]
     },
@@ -73,145 +156,19 @@
       "title": "대한민국의 국토교통부 장관",
       "approx_traffic": "200+",
       "published": "Sat, 24 Oct 2026 22:20:00 -0700",
-      "news": [
-        {
-          "title": "올 1~9월 서울 아파트 월세 비중 50% 첫 돌파... 전세 급감 여파",
-          "source": "글로벌경제신문",
-          "url": "https://www.getnews.co.kr/news/articleView.html?idxno=884172"
-        }
-      ]
+      "news": []
     },
     {
-      "title": "안성시",
-      "approx_traffic": "1000+",
-      "published": "Sat, 24 Oct 2026 21:50:00 -0700",
-      "news": [
-        {
-          "title": "김보라 안성시장, SK하이닉스 방류수 논란에 “시민께 심려 끼쳐 죄송”",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261025580068"
-        },
-        {
-          "title": "용인 반도체 국가산단 착공 본격화…동탄 ‘아크메르 동탄’ 수혜 기대",
-          "source": "경상일보",
-          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1070442"
-        },
-        {
-          "title": "안성시, 용인 반도체 산단 환경·농업 피해 방지 총력…바이패스 등 재협상 추진",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1334924"
-        }
-      ]
-    },
-    {
-      "title": "이세웅",
-      "approx_traffic": "200+",
-      "published": "Sat, 24 Oct 2026 21:50:00 -0700",
-      "news": [
-        {
-          "title": "\"삼전 들고 버텼더니\" 7개월 새 1172억 불린 전직 도지사 누구?",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02515766645615872&mediaCodeNo=257"
-        },
-        {
-          "title": "올해 주식으로 1170억 불린 퇴직 공무원…그가 들고있던 최애 종목은 [이번주인공]",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/politics/12184913"
-        },
-        {
-          "title": "이세웅 전 평북지사 재산 2759억…7개월 만에 1172억 늘어",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261022_0003837095"
-        }
-      ]
-    },
-    {
-      "title": "서장훈",
-      "approx_traffic": "2000+",
-      "published": "Sat, 24 Oct 2026 21:40:00 -0700",
-      "news": [
-        {
-          "title": "\"‘700억 갑부’ 서장훈 집은 35억, 소박하네\"…어딘가 봤더니[누구집]",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01131606645616528&mediaCodeNo=257"
-        },
-        {
-          "title": "강호동·전현무·서장훈 한자리에…SM C&C ‘핑크빛’ 워크숍",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12324594"
-        },
-        {
-          "title": "수지, 최고 분양가 400억대 고급 빌라 계약…블핑 지수·신세경도",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/realestate/general/6328928"
-        }
-      ]
-    },
-    {
-      "title": "석유",
-      "approx_traffic": "1000+",
-      "published": "Sat, 24 Oct 2026 21:40:00 -0700",
-      "news": [
-        {
-          "title": "“이제 한국도 산유국되나요?”…대나무 끓였더니 석유가 나왔다는데",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/it/12184980"
-        },
-        {
-          "title": "“대나무 푹 끓였더니 석유가 나왔다!”…이게 말이 된다고?",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610250900011"
-        },
-        {
-          "title": "대나무 연료는 배출량을 26배까지 줄일 수 있습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhien-lieu-tu-tre-co-the-giam-phat-thai-26-lan"
-        }
-      ]
-    },
-    {
-      "title": "노화",
-      "approx_traffic": "1000+",
-      "published": "Sat, 24 Oct 2026 21:40:00 -0700",
-      "news": [
-        {
-          "title": "\"출산 후 회복 전 또 임신하면 노화 누적될 가능성\"",
-          "source": "DongA Science",
-          "url": "https://www.dongascience.com/ko/news/80497"
-        },
-        {
-          "title": "출산 후 너무 빨리 다시 임신하면 생물학적 노화에 영향",
-          "source": "메디컬투데이",
-          "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=620597"
-        },
-        {
-          "title": "여성, 남성보다 노화에 긍정적…기억력 저하 나타나면 인식 역전",
-          "source": "메디컬투데이",
-          "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=620644"
-        }
-      ]
-    },
-    {
-      "title": "배드민턴 프랑스오픈",
+      "title": "서울 sk 대 수원 kt",
       "approx_traffic": "500+",
-      "published": "Sat, 24 Oct 2026 21:30:00 -0700",
-      "news": [
-        {
-          "title": "세계 2위 잡은 日 돌풍 신예, 인도 배드민턴 여제 앞에서 멈췄다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_general/2026/10/24/G5RTSNDCGE3WGNDFGQYTSMJXMY/"
-        },
-        {
-          "title": "'승률 98.5%' 배드민턴 안세영, 프랑스오픈 결승행…시즌 10승 눈앞",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261024_0003839614"
-        },
-        {
-          "title": "배드민턴: 안세영, 오쿠하라 꺾고 결승 진출 - 프랑스오픈 2026",
-          "source": "Olympic Channel",
-          "url": "https://www.olympics.com/ko/news/badminton-an-seyoung-reaches-final-france-open-2026"
-        }
-      ]
+      "published": "Sat, 24 Oct 2026 22:10:00 -0700",
+      "news": []
+    },
+    {
+      "title": "안양 정관장 대 원주 db",
+      "approx_traffic": "500+",
+      "published": "Sat, 24 Oct 2026 22:00:00 -0700",
+      "news": []
     }
   ]
 }
