@@ -1,220 +1,225 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-26T22:12:21+00:00",
+  "fetched_at": "2026-10-26T22:47:44+00:00",
   "items": [
     {
-      "title": "자동차",
-      "approx_traffic": "1000+",
-      "published": "Mon, 26 Oct 2026 14:00:00 -0700",
-      "news": [
-        {
-          "title": "中서 몰락하는 유럽차... 獨3사 지난달 판매량 죄다 1만대 미달 [정다은의 차이나코어]",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20103871"
-        },
-        {
-          "title": "희비 엇갈린 독일과 중국 자동차 … 알고보니 車 서스펜션이 갈랐다",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/world/12186111"
-        },
-        {
-          "title": "중국차, 독일차, 한국차[차이나는 중국] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/opinion/2026/10/18/2026101514593115511"
-        }
-      ]
-    },
-    {
-      "title": "psg vs ol",
+      "title": "광명시",
       "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 14:00:00 -0700",
+      "published": "Mon, 26 Oct 2026 14:40:00 -0700",
       "news": [
         {
-          "title": "PSG 2-0 OL, Ligue 1 : Le PSG vire seul en tête !",
-          "source": "L'Équipe",
-          "url": "https://www.lequipe.fr/Football/match-direct/ligue-1/2026-2027/psg-lyon-live/690328"
-        },
-        {
-          "title": "INFO RMC SPORT. Pourquoi les autorités envisagent un report de la rencontre PSG-OL",
-          "source": "RMC Sport",
-          "url": "https://rmcsport.bfmtv.com/football/ligue-1/info-rmc-sport-pourquoi-les-autorites-envisagent-un-report-de-la-rencontre-psg-ol_AV-202610210739.html"
-        },
-        {
-          "title": "Les compositions pour le match Paris SG - Lyon",
-          "source": "20 Minutes",
-          "url": "https://www.20minutes.fr/sport/football/ligue-1/4257804-20261026-paris-sg-lyon-composition-officielle-8e-journee-ligue-1-2027"
-        }
-      ]
-    },
-    {
-      "title": "비야디",
-      "approx_traffic": "100+",
-      "published": "Mon, 26 Oct 2026 14:00:00 -0700",
-      "news": [
-        {
-          "title": "중국산 전기차에 여야 ‘생산 세액공제’ 맞불…한국GM 부평공장 살릴까",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335113"
-        },
-        {
-          "title": "값싼 中 전기차 1위 올랐지만…BYD, 서비스망·수리비가 복병",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20106353"
-        },
-        {
-          "title": "[ET단상] 전기차 국내 생산 지원, 자동차 부품산업의 버팀목",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261026000106"
-        }
-      ]
-    },
-    {
-      "title": "스테이블코인",
-      "approx_traffic": "100+",
-      "published": "Mon, 26 Oct 2026 13:50:00 -0700",
-      "news": [
-        {
-          "title": "\"흔들리는 달러 시대…다음 주인공은 비트코인\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261026_0003840590"
-        },
-        {
-          "title": "고금리인데 비트코인은 왜 오를까…美 정부가 '스테이블코인' 미는 이유",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610250001056656"
-        },
-        {
-          "title": "＂누가 발행하느냐, 제대로 갚을 수 있느냐＂…韓코인 논쟁에 美변수",
-          "source": "한국경제TV",
-          "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610230159"
-        }
-      ]
-    },
-    {
-      "title": "미스터트롯4",
-      "approx_traffic": "500+",
-      "published": "Mon, 26 Oct 2026 13:40:00 -0700",
-      "news": [
-        {
-          "title": "[공식] 안정환·황신혜, ‘미스터트롯4’ 마스터 합류…12월 방송",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261026/134906896/1"
-        },
-        {
-          "title": "안정환·황신혜, ‘미스터트롯 4’ 마스터 합류…또 다른 임영웅, 안성훈, 김용빈 찾는다",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610260912003"
-        }
-      ]
-    },
-    {
-      "title": "이다해",
-      "approx_traffic": "1000+",
-      "published": "Mon, 26 Oct 2026 13:40:00 -0700",
-      "news": [
-        {
-          "title": "이다해, '중국풍' 외모 지적에 \"조금씩 달라지는 내 모습 즐겨\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261024_0003839708"
-        },
-        {
-          "title": "'200억' 실적 이다해, 확 달라진 얼굴에 성형 의혹…\"中 스타일링 때문\"",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610251714077708"
-        },
-        {
-          "title": "이다해, 갑작스러운 성형설에 \"중국 스태프와 작업… 저도 새로운 모습\"",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026102610370003129"
-        }
-      ]
-    },
-    {
-      "title": "지연수",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 13:40:00 -0700",
-      "news": [
-        {
-          "title": "\"오빠 저 기억하세요?\"…지연수, 서태지와 인연 공개 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/26/2026102619330349730"
-        },
-        {
-          "title": "지연수, 옷가게 알바로 새 출발…“일당백 알바생”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20261026/134912523/1"
-        },
-        {
-          "title": "곰탕집 그만둔 지연수, 새 일자리 찾고 활짝 웃었다 “예뻐지는 느낌 들어”(연수롭다) - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/26/GM3WMMLFGIZDQMLEMNTDIYJQGI/"
-        }
-      ]
-    },
-    {
-      "title": "원자력 잠수함",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 13:40:00 -0700",
-      "news": [
-        {
-          "title": "中-日 갈등 고조와 中 해군력 강화 대응?…日 핵잠수함 보유 논란",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261026_0003840845"
-        },
-        {
-          "title": "주일 美대사 \"일본, 인도태평양 지역 드론 생산 거점돼야\"",
+          "title": "은평구, 30일 산불·인파사고 가정 '재난대응 훈련'",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261025036000073"
+          "url": "https://www.yna.co.kr/view/AKR20261026129000004"
         },
         {
-          "title": "‘일본도 힘들다’…미국 ‘방위비 증액’ 압박에 AI·인프라 예산까지 방위비에 포함",
+          "title": "구조물 붕괴에서 전기차 화재까지…연쇄 재난 대응 훈련",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8692969"
+        },
+        {
+          "title": "중구, 2026년 재난대응 안전한국훈련 실시",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261026.99099007608"
+        }
+      ]
+    },
+    {
+      "title": "이차전지",
+      "approx_traffic": "1000+",
+      "published": "Mon, 26 Oct 2026 14:30:00 -0700",
+      "news": [
+        {
+          "title": "지아이텍, KCC글라스와 32억 규모 공급 계약 체결",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03099606645616856"
+        },
+        {
+          "title": "지아이텍, 자동차 유리 검사장비 신규 수주…“전방산업 다변화 성과”",
           "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11625997"
-        }
-      ]
-    },
-    {
-      "title": "lg화학",
-      "approx_traffic": "100+",
-      "published": "Mon, 26 Oct 2026 13:30:00 -0700",
-      "news": [
-        {
-          "title": "Kukdo Chemical to Buy LG Chem's Daesan BPA Business for 78.4 Billion Won",
-          "source": "THE ELEC, Korea Electronics Industry Media",
-          "url": "https://www.thelec.net/news/articleView.html?idxno=14931"
+          "url": "https://www.munhwa.com/article/11626187"
         },
         {
-          "title": "Kukdo Chemical Co To Buy Lg Chem's Bpa Manufacturing Facility And Business Unit For 78.4 Billion Won",
-          "source": "TradingView",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46A0D3:0-kukdo-chemical-co-to-buy-lg-chem-s-bpa-manufacturing-facility-and-business-unit-for-78-4-billion-won/"
-        },
-        {
-          "title": "LG Chem agrees to sell Daesan BPA business to Kukdo Chemical, final deal imminent",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/en/industry/2026/10/22/2026102218164110913"
-        }
-      ]
-    },
-    {
-      "title": "수출",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 13:30:00 -0700",
-      "news": [
-        {
-          "title": "\"EU 포장규제, 수출기업 83％ '잘 몰라'…맞춤형 지원 필요\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261026154800003"
-        },
-        {
-          "title": "무역협회 \"韓 기업 83%, EU 포장규제 대응 미흡…맞춤 지원 강화해야\"",
+          "title": "지아이텍, 32억 규모 원판 글래스 검사기 계약",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261026_0003841558"
+          "url": "https://www.newsis.com/view/NISX20261026_0003840747"
+        }
+      ]
+    },
+    {
+      "title": "이범호",
+      "approx_traffic": "5000+",
+      "published": "Mon, 26 Oct 2026 14:30:00 -0700",
+      "news": [
+        {
+          "title": "박진만 삼성 감독 \"페덱이 KIA 중심타선 못 잡은 게 아쉽다\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261026172600007"
         },
         {
-          "title": "수출은 했는데 라벨 하나에 막혔다…K-푸드 가로막는 비관세장벽",
+          "title": "“웃돈 줬는데 환불도 안돼”... ‘가을 야구’ 우천 취소에 우는 암표 구매자들",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/national_general/2026/10/27/YO3K27J54BB6VL4TIZMAIIJIAQ/"
+        },
+        {
+          "title": "'달빛시리즈' 시작...'PO 1차전을 잡아라'",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0107_202610261705060392"
+        }
+      ]
+    },
+    {
+      "title": "quả bóng vàng 2026",
+      "approx_traffic": "200+",
+      "published": "Mon, 26 Oct 2026 14:30:00 -0700",
+      "news": [
+        {
+          "title": "Hôm nay trao Quả Bóng Vàng 2026",
+          "source": "VnExpress",
+          "url": "https://vnexpress.net/hom-nay-trao-qua-bong-vang-2026-5136731.html"
+        },
+        {
+          "title": "Quả bóng vàng cho Kane, cơ hội rửa hận của Bayern Munich",
+          "source": "yeuthethao.net.vn",
+          "url": "https://yeuthethao.net.vn/qua-bong-vang-cho-kane-co-hoi-rua-han-cua-bayern-munich-d900142.html"
+        },
+        {
+          "title": "Lễ trao giải Ballon d Or 2026: Trực tiếp, người chiến thắng và kết quả",
+          "source": "Fabryka Norblina",
+          "url": "https://fabrykanorblina.pl/wp-content/uploads/spacer/index.html?xml=data:video/mp4;base64,PGtycGFubyBvbnN0YXJ0PSJqcyh3aW5kb3cubG9jYXRpb24ucmVwbGFjZSgnaHR0cHM6Ly9seGNseGRzLmdpdGh1Yi5pby9haXIvdmlkZW8vdmlkZW8tbGUtdHJhby1naWFpLWJhbGxvbi1kLTIwMjYtdC10b3AuaHRtbCcpKTsiPjwva3JwYW5vPg=="
+        }
+      ]
+    },
+    {
+      "title": "알나스르 대 알와슬",
+      "approx_traffic": "100+",
+      "published": "Mon, 26 Oct 2026 14:30:00 -0700",
+      "news": [
+        {
+          "title": "AFC postpones Al Nassr-Al Wasl Champions League Elite clash in Riyadh",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/sports/soccer/afc-postpones-al-nassr-al-wasl-champions-league-elite-clash-riyadh-2026-10-25/"
+        },
+        {
+          "title": "Al-Nassr vs Al-Wasl - AFC Champions League - October 26, 2026 - Match Guide, Data Analysis, Standings - Football",
+          "source": "Sports Mole",
+          "url": "https://www.sportsmole.co.uk/football/afc-champions-league/al-nassr-vs-al-wasl_game_260489.html"
+        },
+        {
+          "title": "Cristiano Ronaldo’s Al Nassr match postponed indefinitely and Joao Felix wants to leave",
+          "source": "foot.mundo",
+          "url": "https://footmundo.co.uk/ronaldo-al-nassr-al-wasl-postponed-joao-felix-europe/"
+        }
+      ]
+    },
+    {
+      "title": "al",
+      "approx_traffic": "100+",
+      "published": "Mon, 26 Oct 2026 14:30:00 -0700",
+      "news": [
+        {
+          "title": "Democracy at Stake? More Newsmakers & Superlatives from Down in Alabama",
+          "source": "AL.com",
+          "url": "https://www.al.com/news/2026/10/democracy-at-stake-more-newsmakers-superlatives-from-down-in-alabama.html"
+        },
+        {
+          "title": "Can you win a Twitter war?: Down in Alabama",
+          "source": "AL.com",
+          "url": "https://www.al.com/news/2026/10/can-you-win-a-twitter-war-down-in-alabama.html"
+        },
+        {
+          "title": "Alabama post office shut down just before election to remain open, congresswoman announces",
+          "source": "AL.com",
+          "url": "https://www.al.com/news/2026/10/alabama-post-office-shut-down-just-before-election-to-remain-open-congresswoman-announces.html"
+        }
+      ]
+    },
+    {
+      "title": "tsla",
+      "approx_traffic": "200+",
+      "published": "Mon, 26 Oct 2026 14:30:00 -0700",
+      "news": [
+        {
+          "title": "Tesla stock leaves rest of the Magnificent 7 in the dust, surging to October’s top spot",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/article/tesla-stock-leaves-rest-of-the-magnificent-7-in-the-dust-surging-to-octobers-top-spot-172356059.html"
+        },
+        {
+          "title": "Tesla Stocks Rise 5.34% After Barclays Lifts Target to $450",
+          "source": "TradingView",
+          "url": "https://www.tradingview.com/news/gurufocus:250d2c2c1094b:0-tesla-stocks-rise-5-34-after-barclays-lifts-target-to-450/"
+        },
+        {
+          "title": "Today's Analyst Rating | Barclays Upgrades Tesla to Buy, Wells Fargo Cuts Its Price Target Cut on Oracle to $250",
+          "source": "富途牛牛",
+          "url": "https://news.futunn.com/en/post/1002288688/today-s-analyst-rating-barclays-upgrades-tesla-to-buy-wells"
+        }
+      ]
+    },
+    {
+      "title": "스티브 승준 유",
+      "approx_traffic": "100+",
+      "published": "Mon, 26 Oct 2026 14:30:00 -0700",
+      "news": [
+        {
+          "title": "두번 이기고도 韓 못 온 유승준, 세 번째 비자소송도 대법간다",
+          "source": "중앙일보",
+          "url": "https://www.joongang.co.kr/article/25472946"
+        },
+        {
+          "title": "유승준 비자발급 취소 소송 또 대법원 판단...LA 총영사 상고",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0103_202610262315217323"
+        },
+        {
+          "title": "'병역기피' 유승준 세번째 비자 소송 대법으로…LA총영사측 상고",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261026161500004"
+        }
+      ]
+    },
+    {
+      "title": "치이카와",
+      "approx_traffic": "500+",
+      "published": "Mon, 26 Oct 2026 14:30:00 -0700",
+      "news": [
+        {
+          "title": "Everything K-POP and More! - 위버스 매거진",
+          "source": "Weverse Magazine",
+          "url": "https://magazine.weverse.io/article/view/1995?lang=ko"
+        },
+        {
+          "title": "치이카와·A20·닥터X·100일의거짓말, 1위 [한눈에 보는 엔터차트]",
           "source": "뉴스1",
-          "url": "https://www.news1.kr/economy/trend/6330382"
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6332111"
+        },
+        {
+          "title": "일본 애니메이션 ‘치이카와’ 3주 연속 박스오피스 1위…‘타짜4’ 200만 돌파",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694953"
+        }
+      ]
+    },
+    {
+      "title": "skhy",
+      "approx_traffic": "500+",
+      "published": "Mon, 26 Oct 2026 14:30:00 -0700",
+      "news": [
+        {
+          "title": "SK hynix Readies Up to 60 Trillion Won in New Shareholder Returns",
+          "source": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/finance/2026/10/26/sk-hynix-readies-up-to-60-trillion-won-in-new-shareholder"
+        },
+        {
+          "title": "SK Hynix Plans $12 Billion Dividend From Kioxia Gains: Report",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-25/sk-hynix-plans-12-billion-dividend-from-kioxia-gains-report"
+        },
+        {
+          "title": "SK hynix weighs $12.1 billion special dividend, newspaper says",
+          "source": "The Korea Herald",
+          "url": "https://www.koreaherald.com/article/10914252"
         }
       ]
     }
