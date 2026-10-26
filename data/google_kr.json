@@ -1,11 +1,99 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-26T20:44:57+00:00",
+  "fetched_at": "2026-10-26T21:39:39+00:00",
   "items": [
     {
+      "title": "수출",
+      "approx_traffic": "200+",
+      "published": "Mon, 26 Oct 2026 13:30:00 -0700",
+      "news": [
+        {
+          "title": "\"EU 포장규제, 수출기업 83％ '잘 몰라'…맞춤형 지원 필요\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261026154800003"
+        },
+        {
+          "title": "무역협회 \"韓 기업 83%, EU 포장규제 대응 미흡…맞춤 지원 강화해야\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261026_0003841558"
+        },
+        {
+          "title": "수출은 했는데 라벨 하나에 막혔다…K-푸드 가로막는 비관세장벽",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/economy/trend/6330382"
+        }
+      ]
+    },
+    {
+      "title": "지뢰",
+      "approx_traffic": "200+",
+      "published": "Mon, 26 Oct 2026 13:20:00 -0700",
+      "news": [
+        {
+          "title": "北 '지뢰폭발' 맞대응 안보리 의장 서한…이사국들 회람",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027001300072"
+        },
+        {
+          "title": "北, 안보리에 “지뢰 폭발 韓자작극” 맞서한",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20261027/134913548/2"
+        },
+        {
+          "title": "'김정은 방중' 철통 보안 지켰지만...북, 군사회담 제안 묵묵부답",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0101_202610262205007181"
+        }
+      ]
+    },
+    {
+      "title": "추미애",
+      "approx_traffic": "500+",
+      "published": "Mon, 26 Oct 2026 13:10:00 -0700",
+      "news": [
+        {
+          "title": "민주 서미화, 추미애에 “‘오세훈 똑 닯았다’ 비난, 민주당 감당 어려워”",
+          "source": "주간경향",
+          "url": "https://weekly.khan.co.kr/article/202610262339001"
+        },
+        {
+          "title": "추미애 “오세훈 똑 닮아” 비판에 “장애인 예산 세심하게 살필 것”",
+          "source": "경인일보",
+          "url": "https://www.kyeongin.com/article/1773417"
+        },
+        {
+          "title": "\"동료 30명 해고\"..'다운증후군 작가' 서은혜 오열 \"예산 127억→0원 삭감\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/24/GBRTMNJRGI2DKZBUGEZDGOJYGI/"
+        }
+      ]
+    },
+    {
+      "title": "배구",
+      "approx_traffic": "200+",
+      "published": "Mon, 26 Oct 2026 13:10:00 -0700",
+      "news": [
+        {
+          "title": "'V-리그가 일상 속으로' 한국배구연맹, 페스티버와 손잡고 모바일 액세서리 컬렉션 출시",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112898179"
+        },
+        {
+          "title": "'V리그 14개 구단이 휴대폰 속으로' KOVO, 페스티버와 협업 컬렉션 출시→26일 공개 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/26/2026102609362357756"
+        },
+        {
+          "title": "V-리그와 배구 문화 `일상에서 만난다`…KOVO, 페스티버와 협업 컬렉션 출시",
+          "source": "마이데일리",
+          "url": "https://mydaily.co.kr/page/view/2026102612255319388"
+        }
+      ]
+    },
+    {
       "title": "이차 전지",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Mon, 26 Oct 2026 12:40:00 -0700",
       "news": [
         {
@@ -27,90 +115,95 @@
     },
     {
       "title": "주가",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Mon, 26 Oct 2026 12:30:00 -0700",
       "news": [
         {
-          "title": "SK하닉, 최대 60조원 주주환원 카드 꺼낸다",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20106258"
+          "title": "낮은 주가가 이익이던 시대는 저물고 있다",
+          "source": "한경매거진",
+          "url": "https://magazine.hankyung.com/money/article/202609170385c"
         },
         {
-          "title": "'184조' 벌고도...\"주가는 왜 역주행?\" 삼전닉스 역사적 저평가 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/10/27/2026102620094547941"
+          "title": "(저평가와 승계 셈법)②한화·동국홀딩스, '싼 주가'에도 승계비용 뛰나",
+          "source": "IB토마토",
+          "url": "https://www.ibtomato.com/ExternalView.aspx?type=1&no=19895"
         },
         {
-          "title": "삼성전자·SK하이닉스 영업이익 180조 전망...주주환원책 '주목'",
-          "source": "YTN 사이언스",
-          "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202610261109104242"
+          "title": "(저평가와 승계 셈법)①주가냐, 자산가치냐…승계비용 가를 입법",
+          "source": "IB토마토",
+          "url": "https://www.ibtomato.com/ExternalView.aspx?type=1&no=19816"
         }
       ]
     },
     {
       "title": "실업급여",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Mon, 26 Oct 2026 12:30:00 -0700",
       "news": [
         {
-          "title": "강레오“실업급여로 日여행 청년들…사진 거절했다”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11626132"
+          "title": "[카드뉴스] 실업급여를 줘야 할까, 근속보상을 줘야 할까",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261026102124"
         },
         {
-          "title": "강레오 셰프 “실업급여로 日 여행 온 청년들, 사진 거부” - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/26/FEUDZE2YBZHDROT7KHED7DHWQU/"
+          "title": "“나라에서 주는 건데 못 타면 바보”…1년도 안 돼 퇴사하는 청년들에 사이다 청원",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20105639"
         },
         {
-          "title": "\"취직하면 사진 찍어줄게\" 실업급여로 日여행 간 청년에 강레오 '일침'",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026102610514862720"
+          "title": "\"놀면 말고 빨리 취업하면 주죠\"…'실업급여' 때린 사이다 청원 [곽용희의 일자리노트]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610190445i"
         }
       ]
     },
     {
       "title": "사업",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Mon, 26 Oct 2026 12:10:00 -0700",
       "news": [
         {
-          "title": "이천 온천교·북부광장 등 보안등 103곳 교체",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261026_0003841480"
+          "title": "국토부, 노후 산업단지 재생사업 대상지 3곳 공모",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261026131700003"
         },
         {
-          "title": "이천시 온천교, 사계절 빛으로 물든다…야간경관 개선사업 준공",
-          "source": "서울경제TV",
-          "url": "https://www.sentv.co.kr/article/view/sentv202610260239"
+          "title": "노후 산단 3곳에 최대 500억 투입… 국토부, 2026년 재생사업 공모 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/10/27/J6O4EFFQOVCTRLPOMSJSNDNFWQ/"
+        },
+        {
+          "title": "노후 산단 재생사업 3곳 공모…지방에 가점·태양광 지원",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202610261409474781"
         }
       ]
     },
     {
       "title": "추위",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Mon, 26 Oct 2026 12:10:00 -0700",
       "news": [
-        {
-          "title": "[날씨] 내일 전국 강한 찬바람…수요일 아침 한파, 곳곳 영하권",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261026202321CBZ"
-        },
         {
           "title": "오늘 대체로 맑지만, 찬 바람 불면서 추워져",
           "source": "KBS 뉴스",
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8695854"
         },
         {
-          "title": "지각태풍 지난 뒤 오늘 강풍, 내일 한파",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261027/134913115/2"
+          "title": "[오늘 날씨] 낮엔 강풍, 밤부터 '쌀쌀'…새벽 구름 후 맑음 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/27/2026102617252079405"
+        },
+        {
+          "title": "기온 내림세…찬 북서풍 불어 화요일 밤부터 기온 '뚝'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261026152000530"
         }
       ]
     },
     {
       "title": "나 혼자 산다",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Mon, 26 Oct 2026 12:10:00 -0700",
       "news": [
         {
@@ -127,94 +220,6 @@
           "title": "차우민 “반려뱀, 골든 리트리버 상이다”",
           "source": "세계일보",
           "url": "https://www.segye.com/newsView/20261024501607"
-        }
-      ]
-    },
-    {
-      "title": "psg 대 리옹",
-      "approx_traffic": "2000+",
-      "published": "Mon, 26 Oct 2026 12:00:00 -0700",
-      "news": [
-        {
-          "title": "이번 월요일 PSG-리옹전: 지하철·RER 이용 및 파르크 데 프랭스 경기장 접근 정보",
-          "source": "Sortir à Paris",
-          "url": "https://www.sortiraparis.com/ko/sosig/palieseo/articles/355845-ibeon-wol-yoil-psg-liongjeon-jihacheol-rer-mich-paleukeu-de-peulaengseu-jeobgeun-jeongbo"
-        },
-        {
-          "title": "파리 생제르맹 vs 리옹 경기 예측: 홈팀이 연승 행진을 이어갈 수 있을까?",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-paris-saint-germain-vs-lyon-chu-nha-noi-dai-mach-thang-hoa"
-        },
-        {
-          "title": "리그 1 PSG 대 리옹 경기 예측",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-psg-vs-lyon-tai-ligue-1-1789313.ldo"
-        }
-      ]
-    },
-    {
-      "title": "부고",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 11:40:00 -0700",
-      "news": [
-        {
-          "title": "오늘의 부고-김유일 코람코자산운용 부회장 모친상 외",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610261538011"
-        },
-        {
-          "title": "[부음] 김유일(코람코자산운용 부회장)씨 모친상",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261026000298"
-        },
-        {
-          "title": "[부고] 김유일(코람코자산운용 부회장)씨 모친상 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/index.php/society/2026/10/26/2026102613010430930"
-        }
-      ]
-    },
-    {
-      "title": "페이커",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 10:50:00 -0700",
-      "news": [
-        {
-          "title": "게임·음악·굿즈…‘LoL 세상’ 열린다",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610252053045"
-        },
-        {
-          "title": "롯데백화점, 롤 팝업스토어 연다…'페이커' 기념우표도 판매",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261025113104"
-        },
-        {
-          "title": "[라이엇 스토어] Riot Games Music & Worlds 26 Popup Store에서 라이엇 스토어를 만나보세요!",
-          "source": "League of Legends",
-          "url": "https://www.leagueoflegends.com/ko-kr/news/merch/riot-games-music-worlds-2026-popup-store/"
-        }
-      ]
-    },
-    {
-      "title": "리그오브레전드",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 10:50:00 -0700",
-      "news": [
-        {
-          "title": "[롤드컵] 최연소 우승자 전 프나틱 '사이어나이드' 세상 떠나",
-          "source": "데일리e스포츠",
-          "url": "https://www.dailyesports.com/view.php?ud=202610270530566175b91e133c1f_27"
-        },
-        {
-          "title": "리그 오브 레전드 초대 월드 챔피언이 31세의 나이로 세상을 떠났습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nha-vo-dich-lien-minh-huyen-thoai-the-gioi-dau-tien-qua-doi-o-tuoi-31"
-        },
-        {
-          "title": "프나틱 출신 롤드컵 초대 우승 정글러 '사이나이드' 라우리 하포넨, 향년 31세로 별세",
-          "source": "Sheep Esports",
-          "url": "https://www.sheepesports.com/kr/articles/cyanide-former-fnatic-jungler-and-lol-world-champion-dies-aged-31/kr"
         }
       ]
     }
