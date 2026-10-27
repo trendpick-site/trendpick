@@ -1,225 +1,204 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-27T10:19:21+00:00",
+  "fetched_at": "2026-10-27T11:16:57+00:00",
   "items": [
     {
-      "title": "연차",
-      "approx_traffic": "500+",
-      "published": "Tue, 27 Oct 2026 02:10:00 -0700",
-      "news": [
-        {
-          "title": "\"5인미만 사업장 부당해고 구제 제외는 위헌\" 헌법소원",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261027064900004"
-        },
-        {
-          "title": "\"5인 미만 사업장 노동자도 근로기준법 보호해야\"…헌법소원",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261027_0003843208"
-        },
-        {
-          "title": "[단독] 5인 미만 사업장에 ‘연차’ 생기면…산업재해 905명 감소 추정",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1284265.html"
-        }
-      ]
-    },
-    {
-      "title": "대전 대 비셀 고베",
+      "title": "긴급 체포",
       "approx_traffic": "2000+",
-      "published": "Tue, 27 Oct 2026 02:00:00 -0700",
+      "published": "Tue, 27 Oct 2026 03:10:00 -0700",
       "news": [
         {
-          "title": "'일본 킬러' 황선홍 감독, 'K리그 킬러' 고베까지 잡을 수 있을까",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/football/2026/10/26/G5RGINTDGBQWGZRSGU4GEMBRGQ/"
+          "title": "서울 구로구 주택가 쓰레기 더미서 미라화된 시신 발견",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6861091_36918.html"
         },
         {
-          "title": "대전하나시티즌, 안방서 고베 상대 ACLE 무패 행진 도전",
-          "source": "디트NEWS24",
-          "url": "https://www.dtnews24.com/news/articleView.html?idxno=816446"
+          "title": "[속보]구로 주택가 시신유기 80대·60대 남성 등 2명 체포",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12325111"
         },
         {
-          "title": "“더 간절한 팀이 이기는 게 축구” 日 고베 막아설 대전의 방패 안톤···“최근 극적인 승리들이 팀에 자신감 더해줘” [MK대전]",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/sports/12186863"
+          "title": "속보 경찰 \"서울 구로구에서 시체 유기한 혐의로 2명 체포\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0103_202610271725135676"
         }
       ]
     },
     {
-      "title": "의성군",
-      "approx_traffic": "500+",
-      "published": "Tue, 27 Oct 2026 02:00:00 -0700",
+      "title": "삼성 기아",
+      "approx_traffic": "2000+",
+      "published": "Tue, 27 Oct 2026 03:00:00 -0700",
       "news": [
         {
-          "title": "의성군, `2026 의성 지오하이킹` 성황리에 마무리",
-          "source": "매일신문",
-          "url": "https://www.imaeil.com/page/view/2026102713300940585"
+          "title": "[엠빅뉴스] [PO1차전] 네일이 퇴장이라고? 어깨 몇 번 풀더니 불 꺼버린 소방수 정해영!!",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/original/mbig/6861035_29041.html"
         },
         {
-          "title": "의성군, '2026 지오하이킹' 성료…비 속 특별한 트레킹 경험",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3734472"
+          "title": "삼성·KIA 엇갈린 희비…라팍 달군 결정적 순간들",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261027171535NZ0"
         },
         {
-          "title": "의성의 지질과 가을을 걷다!",
-          "source": "데일리대구경북뉴스",
-          "url": "https://www.dailydgnews.com/news/article.html?no=267176"
+          "title": "[영상] 천재성을 또 보여준 김도영…천재가 혼난 이유는?",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8696362"
         }
       ]
     },
     {
-      "title": "타짜",
-      "approx_traffic": "100+",
-      "published": "Tue, 27 Oct 2026 01:50:00 -0700",
-      "news": [
-        {
-          "title": "'타짜4', 200만은 넘겼다…2026 청불 영화 흥행 1위",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008814752"
-        },
-        {
-          "title": "'타짜 4', 200만 관객 돌파…'청불' 개봉작 올해 최고 기록",
-          "source": "디스패치",
-          "url": "https://www.dispatch.co.kr/2349785"
-        },
-        {
-          "title": "변요한 해냈다..'타짜4', 청불 핸디캡에도 200만 '흥행 톱7 하루만 겹경사' [공식]",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112898137"
-        }
-      ]
-    },
-    {
-      "title": "한국경제",
+      "title": "사미자",
       "approx_traffic": "10000+",
-      "published": "Tue, 27 Oct 2026 01:40:00 -0700",
+      "published": "Tue, 27 Oct 2026 02:50:00 -0700",
       "news": [
         {
-          "title": "박현주 \"삼전닉스 없으면 엔비디아도 스톱\"…'반도체 고점론' 직격",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610278372i"
-        },
-        {
-          "title": "미래에셋, 이번주 日증권사 인수 발표",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1182205"
-        },
-        {
-          "title": "박현주 미래에셋회장, 일본 증권회사 M&A 예고…29일 발표(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261027154951008?section=economy/finance"
-        }
-      ]
-    },
-    {
-      "title": "중위소득",
-      "approx_traffic": "500+",
-      "published": "Tue, 27 Oct 2026 01:40:00 -0700",
-      "news": [
-        {
-          "title": "경실련 \"불투명한 중위소득 산정에 복지 사각…현실 반영해야\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261027124000004"
-        },
-        {
-          "title": "[2026 국감] 정은경 복지부 장관 \"기준 중위소득 산정 개선방안 검토\"",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026102715001579865"
-        },
-        {
-          "title": "“기준 중위소득 낮춰 3.8만가구 생계급여 탈락”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11626597"
-        }
-      ]
-    },
-    {
-      "title": "원태인",
-      "approx_traffic": "100+",
-      "published": "Tue, 27 Oct 2026 01:40:00 -0700",
-      "news": [
-        {
-          "title": "삼성 임시 마무리 원태인 \"오승환 선배께 조언 구하려 했다\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261027156500007"
-        },
-        {
-          "title": "'비밀 무기' 원태인 본인피셜 나왔다! \"PO2 마무리로 대기→야마모토가 됐으면 좋겠다\" - 머니투데이",
+          "title": "\"저렇게 싸가지 없나\"…사미자, 뇌경색 간병한 며느리에 독설 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/27/2026102714230933091"
+          "url": "https://www.mt.co.kr/entertainment/2026/10/27/2026102717292271304"
         },
         {
-          "title": "[PO] '원태인 불펜 대기' 삼성 박진만 감독 \"이기는 상황이면 무조건 투입\"",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261027001338"
+          "title": "사미자 “며느리, 마음 곱지만 가끔은 정말 냉정해”…35년 고부의 속내",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20261027/134919041/2"
+        },
+        {
+          "title": "사미자, 뇌경색·아들 암투병 간호한 며느리에 “저렇게 싸가지가 없을까” 독설 왜 (오미자)",
+          "source": "뉴스엔",
+          "url": "https://www.newsen.com/news_view.php?uid=202610271457145710"
         }
       ]
     },
     {
-      "title": "암",
-      "approx_traffic": "10000+",
-      "published": "Tue, 27 Oct 2026 01:30:00 -0700",
-      "news": [
-        {
-          "title": "세종시장, 국회 찾아 양성자 암치료센터 등 국비 지원 요청",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261027056100063"
-        },
-        {
-          "title": "양성자 암치료센터·AI정부… 조상호 국회 찾아 예산 확보전",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261027_0003843080"
-        },
-        {
-          "title": "세종시, 지자체 디지털 수준진단 전국 광역시 상위 3위권",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261026000087"
-        }
-      ]
-    },
-    {
-      "title": "응급실",
+      "title": "트로트",
       "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 01:20:00 -0700",
+      "published": "Tue, 27 Oct 2026 02:50:00 -0700",
       "news": [
         {
-          "title": "여야없이 '소아응급실 압색' 사과 요구…경찰 \"안타깝다\" 말아껴",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261027166000530"
+          "title": "김의영, 1위 꽉 잡았다…K탑스타 5주 연속 ‘황금빛 질주’",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/entertain/12185523"
         },
         {
-          "title": "소아응급실 압수수색 경찰 책임자, 국감서 “안타깝다”는 말만···끝내 사과는 안 해",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610271741001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+          "title": "김다현·금잔디 제쳤다…김의영, 가을옷 쇼핑하고 싶은 여자 트로트 가수 1위 [TEN차트]",
+          "source": "텐아시아",
+          "url": "https://www.tenasia.co.kr/article/2026102789164"
         },
         {
-          "title": "\"1시간 CPR한 의료진을 범죄자 취급\"…경찰 \"안타깝게 생각\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/thebio/2026/10/27/2026102716112662782"
+          "title": "김의영, ‘팬앤스타’ 여자스타 랭킹 6주 연속 1위…독주 체제 이어간다",
+          "source": "더팩트",
+          "url": "https://news.tf.co.kr/stars/read/starwars/2379372.htm"
         }
       ]
     },
     {
-      "title": "정년",
-      "approx_traffic": "2000+",
-      "published": "Tue, 27 Oct 2026 01:10:00 -0700",
+      "title": "tving",
+      "approx_traffic": "500+",
+      "published": "Tue, 27 Oct 2026 02:50:00 -0700",
       "news": [
         {
-          "title": "공무원연금 수령 시기 60세→65세 상향…헌재, 4대4로 ‘합헌’ 결정",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610271508021"
+          "title": "TVING Original ‘The Substitute’ Unveils Teaser for Bae Hyun-sung, Cha Kang-yoon and Park Yoon-ho’s Dangerous Deal",
+          "source": "씨네플레이",
+          "url": "https://www.cineplay.co.kr/en-us/articles/30479"
         },
         {
-          "title": "[결정] 공무원 60세 정년퇴직해도 연금은 62~65세부터… 헌재 “합헌”",
-          "source": "법률신문",
-          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=228307"
+          "title": "Bae Hyun-sung, Cha Kang-yoon and Park Yoon-ho’s ‘The Substitute’ Unveils Teaser Trailer for Uncontrollable Crime Thriller",
+          "source": "씨네플레이",
+          "url": "https://www.cineplay.co.kr/en-us/articles/30434"
         },
         {
-          "title": "공무원연금 수령나이 65세까지 상향 합헌…4대4로 '팽팽'",
+          "title": "Watch: Bae Hyeon Seong, Cha Kang Yoon, And Park Yoon Ho Get Caught Up In A Dangerous Deal In “The Substitute” Teaser",
+          "source": "Soompi",
+          "url": "https://www.soompi.com/article/1881499wpp/watch-bae-hyeon-seong-cha-kang-yoon-and-park-yoon-ho-get-caught-up-in-a-dangerous-deal-in-the-substitute-teaser"
+        }
+      ]
+    },
+    {
+      "title": "김선빈",
+      "approx_traffic": "100+",
+      "published": "Tue, 27 Oct 2026 02:50:00 -0700",
+      "news": [
+        {
+          "title": "\"니가 다 쳐야 한다\"… '타격 보조' 자처한 베테랑과 '강심장' 슈퍼스타의 절묘한 케미스트리, 77.1% 선사[PO1 현장]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/27/MEYDQMTGGIYTGMRYGFSGEYZXMU/"
+        },
+        {
+          "title": "\"어? 타격 훈련을 하네\" 2년 전 가을처럼 근면 성실...대구 찾은 .588 KS MVP, 터지면 부담백배 타선된다",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112897995"
+        },
+        {
+          "title": "\"김도영만 과도하게 경계하다간 역효과 난다\"…윤석민 \"꼽은 키플레이어는 김도영보단 이 선수\"",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/baseball/2026-10-25/202610250100157070010239"
+        }
+      ]
+    },
+    {
+      "title": "서울 sk 대 부산 kcc",
+      "approx_traffic": "1000+",
+      "published": "Tue, 27 Oct 2026 02:40:00 -0700",
+      "news": [
+        {
+          "title": "전희철 SK 감독 “KCC는 공격 고점 높은 팀…해법은 리바운드와 속도”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610271902013"
+        },
+        {
+          "title": "[현장인터뷰]'3연승' 전희철 감독 \"숀 롱, 자밀 워니 만나면 열심히 한다\" vs '5연패' 이상민 감독 \"이겨내야 한다\"",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/basketball/2026-10-27/202610270100173360011455"
+        },
+        {
+          "title": "프로농구 오늘(27일) 경기 일정…서울 SK VS 부산 KCC, 중계 채널→현재 순위?",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16258820"
+        }
+      ]
+    },
+    {
+      "title": "야구중계",
+      "approx_traffic": "1000+",
+      "published": "Tue, 27 Oct 2026 02:40:00 -0700",
+      "news": [
+        {
+          "title": "선발 변화로 승부수...최형우·김호령 선발 출전",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0107_202610271802453559"
+        },
+        {
+          "title": "KIA-삼성 플레이오프 1차전 오늘 열려",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694992"
+        },
+        {
+          "title": "박진만 삼성 감독 \"공격력 극대화 위해 경험 많은 최형우 출장\"",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261026169000004"
+          "url": "https://www.yna.co.kr/view/AKR20261027156100007"
+        }
+      ]
+    },
+    {
+      "title": "야구 중계",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 02:40:00 -0700",
+      "news": []
+    },
+    {
+      "title": "김지찬",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 02:30:00 -0700",
+      "news": [
+        {
+          "title": "[사진]류지혁,'몸 날리는 수비' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/26/202610262049775774O"
+        },
+        {
+          "title": "김지찬 ‘뒤로 물러나면서’[포토]",
+          "source": "www.xportsnews.com",
+          "url": "https://www.xportsnews.com/article/2212169"
         }
       ]
     }
