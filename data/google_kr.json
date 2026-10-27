@@ -1,220 +1,220 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-27T07:29:02+00:00",
+  "fetched_at": "2026-10-27T08:21:22+00:00",
   "items": [
     {
-      "title": "복권위원회",
+      "title": "구룡마을",
       "approx_traffic": "5000+",
-      "published": "Mon, 26 Oct 2026 23:20:00 -0700",
+      "published": "Tue, 27 Oct 2026 00:10:00 -0700",
       "news": [
         {
-          "title": "대금 계좌이체 거부 반복하는 복권 판매점 계약 해지한다",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261027037400002"
+          "title": "[속보] 구룡마을 화재로 강남 인근 연기 다량 발생...인근 도로 통제",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261027163151ADY"
         },
         {
-          "title": "로또판매점 우선계약 대상, 참전유공자 배우자 등 14만 명 확대",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8696092"
+          "title": "[속보] 서울 강남 구룡마을서 불‥소방, 대응 1단계 발령",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6861099_36918.html"
         },
         {
-          "title": "전자복권 당첨권 분산배치 은폐…위약벌 3000만원에 감사 청구도",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261027_0003842125"
-        }
-      ]
-    },
-    {
-      "title": "기후동행카드",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 23:20:00 -0700",
-      "news": [
-        {
-          "title": "\"매달 교통비 수만 원 절약\"… K-패스 vs 기후동행카드, 나에게 맞는 카드는?",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3733956"
-        },
-        {
-          "title": "서울 교통비, K-패스와 기후동행패스 비교 달라졌다",
-          "source": "비건뉴스",
-          "url": "https://www.vegannews.co.kr/news/article.html?no=397516"
-        }
-      ]
-    },
-    {
-      "title": "울릉도",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 23:20:00 -0700",
-      "news": [
-        {
-          "title": "유튜버의 사냥감이 된 울릉도",
-          "source": "영남일보",
-          "url": "https://www.yeongnam.com/web/view.php?key=20261026024006945"
-        },
-        {
-          "title": "울릉군, 유튜브 여행 폭로 영상에 \"허위 주장\"… 법적 대응 예고",
-          "source": "매일신문",
-          "url": "https://www.imaeil.com/page/view/2026102711402493244"
-        },
-        {
-          "title": "울릉도를 ‘감금의 섬’으로 만든 한 유트브의 영상은 ‘자작극’이었다…엄벌해야",
-          "source": "경북매일",
-          "url": "https://www.kbmaeil.com/article/20261026500120"
-        }
-      ]
-    },
-    {
-      "title": "안민석",
-      "approx_traffic": "500+",
-      "published": "Mon, 26 Oct 2026 22:40:00 -0700",
-      "news": [
-        {
-          "title": "안민석 경기도교육감, 평택·안성서 교육 현안 논의",
-          "source": "더팩트",
-          "url": "https://news.tf.co.kr/read/national/2380960.htm"
-        },
-        {
-          "title": "안민석 경기교육감 \"체험학습 교사 부담 줄인다\"",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610266099h"
-        },
-        {
-          "title": "안민석 교육감, 평택·안성서 학부모 400여 명과 소통...체험학습 제도개선 추진",
-          "source": "아주경제",
-          "url": "https://www.ajunews.com/view/20261026174701124"
-        }
-      ]
-    },
-    {
-      "title": "손혁",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 22:40:00 -0700",
-      "news": [
-        {
-          "title": "팬들의 '최강한화' 떳떳하게 듣고 싶었다…한화 떠나는 손혁 단장 \"앞으로 더 강한 팀 될 거라 믿는다\"",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/baseball/2026/10/27/HA4TONBWGI2GIOLEGUZDMY3CGY/"
-        },
-        {
-          "title": "“폰와 빠져도 5강 기대했는데 다 내 탓이오”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610270500006"
-        },
-        {
-          "title": "팬들의 '최강한화' 떳떳하게 듣고 싶었다…한화 떠나는 손혁 단장 \"앞으로 더 강한 팀 될 거라 믿는다\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/27/202610271258778772O"
-        }
-      ]
-    },
-    {
-      "title": "정유경",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 22:40:00 -0700",
-      "news": [
-        {
-          "title": "[현장에서] '애니 엄마' 정유경 회장에게 지난 한 주간 벌어진 일",
-          "source": "뉴스타파",
-          "url": "https://newstapa.org/article/eiU83"
-        },
-        {
-          "title": "올데이프로젝트 애니, 연습실 셀카로 전한 차분 근황",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16259327"
-        },
-        {
-          "title": "아이돌 하고 싶으면 대학부터?…아이비리그·이화여대 거쳐 무대 오른 스타들",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261020505866"
-        }
-      ]
-    },
-    {
-      "title": "김새론",
-      "approx_traffic": "2000+",
-      "published": "Mon, 26 Oct 2026 22:40:00 -0700",
-      "news": [
-        {
-          "title": "김수현 측 \"故김새론 모친 등 범죄 혐의 인정…검찰 송치\"",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6597037"
-        },
-        {
-          "title": "배우 김수현, 복귀 탄력 받나…“故김새론 모친·유족 측 변호사 등 검찰 송치” [공식입장]",
-          "source": "TWIG",
-          "url": "https://www.twig24.com/news/world/2026/10/26/20261026500150"
-        },
-        {
-          "title": "경찰, 故 김새론 모친·변호인 등 공소청 송치…\"김수현 관련 허위사실 유포\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/national_general/2026/10/26/EWC5IU5U65BHRHNHEFADBUKNWI/"
-        }
-      ]
-    },
-    {
-      "title": "우천취소",
-      "approx_traffic": "5000+",
-      "published": "Mon, 26 Oct 2026 22:40:00 -0700",
-      "news": [
-        {
-          "title": "박진만 삼성 감독 \"페덱이 KIA 중심타선 못 잡은 게 아쉽다\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261026172600007"
-        },
-        {
-          "title": "'구자욱-최형우 공존 불가'→결과는 2안타 완패, \"타선 변화주겠다\" 박진만 감독 '외야수 최형우' 라인업에 올릴까 [PO2] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/27/2026102713491133632"
-        },
-        {
-          "title": "'달빛시리즈' 시작...'PO 1차전을 잡아라'",
+          "title": "'강남 마지막 판자촌' 구룡마을에서 큰 불...대응단계 발령",
           "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0107_202610261705060392"
+          "url": "https://www.ytn.co.kr/_ln/0103_202610271614324188"
         }
       ]
     },
     {
-      "title": "야마모토 요시노부",
+      "title": "전현무계획",
       "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 22:30:00 -0700",
+      "published": "Tue, 27 Oct 2026 00:10:00 -0700",
       "news": [
         {
-          "title": "\"야마모토 몸값 8500억까지 치솟는다\" 다저스 초비상, 12년 계약했는데 결별 걱정…샐러리캡 도입 최대 변수",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1015595"
+          "title": "\"알려지길 원치 않아\" 촬영 거부한 식당 노출한 '전현무 계획' 논란 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/26/2026102608235429706"
         },
         {
-          "title": "MLB 샐러리 캡 도입 논리 깨지나? 4대 프로스포츠 우승팀 숫자 들여다 보니",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/baseball/2026-10-27/202610270100168800011032"
-        },
-        {
-          "title": "ML 직장폐쇄 영향이 KBO리그에도?→‘대박 외국인 선수’ 쏟아질까",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20261021/134880661/1"
+          "title": "‘전현무계획4’, 74세 자영업자 외면...진짜 ‘무계획’ 강조하다 역풍 [SC이슈]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/10/26/GZRTMM3FGUYDINZSGFRDGMZWGQ/"
         }
       ]
     },
     {
-      "title": "nh농협은행",
-      "approx_traffic": "1000+",
-      "published": "Mon, 26 Oct 2026 22:20:00 -0700",
+      "title": "국민 총소득",
+      "approx_traffic": "500+",
+      "published": "Tue, 27 Oct 2026 00:10:00 -0700",
       "news": [
         {
-          "title": "광주은행, 곡성·구례·진도지점 개설 올해 사실상 무산",
+          "title": "3분기 경제성장률 1.0%…올해 3% 중반 성장 가능성 높아져",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974354"
+        },
+        {
+          "title": "3분기 성장률 1.0%···연간 성장률 4%도 가시권",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610271630001"
+        },
+        {
+          "title": "반도체 호황에 3분기 실질 GDP 1% '깜짝 성장'...연 4%도 가시권",
+          "source": "YTN 사이언스",
+          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202610271102022434"
+        }
+      ]
+    },
+    {
+      "title": "데스티니 차일드",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 00:10:00 -0700",
+      "news": [
+        {
+          "title": "컴투스, ‘데스티니 차일드: 어셈블’ 공개…2027년 상반기 출시",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261027161125"
+        },
+        {
+          "title": "10주년 맞은 `데스티니 차일드`, 방치형 RPG로 귀환 예고",
+          "source": "디지털데일리",
+          "url": "https://www.ddaily.co.kr/page/view/2026102713321321581"
+        },
+        {
+          "title": "컴투스, 신작 '데스티니 차일드: 어셈블' 공개…내년 출시 목표",
+          "source": "데일리한국",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1418904"
+        }
+      ]
+    },
+    {
+      "title": "new zealand vs india",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 00:10:00 -0700",
+      "news": [
+        {
+          "title": "New Zealand hope to salvage series as India brace for Wellington wind",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-3rd-t20i-1539434/match-preview"
+        },
+        {
+          "title": "Has India won a T20 series in New Zealand? India's record in New Zealand T20Is detailed",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/india-won-t20-series-zealand-043411386.html"
+        },
+        {
+          "title": "India vs New Zealand Live Stream: How to Watch T20 Cricket (Oct. 27, 2026)",
+          "source": "Fubo",
+          "url": "https://www.fubo.tv/news/t20-cricket/india-vs-new-zealand-live-stream-how-to-watch-t20-cricket-oct-27-2026/"
+        }
+      ]
+    },
+    {
+      "title": "손태진",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 00:00:00 -0700",
+      "news": [
+        {
+          "title": "전원주 “기억이 잘 안 나”···‘최근 일’ 자꾸 잊는다면 치매 초기 신호일 수도",
+          "source": "더메디컬",
+          "url": "https://www.themedical.kr/news/articleView.html?idxno=3587"
+        },
+        {
+          "title": "'더트롯쇼' MC 손태진, 팬들의 생일 축하받으며 행복한 무대…'언포게터블 듀엣2' 첫 방송 언제?",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16258743"
+        },
+        {
+          "title": "김주하·손태진, ‘언포게터블 듀엣2’ MC 호흡",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12324005"
+        }
+      ]
+    },
+    {
+      "title": "최혜진",
+      "approx_traffic": "100+",
+      "published": "Tue, 27 Oct 2026 00:00:00 -0700",
+      "news": [
+        {
+          "title": "LPGA 2주 연속 준우승 최혜진, 말레이시아 대회서 우승 재도전",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8695979"
+        },
+        {
+          "title": "'2주 연속 LPGA 준우승' 최혜진, 여자골프 세계랭킹 23위로",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261027_0003842361"
+        },
+        {
+          "title": "'베어트로피 경쟁' 유해란 vs 야마시타, 메이뱅크 챔피언십에서 격돌 [LPGA]",
+          "source": "골프한국",
+          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20022426"
+        }
+      ]
+    },
+    {
+      "title": "김병현",
+      "approx_traffic": "1000+",
+      "published": "Mon, 26 Oct 2026 23:50:00 -0700",
+      "news": [
+        {
+          "title": "‘11번 폐업’ 김병현, 연금 3억으로 소시지·학센 사업하더니... 초대형 러브콜 받았다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/27/MZRDSMRVGFRGEOBWG4YTQZRYGA/"
+        },
+        {
+          "title": "'동상이몽2' 김병현, 11번 사업 실패 딛고 재도전…\"사활 걸려\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/27/2026102716307231745"
+        },
+        {
+          "title": "동상이몽2_너는 내 운명 : [선공개] 김병현×이봉원, 막강 라인업 제치고 소시지×학센 판매량 1위 목표",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/enter/dongsang2/clip/65050/OC482622740"
+        }
+      ]
+    },
+    {
+      "title": "손태영",
+      "approx_traffic": "200+",
+      "published": "Mon, 26 Oct 2026 23:50:00 -0700",
+      "news": [
+        {
+          "title": "\"이모님 쓴 적 없어\" 손태영 발언에 왜 악플이...",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/27/MQ3GIY3FGZRDOMDFMI2WEMRWMU/"
+        },
+        {
+          "title": "가사도우미 안쓰는 게 자랑?\"…악플 받은 손태영, 응원엔 '좋아요' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/27/2026102709141877081"
+        },
+        {
+          "title": "손태영, 미국 생활 6년 동안 독박 육아…\"가사도우미 쓴 적 없어\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261026_0003840393"
+        }
+      ]
+    },
+    {
+      "title": "아리엘 후라도",
+      "approx_traffic": "500+",
+      "published": "Mon, 26 Oct 2026 23:40:00 -0700",
+      "news": [
+        {
+          "title": "'8실점 악몽' 지운 KIA 올러 \"버릇 읽혔던 탓…이번엔 다를 것\"",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261027047800054"
+          "url": "https://www.yna.co.kr/view/AKR20261027023300007"
         },
         {
-          "title": "하나은행, 세종시 1금고 운영권 첫 쟁취…농협은행 2금고로",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04201686645617184"
+          "title": "[포토] 이범호 감독 '후라도에 강한 김호령 믿는다' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/27/2026102717032830527"
         },
         {
-          "title": "전남광주시 '17조' 일반회계 금고 운영 기관에 NH농협은행",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1181320"
+          "title": "'고작 2안타 침묵이라니…' 2차전 반격 절실 삼성, 대대적 타선 개편?",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6597682"
         }
       ]
     }
