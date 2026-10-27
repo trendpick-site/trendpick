@@ -1,8 +1,206 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-27T09:19:06+00:00",
+  "fetched_at": "2026-10-27T10:19:21+00:00",
   "items": [
+    {
+      "title": "연차",
+      "approx_traffic": "500+",
+      "published": "Tue, 27 Oct 2026 02:10:00 -0700",
+      "news": [
+        {
+          "title": "\"5인미만 사업장 부당해고 구제 제외는 위헌\" 헌법소원",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027064900004"
+        },
+        {
+          "title": "\"5인 미만 사업장 노동자도 근로기준법 보호해야\"…헌법소원",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261027_0003843208"
+        },
+        {
+          "title": "[단독] 5인 미만 사업장에 ‘연차’ 생기면…산업재해 905명 감소 추정",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1284265.html"
+        }
+      ]
+    },
+    {
+      "title": "대전 대 비셀 고베",
+      "approx_traffic": "2000+",
+      "published": "Tue, 27 Oct 2026 02:00:00 -0700",
+      "news": [
+        {
+          "title": "'일본 킬러' 황선홍 감독, 'K리그 킬러' 고베까지 잡을 수 있을까",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/football/2026/10/26/G5RGINTDGBQWGZRSGU4GEMBRGQ/"
+        },
+        {
+          "title": "대전하나시티즌, 안방서 고베 상대 ACLE 무패 행진 도전",
+          "source": "디트NEWS24",
+          "url": "https://www.dtnews24.com/news/articleView.html?idxno=816446"
+        },
+        {
+          "title": "“더 간절한 팀이 이기는 게 축구” 日 고베 막아설 대전의 방패 안톤···“최근 극적인 승리들이 팀에 자신감 더해줘” [MK대전]",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/sports/12186863"
+        }
+      ]
+    },
+    {
+      "title": "의성군",
+      "approx_traffic": "500+",
+      "published": "Tue, 27 Oct 2026 02:00:00 -0700",
+      "news": [
+        {
+          "title": "의성군, `2026 의성 지오하이킹` 성황리에 마무리",
+          "source": "매일신문",
+          "url": "https://www.imaeil.com/page/view/2026102713300940585"
+        },
+        {
+          "title": "의성군, '2026 지오하이킹' 성료…비 속 특별한 트레킹 경험",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3734472"
+        },
+        {
+          "title": "의성의 지질과 가을을 걷다!",
+          "source": "데일리대구경북뉴스",
+          "url": "https://www.dailydgnews.com/news/article.html?no=267176"
+        }
+      ]
+    },
+    {
+      "title": "타짜",
+      "approx_traffic": "100+",
+      "published": "Tue, 27 Oct 2026 01:50:00 -0700",
+      "news": [
+        {
+          "title": "'타짜4', 200만은 넘겼다…2026 청불 영화 흥행 1위",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008814752"
+        },
+        {
+          "title": "'타짜 4', 200만 관객 돌파…'청불' 개봉작 올해 최고 기록",
+          "source": "디스패치",
+          "url": "https://www.dispatch.co.kr/2349785"
+        },
+        {
+          "title": "변요한 해냈다..'타짜4', 청불 핸디캡에도 200만 '흥행 톱7 하루만 겹경사' [공식]",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112898137"
+        }
+      ]
+    },
+    {
+      "title": "한국경제",
+      "approx_traffic": "10000+",
+      "published": "Tue, 27 Oct 2026 01:40:00 -0700",
+      "news": [
+        {
+          "title": "박현주 \"삼전닉스 없으면 엔비디아도 스톱\"…'반도체 고점론' 직격",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610278372i"
+        },
+        {
+          "title": "미래에셋, 이번주 日증권사 인수 발표",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1182205"
+        },
+        {
+          "title": "박현주 미래에셋회장, 일본 증권회사 M&A 예고…29일 발표(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027154951008?section=economy/finance"
+        }
+      ]
+    },
+    {
+      "title": "중위소득",
+      "approx_traffic": "500+",
+      "published": "Tue, 27 Oct 2026 01:40:00 -0700",
+      "news": [
+        {
+          "title": "경실련 \"불투명한 중위소득 산정에 복지 사각…현실 반영해야\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027124000004"
+        },
+        {
+          "title": "[2026 국감] 정은경 복지부 장관 \"기준 중위소득 산정 개선방안 검토\"",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026102715001579865"
+        },
+        {
+          "title": "“기준 중위소득 낮춰 3.8만가구 생계급여 탈락”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11626597"
+        }
+      ]
+    },
+    {
+      "title": "원태인",
+      "approx_traffic": "100+",
+      "published": "Tue, 27 Oct 2026 01:40:00 -0700",
+      "news": [
+        {
+          "title": "삼성 임시 마무리 원태인 \"오승환 선배께 조언 구하려 했다\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027156500007"
+        },
+        {
+          "title": "'비밀 무기' 원태인 본인피셜 나왔다! \"PO2 마무리로 대기→야마모토가 됐으면 좋겠다\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/27/2026102714230933091"
+        },
+        {
+          "title": "[PO] '원태인 불펜 대기' 삼성 박진만 감독 \"이기는 상황이면 무조건 투입\"",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261027001338"
+        }
+      ]
+    },
+    {
+      "title": "암",
+      "approx_traffic": "10000+",
+      "published": "Tue, 27 Oct 2026 01:30:00 -0700",
+      "news": [
+        {
+          "title": "세종시장, 국회 찾아 양성자 암치료센터 등 국비 지원 요청",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027056100063"
+        },
+        {
+          "title": "양성자 암치료센터·AI정부… 조상호 국회 찾아 예산 확보전",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261027_0003843080"
+        },
+        {
+          "title": "세종시, 지자체 디지털 수준진단 전국 광역시 상위 3위권",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261026000087"
+        }
+      ]
+    },
+    {
+      "title": "응급실",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 01:20:00 -0700",
+      "news": [
+        {
+          "title": "여야없이 '소아응급실 압색' 사과 요구…경찰 \"안타깝다\" 말아껴",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027166000530"
+        },
+        {
+          "title": "소아응급실 압수수색 경찰 책임자, 국감서 “안타깝다”는 말만···끝내 사과는 안 해",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610271741001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+        },
+        {
+          "title": "\"1시간 CPR한 의료진을 범죄자 취급\"…경찰 \"안타깝게 생각\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/thebio/2026/10/27/2026102716112662782"
+        }
+      ]
+    },
     {
       "title": "정년",
       "approx_traffic": "2000+",
@@ -19,197 +217,9 @@
           "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=228307"
         },
         {
-          "title": "헌재 \"공무원 퇴직연금 수령 나이 65세 상향은 합헌\"‥4대 4 의견 갈려",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6860987_36918.html"
-        }
-      ]
-    },
-    {
-      "title": "전주사랑상품권",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 00:50:00 -0700",
-      "news": [
-        {
-          "title": "전주사랑상품권 충전, 내달부터 새벽→오후 3시로 변경",
+          "title": "공무원연금 수령나이 65세까지 상향 합헌…4대4로 '팽팽'",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261027047600055"
-        },
-        {
-          "title": "전주돼지카드 11월부터 충전시간 0시15분→오후 3시 변경",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261027_0003842579"
-        },
-        {
-          "title": "전주사랑상품권 온라인 충전 오후 3시로 변경…시민 불편 해소",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3734376"
-        }
-      ]
-    },
-    {
-      "title": "고려대",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 00:50:00 -0700",
-      "news": [
-        {
-          "title": "Korea University President Resigns to Run for President",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/national-en/2026/10/27/TIQWKDJPL5AWRKOOGP4BGDRYPM/"
-        }
-      ]
-    },
-    {
-      "title": "정종철",
-      "approx_traffic": "5000+",
-      "published": "Tue, 27 Oct 2026 00:40:00 -0700",
-      "news": [
-        {
-          "title": "\"강남 작은 집이라도 가자\"…정종철, 일산 70평 아파트 던진 사연",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610277941H"
-        },
-        {
-          "title": "정종철, 일산 아파트 팔고 강남行…“아내가 안가면 이혼한다고”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261027/134917354/1"
-        },
-        {
-          "title": "'45억 건물주' 정종철, 일산 아파트 판 사연…\"아내가 이혼한다고\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261027_0003842746"
-        }
-      ]
-    },
-    {
-      "title": "pak vs sl",
-      "approx_traffic": "1000+",
-      "published": "Tue, 27 Oct 2026 00:40:00 -0700",
-      "news": [
-        {
-          "title": "Win-from-anywhere Pakistan face 430-conquerors Sri Lanka at high-scoring Lahore",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/pakistan-odi-tri-series-2026-27-1550706/pakistan-vs-sri-lanka-5th-match-1550717/match-preview"
-        },
-        {
-          "title": "Pakistan vs. Sri Lanka free live stream: How to watch Pakistan ODI tri-series clash in India",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/pakistan-vs-sri-lanka-free-200001789.html"
-        },
-        {
-          "title": "Sri Lanka wins toss, elects to field in cricket tri-series ODI against Pakistan",
-          "source": "KVUE",
-          "url": "https://www.kvue.com/article/syndication/associatedpress/sri-lanka-wins-toss-elects-to-field-in-cricket-tri-series-odi-against-pakistan/616-5e645ec3-391b-4af7-b44c-d9a065559c49"
-        }
-      ]
-    },
-    {
-      "title": "상장폐지",
-      "approx_traffic": "500+",
-      "published": "Tue, 27 Oct 2026 00:40:00 -0700",
-      "news": [
-        {
-          "title": "형지글로벌, ‘동전주’ 상장폐지 가처분 신청…거래소 상폐 유예 ‘정책 실효성’ 논란",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261026580658"
-        },
-        {
-          "title": "형지그룹 상장3사 상폐 위기 일단 모면, '오너2세' 최준호·최혜원 기업가치 회복 승부수는",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450415"
-        },
-        {
-          "title": "[기자수첩] 자본시장 건전화의 부메랑 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/opinion/2026/10/26/2026102309070942423"
-        }
-      ]
-    },
-    {
-      "title": "몸매",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 00:30:00 -0700",
-      "news": [
-        {
-          "title": "티아라 효민, 과감 숏팬츠 숨은 노력 있었다…군살 없는 몸매",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261026/134907296/1"
-        },
-        {
-          "title": "AI보다 더 하네…티아라 효민, 대만 가오슝서 뽐낸 ‘마네킹 인형 미모’",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/25/G44DSMRZMRQTKNZWGUZDOYZWME/"
-        },
-        {
-          "title": "티아라 효민, 여전한 아이돌 아우라…세련미 넘치는 공항 패션 [N샷]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6331225"
-        }
-      ]
-    },
-    {
-      "title": "박승수",
-      "approx_traffic": "500+",
-      "published": "Tue, 27 Oct 2026 00:20:00 -0700",
-      "news": [
-        {
-          "title": "\"정신 못 차렸냐?\" '환상적인 골 넣었는데 욕설·조롱 폭발' 박승수, 뉴캐슬 팬들 앞에서 존재감 증명...한국 팬들은 여전히 '전역모 논란' 비판 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/27/202610271354779792O"
-        },
-        {
-          "title": "'전역모 쓰고 경례 논란' 박승수, 英 무대 복귀하자마자 환상골 폭발! 교체 투입 3분 만에 동점골…뉴캐슬 감독 앞에서 '눈도장'",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1015611"
-        },
-        {
-          "title": "'17분 뛰고 전역모 착용' 논란의 신성 박승수, '후루룩 짭짭 라면 세리머니' 시전…뉴캐슬 U-21 경기서 환상골 폭발, 구단 \"아릅답다\" 찬사",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/football/2026-10-27/202610270100169360011164"
-        }
-      ]
-    },
-    {
-      "title": "닛케이 평균주가",
-      "approx_traffic": "100+",
-      "published": "Tue, 27 Oct 2026 00:20:00 -0700",
-      "news": [
-        {
-          "title": "[도쿄증시-마감] AI·반도체주 반등에 1%대 상승 마감",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441423"
-        },
-        {
-          "title": "앤트로픽 IPO 기대에…日 증시 '쑥'",
-          "source": "뉴스웍스",
-          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=900975"
-        },
-        {
-          "title": "유가·AI 우려에 亞 약세…닛케이 0.7%↓·상하이 0.5%↓[Asia오전] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/10/26/2026102611383021473"
-        }
-      ]
-    },
-    {
-      "title": "구룡마을",
-      "approx_traffic": "10000+",
-      "published": "Tue, 27 Oct 2026 00:10:00 -0700",
-      "news": [
-        {
-          "title": "[속보] 서울 강남 구룡마을 화재‥소방대응 2단계",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nw1700/article/6861110_36981.html"
-        },
-        {
-          "title": "[속보] '서울 강남 판자촌' 구룡마을 큰불...대응 2단계",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202610271649385492_005.html"
-        },
-        {
-          "title": "[속보] 서울 개포동 구룡마을 화재…대응 2단계로 격상",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1284395.html"
+          "url": "https://www.yna.co.kr/view/AKR20261026169000004"
         }
       ]
     }
