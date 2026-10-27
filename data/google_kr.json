@@ -1,220 +1,215 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-27T08:21:22+00:00",
+  "fetched_at": "2026-10-27T09:19:06+00:00",
   "items": [
     {
-      "title": "구룡마을",
-      "approx_traffic": "5000+",
-      "published": "Tue, 27 Oct 2026 00:10:00 -0700",
+      "title": "정년",
+      "approx_traffic": "2000+",
+      "published": "Tue, 27 Oct 2026 01:10:00 -0700",
       "news": [
         {
-          "title": "[속보] 구룡마을 화재로 강남 인근 연기 다량 발생...인근 도로 통제",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261027163151ADY"
-        },
-        {
-          "title": "[속보] 서울 강남 구룡마을서 불‥소방, 대응 1단계 발령",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6861099_36918.html"
-        },
-        {
-          "title": "'강남 마지막 판자촌' 구룡마을에서 큰 불...대응단계 발령",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0103_202610271614324188"
-        }
-      ]
-    },
-    {
-      "title": "전현무계획",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 00:10:00 -0700",
-      "news": [
-        {
-          "title": "\"알려지길 원치 않아\" 촬영 거부한 식당 노출한 '전현무 계획' 논란 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/10/26/2026102608235429706"
-        },
-        {
-          "title": "‘전현무계획4’, 74세 자영업자 외면...진짜 ‘무계획’ 강조하다 역풍 [SC이슈]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/10/26/GZRTMM3FGUYDINZSGFRDGMZWGQ/"
-        }
-      ]
-    },
-    {
-      "title": "국민 총소득",
-      "approx_traffic": "500+",
-      "published": "Tue, 27 Oct 2026 00:10:00 -0700",
-      "news": [
-        {
-          "title": "3분기 경제성장률 1.0%…올해 3% 중반 성장 가능성 높아져",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974354"
-        },
-        {
-          "title": "3분기 성장률 1.0%···연간 성장률 4%도 가시권",
+          "title": "공무원연금 수령 시기 60세→65세 상향…헌재, 4대4로 ‘합헌’ 결정",
           "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610271630001"
+          "url": "https://www.khan.co.kr/article/202610271508021"
         },
         {
-          "title": "반도체 호황에 3분기 실질 GDP 1% '깜짝 성장'...연 4%도 가시권",
-          "source": "YTN 사이언스",
-          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202610271102022434"
+          "title": "[결정] 공무원 60세 정년퇴직해도 연금은 62~65세부터… 헌재 “합헌”",
+          "source": "법률신문",
+          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=228307"
+        },
+        {
+          "title": "헌재 \"공무원 퇴직연금 수령 나이 65세 상향은 합헌\"‥4대 4 의견 갈려",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6860987_36918.html"
         }
       ]
     },
     {
-      "title": "데스티니 차일드",
+      "title": "전주사랑상품권",
       "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 00:10:00 -0700",
+      "published": "Tue, 27 Oct 2026 00:50:00 -0700",
       "news": [
         {
-          "title": "컴투스, ‘데스티니 차일드: 어셈블’ 공개…2027년 상반기 출시",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261027161125"
-        },
-        {
-          "title": "10주년 맞은 `데스티니 차일드`, 방치형 RPG로 귀환 예고",
-          "source": "디지털데일리",
-          "url": "https://www.ddaily.co.kr/page/view/2026102713321321581"
-        },
-        {
-          "title": "컴투스, 신작 '데스티니 차일드: 어셈블' 공개…내년 출시 목표",
-          "source": "데일리한국",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1418904"
-        }
-      ]
-    },
-    {
-      "title": "new zealand vs india",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 00:10:00 -0700",
-      "news": [
-        {
-          "title": "New Zealand hope to salvage series as India brace for Wellington wind",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-3rd-t20i-1539434/match-preview"
-        },
-        {
-          "title": "Has India won a T20 series in New Zealand? India's record in New Zealand T20Is detailed",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/india-won-t20-series-zealand-043411386.html"
-        },
-        {
-          "title": "India vs New Zealand Live Stream: How to Watch T20 Cricket (Oct. 27, 2026)",
-          "source": "Fubo",
-          "url": "https://www.fubo.tv/news/t20-cricket/india-vs-new-zealand-live-stream-how-to-watch-t20-cricket-oct-27-2026/"
-        }
-      ]
-    },
-    {
-      "title": "손태진",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 00:00:00 -0700",
-      "news": [
-        {
-          "title": "전원주 “기억이 잘 안 나”···‘최근 일’ 자꾸 잊는다면 치매 초기 신호일 수도",
-          "source": "더메디컬",
-          "url": "https://www.themedical.kr/news/articleView.html?idxno=3587"
-        },
-        {
-          "title": "'더트롯쇼' MC 손태진, 팬들의 생일 축하받으며 행복한 무대…'언포게터블 듀엣2' 첫 방송 언제?",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16258743"
-        },
-        {
-          "title": "김주하·손태진, ‘언포게터블 듀엣2’ MC 호흡",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12324005"
-        }
-      ]
-    },
-    {
-      "title": "최혜진",
-      "approx_traffic": "100+",
-      "published": "Tue, 27 Oct 2026 00:00:00 -0700",
-      "news": [
-        {
-          "title": "LPGA 2주 연속 준우승 최혜진, 말레이시아 대회서 우승 재도전",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8695979"
-        },
-        {
-          "title": "'2주 연속 LPGA 준우승' 최혜진, 여자골프 세계랭킹 23위로",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261027_0003842361"
-        },
-        {
-          "title": "'베어트로피 경쟁' 유해란 vs 야마시타, 메이뱅크 챔피언십에서 격돌 [LPGA]",
-          "source": "골프한국",
-          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20022426"
-        }
-      ]
-    },
-    {
-      "title": "김병현",
-      "approx_traffic": "1000+",
-      "published": "Mon, 26 Oct 2026 23:50:00 -0700",
-      "news": [
-        {
-          "title": "‘11번 폐업’ 김병현, 연금 3억으로 소시지·학센 사업하더니... 초대형 러브콜 받았다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/27/MZRDSMRVGFRGEOBWG4YTQZRYGA/"
-        },
-        {
-          "title": "'동상이몽2' 김병현, 11번 사업 실패 딛고 재도전…\"사활 걸려\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/27/2026102716307231745"
-        },
-        {
-          "title": "동상이몽2_너는 내 운명 : [선공개] 김병현×이봉원, 막강 라인업 제치고 소시지×학센 판매량 1위 목표",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/enter/dongsang2/clip/65050/OC482622740"
-        }
-      ]
-    },
-    {
-      "title": "손태영",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 23:50:00 -0700",
-      "news": [
-        {
-          "title": "\"이모님 쓴 적 없어\" 손태영 발언에 왜 악플이...",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/27/MQ3GIY3FGZRDOMDFMI2WEMRWMU/"
-        },
-        {
-          "title": "가사도우미 안쓰는 게 자랑?\"…악플 받은 손태영, 응원엔 '좋아요' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/27/2026102709141877081"
-        },
-        {
-          "title": "손태영, 미국 생활 6년 동안 독박 육아…\"가사도우미 쓴 적 없어\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261026_0003840393"
-        }
-      ]
-    },
-    {
-      "title": "아리엘 후라도",
-      "approx_traffic": "500+",
-      "published": "Mon, 26 Oct 2026 23:40:00 -0700",
-      "news": [
-        {
-          "title": "'8실점 악몽' 지운 KIA 올러 \"버릇 읽혔던 탓…이번엔 다를 것\"",
+          "title": "전주사랑상품권 충전, 내달부터 새벽→오후 3시로 변경",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261027023300007"
+          "url": "https://www.yna.co.kr/view/AKR20261027047600055"
         },
         {
-          "title": "[포토] 이범호 감독 '후라도에 강한 김호령 믿는다' - 머니투데이",
+          "title": "전주돼지카드 11월부터 충전시간 0시15분→오후 3시 변경",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261027_0003842579"
+        },
+        {
+          "title": "전주사랑상품권 온라인 충전 오후 3시로 변경…시민 불편 해소",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3734376"
+        }
+      ]
+    },
+    {
+      "title": "고려대",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 00:50:00 -0700",
+      "news": [
+        {
+          "title": "Korea University President Resigns to Run for President",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/national-en/2026/10/27/TIQWKDJPL5AWRKOOGP4BGDRYPM/"
+        }
+      ]
+    },
+    {
+      "title": "정종철",
+      "approx_traffic": "5000+",
+      "published": "Tue, 27 Oct 2026 00:40:00 -0700",
+      "news": [
+        {
+          "title": "\"강남 작은 집이라도 가자\"…정종철, 일산 70평 아파트 던진 사연",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610277941H"
+        },
+        {
+          "title": "정종철, 일산 아파트 팔고 강남行…“아내가 안가면 이혼한다고”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261027/134917354/1"
+        },
+        {
+          "title": "'45억 건물주' 정종철, 일산 아파트 판 사연…\"아내가 이혼한다고\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261027_0003842746"
+        }
+      ]
+    },
+    {
+      "title": "pak vs sl",
+      "approx_traffic": "1000+",
+      "published": "Tue, 27 Oct 2026 00:40:00 -0700",
+      "news": [
+        {
+          "title": "Win-from-anywhere Pakistan face 430-conquerors Sri Lanka at high-scoring Lahore",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/pakistan-odi-tri-series-2026-27-1550706/pakistan-vs-sri-lanka-5th-match-1550717/match-preview"
+        },
+        {
+          "title": "Pakistan vs. Sri Lanka free live stream: How to watch Pakistan ODI tri-series clash in India",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/pakistan-vs-sri-lanka-free-200001789.html"
+        },
+        {
+          "title": "Sri Lanka wins toss, elects to field in cricket tri-series ODI against Pakistan",
+          "source": "KVUE",
+          "url": "https://www.kvue.com/article/syndication/associatedpress/sri-lanka-wins-toss-elects-to-field-in-cricket-tri-series-odi-against-pakistan/616-5e645ec3-391b-4af7-b44c-d9a065559c49"
+        }
+      ]
+    },
+    {
+      "title": "상장폐지",
+      "approx_traffic": "500+",
+      "published": "Tue, 27 Oct 2026 00:40:00 -0700",
+      "news": [
+        {
+          "title": "형지글로벌, ‘동전주’ 상장폐지 가처분 신청…거래소 상폐 유예 ‘정책 실효성’ 논란",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261026580658"
+        },
+        {
+          "title": "형지그룹 상장3사 상폐 위기 일단 모면, '오너2세' 최준호·최혜원 기업가치 회복 승부수는",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450415"
+        },
+        {
+          "title": "[기자수첩] 자본시장 건전화의 부메랑 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/27/2026102717032830527"
+          "url": "https://www.mt.co.kr/opinion/2026/10/26/2026102309070942423"
+        }
+      ]
+    },
+    {
+      "title": "몸매",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 00:30:00 -0700",
+      "news": [
+        {
+          "title": "티아라 효민, 과감 숏팬츠 숨은 노력 있었다…군살 없는 몸매",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261026/134907296/1"
         },
         {
-          "title": "'고작 2안타 침묵이라니…' 2차전 반격 절실 삼성, 대대적 타선 개편?",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6597682"
+          "title": "AI보다 더 하네…티아라 효민, 대만 가오슝서 뽐낸 ‘마네킹 인형 미모’",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/25/G44DSMRZMRQTKNZWGUZDOYZWME/"
+        },
+        {
+          "title": "티아라 효민, 여전한 아이돌 아우라…세련미 넘치는 공항 패션 [N샷]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6331225"
+        }
+      ]
+    },
+    {
+      "title": "박승수",
+      "approx_traffic": "500+",
+      "published": "Tue, 27 Oct 2026 00:20:00 -0700",
+      "news": [
+        {
+          "title": "\"정신 못 차렸냐?\" '환상적인 골 넣었는데 욕설·조롱 폭발' 박승수, 뉴캐슬 팬들 앞에서 존재감 증명...한국 팬들은 여전히 '전역모 논란' 비판 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/27/202610271354779792O"
+        },
+        {
+          "title": "'전역모 쓰고 경례 논란' 박승수, 英 무대 복귀하자마자 환상골 폭발! 교체 투입 3분 만에 동점골…뉴캐슬 감독 앞에서 '눈도장'",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1015611"
+        },
+        {
+          "title": "'17분 뛰고 전역모 착용' 논란의 신성 박승수, '후루룩 짭짭 라면 세리머니' 시전…뉴캐슬 U-21 경기서 환상골 폭발, 구단 \"아릅답다\" 찬사",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/football/2026-10-27/202610270100169360011164"
+        }
+      ]
+    },
+    {
+      "title": "닛케이 평균주가",
+      "approx_traffic": "100+",
+      "published": "Tue, 27 Oct 2026 00:20:00 -0700",
+      "news": [
+        {
+          "title": "[도쿄증시-마감] AI·반도체주 반등에 1%대 상승 마감",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441423"
+        },
+        {
+          "title": "앤트로픽 IPO 기대에…日 증시 '쑥'",
+          "source": "뉴스웍스",
+          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=900975"
+        },
+        {
+          "title": "유가·AI 우려에 亞 약세…닛케이 0.7%↓·상하이 0.5%↓[Asia오전] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/10/26/2026102611383021473"
+        }
+      ]
+    },
+    {
+      "title": "구룡마을",
+      "approx_traffic": "10000+",
+      "published": "Tue, 27 Oct 2026 00:10:00 -0700",
+      "news": [
+        {
+          "title": "[속보] 서울 강남 구룡마을 화재‥소방대응 2단계",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nw1700/article/6861110_36981.html"
+        },
+        {
+          "title": "[속보] '서울 강남 판자촌' 구룡마을 큰불...대응 2단계",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202610271649385492_005.html"
+        },
+        {
+          "title": "[속보] 서울 개포동 구룡마을 화재…대응 2단계로 격상",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1284395.html"
         }
       ]
     }
