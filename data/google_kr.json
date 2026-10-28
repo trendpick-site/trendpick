@@ -1,27 +1,171 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-28T15:30:18+00:00",
+  "fetched_at": "2026-10-28T16:29:33+00:00",
   "items": [
     {
-      "title": "이계인",
+      "title": "한겨레",
+      "approx_traffic": "100+",
+      "published": "Wed, 28 Oct 2026 08:10:00 -0700",
+      "news": [
+        {
+          "title": "李 \"외국인 노동자, 경제에 크게 도움 안 돼\"… 진보진영 \"사과하라\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/assembly/2026/10/28/N3OFGB6CWNEWNBD7Y4MOKKWWEQ/"
+        },
+        {
+          "title": "[데스크 시각] 농어촌 외국인노동자, 대체 가능한가",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/editOpinion/column/journalist-viewpoint/2026/10/29/20261029027005"
+        },
+        {
+          "title": "이 대통령 '외국인 노동자·다문화' 발언 논란...진보진영 반발",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0101_202610282211528176"
+        }
+      ]
+    },
+    {
+      "title": "일본 지진",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 08:00:00 -0700",
+      "news": [
+        {
+          "title": "일본 지바현 지바시 동쪽서 규모 5.4 지진 발생",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261029001000530"
+        },
+        {
+          "title": "일본 지바현 지바시 동쪽 55km 지역 규모 5.4 지진",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8698111"
+        },
+        {
+          "title": "일본 지바현서 규모 5.4 지진… 발생 깊이 50km",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/international/international_general/2026/10/29/CX3BN44XSRAZTCYNAOPNQTZ2TI/"
+        }
+      ]
+    },
+    {
+      "title": "크랙",
       "approx_traffic": "500+",
+      "published": "Wed, 28 Oct 2026 08:00:00 -0700",
+      "news": [
+        {
+          "title": "‘듀오’ 결함 인정…흠집 난 애플",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610272056005"
+        },
+        {
+          "title": "애플의 ‘크랙 게이트’[횡설수설/김재영]",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Opinion/article/all/20261028/134928752/2"
+        },
+        {
+          "title": "'아이폰 듀오' 내구성 논란...부품 업체 \"접합부 결함 아냐\"",
+          "source": "YTN 사이언스",
+          "url": "https://m.science.ytn.co.kr/program/view.php?s_mcd=0082&key=202610271105445695"
+        }
+      ]
+    },
+    {
+      "title": "서울반도체",
+      "approx_traffic": "100+",
+      "published": "Wed, 28 Oct 2026 07:40:00 -0700",
+      "news": [
+        {
+          "title": "“희토류 필요없다”…서울반도체, LED 판도 바꿀 신기술 개발",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610281580i"
+        },
+        {
+          "title": "서울바이오시스, '희토류 없는' 백색 마이크로 LED 양산",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261028183723"
+        },
+        {
+          "title": "서울반도체, '희토류 필요없는' 초소형 백색 LED 최초 개발 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/10/28/2026102817174980304"
+        }
+      ]
+    },
+    {
+      "title": "김민",
+      "approx_traffic": "100+",
+      "published": "Wed, 28 Oct 2026 07:40:00 -0700",
+      "news": [
+        {
+          "title": "김민, ‘나혼산’ 출연 후 아찔한 사생활 고충...\"사람들이 집에 너무 찾아온다\" ('라스')",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/28/G44TQNBVMFRGCMBVMI2DINBWMI/"
+        },
+        {
+          "title": "'나혼산' 김민, '라스'까지 접수…최민식 놀라게 한 파격 애드리브는? - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/28/2026102814107262351"
+        },
+        {
+          "title": "[종합] “토종 한국인이다”… ‘라디오스타’ 김민, 이계인·윤택·육중완과 유쾌한 입담 대결",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16261061"
+        }
+      ]
+    },
+    {
+      "title": "메달",
+      "approx_traffic": "100+",
+      "published": "Wed, 28 Oct 2026 07:30:00 -0700",
+      "news": [
+        {
+          "title": "‘은퇴 예고’ 쇼트트랙 최민정, 월드투어 첫 대회에서 금메달",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694518"
+        },
+        {
+          "title": "쇼트트랙 남자 계주, 월드투어 1차대회에서 역전극으로 금메달",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6860738_36946.html"
+        },
+        {
+          "title": "'마지막 코너서 대역전' 이정민, 쇼트트랙 월드투어 계주 금메달 견인",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03329206645616856&mediaCodeNo=257"
+        }
+      ]
+    },
+    {
+      "title": "올림픽파크 포레온",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 07:30:00 -0700",
+      "news": [
+        {
+          "title": "\"집주인 온다\"… 떨고 있는 올파포 세입자",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/realestate/12188624"
+        }
+      ]
+    },
+    {
+      "title": "이계인",
+      "approx_traffic": "1000+",
       "published": "Wed, 28 Oct 2026 07:10:00 -0700",
       "news": [
         {
-          "title": "이계인, 통금 위반으로 즉결재판행…\"이름 때문에 개명까지 고민\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261027_0003843661"
+          "title": "“50억원 줘도 안 팔아”…이계인이 31년째 남양주 주택 지키는 이유",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261028510953"
         },
         {
-          "title": "이계인 \"말벌 수천 마리 상대해…말벌주 담가\" 허세",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6335514"
+          "title": "\"10년 동거 내연남 숨기고 결혼\"…이계인이 고백한 '사기 결혼' 상처",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202610271110084416"
         },
         {
-          "title": "이계인 “방송국 사장도 반대”, 캐스팅 비화 공개 (라스)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261027/134918422/1"
+          "title": "양수리 105평 이계인도 거절했는데 누가 “송강호 매니저가 샀대, 30억 벌었대”(그리구라)",
+          "source": "뉴스엔",
+          "url": "https://m.newsen.com/news_view.php?uid=202610271729402110"
         }
       ]
     },
@@ -66,145 +210,6 @@
           "title": "하림산업, 부동산·식품 사업 인적분할…하림식품 신설",
           "source": "헤럴드경제",
           "url": "https://biz.heraldcorp.com/article/10915529"
-        }
-      ]
-    },
-    {
-      "title": "영아",
-      "approx_traffic": "500+",
-      "published": "Wed, 28 Oct 2026 05:40:00 -0700",
-      "news": [
-        {
-          "title": "“가정어린이집, 영아전문기관으로 재설계해야”…국가 책임 강화 촉구",
-          "source": "베이비뉴스",
-          "url": "https://www.ibabynews.com/news/articleView.html?idxno=156308"
-        },
-        {
-          "title": "보육교사 업무 부담 여전…처우 개선 해법 모색",
-          "source": "SK브로드밴드 회사소개",
-          "url": "https://news.skbroadband.com/news/articleView.html?idxno=241307"
-        }
-      ]
-    },
-    {
-      "title": "노원구",
-      "approx_traffic": "500+",
-      "published": "Wed, 28 Oct 2026 05:40:00 -0700",
-      "news": [
-        {
-          "title": "서울 노원구 아파트서 불‥70대 남성 숨져",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6861457_36918.html"
-        },
-        {
-          "title": "서울 중계동 아파트에 화재…70대 주민 1명 사망",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261028/134928903/1"
-        },
-        {
-          "title": "서울 노원구 아파트서 불…70대 남성 숨져",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8698043"
-        }
-      ]
-    },
-    {
-      "title": "acl two",
-      "approx_traffic": "500+",
-      "published": "Wed, 28 Oct 2026 05:30:00 -0700",
-      "news": [
-        {
-          "title": "AFC Champions League 2: Al Rayyan Aim to Return to Winning Ways Against Oman's Al Nahda",
-          "source": "Fana News -",
-          "url": "https://www.fananews.com/language/en/afc-champions-league-2-al-rayyan-aim-to-return-to-winning-ways-against-omans-al-nahda/"
-        },
-        {
-          "title": "Al Rayyan target victory against Oman's Al Nahda in ACL Two",
-          "source": "The Peninsula Qatar",
-          "url": "https://thepeninsulaqatar.com/article/28/10/2026/al-rayyan-target-victory-against-omans-al-nahda-in-acl-two"
-        },
-        {
-          "title": "Kikianis: Playing for Adelaide in Asia a dream come true",
-          "source": "Adelaide United",
-          "url": "https://adelaideunited.com.au/news/kikianis-playing-for-adelaide-in-asia-a-dream-come-true/"
-        }
-      ]
-    },
-    {
-      "title": "마약",
-      "approx_traffic": "200+",
-      "published": "Wed, 28 Oct 2026 05:30:00 -0700",
-      "news": [
-        {
-          "title": "[단독] '마약 운전' 안산 버스기사와 함께 투약...지인 3명도 송치",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202610281711577001_005.html"
-        },
-        {
-          "title": "‘마약 투약 뒤 버스 운전’ 버스기사 지인 3명도 공소청 넘겨져",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261028580574"
-        },
-        {
-          "title": "‘마약 투약 버스 운전기사’ 지인 3명도 송치",
-          "source": "경인일보",
-          "url": "https://www.kyeongin.com/article/1773609"
-        }
-      ]
-    },
-    {
-      "title": "주거",
-      "approx_traffic": "500+",
-      "published": "Wed, 28 Oct 2026 05:30:00 -0700",
-      "news": [
-        {
-          "title": "남양주시, 주거 취약계층 4가구 집수리 완료…민관 협력으로 주거환경 개선",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=720024"
-        },
-        {
-          "title": "(재)이천시자원봉사센터, 율면 취약가구 찾아 'G-하우징' 집수리 봉사",
-          "source": "누리일보",
-          "url": "https://www.nuriilbo.com/news/article.html?no=927813"
-        }
-      ]
-    },
-    {
-      "title": "3 일치 식량",
-      "approx_traffic": "2000+",
-      "published": "Wed, 28 Oct 2026 05:20:00 -0700",
-      "news": [
-        {
-          "title": "\"남은 시간 딱 1000일\"…물 9리터·비상식량 쓸어 담아라 경고 나왔다",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/visual-news/article/2026102710111373618"
-        },
-        {
-          "title": "영국·프랑스·일본 “3일치 비상식량 쌓아두라” 전쟁 임박?···생필품 준비 권고하는 주요국, 달라진 위기 대응법 [이윤정 기자의 소소월드]",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610280946001"
-        }
-      ]
-    },
-    {
-      "title": "오윤아",
-      "approx_traffic": "2000+",
-      "published": "Wed, 28 Oct 2026 05:20:00 -0700",
-      "news": [
-        {
-          "title": "오윤아 아들 민이, 프로 수영선수 됐다…\"기적 같은 일\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/28/2026102810424833388"
-        },
-        {
-          "title": "'재혼' 오윤아, 발달장애 아들 민이 근황 공개…\"수영선수로 취업 기적\" 감격",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6334529"
-        },
-        {
-          "title": "오윤아 \"♥남편, '발달장애' 아들과 목욕탕까지\" 눈물..재혼후 달라진 일상(편스토랑)",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/28/GY4GIYLBHAZGCMBZMEZDKM3GGQ/"
         }
       ]
     }
