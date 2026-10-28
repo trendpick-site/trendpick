@@ -1,22 +1,127 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-28T07:39:00+00:00",
+  "fetched_at": "2026-10-28T08:26:59+00:00",
   "items": [
     {
-      "title": "콜 오브 듀티: 모던 워 페어 4",
+      "title": "원당역",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 00:10:00 -0700",
+      "news": [
+        {
+          "title": "[속보]3호선 원당역서 20대 여성 역무원 흉기 피습…가해자는 동료",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11626972"
+        },
+        {
+          "title": "'살인미수 혐의' 원당역 역무원, 범행 동기 수사 중(종합)",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261028_0003845272"
+        },
+        {
+          "title": "[속보] 고양 덕양구 원당역서 20대 여성 흉기 찔려 중상",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/gyeonggi/6334983"
+        }
+      ]
+    },
+    {
+      "title": "신유빈",
       "approx_traffic": "2000+",
+      "published": "Wed, 28 Oct 2026 00:00:00 -0700",
+      "news": [
+        {
+          "title": "당진시체육회, 11월 14~15일 '신유빈과 함께하는 전국 유소년 탁구 축제'",
+          "source": "당진신문",
+          "url": "https://www.idjnews.kr/news/articleView.html?idxno=303551"
+        },
+        {
+          "title": "‘단 2점만 허용하고 1게임 완승’ 신유빈, 24분 만에 천적 꺾고 WTT 챔피언스 16강 진출…그런데 세계 최강과 8강행 다툰다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/28/202610281057778972O"
+        }
+      ]
+    },
+    {
+      "title": "할인",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 00:00:00 -0700",
+      "news": [
+        {
+          "title": "2026 코리아 그랜드 페스티벌 - 영상 | 멀티미디어",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148974469&pWise=sub&pWiseSub=R6"
+        },
+        {
+          "title": "의정부사랑카드 혜택 더 커진다…결제금액 5％ 캐시백 추가 지급",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/RPR20261028005300353"
+        },
+        {
+          "title": "가평군, 국비 7천만원 투입…GP페이 최대 17% 혜택",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261028580408"
+        }
+      ]
+    },
+    {
+      "title": "신문",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 23:50:00 -0700",
+      "news": [
+        {
+          "title": "한국신문방송편집인협회, 제27대 회장에 신종수 국민일보 편집인 선출",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335346"
+        },
+        {
+          "title": "한국신문방송편집인협회 신임 회장에 신종수 국민일보 편집인",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261028114300005"
+        },
+        {
+          "title": "한국신문방송편집인협회 제27대 회장에 신종수 국민일보 편집인 겸 논설실장",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261028580404"
+        }
+      ]
+    },
+    {
+      "title": "정부",
+      "approx_traffic": "500+",
+      "published": "Tue, 27 Oct 2026 23:50:00 -0700",
+      "news": [
+        {
+          "title": "[속보] 정부, 엘리엇 국제투자분쟁 최종 패소‥1천530억 배상책임 확정",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6861343_36918.html"
+        },
+        {
+          "title": "‘삼성 합병 개입’ 정부 엘리엇에 1530억 배상키로…ISDS 최종 패소",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261028.99099008271"
+        },
+        {
+          "title": "정부, 엘리엇 환송 중재 최종 패소… 약 1530억원 배상해야",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/court_law/2026/10/28/N2VTCYNC4NGITCKJFFUD5TLDGY/"
+        }
+      ]
+    },
+    {
+      "title": "콜 오브 듀티: 모던 워 페어 4",
+      "approx_traffic": "5000+",
       "published": "Tue, 27 Oct 2026 23:30:00 -0700",
       "news": [
         {
-          "title": "[단독] '콜오브듀티'에 '이태원 참사' 장면‥\"오락 위해 참사 박제하나\"",
+          "title": "\"이태원참사 영상 쓴 '콜 오브 듀티' 몰상식\"‥유가족, 삭제 요구",
           "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6861144_37004.html"
+          "url": "https://imnews.imbc.com/news/2026/society/article/6861369_36918.html"
         },
         {
-          "title": "'콜 오브 듀티'에 이태원 참사 영상…유가족 반발·사과 촉구",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261028143400017"
+          "title": "“이태원 참사 영상 게임에서 삭제하라”…유가족들, ‘모던 워페어4’에 항의",
+          "source": "주간경향",
+          "url": "https://weekly.khan.co.kr/article/202610281634001"
         },
         {
           "title": "'한반도 전면전' 소재에 인기 폭발…입소문 타더니 '1위' 찍었다 [지금이뉴스]",
@@ -27,7 +132,7 @@
     },
     {
       "title": "k뷰티",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Tue, 27 Oct 2026 23:30:00 -0700",
       "news": [
         {
@@ -49,23 +154,40 @@
     },
     {
       "title": "연합뉴스",
-      "approx_traffic": "1000+",
+      "approx_traffic": "5000+",
       "published": "Tue, 27 Oct 2026 23:20:00 -0700",
       "news": [
         {
-          "title": "코스피, 이틀 연속 매수 사이드카...다시 6,000선 넘봐",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202610281147027493"
+          "title": "수형자가 유유히 교도소 정문 걸어나갔다? 천안서 '황당' 해프닝",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027046700063"
         },
         {
-          "title": "SK하이닉스 '역대급 실적'에 화답한 증시",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261028_0021508700"
+          "title": "‘황당한 이 교도소’…교도소 정문 유유히 걸어나간 수형자",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11626748"
+        }
+      ]
+    },
+    {
+      "title": "이터널 리턴",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 23:20:00 -0700",
+      "news": [
+        {
+          "title": "게이밍모니터 큐닉스, 이터널 리턴 e스포츠 대회에 모니터 30대 공급… 전국 PC방 설치 확대하며 게이밍 시장 입지 강화",
+          "source": "아이러브PC방",
+          "url": "https://www.ilovepcbang.com/bbs/view.html?idxno=72118"
         },
         {
-          "title": "[속보] 코스피 4%대 급등에 '매수 사이드카' 발동",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6861277_36932.html"
+          "title": "내일 아침 올가을 가장 춥다, 곳곳 영하권",
+          "source": "시사매거진",
+          "url": "https://www.sisamagazine.co.kr/hot/f1d576ba-b539-46df-a4e5-2b9e075015a2"
+        },
+        {
+          "title": "빨갛게, 파랗게…불타오른다! PO 드레스코드 응원",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610262300006"
         }
       ]
     },
@@ -75,146 +197,19 @@
       "published": "Tue, 27 Oct 2026 23:00:00 -0700",
       "news": [
         {
-          "title": "동아오츠카, 포카리스웨트 후원 KBL 유스 엘리트 캠프 마무리",
-          "source": "스트레이트뉴스",
-          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=314035"
-        },
-        {
-          "title": "동아오츠카, KBL과 중·고교 농구선수 83명 유스 엘리트 캠프 마쳐",
-          "source": "로이슈",
-          "url": "https://www.lawissue.co.kr/view.php?ud=202610271001391077204ead0791_12"
-        },
-        {
-          "title": "동아오츠카, KBL과 일주일간 '농구 꿈나무' 양성 프로그램 열어",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/industry/distribution/6332766"
-        }
-      ]
-    },
-    {
-      "title": "엘리엇",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 23:00:00 -0700",
-      "news": [
-        {
-          "title": "[속보] 정부, 엘리엇 국제투자분쟁 최종 패소‥1천530억 배상책임 확정",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6861343_36918.html"
-        },
-        {
-          "title": "정부, 엘리엇에 1530억원 배상해야···국제투자분쟁 패소 판정 수용",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610281521001"
-        },
-        {
-          "title": "정부, 엘리엇 환송 중재 최종 패소… 약 1530억원 배상해야",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/court_law/2026/10/28/N2VTCYNC4NGITCKJFFUD5TLDGY/"
-        }
-      ]
-    },
-    {
-      "title": "문동주",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 22:50:00 -0700",
-      "news": [
-        {
-          "title": "\"아, 야구 못하나\" 11승 문동주에게 찾아온 좌절…속도 붙은 재활, '몬스터'의 길을 바라본다 [인터뷰①]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/28/MU4GMYJRMVTGCYRVGNSTAMRTG4/"
-        },
-        {
-          "title": "수술이 만든 'MVP 조기 재회'…국경 넘은 문동주X폰세 우정, \"죽기 전까지 기억할 시간\" [인터뷰②]",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/baseball/2026-10-28/202610280100176850011718"
-        }
-      ]
-    },
-    {
-      "title": "병무청",
-      "approx_traffic": "1000+",
-      "published": "Tue, 27 Oct 2026 22:40:00 -0700",
-      "news": [
-        {
-          "title": "대구경북병무청, 내년 2월 입영 현역병 모집",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261027_0003843156"
-        },
-        {
-          "title": "제주병무청, 2027년 2월 입영 현역병 모집",
-          "source": "제민일보",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=845355"
-        },
-        {
-          "title": "부울병무청, 11월 각 軍 현역병 모집 접수",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3734023"
-        }
-      ]
-    },
-    {
-      "title": "청주국제공항",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 22:40:00 -0700",
-      "news": [
-        {
-          "title": "일본·중국만 웃는 동계 항공시장…증편 속 감편의 역설",
-          "source": "여행신문",
-          "url": "https://www.traveltimes.co.kr/news/articleView.html?idxno=500620"
-        },
-        {
-          "title": "한국공항공사, 겨울 시즌 지방공항 국제선 운항 확대",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261028580345"
-        },
-        {
-          "title": "군산~제주 항공편 줄었는데···전북도는 “편의 향상” 황당 발표",
-          "source": "전북일보 인터넷신문",
-          "url": "https://www.jjan.kr/article/20261028500026"
-        }
-      ]
-    },
-    {
-      "title": "예산",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 22:40:00 -0700",
-      "news": [
-        {
-          "title": "전남광주시, 광주 학교 무상급식 분담금 추경 반영(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261028073051054"
-        },
-        {
-          "title": "광주 학생 무상 급식 중단 우려 해소...예산 추경에 반영",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR202610281514525iF"
-        },
-        {
-          "title": "[무등의 아침] 김진남 “광주 학생들 점심 한 끼 못 먹이나…전남광주통합특별시, 급식 분담금 169억 원 미교부”",
+          "title": "초유의 규정 위반, 소노는 재경기 요청 ‘역대급 오류’",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8697416"
-        }
-      ]
-    },
-    {
-      "title": "중수청",
-      "approx_traffic": "500+",
-      "published": "Tue, 27 Oct 2026 22:30:00 -0700",
-      "news": [
-        {
-          "title": "공소청-중수청 권한다툼 수면위로…리니언시 접수권 어디에(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261027153251004"
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8697048"
         },
         {
-          "title": "중수청 \"리니언시는 수사기법…공소청이 할 수 없는 영역\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/10/27/2026102716141062424"
+          "title": "“재경기 요청” 소노, KBL에 항의 공문 보낸다…26일 ‘위닝 샷’ 터트린 윤원상은 부정 선수",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/sports/article/all/20261027/134920747/1"
         },
         {
-          "title": "중수청도 공소청도 \"리니언시 우리가 접수\"…담합 자진신고 '창구 충돌'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261027_0003842181"
+          "title": "심판 오판에 잘못 투입된 선수가 결승골‥소노 \"LG전 재경기 요청 검토\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6861093_36946.html"
         }
       ]
     }
