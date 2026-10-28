@@ -1,11 +1,56 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-28T03:21:21+00:00",
+  "fetched_at": "2026-10-28T04:21:32+00:00",
   "items": [
     {
+      "title": "징역형",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 20:00:00 -0700",
+      "news": [
+        {
+          "title": "엘리베이터서 '미성년자 강제추행' 60대 남성, 1심서 징역형 집행유예 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/28/2026102810111460230"
+        },
+        {
+          "title": "12세 남아 추행 60대男, 피해자와 합의 못했지만 '집유'",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=04286966645617512&mediaCodeNo=257"
+        },
+        {
+          "title": "‘이별 통보’ 전 연인에 흉기 휘두른 10대 징역 장기 7년·단기 4년",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610271505001"
+        }
+      ]
+    },
+    {
+      "title": "음바페 마오쩌둥",
+      "approx_traffic": "100+",
+      "published": "Tue, 27 Oct 2026 19:40:00 -0700",
+      "news": [
+        {
+          "title": "[이 시각 세계] 음바페 '마오쩌둥 희화화' 논란‥중국 '발칵'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6861231_37012.html"
+        },
+        {
+          "title": "中서 음바페 ’마오쩌둥 희화화’ 논란…결국 사과",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261028125900dNz"
+        }
+      ]
+    },
+    {
+      "title": "골프 존 홀딩스",
+      "approx_traffic": "1000+",
+      "published": "Tue, 27 Oct 2026 19:30:00 -0700",
+      "news": []
+    },
+    {
       "title": "순위",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Tue, 27 Oct 2026 19:10:00 -0700",
       "news": [
         {
@@ -14,9 +59,9 @@
           "url": "https://imnews.imbc.com/news/2026/sports/article/6861294_36946.html"
         },
         {
-          "title": "2026~2027 KOVO 여자부 신인선수 드래프트 1라운드 지명 선수들",
+          "title": "2라운드 5순위로 IBK기업은행에 지명된 선명여고 곽도연",
           "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20261028_0021508022"
+          "url": "https://mobile.newsis.com/photo/NISI20261028_0021508246"
         },
         {
           "title": "V-리그 ‘최대어’ 윤경에 꽂힌 男 7개팀",
@@ -27,7 +72,7 @@
     },
     {
       "title": "월드시리즈",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Tue, 27 Oct 2026 19:10:00 -0700",
       "news": [
         {
@@ -41,9 +86,9 @@
           "url": "https://www.chosun.com/sports/world-baseball/2026/10/27/MJQTKNDGMRQTAYJSMVRGENRQGE/"
         },
         {
-          "title": "[스포츠 영상] 밀워키, 탬파베이에 대승‥첫 월드시리즈 우승까지 '1승'",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6861171_37004.html"
+          "title": "[포토뉴스]밀워키, 탬파베이에 파죽의 3연승…WS 첫 우승 ‘1승’ 남았다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/20261027202700A/?cp"
         }
       ]
     },
@@ -71,7 +116,7 @@
     },
     {
       "title": "어머니",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Tue, 27 Oct 2026 19:00:00 -0700",
       "news": [
         {
@@ -83,133 +128,51 @@
     },
     {
       "title": "돈",
-      "approx_traffic": "2000+",
+      "approx_traffic": "5000+",
       "published": "Tue, 27 Oct 2026 18:50:00 -0700",
+      "news": []
+    },
+    {
+      "title": "하이닉스 배당",
+      "approx_traffic": "20000+",
+      "published": "Tue, 27 Oct 2026 18:40:00 -0700",
       "news": [
         {
-          "title": "전현무 \"돈이 많으니 돈으로 기선 제압\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261028_0003844180"
+          "title": "SK하이닉스 \"2029년까지 3년간 D램·HBM 사실상 완판\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6861288_36932.html"
         },
         {
-          "title": "“돈이면 다 해결” ‘건물주’ 정승제, 역대급 합숙소 공개 (재수전쟁)",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610280922003"
+          "title": "SK하이닉스, 2026년 3분기 경영실적 발표",
+          "source": "SK hynix",
+          "url": "https://news.skhynix.co.kr/q3-2026-business-results/"
         },
         {
-          "title": "티처스3 재수전쟁, 정승제 건물 내준 합숙 미션…15인 중 6명 추가 탈락 예고",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16260154"
+          "title": "SK하이닉스 3분기 영업이익 83조 3천억…분기매출 100조 돌파",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8697198"
         }
       ]
     },
     {
       "title": "팔란티어 테크놀로지",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Tue, 27 Oct 2026 18:10:00 -0700",
       "news": [
-        {
-          "title": "브이아이운용, 스페이스X·우주산업 밸류체인 투자 ETF 출시",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261027085300008"
-        },
         {
           "title": "엔비디아·팔란티어 다음으로 오를 AI 주식 10개",
           "source": "조선일보",
           "url": "https://www.chosun.com/economy/money/2026/10/28/PTFCVPTUWBELDBEHX5M44XX5VI/"
         },
         {
-          "title": "삼성액티브운용, ‘KoAct 코리아TOP5플러스채권혼합50액티브’ 상장",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20106460"
-        }
-      ]
-    },
-    {
-      "title": "디에이치 반포124",
-      "approx_traffic": "100+",
-      "published": "Tue, 27 Oct 2026 17:30:00 -0700",
-      "news": [
-        {
-          "title": "반포에서 검단까지… 지금 청약통장을 꺼내 볼 곳들",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/real_estate/2026/10/28/PFCRWZL3XNF6NBOAD3UWGXGR3Y/"
+          "title": "'1등株 + 공급망' 쓸어담은 ETF 전성시대",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1182201"
         },
         {
-          "title": "서울 '입주가뭄' 속… ‘디에이치 신반포에스테라’ 84㎡ 28세대 일반분양 나온다",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610280933436475"
-        },
-        {
-          "title": "하이엔드 브랜드 평판 19개월 연속 1위 적용…‘디에이치 신반포에스테라’ 공급 눈길",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/economy/estate/2026/10/27/20261027500115"
-        }
-      ]
-    },
-    {
-      "title": "골든 조이스틱 어워드",
-      "approx_traffic": "100+",
-      "published": "Tue, 27 Oct 2026 17:10:00 -0700",
-      "news": [
-        {
-          "title": "[공지사항] 붉은사막을 Golden Joystick Awards 2026의 Ultimate Game of the Year로 투표해 주세요! | 붉은사막",
-          "source": "펄어비스 공식 홈페이지",
-          "url": "https://crimsondesert.pearlabyss.com/ko-KR/News/Notice/Detail?_boardNo=139"
-        },
-        {
-          "title": "펄어비스 ‘붉은사막’, 첫 DLC로 장기 흥행 시동",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261028091019"
-        },
-        {
-          "title": "펄어비스 '붉은사막', 골든 조이스틱 어워드 최고상 후보에",
+          "title": "삼성액티브운용, '코리아TOP5플러스채권혼합50액티브' ETF 상장",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261027050800017"
-        }
-      ]
-    },
-    {
-      "title": "그랜드 테프트 오토 vi",
-      "approx_traffic": "500+",
-      "published": "Tue, 27 Oct 2026 17:00:00 -0700",
-      "news": [
-        {
-          "title": "“게임 하나 때문에 150만명 결근?”…1조원 손실 전망까지 나온 美, 무슨 일",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20106659"
-        },
-        {
-          "title": "GTA6 - 게임 캘린더",
-          "source": "인벤",
-          "url": "https://www.inven.co.kr/webzine/calendar/game/11934"
-        },
-        {
-          "title": "GTA 6 용량 210GB 유출? 11월 12일 사전 다운로드 준비 가이드",
-          "source": "MMOEXP",
-          "url": "https://www.mmoexp.com/News/gta-6-file-size-leaked-could-it-reach-210gb-a-guide-to-preparing-for-the-november-12-preload.html"
-        }
-      ]
-    },
-    {
-      "title": "더존",
-      "approx_traffic": "100+",
-      "published": "Tue, 27 Oct 2026 17:00:00 -0700",
-      "news": [
-        {
-          "title": "기업 11만곳 '인사·급여 장부' 유출 우려↑…더존 사태 일파만파",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/it-science/security-hacking/6333265"
-        },
-        {
-          "title": "더존비즈온 해킹 사고에 기업 고객 '촉각' … ERP 업무 차질에 고객 이탈 생길까",
-          "source": "뉴데일리",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/28/2026102800158.html"
-        },
-        {
-          "title": "세무회계법인 80%가 쓰는 더존비즈온 해킹 잇따라…백업 데이터 반출 정황",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20106442"
+          "url": "https://www.yna.co.kr/view/AKR20261027043300008"
         }
       ]
     }
