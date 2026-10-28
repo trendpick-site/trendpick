@@ -1,11 +1,72 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-28T01:13:43+00:00",
+  "fetched_at": "2026-10-28T02:22:54+00:00",
   "items": [
     {
+      "title": "팔란티어 테크놀로지",
+      "approx_traffic": "100+",
+      "published": "Tue, 27 Oct 2026 18:10:00 -0700",
+      "news": [
+        {
+          "title": "엔비디아·팔란티어 다음으로 오를 AI 주식 10개",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/money/2026/10/28/PTFCVPTUWBELDBEHX5M44XX5VI/"
+        },
+        {
+          "title": "'1등株 + 공급망' 쓸어담은 ETF 전성시대",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1182201"
+        },
+        {
+          "title": "삼성액티브운용, '코리아TOP5플러스채권혼합50액티브' ETF 상장",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027043300008"
+        }
+      ]
+    },
+    {
+      "title": "디에이치 반포124",
+      "approx_traffic": "100+",
+      "published": "Tue, 27 Oct 2026 17:30:00 -0700",
+      "news": [
+        {
+          "title": "11월 전국 아파트 5.6만가구...지난해 比 89.1% 급증",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202610281004255756"
+        },
+        {
+          "title": "'디에이치 반포124'부터 지방 대단지까지···11월 아파트 5만6천가구 공급",
+          "source": "스마트비즈",
+          "url": "https://www.smartbizn.com/news/articleView.html?idxno=157729"
+        }
+      ]
+    },
+    {
+      "title": "골든 조이스틱 어워드",
+      "approx_traffic": "100+",
+      "published": "Tue, 27 Oct 2026 17:10:00 -0700",
+      "news": [
+        {
+          "title": "[공지사항] 붉은사막을 Golden Joystick Awards 2026의 Ultimate Game of the Year로 투표해 주세요! | 붉은사막",
+          "source": "펄어비스 공식 홈페이지",
+          "url": "https://crimsondesert.pearlabyss.com/ko-KR/News/Notice/Detail?_boardNo=139"
+        },
+        {
+          "title": "펄어비스 ‘붉은사막’, 첫 DLC로 장기 흥행 시동",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261028091019"
+        },
+        {
+          "title": "펄어비스 '붉은사막', 골든 조이스틱 어워드 최고상 후보에",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027050800017"
+        }
+      ]
+    },
+    {
       "title": "그랜드 테프트 오토 vi",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Tue, 27 Oct 2026 17:00:00 -0700",
       "news": [
         {
@@ -19,9 +80,9 @@
           "url": "https://www.inven.co.kr/webzine/calendar/game/11934"
         },
         {
-          "title": "11월 19일에 미국에서 꾀병 환자 급증 예고",
-          "source": "게임와이",
-          "url": "https://www.gamey.kr/news/articleView.html?idxno=3019351"
+          "title": "'GTA 6' 용량만 210GB?…출시 전부터 콘솔 이용자들 저장공간 비상",
+          "source": "디지털투데이",
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710464"
         }
       ]
     },
@@ -36,36 +97,36 @@
           "url": "https://www.yna.co.kr/view/AKR20261028011300009"
         },
         {
-          "title": "\"미국 공장 지을 테니 중국 공장 규제 풀어라\"...솔리다임의 '빅딜'",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202610280917074364"
-        },
-        {
           "title": "[박동흠의 생활 속 회계이야기]SK하이닉스 ‘솔리다임 상장 사태’가 K증시에 남긴 교훈",
           "source": "경향신문",
           "url": "https://www.khan.co.kr/article/202610272037005"
+        },
+        {
+          "title": "[컨콜]곽노정 \"솔리다임 투자, 주주가치 제고 기여하는 방향으로 추진\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261028_0003844150"
         }
       ]
     },
     {
       "title": "대신증권",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Tue, 27 Oct 2026 16:50:00 -0700",
       "news": [
+        {
+          "title": "[속보]빗썸 사내 시스템 해킹으로 개인정보 유출",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/tech_it/2026/10/28/FV3QSUPEENFXRIPEWJD7D7F2TU/"
+        },
+        {
+          "title": "대신증권·미래에셋운용·빗썸 해킹침해 확인",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261028110139aIT"
+        },
         {
           "title": "대신증권, 해킹 사고 발생…금융권 해킹 증권업계로 확산(상보)",
           "source": "연합인포맥스",
           "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441503"
-        },
-        {
-          "title": "[이슈]대신·미래운용·빗썸도 털렸다…금융권 해킹 공포 확산",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11626836"
-        },
-        {
-          "title": "대신증권서 고객 3만 8천여 명 정보 유출‥주소·암호화한 계좌번호 등 포함",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6861261_36932.html"
         }
       ]
     },
@@ -80,20 +141,20 @@
           "url": "https://www.munhwa.com/article/11626691"
         },
         {
+          "title": "충격적인 도박판 적발...'픽스터' 영입해 회원 유치 [자막뉴스]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0134_202610271545177350"
+        },
+        {
           "title": "워크숍에 해외 여행도 지원...기업처럼 운영한 4900억 도박사이트 조직 적발",
           "source": "조선일보",
           "url": "https://www.chosun.com/national/regional/2026/10/27/LIENDL3NNFCFVH6UGRSDJ3AJFI/"
-        },
-        {
-          "title": "서울 강남 고급 아파트에는 ‘20대 조폭’이 산다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261027/134915279/1"
         }
       ]
     },
     {
       "title": "아주대 소아 응급실",
-      "approx_traffic": "2000+",
+      "approx_traffic": "5000+",
       "published": "Tue, 27 Oct 2026 16:30:00 -0700",
       "news": [
         {
@@ -102,31 +163,31 @@
           "url": "https://www.medigatenews.com/news/666187207"
         },
         {
-          "title": "아주대 소아응급 교수 7명 사직 결정...국감서도 경찰수사에 분노",
-          "source": "의학신문",
-          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014986"
+          "title": "압색 받은 소아응급 교수 7명 사직 의사…정은경 \"경찰과 협의\"(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027166051530"
         }
       ]
     },
     {
       "title": "국민연금",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Tue, 27 Oct 2026 16:30:00 -0700",
       "news": [
         {
-          "title": "청년 생애 첫 연금보험료 지원 사전신청 1만명 넘어",
+          "title": "복지장관, 10대 마약 병상 부족 문제에 \"치료 인프라 확충 추진\"",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261028056200530"
+          "url": "https://www.yna.co.kr/view/AKR20261027191900004"
         },
         {
-          "title": "청년 생애 첫 국민연금 보험료 지원 사전신청 1만명 돌파",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261028_0003844134"
+          "title": "[스코어보드-복지위] 눈물의 호소, 날카로운 추궁…국감 빛낸 '한 장면' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/10/28/2026102720320360502"
         },
         {
-          "title": "[2026 국감] 정은경 복지부 장관 \"청년 생애 첫 보험료 지원, 26세 확대 공감\"",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261027000849"
+          "title": "[뉴스레터K] 리밸런싱 골든타임 놓친 국민연금…이유는?",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8696369"
         }
       ]
     },
@@ -139,67 +200,6 @@
           "title": "주가는 떨어지는데 팔 수가 없다?…소수점 거래의 사각지대",
           "source": "아주경제",
           "url": "https://www.ajunews.com/view/20261019153547134"
-        }
-      ]
-    },
-    {
-      "title": "아버지",
-      "approx_traffic": "5000+",
-      "published": "Tue, 27 Oct 2026 16:20:00 -0700",
-      "news": [
-        {
-          "title": "\"아버지 장례비 750만 원 혼자 냈는데\"…부의금 싹 달라는 작은아버지",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6333729"
-        },
-        {
-          "title": "\"아버지 장례비 한 푼 안 낸 작은아버지, 부의금 다 내놓으라고 하네요\" [어떻게 생각하세요]",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610280757170803"
-        }
-      ]
-    },
-    {
-      "title": "헤이 지니",
-      "approx_traffic": "100+",
-      "published": "Tue, 27 Oct 2026 16:20:00 -0700",
-      "news": [
-        {
-          "title": "\"'밥값 해, 일부러 야근해?' 막차 끊길 때까지 일 강요\"…헤이지니 또 폭로",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6333612"
-        },
-        {
-          "title": "헤이지니, 직원들에 유모차 토스 영상 재조명 \"나는 멀리서 관전\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261028_0003844073"
-        },
-        {
-          "title": "헤이지니 전 직원 “연봉 2천 만 원, 하루 16시간 업무” 주장",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0117_202610271416291585"
-        }
-      ]
-    },
-    {
-      "title": "창신 메모리 테크놀로지",
-      "approx_traffic": "1000+",
-      "published": "Tue, 27 Oct 2026 15:50:00 -0700",
-      "news": [
-        {
-          "title": "[단독] \"AI, 중국칩만으론 불안\"… 고성능 한국 D램 구하기 '혈안'",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/business/12187432"
-        },
-        {
-          "title": "[뉴스 저격] \"中으로 몰리는 글로벌 자금… 로봇·전기차는 세계 최고, 반도체 자립도 빨라져\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/money/2026/10/28/SECPATNDQFAPPKO57HBTIIOBVY/"
-        },
-        {
-          "title": "“CXMT, 애플의 공급 제안 거절”…중국 “메모리 자급자족”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8697026"
         }
       ]
     }
