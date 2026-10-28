@@ -1,204 +1,220 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-28T06:16:46+00:00",
+  "fetched_at": "2026-10-28T07:39:00+00:00",
   "items": [
     {
-      "title": "과천시",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 22:00:00 -0700",
+      "title": "콜 오브 듀티: 모던 워 페어 4",
+      "approx_traffic": "2000+",
+      "published": "Tue, 27 Oct 2026 23:30:00 -0700",
       "news": [
         {
-          "title": "과천시 환경교육 3종, 기후부 '우수 프로그램' 지정…총 5종 운영",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261028580196"
+          "title": "[단독] '콜오브듀티'에 '이태원 참사' 장면‥\"오락 위해 참사 박제하나\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6861144_37004.html"
         },
         {
-          "title": "과천시 자체 개발 환경교육 3종, 국가 '우수 환경교육 프로그램' 지정",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261028000928"
-        },
-        {
-          "title": "과천시, ‘2026년 탄소중립 공유데이’ 개최…시민 실천 성과 공유 - 보도자료 | 기사",
-          "source": "더팩트",
-          "url": "https://news.tf.co.kr/read/releasecopy/2381850.htm"
-        }
-      ]
-    },
-    {
-      "title": "잠수함",
-      "approx_traffic": "1000+",
-      "published": "Tue, 27 Oct 2026 21:50:00 -0700",
-      "news": [
-        {
-          "title": "실적 개선에 노사 갈등도 봉합…K조선, 호황 이어갈까",
+          "title": "'콜 오브 듀티'에 이태원 참사 영상…유가족 반발·사과 촉구",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261028083800003"
+          "url": "https://www.yna.co.kr/view/AKR20261028143400017"
         },
         {
-          "title": "한화오션, 3분기 환율 하락·조업일수 감소로 실적 하회 By 알파경제 alphabiz",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2144661"
-        },
-        {
-          "title": "한화오션 핵잠수함 전담조직 신설…태국 호위함 연내 계약 목표 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/industry/2026/10/27/2026102714333874064"
+          "title": "'한반도 전면전' 소재에 인기 폭발…입소문 타더니 '1위' 찍었다 [지금이뉴스]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0545_202610271750015921"
         }
       ]
     },
     {
-      "title": "최성안",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 21:50:00 -0700",
-      "news": [
-        {
-          "title": "[CEO와칭] 최성안 삼성중공업 부회장, FLNG·생산 혁신으로 성장 기반 다진다",
-          "source": "메트로신문",
-          "url": "https://www.metroseoul.co.kr/article/20261027500525"
-        },
-        {
-          "title": "SKT 인사부터, KT 사업부터…AI 기업 변신 서두른다",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/it-science/cc-newmedia/6332356"
-        },
-        {
-          "title": "SK그룹, 정기 인사 초읽기…쇄신보다 ’안정’에 무게 By EBN",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2140436"
-        }
-      ]
-    },
-    {
-      "title": "주호민",
+      "title": "k뷰티",
       "approx_traffic": "100+",
-      "published": "Tue, 27 Oct 2026 21:40:00 -0700",
+      "published": "Tue, 27 Oct 2026 23:30:00 -0700",
       "news": [
         {
-          "title": "“감사함을 모르고 통수” 유튜버 상대 소송한 주호민, 패소",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11626957"
+          "title": "K뷰티, 계속 잘나갈까…아마존의 대답은 “시장 무궁무진”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610272049035"
         },
         {
-          "title": "\"갑질 부부\" 뻑가에 3500만원 손배소…주호민 부부 패소 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/10/28/2026102723360016284"
+          "title": "한국콜마에 3년째 러브콜 보낸 아마존, K뷰티 판 커질수록 윤상현 '안목' 중요해진다",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450528"
         },
         {
-          "title": "\"3500만원 배상하라\"…주호민 부부, 유튜버 뻑가 상대 소송 패소",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610272207130092"
-        }
-      ]
-    },
-    {
-      "title": "ott 서비스",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 21:20:00 -0700",
-      "news": [
-        {
-          "title": "호텔서 OTT 이어 뉴스까지…엑세스·연합뉴스 손잡았다",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261026148200017"
-        },
-        {
-          "title": "엑세스 콘텐츠큐브 계약…호텔 6만 객실 뉴스 공급 : 영화",
-          "source": "재경일보",
-          "url": "https://news.jkn.co.kr/post/1051971"
-        }
-      ]
-    },
-    {
-      "title": "하사",
-      "approx_traffic": "5000+",
-      "published": "Tue, 27 Oct 2026 20:50:00 -0700",
-      "news": [
-        {
-          "title": "병장이 150만원 받는데 하사 213만원…“누가 부사관 하겠습니까?”",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/politics/12188198"
-        },
-        {
-          "title": "민홍철 의원, 하사 4년 새 1만5700명 감소…초급간부 처우 개선 촉구",
-          "source": "일간투데이",
-          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=799934"
-        },
-        {
-          "title": "군 하사 운영 병력 4년새 36.5% 감소…부사관 충원률도 하락",
+          "title": "\"핼러윈 지나 블프·크리스마스 온다\"…美 연말 선물에 뜬 K-뷰티",
           "source": "뉴스1",
-          "url": "https://www.news1.kr/local/busan-gyeongnam/6333904"
+          "url": "https://www.news1.kr/industry/general-industry/6333318"
         }
       ]
     },
     {
-      "title": "ban vs wi",
+      "title": "연합뉴스",
       "approx_traffic": "1000+",
-      "published": "Tue, 27 Oct 2026 20:50:00 -0700",
+      "published": "Tue, 27 Oct 2026 23:20:00 -0700",
       "news": [
         {
-          "title": "Shadman firm but Bangladesh lose two in opening session",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/west-indies-in-bangladesh-2026-27-1553291/bangladesh-vs-west-indies-1st-test-1553295/match-report-1"
+          "title": "코스피, 이틀 연속 매수 사이드카...다시 6,000선 넘봐",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0102_202610281147027493"
         },
         {
-          "title": "Mushfiqur ruled out of 1st Test due to finger injury",
-          "source": "Cricbuzz",
-          "url": "https://www.cricbuzz.com/cricket-news/140682/mushfiqur-ruled-out-of-1st-test-due-to-finger-injury"
+          "title": "SK하이닉스 '역대급 실적'에 화답한 증시",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261028_0021508700"
         },
         {
-          "title": "Bangladesh choose to bat in first Test against West Indies",
-          "source": "Jagonews24",
-          "url": "https://www.jagonews24.com/en/sports/news/97522"
+          "title": "[속보] 코스피 4%대 급등에 '매수 사이드카' 발동",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6861277_36932.html"
         }
       ]
     },
     {
-      "title": "lakers vs trail blazers",
+      "title": "한국프로농구",
       "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 20:50:00 -0700",
+      "published": "Tue, 27 Oct 2026 23:00:00 -0700",
       "news": [
         {
-          "title": "Licensable picture: NBA: Portland Trail Blazers at Los Angeles Lakers",
-          "source": "Reuters Connect",
-          "url": "https://www.reutersconnect.com/item/nba-portland-trail-blazers-at-los-angeles-lakers/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAyMDIwNTY"
+          "title": "동아오츠카, 포카리스웨트 후원 KBL 유스 엘리트 캠프 마무리",
+          "source": "스트레이트뉴스",
+          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=314035"
         },
         {
-          "title": "Highlights and points of Portland Trail Blazers 136-129 Los Angeles Lakers in the 2026-27 NBA season",
-          "source": "VAVEL.com",
-          "url": "https://www.vavel.com/en-us/nba/2026/10/27/1276982-portland-trail-blazers-vs-los-angeles-lakers-live-score-nba.html"
+          "title": "동아오츠카, KBL과 중·고교 농구선수 83명 유스 엘리트 캠프 마쳐",
+          "source": "로이슈",
+          "url": "https://www.lawissue.co.kr/view.php?ud=202610271001391077204ead0791_12"
         },
         {
-          "title": "Scoot Henderson is Questionable Against Lakers",
-          "source": "Yahoo",
-          "url": "https://ca.sports.yahoo.com/news/scoot-henderson-questionable-against-lakers-002727084.html"
+          "title": "동아오츠카, KBL과 일주일간 '농구 꿈나무' 양성 프로그램 열어",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/industry/distribution/6332766"
         }
       ]
     },
     {
-      "title": "학비",
-      "approx_traffic": "1000+",
-      "published": "Tue, 27 Oct 2026 20:30:00 -0700",
-      "news": []
-    },
-    {
-      "title": "옌스 카스트로프",
-      "approx_traffic": "500+",
-      "published": "Tue, 27 Oct 2026 20:20:00 -0700",
+      "title": "엘리엇",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 23:00:00 -0700",
       "news": [
         {
-          "title": "‘모레노호 승선’ 가능할까…‘혼혈 국대’ 옌스, 끝내 복귀 불발→5개월 만의 태극마크 불투명",
-          "source": "일간스포츠",
-          "url": "https://isplus.com/article/view/isp202610280014"
+          "title": "[속보] 정부, 엘리엇 국제투자분쟁 최종 패소‥1천530억 배상책임 확정",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6861343_36918.html"
         },
         {
-          "title": "‘어깨 부상 회복’ 카스트로프, 3개월 만에 교체 명단 복귀…11월 A매치 승선할까",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610281340003"
+          "title": "정부, 엘리엇에 1530억원 배상해야···국제투자분쟁 패소 판정 수용",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610281521001"
         },
         {
-          "title": "'韓 초대형 호재' 혼혈 국대 카스트로프 초스피드 복귀. 아시안컵 출전 가능...모레노 감독 바로 뽑을까",
+          "title": "정부, 엘리엇 환송 중재 최종 패소… 약 1530억원 배상해야",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/court_law/2026/10/28/N2VTCYNC4NGITCKJFFUD5TLDGY/"
+        }
+      ]
+    },
+    {
+      "title": "문동주",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 22:50:00 -0700",
+      "news": [
+        {
+          "title": "\"아, 야구 못하나\" 11승 문동주에게 찾아온 좌절…속도 붙은 재활, '몬스터'의 길을 바라본다 [인터뷰①]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/28/MU4GMYJRMVTGCYRVGNSTAMRTG4/"
+        },
+        {
+          "title": "수술이 만든 'MVP 조기 재회'…국경 넘은 문동주X폰세 우정, \"죽기 전까지 기억할 시간\" [인터뷰②]",
           "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/football/2026-10-28/202610280100177270011740"
+          "url": "https://www.sportschosun.com/baseball/2026-10-28/202610280100176850011718"
+        }
+      ]
+    },
+    {
+      "title": "병무청",
+      "approx_traffic": "1000+",
+      "published": "Tue, 27 Oct 2026 22:40:00 -0700",
+      "news": [
+        {
+          "title": "대구경북병무청, 내년 2월 입영 현역병 모집",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261027_0003843156"
+        },
+        {
+          "title": "제주병무청, 2027년 2월 입영 현역병 모집",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=845355"
+        },
+        {
+          "title": "부울병무청, 11월 각 軍 현역병 모집 접수",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3734023"
+        }
+      ]
+    },
+    {
+      "title": "청주국제공항",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 22:40:00 -0700",
+      "news": [
+        {
+          "title": "일본·중국만 웃는 동계 항공시장…증편 속 감편의 역설",
+          "source": "여행신문",
+          "url": "https://www.traveltimes.co.kr/news/articleView.html?idxno=500620"
+        },
+        {
+          "title": "한국공항공사, 겨울 시즌 지방공항 국제선 운항 확대",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261028580345"
+        },
+        {
+          "title": "군산~제주 항공편 줄었는데···전북도는 “편의 향상” 황당 발표",
+          "source": "전북일보 인터넷신문",
+          "url": "https://www.jjan.kr/article/20261028500026"
+        }
+      ]
+    },
+    {
+      "title": "예산",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 22:40:00 -0700",
+      "news": [
+        {
+          "title": "전남광주시, 광주 학교 무상급식 분담금 추경 반영(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261028073051054"
+        },
+        {
+          "title": "광주 학생 무상 급식 중단 우려 해소...예산 추경에 반영",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202610281514525iF"
+        },
+        {
+          "title": "[무등의 아침] 김진남 “광주 학생들 점심 한 끼 못 먹이나…전남광주통합특별시, 급식 분담금 169억 원 미교부”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8697416"
+        }
+      ]
+    },
+    {
+      "title": "중수청",
+      "approx_traffic": "500+",
+      "published": "Tue, 27 Oct 2026 22:30:00 -0700",
+      "news": [
+        {
+          "title": "공소청-중수청 권한다툼 수면위로…리니언시 접수권 어디에(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027153251004"
+        },
+        {
+          "title": "중수청 \"리니언시는 수사기법…공소청이 할 수 없는 영역\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/27/2026102716141062424"
+        },
+        {
+          "title": "중수청도 공소청도 \"리니언시 우리가 접수\"…담합 자진신고 '창구 충돌'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261027_0003842181"
         }
       ]
     }
