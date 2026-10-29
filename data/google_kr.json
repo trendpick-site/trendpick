@@ -1,8 +1,206 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-29T05:49:47+00:00",
+  "fetched_at": "2026-10-29T06:59:04+00:00",
   "items": [
+    {
+      "title": "땅",
+      "approx_traffic": "5000+",
+      "published": "Wed, 28 Oct 2026 22:50:00 -0700",
+      "news": [
+        {
+          "title": "\"조상 땅 있다길래 구청 갔더니\"…65세 남성, 5만7000평 찾았다",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202610282150002375"
+        },
+        {
+          "title": "작고한 부친 명의 땅 5만평…'조상땅찾기'로 뒤늦게 발견",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261028116200053"
+        },
+        {
+          "title": "몰랐던 아버지 땅 18만㎡…대구 동구 '조상땅 찾기'로 찾았다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261028_0003844707"
+        }
+      ]
+    },
+    {
+      "title": "신세계",
+      "approx_traffic": "500+",
+      "published": "Wed, 28 Oct 2026 22:50:00 -0700",
+      "news": [
+        {
+          "title": "[속보] 롯데百 센텀시티점, 신세계 품으로",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=00&key=20261029.99099008674"
+        },
+        {
+          "title": "신세계, 롯데백화점 센텀시티점 인수…'신세계 타운'으로 키운다 [종합]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610293369g"
+        },
+        {
+          "title": "신세계백화점, 롯데백화점 부산 센텀시티점 인수...백화점 1·2위간 첫 거래",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0102_202610291423170918"
+        }
+      ]
+    },
+    {
+      "title": "손정범",
+      "approx_traffic": "5000+",
+      "published": "Wed, 28 Oct 2026 22:30:00 -0700",
+      "news": [
+        {
+          "title": "'은퇴 소동' 96라인 11월 A매치 소집…손정범·신민하 첫 발탁",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261029_0003846496"
+        },
+        {
+          "title": "’은퇴 소동’ 3인방 축구대표팀 발탁…’병역 발언’ 이기혁 제외",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH202610291543087JI"
+        },
+        {
+          "title": "모레노호, ‘선수단 불화설 중심’ 손흥민과 96라인 11월 A매치 재소집",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8698676"
+        }
+      ]
+    },
+    {
+      "title": "파라타항공",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 22:20:00 -0700",
+      "news": [
+        {
+          "title": "파라타항공 키우는 위닉스…공격 투자에 재무 부담 확대",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261029000972"
+        },
+        {
+          "title": "[中 운수권 의혹①] 국토부, '공항사용료 60억 미납' 파라타에 주요 노선 배분",
+          "source": "www.ebn.co.kr",
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1728478"
+        },
+        {
+          "title": "[中 운수권 의혹③] ’국익유출’ 파라타항공 미취항 장기화…중국항공사만 수혜 By EBN",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2138563"
+        }
+      ]
+    },
+    {
+      "title": "중앙일보",
+      "approx_traffic": "10000+",
+      "published": "Wed, 28 Oct 2026 22:00:00 -0700",
+      "news": [
+        {
+          "title": "승무원 아내 고단수였다…의사 남편이 속은 ‘충격 사생활’",
+          "source": "중앙일보",
+          "url": "https://www.joongang.co.kr/article/25472920"
+        },
+        {
+          "title": "포르쉐 블박엔 없었다…고단수 승무원 아내의 ‘충격 사생활’",
+          "source": "중앙일보",
+          "url": "https://www.joongang.co.kr/article/25472837"
+        },
+        {
+          "title": "\"사석에서 만나면 사과 가능\"‥주진우 향해 \"타진요냐\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6861441_37004.html"
+        }
+      ]
+    },
+    {
+      "title": "강석우",
+      "approx_traffic": "2000+",
+      "published": "Wed, 28 Oct 2026 22:00:00 -0700",
+      "news": [
+        {
+          "title": "미남이 미남 낳았네…강석우, '정용화 닮은꼴' 아들 득남에 화색 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/29/2026102909180259353"
+        },
+        {
+          "title": "69세 강석우 할아버지 됐다…\"아들이 아들 낳아\" [소셜in]",
+          "source": "MBC",
+          "url": "https://m.imbc.com/enews/view/522849"
+        },
+        {
+          "title": "'69세' 강석우, 할아버지 됐다..'연세대 정용화 '子 오늘 득남 [공식]",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261028050505271"
+        }
+      ]
+    },
+    {
+      "title": "메가박스",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 22:00:00 -0700",
+      "news": [
+        {
+          "title": "메가박스, 11월 단독 상영 '메가 온리'…다큐·애니부터 英 명작 연극까지 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/culture/2026/10/29/2026102913254737163"
+        },
+        {
+          "title": "메가박스, '메가 온리' 11월 라인업 공개...英 연극 실황까지 '취향 저격'",
+          "source": "메트로신문",
+          "url": "https://www.metroseoul.co.kr/article/20261029500252"
+        },
+        {
+          "title": "투어스 VR 콘서트 ‘러쉬로드’, 4D 재개봉…11월 13일 코엑스서 만난다",
+          "source": "싱글리스트",
+          "url": "https://www.slist.kr/news/articleView.html?idxno=777376"
+        }
+      ]
+    },
+    {
+      "title": "박시후",
+      "approx_traffic": "100+",
+      "published": "Wed, 28 Oct 2026 21:50:00 -0700",
+      "news": [
+        {
+          "title": "“박시후가 전남편에 여자 소개” 허위사실 유포 여성 징역형",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11627339"
+        },
+        {
+          "title": "박시후, ‘여자 소개해 가정파탄’ 누명 벗었다…허위사실 유포녀 실형",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261029/134931311/1"
+        },
+        {
+          "title": "\"박시후가 여자 소개\" 허위사실 유포한 여성 징역 10개월",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261029096300004"
+        }
+      ]
+    },
+    {
+      "title": "하남시",
+      "approx_traffic": "1000+",
+      "published": "Wed, 28 Oct 2026 21:20:00 -0700",
+      "news": [
+        {
+          "title": "\"서울 코앞 10만가구 공급\" 승부수 띄운 정부…집값 안정 효과는 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/10/29/2026102910524062982"
+        },
+        {
+          "title": "김포시장 “신규택지 발표, 일방적 강행…유감”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8698739"
+        },
+        {
+          "title": "서울 인접지 6곳에 7.7만호…그린벨트 해제",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261029135119KQF"
+        }
+      ]
+    },
     {
       "title": "일회용품",
       "approx_traffic": "200+",
@@ -16,205 +214,12 @@
         {
           "title": "생명연, '나노플라스틱' 폐 염증 유발 원리 규명",
           "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/article/2026102913555025547"
+          "url": "https://view.asiae.co.kr/article/2026102913555025547"
         },
         {
           "title": "\"호흡해 들이마신 나노플라스틱이 폐 염증 유발…디젤 매연보다 독해\"",
           "source": "뉴스1",
           "url": "https://www.news1.kr/local/daejeon-chungnam/6336198"
-        }
-      ]
-    },
-    {
-      "title": "하남시",
-      "approx_traffic": "500+",
-      "published": "Wed, 28 Oct 2026 21:20:00 -0700",
-      "news": [
-        {
-          "title": "김포·구리 등 수도권에 7만6천여 호 공급",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8698405"
-        },
-        {
-          "title": "신규 공공주택지구 발표에 김포·하남 \"교통·자족기능 확보가 관건\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/policy/2026/10/29/2026102913311979782"
-        },
-        {
-          "title": "[속보]김포·구리 등 경기 6곳 그린벨트 해제…신규 택지 7만6700가구 공급",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610291000001"
-        }
-      ]
-    },
-    {
-      "title": "bangladesh vs west indies",
-      "approx_traffic": "100+",
-      "published": "Wed, 28 Oct 2026 21:10:00 -0700",
-      "news": [
-        {
-          "title": "BAN vs WI Cricket Scorecard, 1st Test at Dhaka, October 28 - November 01, 2026",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/west-indies-in-bangladesh-2026-27-1553291/bangladesh-vs-west-indies-1st-test-1553295/full-scorecard"
-        },
-        {
-          "title": "Salahuddin credits Ashraful for Shadman's batting progress",
-          "source": "Cricbuzz",
-          "url": "https://www.cricbuzz.com/cricket-news/140689/salahuddin-credits-ashraful-for-shadmans-batting-progress-cricbuzzcom"
-        },
-        {
-          "title": "Recent Match Report - Bangladesh vs West Indies, West Indies tour of Bangladesh, 1st Test | ESPN.com",
-          "source": "ESPN",
-          "url": "https://www.espn.com/cricket/series/19430/report/1553295/day/1/bangladesh-vs-west-indies-1st-test-19430"
-        }
-      ]
-    },
-    {
-      "title": "윤석열",
-      "approx_traffic": "100+",
-      "published": "Wed, 28 Oct 2026 21:00:00 -0700",
-      "news": [
-        {
-          "title": "\"제2의 윤석열 나오지 않도록\"…특검, 2심서도 윤 전 대통령에 사형 구형",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12325436"
-        },
-        {
-          "title": "[속보]특검, 윤석열 항소심서도 사형 구형…“국민이 막은 내란, 감형 이유 안돼”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610291206001"
-        },
-        {
-          "title": "[속보] “사형 선고 주저할 이유 없어”…특검, 2심에서도 사형 구형",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11627333"
-        }
-      ]
-    },
-    {
-      "title": "fc",
-      "approx_traffic": "100+",
-      "published": "Wed, 28 Oct 2026 21:00:00 -0700",
-      "news": [
-        {
-          "title": "Republic FC’s Kyle Edwards making history as Sacramento prepares for playoffs",
-          "source": "FOX40",
-          "url": "https://fox40.com/sports/soccer/sacramento-republic-fc/republic-fcs-kyle-edwards-making-history-as-sacramento-prepares-for-playoffs/"
-        },
-        {
-          "title": "Kim Min-jae on Bench as Bayern München Crushes Second-Division Team 6-1 to Reach DFB-Pokal Round of 16",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008820292"
-        },
-        {
-          "title": "Licensable picture: Bayern Munich - 1. FC Magdeburg",
-          "source": "Reuters Connect",
-          "url": "https://www.reutersconnect.com/item/bayern-munich-1-fc-magdeburg/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX0RQQUFQSVMyNjEwMjhYOTlYOTQ3OTY"
-        }
-      ]
-    },
-    {
-      "title": "제네시스 gv90",
-      "approx_traffic": "10000+",
-      "published": "Wed, 28 Oct 2026 20:50:00 -0700",
-      "news": [
-        {
-          "title": "\"70㎏ 코치도어도 흔들림 없이\"…GV90에 담은 제네시스 럭셔리 기술",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261028165136"
-        },
-        {
-          "title": "[현장] \"산업용 로봇에서 해법 찾았죠\"…70㎏ 뒷문 여닫고 14톤 버티는 GV90 개발기",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261028_0003844856"
-        },
-        {
-          "title": "GV90, ‘달항아리 디자인’ 비밀⋯ 램프부터 천연 소재까지 적용",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261029500021"
-        }
-      ]
-    },
-    {
-      "title": "뉴진스",
-      "approx_traffic": "100+",
-      "published": "Wed, 28 Oct 2026 20:50:00 -0700",
-      "news": [
-        {
-          "title": "뉴진스 '제로' 스포티파이 1억 스트리밍…팀 통산 17번째",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029076400005"
-        },
-        {
-          "title": "뉴진스 ‘Zero’, 스포티파이 1억 스트리밍 돌파..CM송도 인기",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/music/2026/10/29/GFTDIZTEMJQTQMDGG43TSY3BGQ/"
-        },
-        {
-          "title": "뉴진스 '제로', 스포티파이 1억 스트리밍 돌파...팀 통산 17번째",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/music/6336222"
-        }
-      ]
-    },
-    {
-      "title": "정수성",
-      "approx_traffic": "100+",
-      "published": "Wed, 28 Oct 2026 20:40:00 -0700",
-      "news": [
-        {
-          "title": "'준PO 탈락' 염경엽호 LG, 코치진 개편…정수성 코치 떠난다",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/baseball/6336175"
-        },
-        {
-          "title": "[단독] LG 정수성 코치, 염경엽 감독과 작별...재계약 불가 통보 등 코치 7명 떠난다",
-          "source": "일간스포츠",
-          "url": "https://isplus.com/article/view/isp202610290028"
-        },
-        {
-          "title": "장시환 은퇴가 상징하는 것, 사라진 야구 명문들의 역사",
-          "source": "오마이스타",
-          "url": "https://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0003276765"
-        }
-      ]
-    },
-    {
-      "title": "다니엘",
-      "approx_traffic": "500+",
-      "published": "Wed, 28 Oct 2026 20:30:00 -0700",
-      "news": [
-        {
-          "title": "뉴진스 출신 다니엘 “예전과 같을 순 없겠죠”···‘버니즈’ 탄생일에 자작곡 공개, 개인 활동 나서나",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610291032011"
-        },
-        {
-          "title": "“필사적으로 싸워”…‘법적분쟁’ 다니엘, 뉴진스 팬덤 생일에 한 일",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/culture/12189759"
-        },
-        {
-          "title": "다니엘, 뉴진스 팬덤 생일에 자작곡 공개…가사엔 “널 위해 싸워”",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261028185242381"
-        }
-      ]
-    },
-    {
-      "title": "대한민국",
-      "approx_traffic": "200+",
-      "published": "Wed, 28 Oct 2026 20:30:00 -0700",
-      "news": [
-        {
-          "title": "대통령상에 문정운 작가 '일월오봉도 은차도구'…제56회 공예품대전",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/life-culture/performance-exhibition/6335960"
-        },
-        {
-          "title": "대한민국공예품대전, 내달 6일 청주서 개막",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/realtime/sokbo_viewNew.htm?idxno=2026102900205604388"
         }
       ]
     }
