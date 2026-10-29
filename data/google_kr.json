@@ -1,27 +1,49 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-29T16:57:41+00:00",
+  "fetched_at": "2026-10-29T17:53:51+00:00",
   "items": [
+    {
+      "title": "설인아",
+      "approx_traffic": "100+",
+      "published": "Thu, 29 Oct 2026 09:50:00 -0700",
+      "news": [
+        {
+          "title": "[방송소식] tvN '무쇠소녀단3' 내달 첫선…쇼트트랙 계주 도전",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261029128900005"
+        },
+        {
+          "title": "'무쇠소녀단3' 설인아-금새록-한지현-연우, ‘무쇠맛’ 여정 시작! - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/29/2026102911517292105"
+        },
+        {
+          "title": "설인아·금새록·한지현·연우, 쇼트트랙 도전…목표는 금메달",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261029/134930951/1"
+        }
+      ]
+    },
     {
       "title": "최불암",
       "approx_traffic": "10000+",
       "published": "Thu, 29 Oct 2026 08:20:00 -0700",
       "news": [
         {
-          "title": "[속보] '영원한 수사반장' 최불암 별세‥향년 87세",
+          "title": "[속보]‘국민 아버지’ 배우 최불암 별세…향년 87세",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610300049001"
+        },
+        {
+          "title": "'영원한 수사반장' 최불암 별세‥향년 87세",
           "source": "MBC 뉴스",
           "url": "https://imnews.imbc.com/news/2026/society/article/6861809_36918.html"
         },
         {
-          "title": "‘국민 아버지’ 배우 최불암 별세",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/culture-life/culture_general/2026/10/30/C4FZLCB77RBDBPTFSNJY4ZGBHY/"
-        },
-        {
-          "title": "국민배우 최불암 타계… 평생 어린이를 향했던 배우, 나눔과 실천의 삶 지상에 남기고 하늘로 떠났다",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11627429"
+          "title": "\"국민이 가는 길에 가시덤불 치우는 게 광대 정신\"…최불암이 남긴 말",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261030002100005"
         }
       ]
     },
@@ -36,9 +58,9 @@
           "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6861760_37004.html"
         },
         {
-          "title": "스페인 열차 추돌 69명 사망…한국인도 2명 부상",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822141"
+          "title": "스페인 고속열차 사고 사망자 74명으로 늘어…신원확인 중(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261029211451098"
         },
         {
           "title": "스페인 고속열차 추돌로 68명 사망…한국인 2명 부상 \"치료중\"",
@@ -75,19 +97,19 @@
       "published": "Thu, 29 Oct 2026 06:50:00 -0700",
       "news": [
         {
-          "title": "충북교육청, 2026년 시·도교육청 평가 17개 지표 전부 통과 : 네이버 블로그",
-          "source": "Naver Blog",
-          "url": "https://blog.naver.com/PostView.naver?blogId=cbe_news&logNo=224456712896&redirect=Dlog"
+          "title": "(단독)삼성전자 성과급 합의 무효 넘어 '부존재' 다툰다…주주단체 소송 추진",
+          "source": "뉴스토마토",
+          "url": "https://www.newstomato.com/readnews.aspx?no=1318464"
         },
         {
-          "title": "울산교육청, 교육부 평가서 3억7천500만원 성과급 확보",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029168300057"
+          "title": "[단독] \"삼전닉스 면접날 단체 연차\"…‘슈퍼갑 3대장’ 이탈 조짐",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12325313"
         },
         {
-          "title": "전남·광주 교육행정, 전국 평가서 17개 지표 싹쓸이 통과…7억5천만원 성과급",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261029500684"
+          "title": "“팀장님, 오늘 연차 쓸게요”…삼전·하닉 면접날 벌어진 일",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01134886645617840"
         }
       ]
     },
@@ -110,6 +132,28 @@
           "title": "조용필 ‘상처’ 작사가 장경수, 간암으로 별세… 향년 73세",
           "source": "Chosunbiz",
           "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/29/KJWRJZBUU5AQZKUX33DSH5OVXA/"
+        }
+      ]
+    },
+    {
+      "title": "인공지능",
+      "approx_traffic": "1000+",
+      "published": "Thu, 29 Oct 2026 06:40:00 -0700",
+      "news": [
+        {
+          "title": "원전 데이터로 키운 생성형 AI…한수원, 公기관 혁신상",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374092"
+        },
+        {
+          "title": "한전, 'AI 기반 고독사 예방'으로 공공기관 AI 혁신 챌린지 최우수상",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261029_0003845737"
+        },
+        {
+          "title": "인천공항, AI 항공안전 관리 혁신 '대상'",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335380"
         }
       ]
     },
@@ -146,14 +190,14 @@
           "url": "https://www.mk.co.kr/news/hot-issues/12190556"
         },
         {
+          "title": "[포토] 대통령 표창 받은 배우 소지섭",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261029501489"
+        },
+        {
           "title": "유해진, '신변보호 해제' 후 첫 공식석상서 대통령 표창…\"좋은 영화로 보답\"",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20261029_0003847330"
-        },
-        {
-          "title": "[포토] 대통령 표창을 수상한 배우 소지섭",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/entertain_photo/2026/10/29/GA4GINZYMVRTQNJWMIZDQYLFGA/"
         }
       ]
     },
@@ -176,45 +220,6 @@
           "title": "일본항공 예약시스템 뚫렸다…9만명 개인정보 노출",
           "source": "지디넷코리아",
           "url": "https://zdnet.co.kr/view/?no=20261029143545"
-        }
-      ]
-    },
-    {
-      "title": "김헌곤",
-      "approx_traffic": "200+",
-      "published": "Thu, 29 Oct 2026 06:00:00 -0700",
-      "news": [
-        {
-          "title": "[사진] 김헌곤, 안타 성공",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/10/29/MUYDMM3FMJTDON3DGIZDGMLCMY/"
-        },
-        {
-          "title": "“네일에게 강하다고? 그건 오해” 2년 전 KS 홈런 영웅의 뜻밖의 고백…“긴 휴식? 다 핑계다” [PO2]",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261027003122366"
-        }
-      ]
-    },
-    {
-      "title": "슈퍼맨이 돌아왔다",
-      "approx_traffic": "200+",
-      "published": "Thu, 29 Oct 2026 06:00:00 -0700",
-      "news": [
-        {
-          "title": "[심형탁네]Welcome to the Show! 먹방쇼 보여주는 하루와 영케이 삼촌 | KBS 261028 방송",
-          "source": "대한민국 대표 공영미디어 KBS",
-          "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026189070-01-000_MFSC6&program_code=T2013-0476&program_id=PS-2026189070-01-000&section_code=04&broadcast_complete_yn=N&section_id=10638"
-        },
-        {
-          "title": "‘예비아빠’ 김종민, ‘베이비시터’로 영케이 탐냈다..“우리집도 와” (‘슈돌’)",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/28/GE4GMNBTGFQWENJUGNRGMNBSHE/"
-        },
-        {
-          "title": "영케이, 하루 위해 통기타 꺼냈다…'심쿵' 듀엣 [RE:TV]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6335510"
         }
       ]
     }
