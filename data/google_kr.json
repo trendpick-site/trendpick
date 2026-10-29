@@ -1,39 +1,61 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-29T15:00:21+00:00",
+  "fetched_at": "2026-10-29T15:58:02+00:00",
   "items": [
+    {
+      "title": "이병헌",
+      "approx_traffic": "200+",
+      "published": "Thu, 29 Oct 2026 07:00:00 -0700",
+      "news": [
+        {
+          "title": "한국인이 꼽은 대표 배우 1위는 이병헌…연기력보다 ‘이것’ 중요",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261029505193"
+        },
+        {
+          "title": "[기획] 대한민국 대표 배우와 그 조건",
+          "source": "한국리서치 정기조사 여론속의 여론",
+          "url": "https://hrcopinion.co.kr/archives/38042"
+        },
+        {
+          "title": "‘대한민국 대표배우’ 이병헌 1위···조건은 ‘도덕성’",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610290924003"
+        }
+      ]
+    },
     {
       "title": "성과급",
       "approx_traffic": "2000+",
       "published": "Thu, 29 Oct 2026 06:50:00 -0700",
       "news": [
         {
-          "title": "(단독)삼성전자 성과급 합의 무효 넘어 '부존재' 다툰다…주주단체 소송 추진",
-          "source": "뉴스토마토",
-          "url": "https://www.newstomato.com/readnews.aspx?no=1318464"
+          "title": "충북교육청, 2026년 시·도교육청 평가 17개 지표 전부 통과 : 네이버 블로그",
+          "source": "Naver Blog",
+          "url": "https://blog.naver.com/PostView.naver?blogId=cbe_news&logNo=224456712896&redirect=Dlog"
         },
         {
-          "title": "[단독] \"삼전닉스 면접날 단체 연차\"…‘슈퍼갑 3대장’ 이탈 조짐",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12325313"
+          "title": "울산교육청, 교육부 평가서 3억7천500만원 성과급 확보",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261029168300057"
         },
         {
-          "title": "“팀장님, 오늘 연차 쓸게요”…삼전·하닉 면접날 벌어진 일",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01134886645617840"
+          "title": "전남·광주 교육행정, 전국 평가서 17개 지표 싹쓸이 통과…7억5천만원 성과급",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261029500684"
         }
       ]
     },
     {
       "title": "장경수",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Thu, 29 Oct 2026 06:40:00 -0700",
       "news": [
         {
-          "title": "조용필 '상처'·송대관 '정 때문에' 작사가 장경수 별세",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029124500005"
+          "title": "조용필 ‘상처’·송대관 ‘정 때문에’ 작사가 장경수 별세",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610292018045"
         },
         {
           "title": "장기하 커버 '풍문으로 들었소' 작사가 장경수 별세, 향년 73세",
@@ -44,6 +66,28 @@
           "title": "조용필 ‘상처’ 작사가 장경수, 간암으로 별세… 향년 73세",
           "source": "Chosunbiz",
           "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/29/KJWRJZBUU5AQZKUX33DSH5OVXA/"
+        }
+      ]
+    },
+    {
+      "title": "인공지능",
+      "approx_traffic": "1000+",
+      "published": "Thu, 29 Oct 2026 06:40:00 -0700",
+      "news": [
+        {
+          "title": "원전 데이터로 키운 생성형 AI…한수원, 公기관 혁신상",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374092"
+        },
+        {
+          "title": "한전, 'AI 기반 고독사 예방'으로 공공기관 AI 혁신 챌린지 최우수상",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261029_0003845737"
+        },
+        {
+          "title": "인천공항, AI 항공안전 관리 혁신 '대상'",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335380"
         }
       ]
     },
@@ -63,9 +107,9 @@
           "url": "https://www.xportsnews.com/article/2213139"
         },
         {
-          "title": "[종합] “죽 사러 간 사이에 돌아가셨다”…‘특종세상’ ‘개똥엄마’ 이상미, 여우주연상에도 못 웃은 이유",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16262319"
+          "title": "'특종세상' 국호, 베테랑 액션 배우의 산속 수련 근황",
+          "source": "비즈엔터",
+          "url": "https://enter.etoday.co.kr/news/view/304471"
         }
       ]
     },
@@ -80,14 +124,14 @@
           "url": "https://www.mk.co.kr/news/hot-issues/12190556"
         },
         {
-          "title": "[포토] 대통령 표창 받은 배우 소지섭",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261029501489"
-        },
-        {
           "title": "유해진, '신변보호 해제' 후 첫 공식석상서 대통령 표창…\"좋은 영화로 보답\"",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20261029_0003847330"
+        },
+        {
+          "title": "[포토] 대통령 표창을 수상한 배우 소지섭",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/entertain_photo/2026/10/29/GA4GINZYMVRTQNJWMIZDQYLFGA/"
         }
       ]
     },
@@ -136,41 +180,19 @@
       ]
     },
     {
-      "title": "현대자동차",
-      "approx_traffic": "10000+",
-      "published": "Thu, 29 Oct 2026 06:00:00 -0700",
-      "news": [
-        {
-          "title": "현대차, 파업에도 3분기 영업익 증가…연간 목표는 눈높이 낮춰",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=374105"
-        },
-        {
-          "title": "현대차 \"테슬라·중국차 위협 사실…할부 경쟁력·AS로 차별화\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029153500003"
-        },
-        {
-          "title": "현대차, 6년 만에 매출 ‘후진’",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610292031005"
-        }
-      ]
-    },
-    {
       "title": "김헌곤",
       "approx_traffic": "200+",
       "published": "Thu, 29 Oct 2026 06:00:00 -0700",
       "news": [
         {
-          "title": "[사진] 김헌곤, 안타 성공",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/10/29/MUYDMM3FMJTDON3DGIZDGMLCMY/"
-        },
-        {
           "title": "“네일에게 강하다고? 그건 오해” 2년 전 KS 홈런 영웅의 뜻밖의 고백…“긴 휴식? 다 핑계다” [PO2]",
           "source": "미주중앙일보",
           "url": "https://www.koreadaily.com/article/20261027003122366"
+        },
+        {
+          "title": "2년 전 그때처럼, 삼성 비밀병기 김헌곤 [플레이오프]",
+          "source": "www.newsq.co.kr",
+          "url": "https://www.newsq.co.kr/news/articleView.html?idxno=500571"
         }
       ]
     },
@@ -193,28 +215,6 @@
           "title": "기욤, 39개월 딸 ‘칼질’ 도전에도 안 말린다..“무섭지만, NO 없어” (‘슈돌’)[순간포착]",
           "source": "Chosunbiz",
           "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/29/GQ4WINRWGBSTKZRWGQYTSOBRMU/"
-        }
-      ]
-    },
-    {
-      "title": "퇴직",
-      "approx_traffic": "2000+",
-      "published": "Thu, 29 Oct 2026 05:50:00 -0700",
-      "news": [
-        {
-          "title": "2030년 퇴직금 사라진다…'기금형 퇴직연금'도 도입",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026102943271"
-        },
-        {
-          "title": "못 받은 퇴직금 '8,229억'…\"회사 밖으로\" 걱정 줄인다",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008821971"
-        },
-        {
-          "title": "퇴직금 체불 못 하게 사외적립 의무화...기금형도 도입",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202610291657306557_005.html"
         }
       ]
     }
