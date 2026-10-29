@@ -1,225 +1,220 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-29T11:49:01+00:00",
+  "fetched_at": "2026-10-29T12:59:54+00:00",
   "items": [
     {
-      "title": "김태군",
-      "approx_traffic": "200+",
-      "published": "Thu, 29 Oct 2026 03:40:00 -0700",
-      "news": [
-        {
-          "title": "쫓아가자…김선빈 안타",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20261029_0021510725"
-        },
-        {
-          "title": "[PO] '1회 실수 결자해지' KIA 김태군, 추격 적시타 기록...하주석 동점 적시타 2-2",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261029001387"
-        },
-        {
-          "title": "[포토] '2회말 동점타' 하주석 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/29/2026102919204019523"
-        }
-      ]
-    },
-    {
-      "title": "디아즈",
-      "approx_traffic": "1000+",
-      "published": "Thu, 29 Oct 2026 03:30:00 -0700",
-      "news": [
-        {
-          "title": "'호수비에 도파민 샘솟은' 삼성 류지혁 \"기세는 우리에게 왔다\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029187000007"
-        },
-        {
-          "title": "[포토] 환호성이 터진다! '5회초 김도영의 홈런을 무위로 돌리는' 역전 투런홈런 류지혁 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/29/2026102920163227324"
-        },
-        {
-          "title": "삼성전 강세 어디로…'통한의 2피홈런' KIA 시라카와, 4⅓이닝 4실점PO]",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261029_0003847301"
-        }
-      ]
-    },
-    {
-      "title": "kbo",
-      "approx_traffic": "2000+",
-      "published": "Thu, 29 Oct 2026 03:20:00 -0700",
-      "news": [
-        {
-          "title": "Long Beach, Ulsan, KIA and LG reach Ulsan Fall League semifinals",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-sports/2026/10/29/MR65VYLMY5FYVFOTTTEBSJJO4E/"
-        },
-        {
-          "title": "Don Wakamatsu praises Ulsan Fall League for boosting Korean player development",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-sports/2026/10/28/ABNJ5FVOPNEPTCMWLLYBDZNURE/"
-        },
-        {
-          "title": "Ulsan-KBO Fall League Expands Internationally, Earns MLB Praise",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/10/28/4Q2V7IKGR5FR3ENB7L66DDADQE/"
-        }
-      ]
-    },
-    {
-      "title": "v-리그",
+      "title": "매매",
       "approx_traffic": "500+",
-      "published": "Thu, 29 Oct 2026 03:20:00 -0700",
+      "published": "Thu, 29 Oct 2026 04:50:00 -0700",
       "news": [
         {
-          "title": "도로공사, 개막 이틀 앞두고 김영래 대행 정식 감독으로 선임",
+          "title": "서울 '국평' 평균 매매가 12.8억·전세 7.3억…매매 내리고 전세 올라 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/10/29/2026102908533712473"
+        },
+        {
+          "title": "\"올해도 죽을 맛, 내년이 더 힘들어..3년 정도 마음에 준비해야\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0102_202610280845360774"
+        },
+        {
+          "title": "\"서울 84㎡ 아파트 3분기 매매가 2.5% 내리고 전세 3.8% 올라\"",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029136500007"
-        },
-        {
-          "title": "V리그 개막 앞둔 한국도로공사, 김영래 감독대행 정식 감독으로 승격",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8698703"
-        },
-        {
-          "title": "도로공사 김영래 대행, 정식 감독 승격…\"V리그 반드시 우승\"",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261029161212Zh1"
+          "url": "https://www.yna.co.kr/view/AKR20261029026800003"
         }
       ]
     },
     {
-      "title": "크보",
+      "title": "thời tiết ngày mai",
+      "approx_traffic": "1000+",
+      "published": "Thu, 29 Oct 2026 04:50:00 -0700",
+      "news": [
+        {
+          "title": "Miền Bắc đón mưa rào",
+          "source": "Znews",
+          "url": "https://znews.vn/mien-bac-don-mua-rao-post1692582.html"
+        },
+        {
+          "title": "Trung Bộ mưa lớn, cảnh báo nguy cơ lũ quét và sạt lở",
+          "source": "HTV",
+          "url": "https://htv.vn/trung-bo-mua-lon-canh-bao-nguy-co-lu-quet-va-sat-lo-222261029091221465.htm"
+        },
+        {
+          "title": "Miền Bắc chuyển mưa dông, cục bộ có mưa to",
+          "source": "Báo Sức khỏe & Đời sống",
+          "url": "https://suckhoedoisong.vn/mien-bac-chuyen-mua-dong-cuc-bo-co-mua-to-169261029163805955.htm"
+        }
+      ]
+    },
+    {
+      "title": "야구 생중계",
+      "approx_traffic": "200+",
+      "published": "Thu, 29 Oct 2026 04:40:00 -0700",
+      "news": [
+        {
+          "title": "KIA 84%? 삼성 31%? 2차전에 운명이 걸렸다…후라도 믿는 삼성, 6연승 노리는 KIA [PO2]",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112899038"
+        },
+        {
+          "title": "KIA 최대 고민거리…무기력한 '테이블세터'[PO]",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261028_0003845288"
+        },
+        {
+          "title": "'도나스'만으로는 안 된다! 이범호 우려 현실로... 중심타선 밖이 차갑다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/28/2026102721320086501"
+        }
+      ]
+    },
+    {
+      "title": "퓨리오사ai",
       "approx_traffic": "100+",
-      "published": "Thu, 29 Oct 2026 03:20:00 -0700",
+      "published": "Thu, 29 Oct 2026 04:40:00 -0700",
       "news": [
         {
-          "title": "Diaz's Second Consecutive Homer in Game 3",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/10/29/3WZDYUXUDFCB7CXMDZABL557EQ/"
+          "title": "퓨리오사AI, 8200억 규모 투자 유치...기업가치 3.8조원 돌파",
+          "source": "AI타임스",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216770"
         },
         {
-          "title": "Díaz pulls a 146-kph fastball; KIM Do-young drives a 152-kph heater the other way... Home-run showdown between Díaz and KIM Do-young in playoff Game 3",
-          "source": "파이낸셜뉴스",
-          "url": "https://en.fnnews.com/news/202610291955108894"
-        },
-        {
-          "title": "Lions ace Jurado tames Tigers for career 1st KBO postseason win",
-          "source": "Korea JoongAng Daily",
-          "url": "https://www.koreajoongangdaily.com/sports/lions-ace-jurado-tames-tigers-for-career-1st-kbo-postseason-win/12941790"
-        }
-      ]
-    },
-    {
-      "title": "발전소",
-      "approx_traffic": "500+",
-      "published": "Thu, 29 Oct 2026 03:10:00 -0700",
-      "news": [
-        {
-          "title": "국민성장펀드, 국내 최대 태양광 발전소·반도체 밸류체인 투자",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029196900002"
-        },
-        {
-          "title": "금융위 부위원장 \"국민성장펀드 성과 긴 호흡으로 봐달라\"",
-          "source": "MTN 머니투데이방송",
-          "url": "https://news.mtn.co.kr/video/2026102916123585215"
-        },
-        {
-          "title": "금융위 \"국민참여성장펀드 수익률 0.5%…장기적 관점서 평가해야\"",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261029001267"
-        }
-      ]
-    },
-    {
-      "title": "프로야구",
-      "approx_traffic": "1000+",
-      "published": "Thu, 29 Oct 2026 03:10:00 -0700",
-      "news": [
-        {
-          "title": "이범호 KIA 감독 \"시라카와 5이닝 3실점으로 버텨줘야\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029165600007"
-        },
-        {
-          "title": "[사진]류지혁 역전포, '분위기 다시 가져왔어'",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/10/29/HE4TKMRRGE4DONJZGZQWKNRWGA/"
-        },
-        {
-          "title": "[포토] ''물러설수 없는 3차전이지!' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/29/2026102919530167238"
-        }
-      ]
-    },
-    {
-      "title": "기아 타이거즈",
-      "approx_traffic": "1000+",
-      "published": "Thu, 29 Oct 2026 03:10:00 -0700",
-      "news": [
-        {
-          "title": "'역시 슈퍼스타' KIA 김도영, 3회 역전포…올해 PS 4번째 아치",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029201600007"
-        },
-        {
-          "title": "\"리듬과 타이밍이 완벽해\" 타이거즈 레전드 출신 해설위원도 감탄! 김도영의 괴력 같은 밀어치기 [PO3]",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/baseball/2026/10/29/HEZGGOJVGJRTSNDEMRRDAODGGI/"
-        },
-        {
-          "title": "[AI그래픽] KBO PO 3차전, KIA 김도영 3회 역전 솔로포",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261029001393"
-        }
-      ]
-    },
-    {
-      "title": "상장지수펀드",
-      "approx_traffic": "200+",
-      "published": "Thu, 29 Oct 2026 03:10:00 -0700",
-      "news": [
-        {
-          "title": "전혀 ‘액티브’ 하지 않은 국내 액티브ETF [줌인IT]",
+          "title": "퓨리오사AI, 8200억 투자 유치… 기업가치 3.8조",
           "source": "IT조선",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172964"
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092173082"
         },
         {
-          "title": "“지수보다 10%P 더 벌었는데”…상장폐지 걱정하는 액티브 ETF",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04765846645617512"
-        },
-        {
-          "title": "일반 ETF 속에 3배 레버리지…꼼수 운용 논란",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20107985"
+          "title": "퓨리오사AI, 8200억원 시리즈D 투자 유치…기업가치 3.8조 By EBN",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2147365"
         }
       ]
     },
     {
-      "title": "베드타운",
-      "approx_traffic": "1000+",
-      "published": "Thu, 29 Oct 2026 03:10:00 -0700",
+      "title": "이태양",
+      "approx_traffic": "200+",
+      "published": "Thu, 29 Oct 2026 04:30:00 -0700",
       "news": [
         {
-          "title": "수도권에 신규택지 7만 6700호 추가…2030년까지 착공 추진",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974548&pWise=sub&pWiseSub=C2"
+          "title": "KIA 투수교체…역투하는 이태양",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261029_0021510874"
         },
         {
-          "title": "국토장관 \"신규택지 서울 제외는 용산공원·탄천센터와 무관\"(종합)",
+          "title": "\"삼성 좌타 군단? 강하다고 주눅 들 필요 있나\" KIA 성영탁의 거침없는 자신감 [PO3]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/29/MUZGGYJYGUYWKNZTGA3TCM3FGA/"
+        }
+      ]
+    },
+    {
+      "title": "최우형",
+      "approx_traffic": "100+",
+      "published": "Thu, 29 Oct 2026 04:20:00 -0700",
+      "news": [
+        {
+          "title": "[단독] 시총 1조2500억 증발한 케이뱅크…'KT 그늘'서 최우형 후임 물색",
+          "source": "MTN 머니투데이방송",
+          "url": "https://news.mtn.co.kr/article/2026102910242240551"
+        },
+        {
+          "title": "[케이뱅크 인사 전망] 최우형 연임 7개월 만에 교체설… 임원 7명도 심사",
+          "source": "뉴스클레임",
+          "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3080581"
+        },
+        {
+          "title": "제11회 '금융의 날' 기념식 개최",
+          "source": "서울Pn",
+          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=453814"
+        }
+      ]
+    },
+    {
+      "title": "sk플래닛",
+      "approx_traffic": "1000+",
+      "published": "Thu, 29 Oct 2026 04:10:00 -0700",
+      "news": [
+        {
+          "title": "SK플래닛, 기프티콘 이용자 개인정보 유출",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261029000468"
+        },
+        {
+          "title": "SK플래닛 기프티콘 이용자 개인정보 유출…피해 규모 조사 중",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1184743"
+        },
+        {
+          "title": "해킹 여파에 카페·영화관에서 \"쿠폰 못써요\"",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819903"
+        }
+      ]
+    },
+    {
+      "title": "대학",
+      "approx_traffic": "500+",
+      "published": "Thu, 29 Oct 2026 04:10:00 -0700",
+      "news": [
+        {
+          "title": "한영대학교, 틸론과 협력해 AI 교육혁신 기반 강화",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261029204109"
+        },
+        {
+          "title": "경기대, AI 교육혁신 콜로키움서 '책임감 있는 AI 인재양성' 방향 제시",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261029000434"
+        },
+        {
+          "title": "계명대, AI 중심 대학 전환 선언…교육·연구·행정 전반 개편 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/policy/2026/10/29/2026102914241780911"
+        }
+      ]
+    },
+    {
+      "title": "항소",
+      "approx_traffic": "200+",
+      "published": "Thu, 29 Oct 2026 04:10:00 -0700",
+      "news": [
+        {
+          "title": "이승기, 후크엔터와 정산금 소송 종결…양측 항소 취하",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261029190248uCR"
+        },
+        {
+          "title": "이승기, '정산금 갈등' 前소속사와 쌍방 항소 취하",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20261029n30864?mid=e01&list=recent&cpcd="
+        },
+        {
+          "title": "이승기, 후크엔터와 정산금 소송 마무리…쌍방 항소 취하 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/29/2026102917420121681"
+        }
+      ]
+    },
+    {
+      "title": "속리산",
+      "approx_traffic": "200+",
+      "published": "Thu, 29 Oct 2026 04:10:00 -0700",
+      "news": [
+        {
+          "title": "재선충병에 신음하는 가평 산림…29일부터 연중 방제 본격화",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261029580455"
+        },
+        {
+          "title": "(경기도 대변인 서면 브리핑)추미애 지사, ‘소나무재선충병의 신속하고 철저한 방제활동’ 지시",
+          "source": "경기도뉴스포털",
+          "url": "https://gnews.gg.go.kr/briefing/brief_gongbo_view.do?BS_CODE=S017&number=71865"
+        },
+        {
+          "title": "속리산국립공원서 재선충병 감염 소나무 1그루 또 발견",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029100051003"
-        },
-        {
-          "title": "고삐 풀린 경기 집값, 상승률 서울 2배 '질주'",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/realestate/12190119"
+          "url": "https://www.yna.co.kr/view/AKR20261029020100064"
         }
       ]
     }
