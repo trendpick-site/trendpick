@@ -1,22 +1,137 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-29T14:06:58+00:00",
+  "fetched_at": "2026-10-29T15:00:21+00:00",
   "items": [
     {
-      "title": "김헌곤",
-      "approx_traffic": "200+",
-      "published": "Thu, 29 Oct 2026 06:00:00 -0700",
+      "title": "성과급",
+      "approx_traffic": "2000+",
+      "published": "Thu, 29 Oct 2026 06:50:00 -0700",
       "news": [
         {
-          "title": "[사진] 김헌곤, 안타 성공",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/10/29/MUYDMM3FMJTDON3DGIZDGMLCMY/"
+          "title": "(단독)삼성전자 성과급 합의 무효 넘어 '부존재' 다툰다…주주단체 소송 추진",
+          "source": "뉴스토마토",
+          "url": "https://www.newstomato.com/readnews.aspx?no=1318464"
         },
         {
-          "title": "“네일에게 강하다고? 그건 오해” 2년 전 KS 홈런 영웅의 뜻밖의 고백…“긴 휴식? 다 핑계다” [PO2]",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261027003122366"
+          "title": "[단독] \"삼전닉스 면접날 단체 연차\"…‘슈퍼갑 3대장’ 이탈 조짐",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12325313"
+        },
+        {
+          "title": "“팀장님, 오늘 연차 쓸게요”…삼전·하닉 면접날 벌어진 일",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01134886645617840"
+        }
+      ]
+    },
+    {
+      "title": "장경수",
+      "approx_traffic": "200+",
+      "published": "Thu, 29 Oct 2026 06:40:00 -0700",
+      "news": [
+        {
+          "title": "조용필 '상처'·송대관 '정 때문에' 작사가 장경수 별세",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261029124500005"
+        },
+        {
+          "title": "장기하 커버 '풍문으로 들었소' 작사가 장경수 별세, 향년 73세",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261029_0003846756"
+        },
+        {
+          "title": "조용필 ‘상처’ 작사가 장경수, 간암으로 별세… 향년 73세",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/29/KJWRJZBUU5AQZKUX33DSH5OVXA/"
+        }
+      ]
+    },
+    {
+      "title": "이상미",
+      "approx_traffic": "100+",
+      "published": "Thu, 29 Oct 2026 06:40:00 -0700",
+      "news": [
+        {
+          "title": "'전원일기 개똥엄마' 이상미, 2년 전 이별 슬픔",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3736948"
+        },
+        {
+          "title": "국호, 배우 생활 30년에도 생활고…\"15년째 건설 현장 출근\" (특종세상)",
+          "source": "www.xportsnews.com",
+          "url": "https://www.xportsnews.com/article/2213139"
+        },
+        {
+          "title": "[종합] “죽 사러 간 사이에 돌아가셨다”…‘특종세상’ ‘개똥엄마’ 이상미, 여우주연상에도 못 웃은 이유",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16262319"
+        }
+      ]
+    },
+    {
+      "title": "유해진",
+      "approx_traffic": "2000+",
+      "published": "Thu, 29 Oct 2026 06:30:00 -0700",
+      "news": [
+        {
+          "title": "‘대통령 표창’ 유해진 “‘왕사남’ 덕분…좋은 영화로 보답”",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12190556"
+        },
+        {
+          "title": "[포토] 대통령 표창 받은 배우 소지섭",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261029501489"
+        },
+        {
+          "title": "유해진, '신변보호 해제' 후 첫 공식석상서 대통령 표창…\"좋은 영화로 보답\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261029_0003847330"
+        }
+      ]
+    },
+    {
+      "title": "진에어",
+      "approx_traffic": "500+",
+      "published": "Thu, 29 Oct 2026 06:20:00 -0700",
+      "news": [
+        {
+          "title": "대한항공·아시아나항공 이어···진에어, 해킹공격으로 1454명 개인회원 정보 유출",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610291909001"
+        },
+        {
+          "title": "진에어 고객 1454명 개인정보 유출… 이름·전화번호 등 8개 항목 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/10/29/2026102920573248577"
+        },
+        {
+          "title": "일본항공 예약시스템 뚫렸다…9만명 개인정보 노출",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261029143545"
+        }
+      ]
+    },
+    {
+      "title": "사토시",
+      "approx_traffic": "500+",
+      "published": "Thu, 29 Oct 2026 06:10:00 -0700",
+      "news": [
+        {
+          "title": "팀 드레이퍼 \"비트코인 채택 확대시 은행 대규모 뱅크런 현실로\"",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02676486645617840"
+        },
+        {
+          "title": "사토시를 찾아서",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/truy-tim-satoshi"
+        },
+        {
+          "title": "팀 드레이퍼, 사토시의 혁신 극찬...\"금융 질서에 도전한 낙관주의자\"",
+          "source": "코인리더스",
+          "url": "https://www.coinreaders.com/265743"
         }
       ]
     },
@@ -39,6 +154,23 @@
           "title": "현대차, 6년 만에 매출 ‘후진’",
           "source": "경향신문",
           "url": "https://www.khan.co.kr/article/202610292031005"
+        }
+      ]
+    },
+    {
+      "title": "김헌곤",
+      "approx_traffic": "200+",
+      "published": "Thu, 29 Oct 2026 06:00:00 -0700",
+      "news": [
+        {
+          "title": "[사진] 김헌곤, 안타 성공",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/10/29/MUYDMM3FMJTDON3DGIZDGMLCMY/"
+        },
+        {
+          "title": "“네일에게 강하다고? 그건 오해” 2년 전 KS 홈런 영웅의 뜻밖의 고백…“긴 휴식? 다 핑계다” [PO2]",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261027003122366"
         }
       ]
     },
@@ -75,146 +207,14 @@
           "url": "https://www.hankyung.com/article/2026102943271"
         },
         {
-          "title": "퇴직금 못 떼먹는다…2030년까지 모든 사업장 ‘사외적립 의무화’",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610292153025"
+          "title": "못 받은 퇴직금 '8,229억'…\"회사 밖으로\" 걱정 줄인다",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008821971"
         },
         {
           "title": "퇴직금 체불 못 하게 사외적립 의무화...기금형도 도입",
           "source": "YTN",
           "url": "https://www.ytn.co.kr/_cs/_ln_0103_202610291657306557_005.html"
-        }
-      ]
-    },
-    {
-      "title": "오픈ai",
-      "approx_traffic": "500+",
-      "published": "Thu, 29 Oct 2026 05:50:00 -0700",
-      "news": [
-        {
-          "title": "중국 AI '증류 공격' 표적, 클로드에서 오픈AI '아스트라'로 이동",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202610291544271157"
-        },
-        {
-          "title": "중국 AI 기업, OpenAI의 Astra 출력물로 모델 학습 - The Information",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2147408"
-        },
-        {
-          "title": "\"딥시크·문샷, '증류' 주요 표적은 아스트라\"",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008821504"
-        }
-      ]
-    },
-    {
-      "title": "지하철",
-      "approx_traffic": "200+",
-      "published": "Thu, 29 Oct 2026 05:50:00 -0700",
-      "news": [
-        {
-          "title": "지하철 7호선, 의정부·양주를 지나 포천까지! 도봉산-옥정 연장선",
-          "source": "서울특별시",
-          "url": "https://mediahub.seoul.go.kr/archives/2019857"
-        },
-        {
-          "title": "서울교통공사 거부에…7호선 연장 '도봉산옥정선' 민간 위탁 운영 가닥",
-          "source": "경인방송 뉴스",
-          "url": "https://news.ifm.kr/news/articleView.html?idxno=482335"
-        },
-        {
-          "title": "\"금발에 미니스커트\"…서울 지하철 여장男 목격담 SNS 시끌",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261029_0003846176"
-        }
-      ]
-    },
-    {
-      "title": "시바이누코인",
-      "approx_traffic": "100+",
-      "published": "Thu, 29 Oct 2026 05:50:00 -0700",
-      "news": [
-        {
-          "title": "시바이누(SHIB), 미결제 약정 5,000만 달러 붕괴 위기...\"레버리지 베팅만 폭주\"",
-          "source": "코인리더스",
-          "url": "https://www.coinreaders.com/266004"
-        },
-        {
-          "title": "시바이누(SHIB) 소각 1190만개…새벽 1043만개 거래 포함",
-          "source": "토큰포스트",
-          "url": "https://www.tokenpost.kr/news/cryptocurrency/428963"
-        },
-        {
-          "title": "시바이누, 연저점 눈앞까지 밀렸다…끝없는 추락 언제까지",
-          "source": "디지털투데이",
-          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710110"
-        }
-      ]
-    },
-    {
-      "title": "런닝맨",
-      "approx_traffic": "2000+",
-      "published": "Thu, 29 Oct 2026 05:40:00 -0700",
-      "news": [
-        {
-          "title": "“성적 접촉 아냐” 안은진에 뽀뽀 요구 ‘런닝맨’ 결론",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11627410"
-        },
-        {
-          "title": "‘런닝맨’ 안은진 뽀뽀 논란···“성희롱 논란 생길 수밖에” 지적에도 ‘문제없음’",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610291349003"
-        },
-        {
-          "title": "‘런닝맨’ 뽀뽀 게임, 성희롱 논란에도 ‘문제없음’",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/broadcasting-service/12189946"
-        }
-      ]
-    },
-    {
-      "title": "구속영장",
-      "approx_traffic": "5000+",
-      "published": "Thu, 29 Oct 2026 05:40:00 -0700",
-      "news": [
-        {
-          "title": "구로 주택가 ‘미라 시신’은 아내와 함께 거주하던 중국인···타살 혐의점 발견 안 돼",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610291815011"
-        },
-        {
-          "title": "[속보] '구로동 시신 유기' 남성 2명 구속영장 기각",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202610291957286083_005.html"
-        },
-        {
-          "title": "구로구 ‘미라’ 시신 유기한 60·80대 남성 구속 영장 기각",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/national_general/2026/10/29/OTU6CICB4VDXHMYARQESKAX2IA/"
-        }
-      ]
-    },
-    {
-      "title": "이승민",
-      "approx_traffic": "500+",
-      "published": "Thu, 29 Oct 2026 05:40:00 -0700",
-      "news": [
-        {
-          "title": "이승민, 좋았어",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20261029_0021510987"
-        },
-        {
-          "title": "[포토] '8회말 책임진' 이승민 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/29/2026102921544929623"
-        },
-        {
-          "title": "이재희의 역투",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/photos/8187398"
         }
       ]
     }
