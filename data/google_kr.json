@@ -1,225 +1,209 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-29T08:57:39+00:00",
+  "fetched_at": "2026-10-29T09:55:11+00:00",
   "items": [
     {
-      "title": "009830",
-      "approx_traffic": "200+",
-      "published": "Thu, 29 Oct 2026 00:50:00 -0700",
-      "news": [
-        {
-          "title": "AJP Factbox: Hanwha Solutions swings to Q3 2026 profit",
-          "source": "Aju Press",
-          "url": "https://www.ajupress.com/view/20261029145024815"
-        },
-        {
-          "title": "Hanwha Systems Posts 831.6 Billion Won in Third-Quarter Revenue on Defense Growth",
-          "source": "THE ELEC, Korea Electronics Industry Media",
-          "url": "https://www.thelec.net/news/articleView.html?idxno=14974"
-        },
-        {
-          "title": "Hanwha Solutions posts 90.5 billion won Q3 operating profit, swings to profit year on year",
-          "source": "디지털투데이",
-          "url": "https://www.digitaltoday.co.kr/en/view/121373/hanwha-solutions-q3-operating-profit-90-5-billion-won-swings-to-profit-year-on-year"
-        }
-      ]
-    },
-    {
-      "title": "005930",
-      "approx_traffic": "5000+",
-      "published": "Thu, 29 Oct 2026 00:40:00 -0700",
-      "news": [
-        {
-          "title": "Samsung Chip Profit Misses Estimates Lifted by Resurgent AI Hope",
-          "source": "Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-29/samsung-chip-profit-misses-estimates-lifted-by-resurgent-ai-hope"
-        },
-        {
-          "title": "Samsung Electronics shares slid despite record profit in the third-quarter",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html"
-        },
-        {
-          "title": "Samsung’s Chip Profit Drives Another Record Quarter",
-          "source": "WSJ",
-          "url": "https://www.wsj.com/business/earnings/samsung-posts-fourth-straight-quarter-of-record-earnings-1373e927"
-        }
-      ]
-    },
-    {
-      "title": "풍자",
-      "approx_traffic": "200+",
-      "published": "Thu, 29 Oct 2026 00:40:00 -0700",
-      "news": [
-        {
-          "title": "풍자, 37kg 감량하더니 확 달라졌다…신기루와 투샷서 물오른 미모 ‘눈길’",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/29/GRSDAYZSGZSWCNLGGUYWIN3CMQ/"
-        },
-        {
-          "title": "풍자, 37㎏ 감량하더니 확 달라진 얼굴…이목구비 또렷 [N샷]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6335338"
-        },
-        {
-          "title": "‘37kg 감량’ 풍자, 신기루 옆에서 소두 인증…얼굴이 반쪽 됐네",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610281601003"
-        }
-      ]
-    },
-    {
-      "title": "장신영",
+      "title": "시험 방송",
       "approx_traffic": "2000+",
-      "published": "Thu, 29 Oct 2026 00:30:00 -0700",
+      "published": "Thu, 29 Oct 2026 01:50:00 -0700",
       "news": [
         {
-          "title": "`강경준 용서` 장신영, 마음고생 털어냈나…레깅스 입고 뽐낸 탄탄 몸매",
-          "source": "마이데일리",
-          "url": "https://mydaily.co.kr/page/view/2026102909025085632"
-        },
-        {
-          "title": "장신영, 햇살 아래 계단 산책…등산 근황 전했다",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16260690"
-        },
-        {
-          "title": "‘남편 용서’ 장신영, 안개 낀 한라산 등반…활동 중단 ♥강경준도 함께 올랐나",
-          "source": "뉴스엔",
-          "url": "https://m.newsen.com/news_view.php?uid=202610210958300310"
-        }
-      ]
-    },
-    {
-      "title": "(주)돌고래유괴단",
-      "approx_traffic": "1000+",
-      "published": "Thu, 29 Oct 2026 00:30:00 -0700",
-      "news": [
-        {
-          "title": "‘뉴진스 감독판 뮤비 공개’ 돌고래유괴단, 2심도 패소…어도어에 10억원 배상해야",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610291518001"
-        },
-        {
-          "title": "'뉴진스 뮤비 소송' 2심도 \"어도어에 10억 지급하라\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0103_202610291503430089"
-        },
-        {
-          "title": "2심도 \"뉴진스 뮤비 무단 게시한 제작사, 어도어에 10억 배상\"",
+          "title": "北, 대남 확성기 시험방송…접경지 주민들 \"아침부터 들려\"(종합)",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029132300004"
-        }
-      ]
-    },
-    {
-      "title": "로봇",
-      "approx_traffic": "5000+",
-      "published": "Thu, 29 Oct 2026 00:20:00 -0700",
-      "news": [
-        {
-          "title": "정부, 중소제조 AI 도입률 1%→10%로 높인다…5조원 이상 투입",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261028195900030"
+          "url": "https://www.yna.co.kr/view/AKR20261029146451060"
         },
         {
-          "title": "중소기업 '피지컬AI' 확산에 5조원 투입…데이터·AI·로봇 묶어 '3X 전략'",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261029000275"
+          "title": "“미사일 쏘더니 귀신 소리까지”…북한, 대남 확성기 시험방송 정황",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261029580602"
         },
         {
-          "title": "피지컬 AI도 '국산 풀스택' 구축…정부, 모델·데이터·로봇 생태계 키운다",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261029_0003845913"
-        }
-      ]
-    },
-    {
-      "title": "신세계백화점 센텀시티점",
-      "approx_traffic": "2000+",
-      "published": "Thu, 29 Oct 2026 00:20:00 -0700",
-      "news": [
-        {
-          "title": "[속보] 롯데 센텀시티 품는 신세계…부산에 ‘신세계 타운’ 만든다",
-          "source": "부산일보",
-          "url": "https://www.busan.com/view/busan/view.php?code=2026102914013472090"
-        },
-        {
-          "title": "신세계백화점, 롯데백화점 부산 센텀시티점 인수...백화점 1·2위간 첫 거래",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202610291423170918"
-        },
-        {
-          "title": "롯데백화점 \"센텀시티점 매각은 선택과 집중…핵심 점포 투자\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029159300051"
-        }
-      ]
-    },
-    {
-      "title": "모레노 명단 발표",
-      "approx_traffic": "10000+",
-      "published": "Thu, 29 Oct 2026 00:20:00 -0700",
-      "news": [
-        {
-          "title": "’은퇴 소동’ 3인방 축구대표팀 발탁…’병역 발언’ 이기혁 제외",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH202610291543087JI"
-        },
-        {
-          "title": "내분설 ‘96라인’ 전원 재발탁...모레노 감독 11월 A매치 대표팀 명단 발표",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/football/2026/10/29/2YV7IAIWVBG6LJFTPHLCZL7NTQ/"
-        },
-        {
-          "title": "“주장 손흥민”부터 ‘은퇴설 3인방’까지 모두 불러들였다···축구대표팀 명단 발표",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610291630011"
-        }
-      ]
-    },
-    {
-      "title": "암살자(들)",
-      "approx_traffic": "500+",
-      "published": "Thu, 29 Oct 2026 00:20:00 -0700",
-      "news": [
-        {
-          "title": "‘암살자(들)’ 허진호 감독 “박정희 암살 배후 애당초 배제···왜 이렇게 됐는지 궁금”",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202610281209001"
-        },
-        {
-          "title": "최욱, '암살자(들)' 대관 행사 개최…\"영화 자체로 재밌는데 논란 안타까워\"",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008820960"
-        },
-        {
-          "title": "논란 앞선 관객 발길…'암살자(들)', 손익분기점 340만 돌파 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/29/2026102913277233136"
-        }
-      ]
-    },
-    {
-      "title": "롯데카드",
-      "approx_traffic": "2000+",
-      "published": "Thu, 29 Oct 2026 00:20:00 -0700",
-      "news": [
-        {
-          "title": "대신증권·미래에셋운용·빗썸 줄줄이 해킹...금융권 확산",
-          "source": "YTN 사이언스",
-          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202610291108000305"
-        },
-        {
-          "title": "금감원, ‘1억 유출’ 프라뱅 ‘현장 검사’ 착수",
+          "title": "[속보] 국정원 “북한 대남방송 보도, 사실 아냐…주민 잘못 신고”",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8698772"
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8698848"
+        }
+      ]
+    },
+    {
+      "title": "돈세탁",
+      "approx_traffic": "1000+",
+      "published": "Thu, 29 Oct 2026 01:50:00 -0700",
+      "news": [
+        {
+          "title": "짝퉁명품 355억원어치 6천점 유통…판매총책 등 일당 11명 송치",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261029069600004"
         },
         {
-          "title": "금투업계도 해킹 비상인데 증권사 AI 연결 확대…보안 숙제 커졌다 - 머니투데이",
+          "title": "비밀 창고 열자 6000점 '와르르'…\"엄마는 총책, 아들은 돈세탁\"",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026102909024687482"
+        },
+        {
+          "title": "가짜 명품 51억 원어치 판매‥총책 등 11명 송치",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6861600_36918.html"
+        }
+      ]
+    },
+    {
+      "title": "송도동",
+      "approx_traffic": "200+",
+      "published": "Thu, 29 Oct 2026 01:50:00 -0700",
+      "news": []
+    },
+    {
+      "title": "손녀",
+      "approx_traffic": "100+",
+      "published": "Thu, 29 Oct 2026 01:50:00 -0700",
+      "news": [
+        {
+          "title": "할아버지 찔러 숨지게 한 여대생, 징역 5년 선고에 공소청 항소",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261029/134934551/1"
+        },
+        {
+          "title": "\"폭언·폭행\" 할아버지 숨지게 한 손녀, 1심 징역 5년…쌍방항소",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261029_0003846934"
+        },
+        {
+          "title": "'80대 친조부 살해' 20대 대학생 손녀 징역 5년…쌍방 항소",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/court-prosecution/6336570"
+        }
+      ]
+    },
+    {
+      "title": "항공기",
+      "approx_traffic": "500+",
+      "published": "Thu, 29 Oct 2026 01:40:00 -0700",
+      "news": [
+        {
+          "title": "제주항공, 차세대 항공기 B737-8 구매 도입…\"기단 현대화\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261029048900003"
+        },
+        {
+          "title": "제주항공 보잉 B737-8 14호기 도입, B737-8 여객기 비중 32.6%",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450606"
+        },
+        {
+          "title": "제주항공, 연료 덜 쓰는 신형 항공기 추가 도입… “고유가 부담 완화”",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/industry/company/2026/10/29/Z2JXC2IOLJBRZA6HOFW6G6IK2I/"
+        }
+      ]
+    },
+    {
+      "title": "삼성 대 kia",
+      "approx_traffic": "50000+",
+      "published": "Thu, 29 Oct 2026 01:30:00 -0700",
+      "news": [
+        {
+          "title": "3차전이 분수령...시라카와-최원태, 맞대결",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0107_202610291709116919"
+        },
+        {
+          "title": "KIA전 3전 전패, 설욕 벼르는 페덱 \"이젠 사적인 감정→PO 4차전 선발 등판은 감독님 뜻대로\" - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/10/29/2026102913562542874"
+          "url": "https://www.mt.co.kr/sports/2026/10/29/2026102914082770382"
+        },
+        {
+          "title": "‘김영웅 대신 전병우’ 삼성, PO 3차전 선발 라인업 변화…최형우 2G 연속 좌익수 출장 [PO3]",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112900371"
+        }
+      ]
+    },
+    {
+      "title": "동굴",
+      "approx_traffic": "1000+",
+      "published": "Thu, 29 Oct 2026 01:20:00 -0700",
+      "news": [
+        {
+          "title": "강원도, 11월 지질·생태명소에 삼척 대이리 동굴지대 선정",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261029063300062"
+        },
+        {
+          "title": "늦가을의 서정…강원도 11월 명소, 삼척 대이리 동굴지대",
+          "source": "프레시안",
+          "url": "https://www.pressian.com/pages/articles/2026102912550042150"
+        },
+        {
+          "title": "삼척 '대이리 동굴지대', 강원도 11월 지질·생태명소 선정",
+          "source": "더팩트",
+          "url": "https://news.tf.co.kr/read/national/2382201.htm"
+        }
+      ]
+    },
+    {
+      "title": "england vs sri lanka",
+      "approx_traffic": "1000+",
+      "published": "Thu, 29 Oct 2026 01:20:00 -0700",
+      "news": [
+        {
+          "title": "Dead-rubber blues for England as Sri Lanka tune up for final",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/pakistan-odi-tri-series-2026-27-1550706/england-vs-sri-lanka-6th-match-1550718/match-preview"
+        },
+        {
+          "title": "Sri Lanka v England: men’s cricket tri-series one-day international – live",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/sport/live/2026/oct/29/sri-lanka-v-england-mens-cricket-tri-series-one-day-international-live"
+        },
+        {
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
+          "source": "Cricbuzz",
+          "url": "https://m.cricbuzz.com/player-match-performance/match/170751/player/12254/batting"
+        }
+      ]
+    },
+    {
+      "title": "퇴직금",
+      "approx_traffic": "500+",
+      "published": "Thu, 29 Oct 2026 01:10:00 -0700",
+      "news": [
+        {
+          "title": "모든 사업장 '퇴직급여 사외적립' 의무화…2030년까지 단계 확대",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974546"
+        },
+        {
+          "title": "퇴직금 체불 못 하게 사외적립 의무화...기금형도 도입",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202610291657306557_005.html"
+        },
+        {
+          "title": "퇴직연금 '위험자산 70% 상한' 완화, 국민연금 참여도 검토…'쥐꼬리 수익률' 개선될까 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/economy/2026/10/29/2026102915341185216"
+        }
+      ]
+    },
+    {
+      "title": "sk",
+      "approx_traffic": "2000+",
+      "published": "Thu, 29 Oct 2026 01:10:00 -0700",
+      "news": [
+        {
+          "title": "SK Hynix Plans $75 Billion in Shareholder Returns After Blockbuster Earnings",
+          "source": "WSJ",
+          "url": "https://www.wsj.com/business/earnings/sk-hynix-plans-75-billion-in-shareholder-returns-after-blockbuster-earnings-f3a460b7"
+        },
+        {
+          "title": "Jim Cramer sees major implications from SK Hynix's home-run quarter",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/28/cramer-sk-hynix-ai-chip-stocks.html"
+        },
+        {
+          "title": "SK hynix Announces 3Q26 Financial Results",
+          "source": "SK hynix",
+          "url": "https://news.skhynix.com/en/q3-2026-business-results/"
         }
       ]
     }
