@@ -1,8 +1,168 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-29T03:51:39+00:00",
+  "fetched_at": "2026-10-29T04:51:47+00:00",
   "items": [
+    {
+      "title": "김포시",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 20:40:00 -0700",
+      "news": [
+        {
+          "title": "강화군, 접경 안보 논의… 군과 공조체계 구축",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335451"
+        },
+        {
+          "title": "김포시·수도군단 등 군 지휘관 안보 간담회…통합방위 공조 강화 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/policy/2026/10/29/2026102909392452447"
+        },
+        {
+          "title": "강화군, 육군·해병대와 접경지 안전 위한 협력체계 논의",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/incheon/6336290"
+        }
+      ]
+    },
+    {
+      "title": "다니엘",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 20:30:00 -0700",
+      "news": [
+        {
+          "title": "뉴진스 출신 다니엘 “예전과 같을 순 없겠죠”···‘버니즈’ 탄생일에 자작곡 공개, 개인 활동 나서나",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610291032011"
+        },
+        {
+          "title": "다니엘, 뉴진스 팬덤 생일에 자작곡 공개…2024년 이후 두번째",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/culture/music/1284743.html"
+        },
+        {
+          "title": "'민지 포함' 뉴진스 4人 근황→'퇴출' 다니엘은 자작곡…'버니즈 데이'에 엇갈린 행보[이슈S]",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016107"
+        }
+      ]
+    },
+    {
+      "title": "대한민국",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 20:30:00 -0700",
+      "news": [
+        {
+          "title": "신해철·유재석 문화훈장…유해진은 대통령 표창 받는다",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12325428"
+        },
+        {
+          "title": "고 신해철에 은관문화훈장‥유재석·블랙핑크도 문화훈장",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6861580_36932.html"
+        },
+        {
+          "title": "신해철·유재석·블랙핑크 문화훈장…유해진·장항준, 대통령 표창",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261029_0003845801"
+        }
+      ]
+    },
+    {
+      "title": "ai 안경",
+      "approx_traffic": "100+",
+      "published": "Wed, 28 Oct 2026 20:30:00 -0700",
+      "news": [
+        {
+          "title": "수능 스마트안경 부정행위 형사고발 방침...응시정지 3년 추진",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0103_202610291235507785"
+        },
+        {
+          "title": "교육부, 스마트안경 부정행위 형사처벌 추진…응시정지 1년→3년",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261029000240"
+        },
+        {
+          "title": "저 안경 수상한데?…'불법 촬영' 스마트 안경 구별 공식",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261028144013"
+        }
+      ]
+    },
+    {
+      "title": "홍서범",
+      "approx_traffic": "5000+",
+      "published": "Wed, 28 Oct 2026 20:10:00 -0700",
+      "news": [
+        {
+          "title": "'아들 불륜 논란' 홍서범, 일산 16억 부동산 투자 실패…\"손해 많이 봤다\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261028_0003845276"
+        },
+        {
+          "title": "\"'아들 불륜 논란' 홍서범, 16억 펜트하우스 샀다 낭패\" 김구라가 꺼냈다",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6335719"
+        },
+        {
+          "title": "‘아들 외도 논란’ 홍서범, 부동산 투자 손실 컸다 “펜트하우스 샀는데 손해 많이 봐”[Oh!쎈 이슈]",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112899664"
+        }
+      ]
+    },
+    {
+      "title": "장애인 아시안 게임",
+      "approx_traffic": "500+",
+      "published": "Wed, 28 Oct 2026 20:10:00 -0700",
+      "news": []
+    },
+    {
+      "title": "밀워키",
+      "approx_traffic": "2000+",
+      "published": "Wed, 28 Oct 2026 19:50:00 -0700",
+      "news": [
+        {
+          "title": "밀워키, 창단 57년 만에 MLB 월드시리즈 우승",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/10/29/NRUJHLNZAVCWVPQJ56NXBS3RQQ/"
+        },
+        {
+          "title": "\"발이 부러져도 뛴다\" 한국 울렸던 그 타자, 동료들한테 분노하더니…절뚝이며 전력 질주 '역대급 부상 투혼' 예고 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/29/202610281807774537O"
+        },
+        {
+          "title": "MLB 탬파베이 극적 회생…연장 12회말 동점타·역전 끝내기 안타",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261028110600007"
+        }
+      ]
+    },
+    {
+      "title": "국민연금",
+      "approx_traffic": "1000+",
+      "published": "Wed, 28 Oct 2026 19:50:00 -0700",
+      "news": [
+        {
+          "title": "국민연금 가입기간 늘려 노후 연금수령액 높이는 방법은?",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=04815046645617512&mediaCodeNo=257"
+        },
+        {
+          "title": "NH투자증권 \"국민연금 가입기간 늘려라\"⋯ 5가지 제도는",
+          "source": "아시아타임즈",
+          "url": "https://www.asiatime.co.kr/article/20261028500385"
+        },
+        {
+          "title": "[60초 연금정책] 국민연금, 꼭 내야 할까…\"주식보다 안정적\"",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261028001594"
+        }
+      ]
+    },
     {
       "title": "아시아나",
       "approx_traffic": "200+",
@@ -44,177 +204,6 @@
           "title": "돈치치 41점도 삼킨 릴라드 ‘데임 타임’…포틀랜드, 레이커스 연승 멈췄다",
           "source": "쿠키뉴스",
           "url": "https://www.kukinews.com/article/view/kuk202610280156"
-        }
-      ]
-    },
-    {
-      "title": "timberwolves vs warriors",
-      "approx_traffic": "100+",
-      "published": "Wed, 28 Oct 2026 19:30:00 -0700",
-      "news": [
-        {
-          "title": "Stephen Curry, Warriors start strong in win over Timberwolves",
-          "source": "KNBR",
-          "url": "https://www.thesportsleader.com/2026/10/28/stephen-curry-warriors-start-strong-in-win-over-timberwolves/"
-        },
-        {
-          "title": "Jimmy Butler's Warriors return feels less urgent after Curry-Lendeborg duo emerges",
-          "source": "Blue Man Hoop",
-          "url": "https://bluemanhoop.com/jimmy-butler-warriors-return-feels-less-urgent-after-curry-lendeborg-duo-emerges"
-        },
-        {
-          "title": "Curry scores 44 points as the Warriors hold on to beat the Timberwolves 119-114",
-          "source": "iNFOnews.ca",
-          "url": "https://infonews.ca/news/7966163/curry-scores-44-points-as-the-warriors-hold-on-to-beat-the-timberwolves-119-114/"
-        }
-      ]
-    },
-    {
-      "title": "우 서윤",
-      "approx_traffic": "5000+",
-      "published": "Wed, 28 Oct 2026 19:20:00 -0700",
-      "news": [
-        {
-          "title": "우지윤 딸 우서윤, 미스코리아 진 이후 \"아빠 이겼다\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261028_0003845283"
-        },
-        {
-          "title": "우지원 딸 우서윤, '성형 논란' 속 라미네이트 시술 고백 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/28/2026102815052847972"
-        },
-        {
-          "title": "‘미코 眞’ 우서윤 “아빠 우지원 이긴 듯…요즘엔 내게 사진 요청”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610281523003"
-        }
-      ]
-    },
-    {
-      "title": "la 클리퍼스 대 la 레이커스",
-      "approx_traffic": "1000+",
-      "published": "Wed, 28 Oct 2026 19:10:00 -0700",
-      "news": [
-        {
-          "title": "“자고 일어났더니 아프다더라” 돈치치, 허리 문제로 클리퍼스전 결장 [MK현장]",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/sports/12189639"
-        },
-        {
-          "title": "'평균 36점' 돈치치도 쓰러졌다…LAL, 부상 악재 속 LAC와 LA 더비",
-          "source": "일간스포츠",
-          "url": "https://isplus.com/article/view/isp202610290005"
-        }
-      ]
-    },
-    {
-      "title": "이지아",
-      "approx_traffic": "200+",
-      "published": "Wed, 28 Oct 2026 19:00:00 -0700",
-      "news": [
-        {
-          "title": "이지아, 초미니 원피스에 슬리퍼만 신어도 화보..누가 48세로 보겠어[핫피플]",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/27/GU3DQNJWMQYTOZTCGUYDENBVMI/"
-        },
-        {
-          "title": "이지아, 48세 안 믿기는 동안 미모에 젓가락 각선미까지…시선 집중 [N샷]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6332616"
-        },
-        {
-          "title": "데뷔 땐 48㎏, 지금은 48세…이지아, 19년 지나도 ‘초미니 각선미’",
-          "source": "스포츠서울",
-          "url": "https://www.sportsseoul.com/news/read/1645029"
-        }
-      ]
-    },
-    {
-      "title": "화이트캡스 대 샌디에이고 fc",
-      "approx_traffic": "2000+",
-      "published": "Wed, 28 Oct 2026 18:40:00 -0700",
-      "news": [
-        {
-          "title": "Spectator Information: 'Caps host San Diego FC | Match presented by MNP",
-          "source": "www.whitecapsfc.com",
-          "url": "https://www.whitecapsfc.com/news/spectator-info-vwfc-san-diego-fc-presented-by-mnp"
-        },
-        {
-          "title": "Vancouver Whitecaps vs San Diego: Major League Soccer stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c8p3g7wyre90t"
-        },
-        {
-          "title": "Guess the Starting XI – Match Thirty Two vs. San Diego",
-          "source": "The Third Sub",
-          "url": "https://thethirdsub.ca/2026/10/27/guess-the-starting-xi-match-thirty-two-vs-san-diego/"
-        }
-      ]
-    },
-    {
-      "title": "체코 원전",
-      "approx_traffic": "5000+",
-      "published": "Wed, 28 Oct 2026 18:40:00 -0700",
-      "news": [
-        {
-          "title": "[특징주] 대우건설·두산에너빌리티, 체코 원전 시공계약 무산 여파에 10%대 급락",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/stock/stock_general/2026/10/29/EYWHEF52UNA4RFIQGBZEJSJF34/"
-        },
-        {
-          "title": "체코원전 대우건설 컨소 \"일방적 협상 결렬 유감…수용 불가\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029105100003"
-        },
-        {
-          "title": "(속보) 한수원, 체코 원전 시공계약 협상 결렬…신규 시공사 경쟁입찰 추진",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=374063"
-        }
-      ]
-    },
-    {
-      "title": "손혁",
-      "approx_traffic": "200+",
-      "published": "Wed, 28 Oct 2026 18:40:00 -0700",
-      "news": [
-        {
-          "title": "팬들의 '최강한화' 떳떳하게 듣고 싶었다…한화 떠나는 손혁 단장 \"앞으로 더 강한 팀 될 거라 믿는다\"",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112899013"
-        },
-        {
-          "title": "한화 떠나는 손혁 전 단장의 작별 인사 “죄송하고 감사했습니다”",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261027170331044"
-        },
-        {
-          "title": "한화 떠나는 손혁 단장 “팬들께 죄송한 마음 가장 커, 꾸준한 강팀 되었으면”",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20261028/134924613/1"
-        }
-      ]
-    },
-    {
-      "title": "개발제한구역",
-      "approx_traffic": "1000+",
-      "published": "Wed, 28 Oct 2026 18:40:00 -0700",
-      "news": [
-        {
-          "title": "김포·구리 등 수도권에 7만6천여 호 공급",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8698405"
-        },
-        {
-          "title": "경기도 6곳 그린벨트 풀어... 신규 택지 7만6700가구 공급",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/real_estate/2026/10/29/KIPBMLGA2ZFHLNMCLCGJDU5M6Q/"
-        },
-        {
-          "title": "'서울 접근성' 강조한 7.67만가구… 2030 부동산 민심 달래기 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/estate/2026/10/29/2026102910092123952"
         }
       ]
     }
