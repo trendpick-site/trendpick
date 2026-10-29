@@ -1,12 +1,144 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-29T10:53:11+00:00",
+  "fetched_at": "2026-10-29T11:49:01+00:00",
   "items": [
     {
-      "title": "시라카와",
+      "title": "김태군",
       "approx_traffic": "200+",
-      "published": "Thu, 29 Oct 2026 02:50:00 -0700",
+      "published": "Thu, 29 Oct 2026 03:40:00 -0700",
+      "news": [
+        {
+          "title": "쫓아가자…김선빈 안타",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo/NISI20261029_0021510725"
+        },
+        {
+          "title": "[PO] '1회 실수 결자해지' KIA 김태군, 추격 적시타 기록...하주석 동점 적시타 2-2",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261029001387"
+        },
+        {
+          "title": "[포토] '2회말 동점타' 하주석 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/29/2026102919204019523"
+        }
+      ]
+    },
+    {
+      "title": "디아즈",
+      "approx_traffic": "1000+",
+      "published": "Thu, 29 Oct 2026 03:30:00 -0700",
+      "news": [
+        {
+          "title": "'호수비에 도파민 샘솟은' 삼성 류지혁 \"기세는 우리에게 왔다\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261029187000007"
+        },
+        {
+          "title": "[포토] 환호성이 터진다! '5회초 김도영의 홈런을 무위로 돌리는' 역전 투런홈런 류지혁 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/29/2026102920163227324"
+        },
+        {
+          "title": "삼성전 강세 어디로…'통한의 2피홈런' KIA 시라카와, 4⅓이닝 4실점PO]",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261029_0003847301"
+        }
+      ]
+    },
+    {
+      "title": "kbo",
+      "approx_traffic": "2000+",
+      "published": "Thu, 29 Oct 2026 03:20:00 -0700",
+      "news": [
+        {
+          "title": "Long Beach, Ulsan, KIA and LG reach Ulsan Fall League semifinals",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/10/29/MR65VYLMY5FYVFOTTTEBSJJO4E/"
+        },
+        {
+          "title": "Don Wakamatsu praises Ulsan Fall League for boosting Korean player development",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/10/28/ABNJ5FVOPNEPTCMWLLYBDZNURE/"
+        },
+        {
+          "title": "Ulsan-KBO Fall League Expands Internationally, Earns MLB Praise",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/10/28/4Q2V7IKGR5FR3ENB7L66DDADQE/"
+        }
+      ]
+    },
+    {
+      "title": "v-리그",
+      "approx_traffic": "500+",
+      "published": "Thu, 29 Oct 2026 03:20:00 -0700",
+      "news": [
+        {
+          "title": "도로공사, 개막 이틀 앞두고 김영래 대행 정식 감독으로 선임",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261029136500007"
+        },
+        {
+          "title": "V리그 개막 앞둔 한국도로공사, 김영래 감독대행 정식 감독으로 승격",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8698703"
+        },
+        {
+          "title": "도로공사 김영래 대행, 정식 감독 승격…\"V리그 반드시 우승\"",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261029161212Zh1"
+        }
+      ]
+    },
+    {
+      "title": "크보",
+      "approx_traffic": "100+",
+      "published": "Thu, 29 Oct 2026 03:20:00 -0700",
+      "news": [
+        {
+          "title": "Diaz's Second Consecutive Homer in Game 3",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/10/29/3WZDYUXUDFCB7CXMDZABL557EQ/"
+        },
+        {
+          "title": "Díaz pulls a 146-kph fastball; KIM Do-young drives a 152-kph heater the other way... Home-run showdown between Díaz and KIM Do-young in playoff Game 3",
+          "source": "파이낸셜뉴스",
+          "url": "https://en.fnnews.com/news/202610291955108894"
+        },
+        {
+          "title": "Lions ace Jurado tames Tigers for career 1st KBO postseason win",
+          "source": "Korea JoongAng Daily",
+          "url": "https://www.koreajoongangdaily.com/sports/lions-ace-jurado-tames-tigers-for-career-1st-kbo-postseason-win/12941790"
+        }
+      ]
+    },
+    {
+      "title": "발전소",
+      "approx_traffic": "500+",
+      "published": "Thu, 29 Oct 2026 03:10:00 -0700",
+      "news": [
+        {
+          "title": "국민성장펀드, 국내 최대 태양광 발전소·반도체 밸류체인 투자",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261029196900002"
+        },
+        {
+          "title": "금융위 부위원장 \"국민성장펀드 성과 긴 호흡으로 봐달라\"",
+          "source": "MTN 머니투데이방송",
+          "url": "https://news.mtn.co.kr/video/2026102916123585215"
+        },
+        {
+          "title": "금융위 \"국민참여성장펀드 수익률 0.5%…장기적 관점서 평가해야\"",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261029001267"
+        }
+      ]
+    },
+    {
+      "title": "프로야구",
+      "approx_traffic": "1000+",
+      "published": "Thu, 29 Oct 2026 03:10:00 -0700",
       "news": [
         {
           "title": "이범호 KIA 감독 \"시라카와 5이닝 3실점으로 버텨줘야\"",
@@ -14,196 +146,80 @@
           "url": "https://www.yna.co.kr/view/AKR20261029165600007"
         },
         {
-          "title": "홈으로 슬라이딩 카스트로",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261029_0021510738"
-        },
-        {
-          "title": "[사진]김도영 삼진",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112900492"
-        }
-      ]
-    },
-    {
-      "title": "울산 현대모비스 대 부산 kcc",
-      "approx_traffic": "1000+",
-      "published": "Thu, 29 Oct 2026 02:40:00 -0700",
-      "news": []
-    },
-    {
-      "title": "이민정",
-      "approx_traffic": "500+",
-      "published": "Thu, 29 Oct 2026 02:40:00 -0700",
-      "news": [
-        {
-          "title": "'이병헌♥' 이민정, 등 깊게 파인 파격 드레스로 섹시미 과시…우아함까지 [N샷]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6335614"
-        },
-        {
-          "title": "트로피가 걸어 다니네…이민정, 황금색 드레스 입고 뽐낸 '넘사벽' 몸매",
+          "title": "[사진]류지혁 역전포, '분위기 다시 가져왔어'",
           "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/28/GVSWKMZTMU4WIODBGY2DKZTDGE/"
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/10/29/HE4TKMRRGE4DONJZGZQWKNRWGA/"
         },
         {
-          "title": "‘이병헌♥’ 이민정, 5벌 중 고른 아이보리엔 혹평, 팬들은 블루 추천",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/entertain/12189973"
-        }
-      ]
-    },
-    {
-      "title": "티빙",
-      "approx_traffic": "5000+",
-      "published": "Thu, 29 Oct 2026 02:30:00 -0700",
-      "news": [
-        {
-          "title": "'킬러'로 변신한 김다미…티빙 '고분고분한 킬러' 내년 공개",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029059400005"
-        },
-        {
-          "title": "'고분고분한 킬러' 김다미 조보아 조아람 김재욱 남윤수, 황금조합 완성 - 머니투데이",
+          "title": "[포토] ''물러설수 없는 3차전이지!' - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/29/2026102910007255428"
-        },
-        {
-          "title": "김다미·조보아, 느와르 호흡…'고분고분한 킬러', 내년 공개",
-          "source": "디스패치",
-          "url": "https://www.dispatch.co.kr/2349954"
+          "url": "https://www.mt.co.kr/sports/2026/10/29/2026102919530167238"
         }
       ]
     },
     {
-      "title": "최원태",
+      "title": "기아 타이거즈",
       "approx_traffic": "1000+",
-      "published": "Thu, 29 Oct 2026 02:30:00 -0700",
+      "published": "Thu, 29 Oct 2026 03:10:00 -0700",
       "news": [
         {
-          "title": "3차전이 분수령...시라카와-최원태, 맞대결",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0107_202610291709116919"
-        },
-        {
-          "title": "삼성 사령탑 'KIA 이 선수' 극렬 경계 \"잘 요리해줬으면, 워낙 강했어\" 대체 누구길래 'PO3' 앞두고... [PO3 현장] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/29/2026102915493422630"
-        },
-        {
-          "title": "삼성 박진만 감독 \"최형우 수비 나가면서 팀 분위기 많아 올라가\"[PO]",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261029_0003847239"
-        }
-      ]
-    },
-    {
-      "title": "제미 나이 카본",
-      "approx_traffic": "500+",
-      "published": "Thu, 29 Oct 2026 02:30:00 -0700",
-      "news": [
-        {
-          "title": "지니 4(Genie 4): 월드 시뮬레이션의 새로운 세대",
-          "source": "blog.google",
-          "url": "https://blog.google/intl/ko-kr/company-news/technology/genie-4-a-new-generation-of-world-simulation-kr/"
-        },
-        {
-          "title": "[영상] 구글 딥마인드 '지니 4' 공개…가상세계·소리 실시간 생성",
+          "title": "'역시 슈퍼스타' KIA 김도영, 3회 역전포…올해 PS 4번째 아치",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029176700704"
+          "url": "https://www.yna.co.kr/view/AKR20261029201600007"
         },
         {
-          "title": "와신상담 구글, 새 AI '카본'으로 선두 탈환...\"오픈AI 제쳤다\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202610291411258199"
-        }
-      ]
-    },
-    {
-      "title": "tving",
-      "approx_traffic": "1000+",
-      "published": "Thu, 29 Oct 2026 02:30:00 -0700",
-      "news": [
-        {
-          "title": "Kang Ho-dong exits as The Great Escape premieres new urban ghost stories season",
+          "title": "\"리듬과 타이밍이 완벽해\" 타이거즈 레전드 출신 해설위원도 감탄! 김도영의 괴력 같은 밀어치기 [PO3]",
           "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-entertainment/2026/10/28/HOU2EFZEEFFYHOECNQTGRUCFMQ/"
+          "url": "https://biz.chosun.com/sports/baseball/2026/10/29/HEZGGOJVGJRTSNDEMRRDAODGGI/"
         },
         {
-          "title": "TVING’s ‘The Great Escape: Urban Legends’ Premieres Dec. 2, With Seungkwan Completing a Six-Member Cast",
-          "source": "씨네플레이",
-          "url": "https://www.cineplay.co.kr/en-us/articles/30499"
-        },
-        {
-          "title": "Great Escape: Urban Legends Premieres December 2 Without Kang Ho-dong",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/kpop-culture-en/2026/10/28/U6ZNVSMGJZEDRL4FNGLTNL3EJA/"
+          "title": "[AI그래픽] KBO PO 3차전, KIA 김도영 3회 역전 솔로포",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261029001393"
         }
       ]
     },
     {
-      "title": "쿠칭시티",
-      "approx_traffic": "100+",
-      "published": "Thu, 29 Oct 2026 02:30:00 -0700",
+      "title": "상장지수펀드",
+      "approx_traffic": "200+",
+      "published": "Thu, 29 Oct 2026 03:10:00 -0700",
       "news": [
         {
-          "title": "한국어 질문에 ‘원어민 영어’로 답한 강원 신예 이은호 “미국에서 자라 두 나라 축구의 차이 느껴” [MK현장]",
+          "title": "전혀 ‘액티브’ 하지 않은 국내 액티브ETF [줌인IT]",
+          "source": "IT조선",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172964"
+        },
+        {
+          "title": "“지수보다 10%P 더 벌었는데”…상장폐지 걱정하는 액티브 ETF",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04765846645617512"
+        },
+        {
+          "title": "일반 ETF 속에 3배 레버리지…꼼수 운용 논란",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20107985"
+        }
+      ]
+    },
+    {
+      "title": "베드타운",
+      "approx_traffic": "1000+",
+      "published": "Thu, 29 Oct 2026 03:10:00 -0700",
+      "news": [
+        {
+          "title": "수도권에 신규택지 7만 6700호 추가…2030년까지 착공 추진",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974548&pWise=sub&pWiseSub=C2"
+        },
+        {
+          "title": "국토장관 \"신규택지 서울 제외는 용산공원·탄천센터와 무관\"(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261029100051003"
+        },
+        {
+          "title": "고삐 풀린 경기 집값, 상승률 서울 2배 '질주'",
           "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/sports/12189192"
-        },
-        {
-          "title": "'국대 발탁' 신민하 선발! 강원, 쿠칭전 최정예로 나선다···김대원·서민우·이유현 등 출격 [MK현장]",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20261029n36040"
-        },
-        {
-          "title": "강원FC, 29일 쿠칭 시티와 안방 승부",
-          "source": "아시아뉴스통신",
-          "url": "https://m.anewsa.com/article_sub3.php?number=3212514"
-        }
-      ]
-    },
-    {
-      "title": "나띠",
-      "approx_traffic": "100+",
-      "published": "Thu, 29 Oct 2026 02:20:00 -0700",
-      "news": [
-        {
-          "title": "키오프 나띠, 여유로운 일상 속 비현실적 글래머 몸매 [N샷]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6336845"
-        },
-        {
-          "title": "키오프 나띠, 레깅스에 드러난 ‘애플힙’…독보적 글래머 몸매",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610291721003"
-        },
-        {
-          "title": "키오프 나띠, 독보적 볼륨감 드러낸 애슬레저 룩...“건강미 폴폴”",
-          "source": "스포츠서울",
-          "url": "https://www.sportsseoul.com/news/read/1645199"
-        }
-      ]
-    },
-    {
-      "title": "홈플러스",
-      "approx_traffic": "1000+",
-      "published": "Thu, 29 Oct 2026 02:10:00 -0700",
-      "news": [
-        {
-          "title": "[단독] 홈플러스, 희망퇴직도 취소…밀린 월급 줄 돈도 없다",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/distribution/channel/2026/10/29/VD7LNAEEORCAFNRGC2KDTXDRPU/"
-        },
-        {
-          "title": "한전, 홈플러스 전기료 체납에 \"매장별 상황 따라 단전 검토\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261028159000003"
-        },
-        {
-          "title": "＂부활 꿈꿨지만 매출은 뚝＂…＇임금체불＇도 모자라 ＇전기＇도 끊긴다",
-          "source": "한국경제TV",
-          "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610290013"
+          "url": "https://www.mk.co.kr/news/realestate/12190119"
         }
       ]
     }
