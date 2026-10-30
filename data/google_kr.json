@@ -1,13 +1,161 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-30T22:43:16+00:00",
+  "fetched_at": "2026-10-30T23:42:17+00:00",
   "items": [
     {
-      "title": "신세계백화점 강남점",
+      "title": "테슬라",
+      "approx_traffic": "500+",
+      "published": "Fri, 30 Oct 2026 15:30:00 -0700",
+      "news": [
+        {
+          "title": "[횡설수설/신광영]중국산 테슬라 ‘탈옥’",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Opinion/article/all/20261029/134936061/2"
+        },
+        {
+          "title": "한의약진흥원과 테슬라 FSD…국가의 보호막은 언제까지",
+          "source": "MEDI:GATE NEWS",
+          "url": "https://www.medigatenews.com/news/1376431761"
+        },
+        {
+          "title": "’테슬라 완전자율주행 환불 요구’ 차주들 패소",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261030014353QoP"
+        }
+      ]
+    },
+    {
+      "title": "직장폐쇄",
+      "approx_traffic": "100+",
+      "published": "Fri, 30 Oct 2026 15:30:00 -0700",
+      "news": [
+        {
+          "title": "WS 우승 기쁨도 잠시… 밀워키, 직장폐쇄 위기",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11627545"
+        },
+        {
+          "title": "다저스 선수 영입도 중단되나…MLB 12월 직장폐쇄 위기",
+          "source": "라디오코리아",
+          "url": "https://www.radiokorea.com/news/article.php?uid=508309"
+        },
+        {
+          "title": "스몰마켓 WS 반작용? \"샐러리캡 필요해\" 더 커진 구단주들 목소리…결국 직장폐쇄 수순으로 가나",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/10/25/MUZWKYLDGZTDSOLGHBRDGYZYGI/"
+        }
+      ]
+    },
+    {
+      "title": "증여",
+      "approx_traffic": "500+",
+      "published": "Fri, 30 Oct 2026 15:20:00 -0700",
+      "news": [
+        {
+          "title": "“내 아들 대신 네 딸에게”…수상한 증여의 반전[세금, 그 후]",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01082406645618496&mediaCodeNo=257"
+        },
+        {
+          "title": "[포커스] '주가 누르기' 끝낼 수 없나‥정부안 부족하다면 어떻게?",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6861681_36974.html"
+        },
+        {
+          "title": "이훈기 \"주가누르기방지법, 11월 조세소위 논의…정기국회 통과 목표\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/10/28/2026102816283799336"
+        }
+      ]
+    },
+    {
+      "title": "포스코노동조합",
       "approx_traffic": "200+",
-      "published": "Fri, 30 Oct 2026 14:30:00 -0700",
-      "news": []
+      "published": "Fri, 30 Oct 2026 15:20:00 -0700",
+      "news": [
+        {
+          "title": "포스코노사 3차 파업 앞두고 극적 타결…기본급 2.6% 인상(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261030171151053"
+        },
+        {
+          "title": "140일 만에…포스코 노사, 기본급 2.6%↑ 임금교섭 잠정 합의",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026103019213680131"
+        },
+        {
+          "title": "파업 위기 넘긴 포스코…임단협 잠정 합의",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442277"
+        }
+      ]
+    },
+    {
+      "title": "박서진",
+      "approx_traffic": "200+",
+      "published": "Fri, 30 Oct 2026 15:10:00 -0700",
+      "news": [
+        {
+          "title": "박서진, '세월이길 장사있나' 리메이크 이유? \"빛을 봤으면…그때와 다른 느낌 들지 않을까\"",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16264049"
+        },
+        {
+          "title": "'집돌이' 은지원, 재혼 후 반전...이승기도 '깜짝' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/29/2026102905350572744"
+        },
+        {
+          "title": "은지원, ♥9살 연하 아내와 '결혼 1주년' 캠핑카 여행..달달 신혼 근황 ('살림남')",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112900944"
+        }
+      ]
+    },
+    {
+      "title": "이수현",
+      "approx_traffic": "2000+",
+      "published": "Fri, 30 Oct 2026 15:00:00 -0700",
+      "news": [
+        {
+          "title": "이수현 “뼈말라, 나한텐 칭찬 아냐”…30kg 감량 후 불편한 심경",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261030/134938610/1"
+        },
+        {
+          "title": "악뮤 수현, 안경 쓰고 귀여움까지 장착…30㎏ 감량 후 매일이 ‘리즈’",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20107721"
+        },
+        {
+          "title": "안경 쓰고 귀여움 장착...악뮤 수현, 30kg 감량 후 매일이 리즈",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1645082"
+        }
+      ]
+    },
+    {
+      "title": "김재중",
+      "approx_traffic": "100+",
+      "published": "Fri, 30 Oct 2026 14:50:00 -0700",
+      "news": [
+        {
+          "title": "김재중 中 팬미팅 돌연 취소→3주째 환불 無…소속사 결국 법적 대응",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12189821"
+        },
+        {
+          "title": "김재중, 중국 팬미팅 취소 후 환불 지연…주최사에 법적 대응",
+          "source": "더팩트",
+          "url": "https://news.tf.co.kr/read/entertain/2382668.htm"
+        },
+        {
+          "title": "김재중 中 팬미팅, 취소 3주 지났는데도 환불 아직… 소속사 \"법적 대응\"",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026102916120003646"
+        }
+      ]
     },
     {
       "title": "나스닥 100",
@@ -32,8 +180,14 @@
       ]
     },
     {
+      "title": "신세계백화점 강남점",
+      "approx_traffic": "200+",
+      "published": "Fri, 30 Oct 2026 14:30:00 -0700",
+      "news": []
+    },
+    {
       "title": "김구라",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Fri, 30 Oct 2026 14:20:00 -0700",
       "news": [
         {
@@ -50,160 +204,6 @@
           "title": "그리, 父 김구라 믿고 투자했다가 '상장폐지'…\"주워온 자식인가 싶었다\"",
           "source": "스포츠조선",
           "url": "https://www.sportschosun.com/entertainment/2026-10-30/202610300100193150013362"
-        }
-      ]
-    },
-    {
-      "title": "skhy",
-      "approx_traffic": "200+",
-      "published": "Fri, 30 Oct 2026 14:20:00 -0700",
-      "news": [
-        {
-          "title": "SK hynix Announces 3Q26 Financial Results",
-          "source": "SK hynix",
-          "url": "https://news.skhynix.com/en/q3-2026-business-results/"
-        },
-        {
-          "title": "[Breaking] Samsung Electronics Earned 106.5 Trillion Won from Semiconductors Alone in Q3… DX Division Posts 800 Billion Won Loss",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/en/industry/2026/10/29/2026102907571138478"
-        },
-        {
-          "title": "\"Three Years' Worth of Supply Already Sold Out\" Sparks Excitement… \"Concerns Over AI Cleared\"",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008820099"
-        }
-      ]
-    },
-    {
-      "title": "필라델피아 반도체 지수",
-      "approx_traffic": "500+",
-      "published": "Fri, 30 Oct 2026 14:00:00 -0700",
-      "news": [
-        {
-          "title": "반도체株, AI 투자 우려·기술주 매도세에 동반 급락",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01607206645618496"
-        },
-        {
-          "title": "[속보]필라델피아 반도체 지수 1.4%↓…AI 투매 재개에 닷새 만에 하락",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/world/international-economy/6337158"
-        },
-        {
-          "title": "필라델피아 반도체지수 장중 6% 하락…인텔($INTC)도 장중 29.6% 하락",
-          "source": "토큰포스트",
-          "url": "https://www.tokenpost.kr/news/breaking/430243"
-        }
-      ]
-    },
-    {
-      "title": "알렉산더 즈베레프",
-      "approx_traffic": "200+",
-      "published": "Fri, 30 Oct 2026 14:00:00 -0700",
-      "news": [
-        {
-          "title": "신네르·알카라스 양강 깬 츠베레프…생애 첫 세계 1위 오른다",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261030093200007"
-        },
-        {
-          "title": "츠베레프, '2강' 신네르·알카라스 넘어 세계랭킹 1위 예약",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/general-sport/6337920"
-        },
-        {
-          "title": "'차세대’ 꼬리표 떼고 마침내 정상… 즈베레프, 생애 첫 세계 1위",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=05654726645618168&mediaCodeNo=257"
-        }
-      ]
-    },
-    {
-      "title": "신발",
-      "approx_traffic": "2000+",
-      "published": "Fri, 30 Oct 2026 13:50:00 -0700",
-      "news": [
-        {
-          "title": "[포토오늘] 부산서 만나는 패션의 모든 것",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0115_202610300425209403"
-        },
-        {
-          "title": "올해 패패부산 `신발혁신상` 대상에 튜브락 ‘다이얼아치 300’",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261030.99099008999"
-        },
-        {
-          "title": "화려한 패션쇼",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20261029_0021509842"
-        }
-      ]
-    },
-    {
-      "title": "pba 팀리그",
-      "approx_traffic": "200+",
-      "published": "Fri, 30 Oct 2026 13:50:00 -0700",
-      "news": [
-        {
-          "title": "PBA팀리그 웰컴저축은행 유니폼 입는 강유진 “기회 주어지면 팀의 포스트시즌 진출 돕겠다”",
-          "source": "mkbn.mk.co.kr",
-          "url": "https://mkbn.mk.co.kr/news/sports/12191294"
-        },
-        {
-          "title": "'정수빈→김보미 우승자 신분 상승' NH농협카드, PS행 티켓 수확할까... 4R 31일 개막 [PBA 팀리그] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/30/2026102917213412319"
-        },
-        {
-          "title": "전력 보강 웰컴저축은행·간판 바꾼 하림…PBA 팀리그 4R 돌입",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029029400007"
-        }
-      ]
-    },
-    {
-      "title": "김동현",
-      "approx_traffic": "2000+",
-      "published": "Fri, 30 Oct 2026 13:40:00 -0700",
-      "news": [
-        {
-          "title": "김동현, 압구정 100억 아파트 샀는데…50억 빌려준 사람 누구? [집코노미-핫!부동산]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026103070927"
-        },
-        {
-          "title": "김동현, 압구정현대 100억 매입에 '집주인 대출' 50억...온라인 반응 \"대통령도 했는데 뭐가 문제?\"",
-          "source": "펜앤마이크",
-          "url": "https://www.pennmike.com/news/articleView.html?idxno=130671"
-        },
-        {
-          "title": "\"반전세 산다더니 100억 집주인 됐다\"…김동현, 압구정 신현대 매수",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610302131116140"
-        }
-      ]
-    },
-    {
-      "title": "정찰기",
-      "approx_traffic": "1000+",
-      "published": "Fri, 30 Oct 2026 13:40:00 -0700",
-      "news": [
-        {
-          "title": "북, 한미 ‘프리덤플래그’ 훈련 비난…“철저히 힘으로 위협 억제”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700087"
-        },
-        {
-          "title": "KF-21, 美와 첫 편대비행…U-2 정찰기·F-35 전투기와 호흡맞춰",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029163400504"
-        },
-        {
-          "title": "북한, 한미 '프리덤 플래그' 훈련 비난‥\"철저히 힘으로 위협 억제\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6862040_36911.html"
         }
       ]
     }
