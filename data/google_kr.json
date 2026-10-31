@@ -1,220 +1,225 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-31T11:48:04+00:00",
+  "fetched_at": "2026-10-31T12:51:49+00:00",
   "items": [
     {
-      "title": "국",
-      "approx_traffic": "500+",
-      "published": "Sat, 31 Oct 2026 03:40:00 -0700",
+      "title": "내일 날씨",
+      "approx_traffic": "100000+",
+      "published": "Sat, 31 Oct 2026 04:40:00 -0700",
       "news": [
         {
-          "title": "바이낸스 8조4천억 원 해킹 피해…“북한이 배후”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700100"
+          "title": "내일 전국 비 오고 쌀쌀…강원 산지에는 눈 소식",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610312025001"
         },
-        {
-          "title": "17분 만에 8조 4천억 원 털었다…\"치밀\" 또 지목된 정체",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824452"
-        },
-        {
-          "title": "사상 최대 규모인 8조4000억원어치 암호화폐 털렸다...北소행 의심",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/10/31/C2B4ZCQE3NBYXMX2AJ5CGIP77I/"
-        }
-      ]
-    },
-    {
-      "title": "동행",
-      "approx_traffic": "100+",
-      "published": "Sat, 31 Oct 2026 03:40:00 -0700",
-      "news": [
-        {
-          "title": "“묵묵히 동행해줘 감사” 홍준표, 아내와 50년 전 첫 데이트 시간 맞춰 고려대 방문",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202610311132001"
-        },
-        {
-          "title": "`순애` 洪, 아내와 50년 전 첫 데이트 시각 맞춰 고려대 다시 찾아…인증샷 폭풍 업로드",
-          "source": "매일신문",
-          "url": "https://www.imaeil.com/page/view/2026103109470953978"
-        }
-      ]
-    },
-    {
-      "title": "문동주",
-      "approx_traffic": "1000+",
-      "published": "Sat, 31 Oct 2026 03:30:00 -0700",
-      "news": [
-        {
-          "title": "내일 없는 삼성·KIA 마운드 총력전…기다리는 kt만 미소",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261030029900007"
-        },
-        {
-          "title": "“(김)도영이와 승부하고 싶었다” 승리에도 아쉬운 원태인, 4차전 생애 첫 연투 각오 “내가 최후의 보루” - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/30/202610301046773411O"
-        },
-        {
-          "title": "\"대구 찍고 수원 간다\" 벼랑 끝에서도 희망 잃지 않은 나성범, KS 원정 짐까지 챙겼다 [PO4]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/30/GE3GCZBQMI3TKMTCGQ2TSNTCGA/"
-        }
-      ]
-    },
-    {
-      "title": "로스앤젤레스 fc",
-      "approx_traffic": "500+",
-      "published": "Sat, 31 Oct 2026 03:30:00 -0700",
-      "news": [
-        {
-          "title": "\"손흥민, 약속해 놓고 아직도 안 지켰다!\" 日 레전드 요시다 마야, 공개 불만 폭발…대체 무슨 일?",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1015955"
-        },
-        {
-          "title": "'손흥민 골 취소' LAFC, LA더비서 2-2 무승부…PO 출전권은 확보",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261026084300007"
-        },
-        {
-          "title": "\"내 골은 인정됐어야 했어!\" 손흥민, 논란의 판정에 결국 입 열었다...VAR에도 득점 취소 \"조금 실망스러워\"",
-          "source": "스포탈코리아",
-          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553661844"
-        }
-      ]
-    },
-    {
-      "title": "나는 solo",
-      "approx_traffic": "1000+",
-      "published": "Sat, 31 Oct 2026 03:20:00 -0700",
-      "news": [
-        {
-          "title": "'나솔' 34기 공무원 영철, 뜬금 학력 논란…\"거짓말한 것도 아닌데\"[이슈S]",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016401"
-        },
-        {
-          "title": "“언니들 정신 차려!” 데이트 후 깊어지는 여자들의 고민 #나는솔로 EP.277ㅣSBS PLUS X ENAㅣ수요일 밤 10시 30분",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000638951"
-        },
-        {
-          "title": "‘나는 솔로’ 정숙, 영호 정리하고 광수로…34기 러브라인 재편",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261029/134929531/1"
-        }
-      ]
-    },
-    {
-      "title": "gs리테일",
-      "approx_traffic": "200+",
-      "published": "Sat, 31 Oct 2026 03:20:00 -0700",
-      "news": [
-        {
-          "title": "GS리테일, 국가보훈부와 협약…유공자 지원 확대",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261030028000030"
-        },
-        {
-          "title": "보훈부와 손잡고 ‘일상 속 보훈’ 확산",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261029/134928168/2"
-        },
-        {
-          "title": "GS리테일 '나라사랑 활동', 보훈 사회공헌사업으로 확대",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261030_0003847749"
-        }
-      ]
-    },
-    {
-      "title": "김광규",
-      "approx_traffic": "100+",
-      "published": "Sat, 31 Oct 2026 03:20:00 -0700",
-      "news": [
-        {
-          "title": "김광규, 드디어 서울에 ‘내 집’ 마련…“28년 걸렸네” 뭉클",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261031/134942827/1"
-        },
-        {
-          "title": "VIP 호위? 유재석, 김광규 수발든다…“오늘은 광규형 하고 싶은 거 다 해 주자”",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20108266"
-        },
-        {
-          "title": "김광규, 탈모 때문에 헤딩 자제 \"족구에서 져 본 적이 없어\"('놀면뭐하니')",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/31/HA3DEMTDG4ZWGYRWGFSGMNZUMU/"
-        }
-      ]
-    },
-    {
-      "title": "블리치",
-      "approx_traffic": "200+",
-      "published": "Sat, 31 Oct 2026 03:10:00 -0700",
-      "news": [
-        {
-          "title": "After 10 Years, Bleach Creator Finally Reveals Orihime's Alternate Death Route",
-          "source": "IMDb",
-          "url": "https://www.imdb.com/news/ni66086640/?ref_=ttnw_art_perm"
-        },
-        {
-          "title": "Bleach’s Creator Almost Killed Off Orihime in the Manga’s Original Ending",
-          "source": "ComicBook.com",
-          "url": "https://comicbook.com/anime/news/bleachs-creator-almost-killed-off-orihime-in-the-mangas-original-ending/"
-        },
-        {
-          "title": "BLEACH Creator Reveals Storyline Where Orihime Dies Was Once Considered",
-          "source": "Japan Anime News",
-          "url": "https://us.oricon-group.com/news/9445/"
-        }
-      ]
-    },
-    {
-      "title": "이승기",
-      "approx_traffic": "200+",
-      "published": "Sat, 31 Oct 2026 03:10:00 -0700",
-      "news": [
-        {
-          "title": "이승기 \"김종민 똥 싸느라 공연 5분 늦어\" 폭로",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261028505012"
-        },
-        {
-          "title": "김지원 닮은 김종민 ♥11살 연하 아내, 똑똑한 여자라는데 “지식인 울렁증 왜”(이승기2)",
-          "source": "뉴스엔",
-          "url": "https://m.newsen.com/news_view.php?uid=202610281306222110"
-        },
-        {
-          "title": "‘채널 개설’ 이승기, 김종민 ‘행사 지각’ 폭로…”똥 싸러 가서 5분 동안 안 나와” [RE:뷰]",
-          "source": "TV리포트",
-          "url": "https://tvreport.co.kr/entertainment/article/1087375/"
-        }
-      ]
-    },
-    {
-      "title": "기온",
-      "approx_traffic": "200+",
-      "published": "Sat, 31 Oct 2026 03:10:00 -0700",
-      "news": [
         {
           "title": "[날씨] 일요일 전국 흐리고 곳곳 비…제주도엔 강한 비바람",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20261031039800004"
         },
         {
-          "title": "일요일 전국 흐리고 곳곳 비… 아침 최저 3도",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/topics/topics_social/2026/10/31/PWJYZNGENJDK5F3SYRUG4OS7EY/"
+          "title": "일요일 전국에 가을비…다음주 아침 기온 0도까지 ‘뚝’",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/transport-environment/2026/10/31/47RFMCXPQNG75EKV3GYDAT25CU/"
+        }
+      ]
+    },
+    {
+      "title": "chelsea vs man utd",
+      "approx_traffic": "1000+",
+      "published": "Sat, 31 Oct 2026 04:40:00 -0700",
+      "news": [
+        {
+          "title": "Chelsea vs Manchester United: Premier League preview, team news, stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c6z7xglw0ewzt"
         },
         {
-          "title": "내일은 비, 밤부터 전국에",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700512"
+          "title": "Chelsea should beware of Bruno Fernandes and Manchester United as they look to prove a point",
+          "source": "The Pride of London",
+          "url": "https://theprideoflondon.com/chelsea-should-beware-of-bruno-fernandes-and-manchester-united-as-they-look-to-prove-a-point-01m683e3mgm8"
+        },
+        {
+          "title": "Chelsea vs. Manchester United Livestream: How to Watch Today's Premier League Game for Free",
+          "source": "PCMag",
+          "url": "https://www.pcmag.com/news/how-to-watch-chelsea-vs-manchester-united-live-for-free-premier-league"
+        }
+      ]
+    },
+    {
+      "title": "เชลซี พบ แมนยู",
+      "approx_traffic": "500+",
+      "published": "Sat, 31 Oct 2026 04:40:00 -0700",
+      "news": [
+        {
+          "title": "⤮@*@((สตรีมมิ่ง)) แมนยู กับ เชลซี ชมการถ่ายทอดสด 31 ตุลาคม 2569",
+          "source": "Port of Rotterdam",
+          "url": "https://www.portofrotterdam.com/sites/default/files/uploads/360panorama/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2h1bWF5cmFrdGVyLmdpdGh1Yi5pby92aWRlby9tLnhtbCIvPjwva3JwYW5vPg==&id=video-chelsea-vs-man-utd-th-003"
+        },
+        {
+          "title": "รายชื่อ 11 ตัวจริง \"เชลซี\" VS \"แมนยู\" บิ๊กแมตช์ พรีเมียร์ลีก อังกฤษ 2026-27",
+          "source": "Thairath.co.th",
+          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2969439"
+        },
+        {
+          "title": "แดนนี่ เวลเบค พูดถึง แมนยู ก่อนช่วย เชลซี ล่าตาข่ายผีแดง ศึกพรีเมียร์ลีก",
+          "source": "Thairath.co.th",
+          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2969581"
+        }
+      ]
+    },
+    {
+      "title": "첼시 대 맨유",
+      "approx_traffic": "20000+",
+      "published": "Sat, 31 Oct 2026 04:30:00 -0700",
+      "news": [
+        {
+          "title": "말 그대로 '초대형 호재'...맨유 '성골유스 MF' 부상 복귀→첼시전 출전 예정! 여전히 캐릭 신뢰, \"진심으로 싸우고 싶은 선수\"",
+          "source": "마이데일리",
+          "url": "https://mydaily.co.kr/page/view/2026102913083210826"
+        },
+        {
+          "title": "8경기 연속 못 이기면서 열차는 7분 지연시킨 맨유의 원정길… 분노한 팬들의 야유 세례, 캐릭 감독에게만 환호",
+          "source": "베스트일레븐",
+          "url": "https://www.besteleven.com/news/articleView.html?idxno=313616"
+        },
+        {
+          "title": "프리미어 리그 9라운드 경기 일정: 리버풀과 아스널, 맨체스터 유나이티드와 첼시의 맞대결.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/lich-ngoai-hang-anh-vong-9-liverpool-dai-chien-arsenal-mu-gap-chelsea"
+        }
+      ]
+    },
+    {
+      "title": "weather tomorrow",
+      "approx_traffic": "5000+",
+      "published": "Sat, 31 Oct 2026 04:30:00 -0700",
+      "news": [
+        {
+          "title": "IMD weather forecast: Will it rain in November? Chhattisgarh, MP, Arunachal should brace for...",
+          "source": "The Week",
+          "url": "https://www.theweek.in/news/india/2026/10/31/imd-weather-forecast-will-it-rain-in-november-chhattisgarh-mp-arunachal-should-brace-for.html"
+        },
+        {
+          "title": "Heavy rainfall continues in Odisha; yellow alert issued for 14 districts",
+          "source": "News On AIR",
+          "url": "https://newsonair.gov.in/heavy-rainfall-continues-in-odisha-yellow-alert-issued-for-14-districts/"
+        },
+        {
+          "title": "Weather tomorrow: IMD forecasts rain, thunderstorms in 16 states; heavy rain alert for Odisha, Andhra Pr",
+          "source": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/city/delhi/weather-tomorrow-imd-forecasts-rain-thunderstorms-in-16-states-heavy-rain-alert-for-odisha-andhra-pradesh-gusty-winds-up-to-70-kmph-likely/articleshow/135389998.cms"
+        }
+      ]
+    },
+    {
+      "title": "thời tiết ngày mai",
+      "approx_traffic": "2000+",
+      "published": "Sat, 31 Oct 2026 04:30:00 -0700",
+      "news": [
+        {
+          "title": "Miền Bắc lại bước vào đợt mưa dông từ đêm nay",
+          "source": "Eva.vn",
+          "url": "https://eva.vn/tin-tuc/mien-bac-lai-buoc-vao-dot-mua-dong-tu-dem-nay-c73a687767.html"
+        },
+        {
+          "title": "Dự báo thời tiết ngày 01/11/2026: Ngày nắng, đêm có mưa rào và dông vài nơi",
+          "source": "moitruong.net.vn",
+          "url": "https://moitruong.net.vn/du-bao-thoi-tiet-ngay-01-11-2026-ngay-nang-dem-co-mua-rao-va-dong-vai-noi-103720.html"
+        },
+        {
+          "title": "Dự báo thời tiết đêm 31/10, ngày 1/11/2026",
+          "source": "Báo Quảng Ninh",
+          "url": "https://baoquangninh.vn/du-bao-thoi-tiet-dem-3110-ngay-1112026-post3425680.html"
+        }
+      ]
+    },
+    {
+      "title": "cuaca besok",
+      "approx_traffic": "500+",
+      "published": "Sat, 31 Oct 2026 04:30:00 -0700",
+      "news": [
+        {
+          "title": "Hujan Sudah Turun di Beberapa Wilayah, Kapan Suhu Panas Berakhir?",
+          "source": "Kompas.com",
+          "url": "https://video.kompas.com/watch/1964270/hujan-sudah-turun-di-beberapa-wilayah-kapan-suhu-panas-berakhir"
+        },
+        {
+          "title": "Mengapa Hujan Turun Padahal Ramalan Cuaca Cerah? Ini Penjelasan BMKG",
+          "source": "MalangTIMES",
+          "url": "https://malangtimes.com/baca/3331352742/20261029/091900/mengapa-hujan-turun-padahal-ramalan-cuaca-cerah-ini-penjelasan-bmkg"
+        },
+        {
+          "title": "Bagaimana Keadaan Cuaca Besok? Cek dengan 5 Cara Mudah Ini",
+          "source": "Bloomberg Technoz",
+          "url": "https://www.bloombergtechnoz.com/detail-news/126050/bagaimana-keadaan-cuaca-besok-cek-dengan-5-cara-mudah-ini"
+        }
+      ]
+    },
+    {
+      "title": "버스",
+      "approx_traffic": "1000+",
+      "published": "Sat, 31 Oct 2026 04:20:00 -0700",
+      "news": [
+        {
+          "title": "\"이 버스 가나요?\" 광주 시내버스 노선 개편 첫날 혼선",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261031031300054"
+        },
+        {
+          "title": "\"늘 타던 버스 맞나\"",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261031_0002279269&pID=1&cID=&sID=1&type=Main&idx=5"
+        },
+        {
+          "title": "광주권 시내버스 노선 31일 전면개편…화순 경유 버스도 경로 변경",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/gwangju-jeonnam/6336136"
+        }
+      ]
+    },
+    {
+      "title": "현대이 지웰",
+      "approx_traffic": "200+",
+      "published": "Sat, 31 Oct 2026 04:10:00 -0700",
+      "news": [
+        {
+          "title": "340만명 사용 복지포인트 쇼핑몰 ‘현대이지웰’, 해킹으로 개인정보 유출",
+          "source": "보안뉴스",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=146907"
+        },
+        {
+          "title": "현대이지웰서 개인정보 유출 사고…사과문 게시",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261030179900030"
+        },
+        {
+          "title": "현대이지웰서 개인정보 유출 사고…“유출 규모 파악 중”",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/topics/topics_social/2026/10/30/IKHPXYQJXJEN3PFIXPEFAQVVJ4/"
+        }
+      ]
+    },
+    {
+      "title": "원희",
+      "approx_traffic": "100+",
+      "published": "Sat, 31 Oct 2026 04:10:00 -0700",
+      "news": [
+        {
+          "title": "아일릿 원희, 삼촌들 정답 스틸에 서운함 폭발…\"너무 신났는데요\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6338740"
+        },
+        {
+          "title": "‘놀토’ 엔믹스·아일릿, 서로 향한 팬심 고백…훈훈한 칭찬 릴레이",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261031/134942875/1"
+        },
+        {
+          "title": "엔믹스 릴리 설윤+아일릿 윤아 원희, 이 조합 유닛 짜면 블핑 안 부러울 기세(놀토)",
+          "source": "뉴스엔",
+          "url": "https://www.newsen.com/news_view.php?uid=202610311005421210&code=100100"
         }
       ]
     }
