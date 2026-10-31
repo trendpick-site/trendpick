@@ -1,11 +1,149 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-31T09:18:34+00:00",
+  "fetched_at": "2026-10-31T10:15:10+00:00",
   "items": [
     {
-      "title": "jtbc 서울 마라톤",
+      "title": "전상현",
       "approx_traffic": "200+",
+      "published": "Sat, 31 Oct 2026 02:10:00 -0700",
+      "news": [
+        {
+          "title": "역투 조상우",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261030_0021512209"
+        },
+        {
+          "title": "“4kg 빠졌다, 내 몸 따질 때 아니야” 30세 마무리의 투혼, 2이닝 퍼펙트 세이브→탈락 위기 KIA 구했다",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112901679"
+        },
+        {
+          "title": "“불펜 투수들도 봐주세요”… 전상현이 떠올린 동료들의 땀",
+          "source": "스포츠월드",
+          "url": "https://www.sportsworldi.com/newsView/20261031503440"
+        }
+      ]
+    },
+    {
+      "title": "플레이오프 5차전",
+      "approx_traffic": "2000+",
+      "published": "Sat, 31 Oct 2026 02:10:00 -0700",
+      "news": [
+        {
+          "title": "삼성 후라도, 2차전 우위 이어갈까…KIA 올러는 대구 설욕 도전, 한국시리즈행 마지막 승부",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=845812"
+        },
+        {
+          "title": "사자굴 다시 가는 호랑이…’안방 vs 확률’ 최후의 일전",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH202610311852566nl"
+        },
+        {
+          "title": "“팀이 이기는게 첫 번째” 198승 대투수가 PS 0경기, 8번째 가을 이렇게 끝나나…무조건 한국시리즈 가야한다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/31/202610311010777215O"
+        }
+      ]
+    },
+    {
+      "title": "k리그2",
+      "approx_traffic": "500+",
+      "published": "Sat, 31 Oct 2026 02:00:00 -0700",
+      "news": [
+        {
+          "title": "[그래도 K리그] ‘최다 8연승’ 도전 수원 vs ‘2위 추격’ 대구 결과는?",
+          "source": "더팩트",
+          "url": "https://news.tf.co.kr/read/soccer/2382967.htm"
+        },
+        {
+          "title": "수원 삼성, 대구와 2-2 무승부…승격 확정 다음 기회로",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/soccer/6338715"
+        },
+        {
+          "title": "[K리그2 프리뷰]'정호연+고종현' 없는 수원 VS '에드가' 돌아온 대구, 올 시즌 마지막 '빅6' 맞대결...출발선 같아진 수원FC-서울E의 2위 경쟁",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/football/2026/10/30/MVQTEMDCGZRGMZLFGIYTSMJUHE/"
+        }
+      ]
+    },
+    {
+      "title": "용인fc 대 서울 이랜드 fc 순위",
+      "approx_traffic": "200+",
+      "published": "Sat, 31 Oct 2026 01:40:00 -0700",
+      "news": []
+    },
+    {
+      "title": "이더리움",
+      "approx_traffic": "200+",
+      "published": "Sat, 31 Oct 2026 01:40:00 -0700",
+      "news": [
+        {
+          "title": "바이낸스 8조4천억 원 해킹 피해…“북한이 배후”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700100"
+        },
+        {
+          "title": "단 20분 만에 8.4조 털어...'트레이더트레이터' 흔적 남기기도 [앵커리포트]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610311606008229"
+        },
+        {
+          "title": "사상 최대 규모인 8조4000억원어치 암호화폐 털렸다...北소행 의심",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/international_general/2026/10/31/C2B4ZCQE3NBYXMX2AJ5CGIP77I/"
+        }
+      ]
+    },
+    {
+      "title": "충남 아산 fc 대 김포",
+      "approx_traffic": "200+",
+      "published": "Sat, 31 Oct 2026 01:30:00 -0700",
+      "news": [
+        {
+          "title": "김포FC, 31일 충남아산과 시즌 마지막 원정…7위 탈환 도전",
+          "source": "신아일보",
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5077790"
+        },
+        {
+          "title": "'2경기 덜 치르고 6점 차' 6위 화성 패배에 충남아산 안드레 감독이 보인 반응은?",
+          "source": "스포츠니어스",
+          "url": "https://www.sports-g.com/news/articleView.html?idxno=217081"
+        },
+        {
+          "title": "충남아산, 김포전에서 할로윈 테마 홈경기 ‘HAUNTED MISSION’ 개최...한교원 400경기 출전 대기록 기념식 진행",
+          "source": "인터풋볼",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=697455"
+        }
+      ]
+    },
+    {
+      "title": "하남시",
+      "approx_traffic": "200+",
+      "published": "Sat, 31 Oct 2026 01:20:00 -0700",
+      "news": [
+        {
+          "title": "‘서울 경계 5km 이내’ 김포·구리 등 7만여 호 신규택지 발표",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8699099"
+        },
+        {
+          "title": "[사설]수도권 주택공급, 정부·지자체 적극 협력해야",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610301833001"
+        },
+        {
+          "title": "수도권 7만 6천여 호 공급‥\"교통이 관건\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6861837_37012.html"
+        }
+      ]
+    },
+    {
+      "title": "jtbc 서울 마라톤",
+      "approx_traffic": "500+",
       "published": "Sat, 31 Oct 2026 01:10:00 -0700",
       "news": [
         {
@@ -26,30 +164,8 @@
       ]
     },
     {
-      "title": "김가영",
-      "approx_traffic": "500+",
-      "published": "Sat, 31 Oct 2026 01:10:00 -0700",
-      "news": [
-        {
-          "title": "[김용일의 당구인사이트] ‘김가영 천하’가 역설적으로 만든 LPBA 춘추전국시대",
-          "source": "mkbn.mk.co.kr",
-          "url": "https://mkbn.mk.co.kr/news/sports/12192384"
-        },
-        {
-          "title": "'0-3→4-3 대역전극' 김보미, 데뷔 7년 만에 LPBA 첫 우승",
-          "source": "뉴시스",
-          "url": "https://nwww.newsis.com/view/NISX20261026_0003840533"
-        },
-        {
-          "title": "‘아름다운 준우승’ 임정숙 \"김보미 우승 누구보다 바랐다…어려운 시기 함께했던 동료\"",
-          "source": "빌리어즈",
-          "url": "https://www.thebilliards.kr/news/articleView.html?idxno=32284"
-        }
-      ]
-    },
-    {
       "title": "aim-120 암람",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Sat, 31 Oct 2026 01:10:00 -0700",
       "news": [
         {
@@ -70,156 +186,24 @@
       ]
     },
     {
-      "title": "sri lanka vs pakistan",
-      "approx_traffic": "1000+",
-      "published": "Sat, 31 Oct 2026 01:00:00 -0700",
-      "news": [
-        {
-          "title": "Pakistan seek perfect finish",
-          "source": "The Express Tribune",
-          "url": "https://tribune.com.pk/story/2637774/pakistan-seek-perfect-finish"
-        },
-        {
-          "title": "Pakistan v Sri Lanka ODI Tips: Runs the best bet again with 11/4 Babar the one to back",
-          "source": "Betfair",
-          "url": "https://betting.betfair.com/cricket/pakistan-cricket/cricket-betting-tips-pakistan-v-sri-lanka-odi-tips-babar-a-bet-at-114-301026-194.html"
-        },
-        {
-          "title": "England hopes dashed as Sri Lanka thumps Pakistan to reach tri-series final",
-          "source": "Chronicle-Tribune",
-          "url": "https://www.chronicle-tribune.com/sports/wire/england-hopes-dashed-as-sri-lanka-thumps-pakistan-to-reach-tri-series-final/article_b510f146-9044-53e4-a4cc-92d17e11c1a6.html"
-        }
-      ]
-    },
-    {
-      "title": "김민",
-      "approx_traffic": "1000+",
-      "published": "Sat, 31 Oct 2026 01:00:00 -0700",
-      "news": [
-        {
-          "title": "김민, 90년 된 집에 소머리 장식? \"옆 동네에서 잡았다\" 경악 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/31/2026103023383743930"
-        },
-        {
-          "title": "김민, 아침부터 땅콩잼 샐러리 뜯더니 '동두천시 운동회'서 야생마 질주..최고의 1분 ('나혼산')",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/31/MJQWCZJRMUYDEMLFGYYWIYLFGI/"
-        },
-        {
-          "title": "“연출 의혹까지 나왔는데”…‘동두천 자연인’ 김민, 화제 속 ‘나혼산’ 재출격",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20107523"
-        }
-      ]
-    },
-    {
-      "title": "수원삼성",
-      "approx_traffic": "1000+",
-      "published": "Sat, 31 Oct 2026 01:00:00 -0700",
-      "news": [
-        {
-          "title": "갈길 바쁜 서울E, 발목 잡혔다! '가브리엘 멀티골' 용인에 2-4 패, 다만 다득점으로 2위 점프...화성도 경남에 0-1 덜미",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/football/2026/10/31/MZSDOMBVGE4WMMJYMI3TAZRTGM/"
-        },
-        {
-          "title": "'6골 난타전 미쳤다!' 용인FC, 서울이랜드에 4-2 완승…가브리엘 멀티골·비티뉴 쐐기포 작렬",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112901953"
-        },
-        {
-          "title": "사상 첫 K리그1 승격 향해 질주하는 서울E... 그 중심엔 박창환이 있다",
-          "source": "오마이스타",
-          "url": "https://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0003280238"
-        }
-      ]
-    },
-    {
-      "title": "현대이지웰",
-      "approx_traffic": "200+",
-      "published": "Sat, 31 Oct 2026 00:40:00 -0700",
-      "news": [
-        {
-          "title": "340만명 사용 복지포인트 쇼핑몰 ‘현대이지웰’, 해킹으로 개인정보 유출",
-          "source": "보안뉴스",
-          "url": "https://www.boannews.com/news/articleView.html?idxno=146907"
-        },
-        {
-          "title": "현대이지웰서 개인정보 유출 사고…사과문 게시",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261030179900030"
-        },
-        {
-          "title": "현대이지웰서 개인정보 유출 사고…“유출 규모 파악 중”",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/topics/topics_social/2026/10/30/IKHPXYQJXJEN3PFIXPEFAQVVJ4/"
-        }
-      ]
-    },
-    {
-      "title": "농협",
-      "approx_traffic": "200+",
-      "published": "Sat, 31 Oct 2026 00:40:00 -0700",
-      "news": [
-        {
-          "title": "강원농협, '2026 강원농협인 소통·공감 포럼' 원주서 개최",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261030133700062"
-        },
-        {
-          "title": "[영상]고랭지 폐기 아픔 딛고…'강원농업인 소통·공감 포럼' 원주서 개최",
-          "source": "MTN 머니투데이방송",
-          "url": "https://news.mtn.co.kr/article/2026103017133382927"
-        },
-        {
-          "title": "농협, 계열사 경영실적 점검…손익 부진 계열사 개선책 논의",
-          "source": "세계일보",
-          "url": "https://m.segye.com/view/20261030510426"
-        }
-      ]
-    },
-    {
-      "title": "pak vs sl",
-      "approx_traffic": "200+",
-      "published": "Sat, 31 Oct 2026 00:40:00 -0700",
-      "news": [
-        {
-          "title": "Final (D/N), Lahore, October 31, 2026, Pakistan ODI Tri-Series",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/pakistan-odi-tri-series-2026-27-1550706/pakistan-vs-sri-lanka-final-1550719/live-cricket-score"
-        },
-        {
-          "title": "SA vs Aus 3rd Test - James Franklin explains why Australia chose to bowl",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/cricket-videos/sa-vs-aus-3rd-test-james-franklin-explains-why-australia-chose-to-bowl-1560809"
-        },
-        {
-          "title": "Cricket Photos - BH-W vs SS-W, 3rd Match Pictures",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/women-s-big-bash-league-2026-27-1543943/brisbane-heat-women-vs-sydney-sixers-women-3rd-match-1543946/match-photo"
-        }
-      ]
-    },
-    {
-      "title": "노시환",
+      "title": "김가영",
       "approx_traffic": "500+",
-      "published": "Sat, 31 Oct 2026 00:30:00 -0700",
+      "published": "Sat, 31 Oct 2026 01:10:00 -0700",
       "news": [
         {
-          "title": "’AG 금메달리스트’ 노시환, 미국 무대 도전…KBO, MLB 사무국에 포스팅 요청",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261031164121v5Z"
+          "title": "[김용일의 당구인사이트] ‘김가영 천하’가 역설적으로 만든 LPBA 춘추전국시대",
+          "source": "mkbn.mk.co.kr",
+          "url": "https://mkbn.mk.co.kr/news/sports/12192384"
         },
         {
-          "title": "[단독] 한화 노시환, 포스팅 요청…MLB행 도전 시작",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824404"
+          "title": "“당구가 싫었다”던 딸 김보미, 아버지 앞에서 7년 한 풀었다",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02719126645616856&mediaCodeNo=257"
         },
         {
-          "title": "'307억' 초대형 계약 사라지나…노시환, ML 도전 공식 선언→포스팅 요청 [오피셜]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/31/HEYDIZRUMFSWMMLDGQ3DSMLGG4/"
+          "title": "‘아름다운 준우승’ 임정숙 \"김보미 우승 누구보다 바랐다…어려운 시기 함께했던 동료\"",
+          "source": "빌리어즈",
+          "url": "https://www.thebilliards.kr/news/articleView.html?idxno=32284"
         }
       ]
     }
