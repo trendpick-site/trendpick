@@ -1,11 +1,187 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-31T07:33:53+00:00",
+  "fetched_at": "2026-10-31T08:24:09+00:00",
   "items": [
     {
+      "title": "hong kong vs pakistan",
+      "approx_traffic": "100+",
+      "published": "Sat, 31 Oct 2026 00:20:00 -0700",
+      "news": [
+        {
+          "title": "Plate, 2nd Semi-Final, Hong Kong International Sixes at Mong Kok, Oct 31 2026",
+          "source": "ESPN",
+          "url": "https://www.espn.com/cricket/series/8768/scorecard/1559208/hong-kong-vs-pakistan-plate-2nd-semi-final-hong-kong-international-sixes-2026-27"
+        },
+        {
+          "title": "Pakistan PM Trolled For Celebrating Hong Kong Sixes 'Victory' Over India",
+          "source": "Rediff",
+          "url": "https://www.rediff.com/cricket/report/pak-pm-trolled-for-celebrating-win-over-india/20261031.htm"
+        },
+        {
+          "title": "India vs Pakistan Live Streaming: When And Where To Watch Hong Kong Sixes 2026 Match Live In India",
+          "source": "NDTV Profit",
+          "url": "https://www.ndtvprofit.com/sports/india-vs-pakistan-when-and-where-to-watch-hong-kong-sixes-2026-match-live-in-india-12256170"
+        }
+      ]
+    },
+    {
+      "title": "주영진",
+      "approx_traffic": "500+",
+      "published": "Sat, 31 Oct 2026 00:10:00 -0700",
+      "news": [
+        {
+          "title": "[클로징] 주영진 앵커가 전하는 마지막 인사…\"시청자 여러분 고맙습니다\"",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823354"
+        },
+        {
+          "title": "주영진 앵커 마지막 인사 “SBS 뉴스 새롭게 바꾸는 일에 매진”",
+          "source": "미디어오늘",
+          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=338116"
+        },
+        {
+          "title": "[인사] 재정경제부 외",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/obituary-personnel/2026/10/24/QINEEIBNQFFX5KEDV5C62G6CWQ/"
+        }
+      ]
+    },
+    {
+      "title": "김주형",
+      "approx_traffic": "200+",
+      "published": "Sat, 31 Oct 2026 00:10:00 -0700",
+      "news": [
+        {
+          "title": "휴식 취한 김주형, PGA 투어 멕시코 오픈 첫날 67타 공동 22위",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8699605"
+        },
+        {
+          "title": "김주형, PGA 투어 비단타월드 멕시코 오픈 2라운드 공동 26위…오구 플레이 2벌타 받아",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261031500254"
+        },
+        {
+          "title": "'오구 플레이 벌타' 김주형, 멕시코 오픈 2R 공동 26위",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261031020300007"
+        }
+      ]
+    },
+    {
+      "title": "백신",
+      "approx_traffic": "200+",
+      "published": "Sat, 31 Oct 2026 00:00:00 -0700",
+      "news": [
+        {
+          "title": "“코로나백신 맞고 암” 실제 3600만명 추적 의외 결과",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11627409"
+        },
+        {
+          "title": "코로나 백신 맞으면 암 걸린다? 확인해 봤더니 [자막뉴스]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0134_202610311333243101"
+        },
+        {
+          "title": "코로나 백신 ‘필수접종’ 됐는데…“맞으면 암 걸린다?” 50개월 추적해 보니 [헬시타임]",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20107908"
+        }
+      ]
+    },
+    {
+      "title": "광주 대 김천상무",
+      "approx_traffic": "2000+",
+      "published": "Fri, 30 Oct 2026 23:50:00 -0700",
+      "news": [
+        {
+          "title": "[현장목소리] ‘충전 완료’ 광주FC 중원의 한 축 유제호, “3선 MF 역할 처음인데 많이 적응”",
+          "source": "스포탈코리아",
+          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553662004"
+        },
+        {
+          "title": "김천상무, 광주 원정서 파이널 라운드 첫 승 정조준!",
+          "source": "데일리대구경북뉴스",
+          "url": "https://www.dailydgnews.com/news/article.html?no=267676"
+        },
+        {
+          "title": "‘세 번 비긴 광주, 이번엔 잡는다!’… 김천 상무, 박태준 등 ‘광주 출신’ 앞세워 승점 사냥 나선다",
+          "source": "베스트일레븐",
+          "url": "https://www.besteleven.com/news/articleView.html?idxno=313601"
+        }
+      ]
+    },
+    {
+      "title": "앤 트로픽",
+      "approx_traffic": "2000+",
+      "published": "Fri, 30 Oct 2026 23:50:00 -0700",
+      "news": [
+        {
+          "title": "Blackstone, “Anthropic은 IPO 이후에도 투자적격 신용등급을 받지 못할 수 있어”",
+          "source": "GeekNews",
+          "url": "https://news.hada.io/topic?id=36306"
+        },
+        {
+          "title": "AI 수익성 의문 지운 앤트로픽…반도체 다음 병목은 ‘전력’",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374024"
+        },
+        {
+          "title": "앤트로픽 몸값 '2조 달러' 거론…SKT 지분가치 또 뛸까",
+          "source": "MTN 머니투데이방송",
+          "url": "https://news.mtn.co.kr/article/2026103016360311215"
+        }
+      ]
+    },
+    {
+      "title": "정유시설",
+      "approx_traffic": "500+",
+      "published": "Fri, 30 Oct 2026 23:40:00 -0700",
+      "news": [
+        {
+          "title": "“사람들이 가게에 가고, 커피를 마시고, 거리를 걷는다”···러·우 국지 휴전으로 5년 만에 찾아온 일상",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610301651001"
+        },
+        {
+          "title": "\"우크라, 러 정유시설 공격 재개...트럼프 대놓고 무시\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0104_202610310619567975_005.html"
+        },
+        {
+          "title": "러·우크라 국지휴전 나흘째 올레시키 고립 주민들 대피 시작",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261030183300108"
+        }
+      ]
+    },
+    {
+      "title": "상장",
+      "approx_traffic": "100+",
+      "published": "Fri, 30 Oct 2026 23:40:00 -0700",
+      "news": [
+        {
+          "title": "“상장 첫날 던지라는 말이 맞나요”…한국증시 암울하게 하는 새내기주",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/stock/12192354"
+        },
+        {
+          "title": "[디깅노트] IPO 제도는 강화됐다는데 장밋빛 몸값은 여전하다",
+          "source": "블로터",
+          "url": "https://www.bloter.net/news/articleView.html?idxno=676994"
+        },
+        {
+          "title": "신규 상장사 10곳 중 8곳 손실권...NH·하나증권 주관 IPO 모두 공모가 미달",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=353155"
+        }
+      ]
+    },
+    {
       "title": "패딩",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Fri, 30 Oct 2026 23:20:00 -0700",
       "news": [
         {
@@ -26,186 +202,26 @@
       ]
     },
     {
-      "title": "앤트로픽",
-      "approx_traffic": "500+",
-      "published": "Fri, 30 Oct 2026 23:20:00 -0700",
-      "news": [
-        {
-          "title": "앤트로픽, '20배 사용량' 혼선에 요금제 개편…5시간 제한 폐지",
-          "source": "AI타임스",
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=216846"
-        },
-        {
-          "title": "앤스로픽, 월 200달러 클로드 요금제 ‘5시간 제한’ 없앤다…밤샘 코딩 가능",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02050006645618496&mediaCodeNo=257"
-        },
-        {
-          "title": "클로드 맥스 20x, ‘울트라’로 변경…인증 계정은 5시간 제한 폐지",
-          "source": "AI 매터스",
-          "url": "https://aimatters.co.kr/news-report/58111/"
-        }
-      ]
-    },
-    {
-      "title": "일본",
+      "title": "이서진",
       "approx_traffic": "2000+",
-      "published": "Fri, 30 Oct 2026 23:00:00 -0700",
+      "published": "Fri, 30 Oct 2026 23:10:00 -0700",
       "news": [
         {
-          "title": "\"우린 이긴 게 아냐\"…축배 들던 일본 덮친 '공포의 그림자' [도쿄나우]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610317202i"
+          "title": "무엇이든 해줄지니 - 비서진 : 이서진×하지원, 꿈에 그리던 F1 현장에서 직관하며 도파민 상승",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/enter/mygeniesecretary/clip/90105/OC482692081"
         },
         {
-          "title": "\"물가 목표 2% 도달\"...일본은행, 기준금리 '동결'",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202610302306395249"
-        },
-        {
-          "title": "美·유럽·日 나란히 동결 … 반도체 호황에 한은만 인상 저울질, '금리 분화' 갈림길",
-          "source": "뉴데일리",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/30/2026103000289.html"
-        }
-      ]
-    },
-    {
-      "title": "고발",
-      "approx_traffic": "200+",
-      "published": "Fri, 30 Oct 2026 23:00:00 -0700",
-      "news": [
-        {
-          "title": "‘8차 소환’ 김병기 “악의와 거짓으로 점철된 고발…수사 신속히 마무리해달라”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610311111001"
-        },
-        {
-          "title": "구속영장 반려 50일만에 소환된 김병기 \"무혐의 입증할 것\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261031023200004"
-        },
-        {
-          "title": "김병기, 6개월 만에 경찰 재출석‥증거인멸 의혹 조사",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6862168_36918.html"
-        }
-      ]
-    },
-    {
-      "title": "르윈 디아즈",
-      "approx_traffic": "500+",
-      "published": "Fri, 30 Oct 2026 22:50:00 -0700",
-      "news": [
-        {
-          "title": "\"위선적인 사람들, 어떤 것도 요구하지 말라\" 디아즈, 도 넘은 악플 테러에 또 폭발했다",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112901726"
-        },
-        {
-          "title": "'선 넘었다' 충격의 악플 테러, 결국 삼성 외인 또 폭발했다…\"내가 만난 사람 중 가장 위선적\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/31/MVSDGYRSMMZDOYLGMRSDEMZYGM/"
-        },
-        {
-          "title": "'충격' 삼성 선수 아내 향해 '입에 담을 수도 없는 욕설' 퍼부어 \"제 가족 향해 온갖 저주와 악담, 건강까지 나빠졌다... 강아지 3마리 모두 수술\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/31/2026103016491424653"
-        }
-      ]
-    },
-    {
-      "title": "원자력 발전소",
-      "approx_traffic": "500+",
-      "published": "Fri, 30 Oct 2026 22:50:00 -0700",
-      "news": [
-        {
-          "title": "아프리카 48개국 러시아로 부른 푸틴…영향력 확대 나서",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029211800099"
-        },
-        {
-          "title": "나미비아 대통령과 회담하는 푸틴 대통령",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20261030_0002278678"
-        },
-        {
-          "title": "푸틴의 아프리카 공세, 냉전 시절 소련의 재현",
-          "source": "OhmyNews",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003280205"
-        }
-      ]
-    },
-    {
-      "title": "이순 실",
-      "approx_traffic": "5000+",
-      "published": "Fri, 30 Oct 2026 22:40:00 -0700",
-      "news": [
-        {
-          "title": "102kg였던 이순실 \"10개월 동안 43kg 감량, 시니어 모델 도전\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6338531"
-        },
-        {
-          "title": "이순실, 10개월 만에 43kg 감량…171cm·59kg로 시니어 모델 도전 (사당귀)",
+          "title": "이서진X하지원, 23년 만 재회에 다정…“‘다모’ 다시 찍겠는데” (비서진)",
           "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261031/134942351/1"
+          "url": "https://sports.donga.com/ent/article/all/20261031/134942441/1"
         },
         {
-          "title": "'사당귀' 이순실, 10개월 동안 43kg 감량 성공…\"다른 사람 돼\"",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01849926645618496&mediaCodeNo=257"
+          "title": "‘시크릿가든’ 거품키스가 애드리브?..이서진, 김광규에 “큰일난다” 황당 (‘비서진’)[순간포착]",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/31/MZRDKNJZMIZGMNZVGRSTKY3CGM/"
         }
       ]
-    },
-    {
-      "title": "라이언 와이스",
-      "approx_traffic": "2000+",
-      "published": "Fri, 30 Oct 2026 22:40:00 -0700",
-      "news": [
-        {
-          "title": "'67억 옵션 거부' 와이스 자유의 몸 됐다, 그런데 한화 말고도 탐내는 구단이 있다? \"신속하게 영입해야 해\"",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016679"
-        },
-        {
-          "title": "'한화 출신' 와이스, MLB 휴스턴 떠나 FA 신분…KBO리그 복귀하나",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261030_0003848374"
-        },
-        {
-          "title": "'한화 어쩌나' 美도 와이스 관심 보인다…\"빠듯한 자금력 구단, 지체없이 움직여야 한다\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/10/31/GM2WEZJXMVTGEN3CME2TEY3DGU/"
-        }
-      ]
-    },
-    {
-      "title": "샘 올트먼",
-      "approx_traffic": "100+",
-      "published": "Fri, 30 Oct 2026 22:40:00 -0700",
-      "news": [
-        {
-          "title": "[단독] 최태원 SK그룹 회장 샘 올트먼 오픈AI CEO와 오찬",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/business/12192433"
-        },
-        {
-          "title": "삼성 사장단 50여명, 샘 올트먼 만났다…AI 미래전략 머리 맞대",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261031030700003"
-        },
-        {
-          "title": "삼성 수뇌부, 샘 올트먼 초청해 주말 ‘AI 간담회’",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/industry-company/2026/10/31/UTFOAXEEMFCXZCRTD6AFEOK7IE/"
-        }
-      ]
-    },
-    {
-      "title": "용인fc 대 서울e",
-      "approx_traffic": "1000+",
-      "published": "Fri, 30 Oct 2026 22:10:00 -0700",
-      "news": []
     }
   ]
 }
