@@ -1,11 +1,77 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-31T20:14:01+00:00",
+  "fetched_at": "2026-10-31T21:13:39+00:00",
   "items": [
     {
+      "title": "김민재",
+      "approx_traffic": "2000+",
+      "published": "Sat, 31 Oct 2026 13:00:00 -0700",
+      "news": [
+        {
+          "title": "\"김민재가 더 잘한다\" 바이에른 주전 경쟁 판도 뒤집혔다...독일 국대 수비수 벤치 신세, 에이전트는 구단과 극비 회담",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112901786"
+        },
+        {
+          "title": "사타구니부상 '김민재, 마침내 복귀 임박!' 바이에른 벤치 돌아왔다…도르트문트전 출격 가능성 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/31/202610311059776900O"
+        },
+        {
+          "title": "獨매체의 공식 인증, 바이에른 주전 센터백은 타 아닌 김민재! '속도에서 훨씬 앞서'...\"도르트문트-아틀레티코 2연전 선발 복귀할 듯\" 전망",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/10/31/GRSGCNRSHFRDQNBXMUYDSZJYHA/"
+        }
+      ]
+    },
+    {
+      "title": "barcelona vs alavés",
+      "approx_traffic": "500+",
+      "published": "Sat, 31 Oct 2026 12:50:00 -0700",
+      "news": [
+        {
+          "title": "Opción ‘Licha’ Martínez en el Atlético",
+          "source": "Diario AS",
+          "url": "https://as.com/futbol/internacional/opcion-licha-martinez-en-el-atletico-f202610-n/"
+        },
+        {
+          "title": "¿Se avecina la salida de Lisandro Martinez? El Barcelona estudia el sorprendente fichaje del defensa del Manchester United tras su encontronazo con Jason Wilcox",
+          "source": "Yahoo",
+          "url": "https://es-us.noticias.yahoo.com/deportes/avecina-salida-lisandro-martinez-barcelona-084016734.html"
+        },
+        {
+          "title": "El Clásico se convierte en una pesadilla para una estrella del Madrid: ladrones irrumpen en su casa y roban objetos de valor",
+          "source": "Goal.com",
+          "url": "https://www.goal.com/es-mx/noticias/el-clasico-se-convierte-en-una-pesadilla-para-una-estrella-del-madrid-ladrones-irrumpen-en-su-casa-y-roban-objetos-de-valor/blt9c20898a68c2ff8f"
+        }
+      ]
+    },
+    {
+      "title": "lcs",
+      "approx_traffic": "200+",
+      "published": "Sat, 31 Oct 2026 12:50:00 -0700",
+      "news": [
+        {
+          "title": "Hanwha Lifee Sports Faces Bilibili in Quarterfinals Decider",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/10/31/JCTWETKKN5CAJIBSYU3RXP2NYQ/"
+        },
+        {
+          "title": "October 31, 2026: Bilibili Gaming vs. Hanwha Life Esports Esports Prediction Market",
+          "source": "Robinhood",
+          "url": "https://robinhood.com/us/en/prediction-markets/esports/events/bilibili-gaming-vs-hanwha-life-esports-oct-31-2026/"
+        },
+        {
+          "title": "Worlds 2026: LOS and HLE advance to the 2-2 bracket",
+          "source": "Sheep Esports",
+          "url": "https://www.sheepesports.com/en/articles/worlds-2026-los-and-hle-advance-to-the-2-2-bracket/en"
+        }
+      ]
+    },
+    {
       "title": "바르셀로나 대 알라베스",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Sat, 31 Oct 2026 12:10:00 -0700",
       "news": [
         {
@@ -26,30 +92,96 @@
       ]
     },
     {
+      "title": "thứ hạng của chelsea gặp man utd",
+      "approx_traffic": "500+",
+      "published": "Sat, 31 Oct 2026 12:10:00 -0700",
+      "news": [
+        {
+          "title": "Nhận định Chelsea vs MU, 19h30 ngày 31/10/2026 - Ngoại hạnh Anh",
+          "source": "Thể Thao 247",
+          "url": "https://thethao247.vn/190556-nhan-dinh-chelsea-vs-mu-ac-mong-tai-london-19h30-ngay-31-10-2026-c288-d442731.html"
+        },
+        {
+          "title": "Phản ứng của Michael Carrick sau thẻ đỏ của Lisandro Martinez",
+          "source": "yeuthethao.net.vn",
+          "url": "https://yeuthethao.net.vn/phan-ung-cua-michael-carrick-sau-the-do-cua-lisandro-martinez-d900782.html"
+        },
+        {
+          "title": "CĐV ngán ngẩm với pha phòng ngự \"tấu hài\" của dàn sao MU",
+          "source": "bongda.com.vn",
+          "url": "https://bongda.com.vn/cdv-ngan-ngam-voi-pha-phong-ngu-tau-hai-cua-dan-sao-mu-d853295.html"
+        }
+      ]
+    },
+    {
+      "title": "bundesliga",
+      "approx_traffic": "100+",
+      "published": "Sat, 31 Oct 2026 11:40:00 -0700",
+      "news": [
+        {
+          "title": "FC Bayern und Harry Kane feiern sich gegen den BVB zu früh",
+          "source": "sportschau.de",
+          "url": "https://www.sportschau.de/fussball/bundesliga/bayern-und-kane-feiern-sich-gegen-bvb-zu-frueh,spielbericht-bayern-muenchen-borussia-dortmund-112.html"
+        },
+        {
+          "title": "Fußball : Laimer trifft bei Remis im deutschen Schlager",
+          "source": "sport.ORF.at",
+          "url": "https://sport.orf.at/stories/3164316/"
+        },
+        {
+          "title": "Video: Pressekonferenz nach FC Bayern - Bor. Dortmund",
+          "source": "FC Bayern",
+          "url": "https://fcbayern.com/fcbayerntv/de/video/2026/10/die-pressekonferenz-nach-dem-topspiel-gegen-borussia-dortmund"
+        }
+      ]
+    },
+    {
       "title": "레알 베티스 대 말라가",
       "approx_traffic": "100+",
       "published": "Sat, 31 Oct 2026 11:30:00 -0700",
       "news": [
         {
-          "title": "Milan vs. Ferencvaros (Nov 5, 2026) Odds and Spread",
-          "source": "ESPN",
-          "url": "https://www.espn.com/soccer/odds/_/gameId/401915534"
+          "title": "Real Betis vs Málaga: Spanish La Liga stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cr78pxn97j46t"
         },
         {
-          "title": "Treynor Cleeland throws 38-yard TD pass to Zach Jones",
-          "source": "ESPN",
-          "url": "https://www.espn.com/video/clip/_/id/50338854/treynor-cleeland-throws-38-yard-td-pass-zach-jones"
+          "title": "🚨Confirmed XIs: Emotional Andalusian derby at La Cartuja",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/confirmed-xis-emotional-andalusian-derby-164000709.html"
         },
         {
-          "title": "Milan vs. Inter Milan (31 Oct, 2026) Team Stats",
-          "source": "ESPN",
-          "url": "https://www.espn.co.uk/football/team-stats/_/gameId/401874795/league/ita.1"
+          "title": "Real Betis vs Malaga - Prediction, where to watch, kick-off time and line-ups 31-10-2026",
+          "source": "OneFootball",
+          "url": "https://onefootball.com/en/betting/predictions/real-betis-vs-malaga-31-10-2026"
+        }
+      ]
+    },
+    {
+      "title": "mkoi",
+      "approx_traffic": "100+",
+      "published": "Sat, 31 Oct 2026 11:30:00 -0700",
+      "news": [
+        {
+          "title": "CTBC Flying Oyster vs. Karmine Corp: Game 2 Winner",
+          "source": "Coinbase",
+          "url": "https://www.coinbase.com/predictions/event/KXLOLMAP-26OCT291900CFOKC-2"
+        },
+        {
+          "title": "Europe's Survivor Is KC! Defeats MKOI to Advance to Quarterfinals",
+          "source": "Inven Global",
+          "url": "https://www.invenglobal.com/articles/27979/europes-survivor-is-kc-defeats-mkoi-to-advance-to-quarterfinals"
+        },
+        {
+          "title": "Karmine Corp sweep CTBC Flying Oyster to eliminate last LCP team at Worlds 2026",
+          "source": "GINX TV",
+          "url": "https://www.ginx.tv/en/karmine-corp-sweep-ctbc-flying-oyster-to-eliminate-last-lcp-team-at-worlds-2026"
         }
       ]
     },
     {
       "title": "spurs vs palace",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Sat, 31 Oct 2026 11:20:00 -0700",
       "news": [
         {
@@ -63,9 +195,9 @@
           "url": "https://www.skysports.com/football/news/13604412/premier-league-predictions-and-jones-knows-best-bets-liverpool-vs-arsenal-crystal-palace-vs-tottenham-and-much-more"
         },
         {
-          "title": "Palace down to 10 early at Spurs; Brighton stun City; United lose again",
-          "source": "OneFootball",
-          "url": "https://onefootball.com/en/news/palace-down-to-10-early-at-spurs-brighton-stun-city-united-lose-again-43702098"
+          "title": "Team A vs Team B Football Match Stats | Player & Team Statistics in Real-Time",
+          "source": "Firstpost",
+          "url": "https://www.firstpost.com/football-news/live-score/stats/bet-vs-mag-191496/"
         }
       ]
     },
@@ -88,138 +220,6 @@
           "title": "‘韓 국대’ 오현규, 오는 1월 ‘프리미어리그 입성’ 토트넘 유니폼 입고 가능할까···“여름은 몰라도 겨울 이적...",
           "source": "스포츠경향",
           "url": "https://sports.khan.co.kr/article/202610301919003"
-        }
-      ]
-    },
-    {
-      "title": "바이에른 뮌헨",
-      "approx_traffic": "200+",
-      "published": "Sat, 31 Oct 2026 11:00:00 -0700",
-      "news": [
-        {
-          "title": "\"김민재가 더 잘한다\" 바이에른 주전 경쟁 판도 뒤집혔다...독일 국대 수비수 벤치 신세, 에이전트는 구단과 극비 회담",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112901786"
-        },
-        {
-          "title": "사타구니부상 '김민재, 마침내 복귀 임박!' 바이에른 벤치 돌아왔다…도르트문트전 출격 가능성 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/31/202610311059776900O"
-        },
-        {
-          "title": "獨매체의 공식 인증, 바이에른 주전 센터백은 타 아닌 김민재! '속도에서 훨씬 앞서'...\"도르트문트-아틀레티코 2연전 선발 복귀할 듯\" 전망",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/10/31/GRSGCNRSHFRDQNBXMUYDSZJYHA/"
-        }
-      ]
-    },
-    {
-      "title": "트위치",
-      "approx_traffic": "200+",
-      "published": "Sat, 31 Oct 2026 10:40:00 -0700",
-      "news": [
-        {
-          "title": "엔씨, 김택진 대표 중심 게임 경쟁력 강화… 글로벌 신작 확대",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261030/134932454/1"
-        },
-        {
-          "title": "엔씨 '아이온2' 日 스팀 3주 연속 매출 1위",
-          "source": "MTN 머니투데이방송",
-          "url": "https://news.mtn.co.kr/article/2026103016220346703"
-        },
-        {
-          "title": "엔씨 '아이온2', 일본서 3주 연속 판매 1위…유럽·남미서도 흥행",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610306269i"
-        }
-      ]
-    },
-    {
-      "title": "ngoại hạng anh",
-      "approx_traffic": "100+",
-      "published": "Sat, 31 Oct 2026 10:30:00 -0700",
-      "news": [
-        {
-          "title": "Kết quả bóng đá Man City - Brighton: Đánh sập Etihad (Ngoại hạng Anh)",
-          "source": "Tin tức 24h",
-          "url": "https://www.24h.com.vn/bong-da/ket-qua-bong-da-man-city-brighton-danh-sap-etihad-ngoai-hang-anh-c48a1807376.html"
-        },
-        {
-          "title": "Man City thua trận thứ hai liên tiếp ở Ngoại hạng Anh",
-          "source": "VnExpress",
-          "url": "https://vnexpress.net/man-city-thua-tran-thu-hai-lien-tiep-o-ngoai-hang-anh-5139255.html"
-        },
-        {
-          "title": "Dự đoán kết quả và đội hình ra sân trận Man City vs Brighton",
-          "source": "VOV.VN",
-          "url": "https://vov.vn/the-thao/du-doan-ket-qua-va-doi-hinh-ra-san-tran-man-city-vs-brighton-post1346001.vov"
-        }
-      ]
-    },
-    {
-      "title": "twitch",
-      "approx_traffic": "200+",
-      "published": "Sat, 31 Oct 2026 10:20:00 -0700",
-      "news": [
-        {
-          "title": "Twitch gains 4% to 4.51bn hours in Q3 as Kick grows 30.7%",
-          "source": "PPC Land",
-          "url": "https://ppc.land/twitch-gains-4-to-4-51bn-hours-in-q3-as-kick-grows-30-7/"
-        },
-        {
-          "title": "'Elden Ring' Will Be Biggest Movie At A Market, Amazon Joins A24 Film",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/10/elden-ring-biggest-movie-on-sale-market-amazon-joins-a24-1237201368/"
-        },
-        {
-          "title": "Forget 'The Winds of Winter,' George R. R. Martin's New Epic Fantasy Is Reportedly A24’s Most Expensive Movie Yet",
-          "source": "IMDb",
-          "url": "https://www.imdb.com/news/ni66087624/?ref_=nmnw_art_perm"
-        }
-      ]
-    },
-    {
-      "title": "바이에른 대 도르트문트",
-      "approx_traffic": "5000+",
-      "published": "Sat, 31 Oct 2026 09:40:00 -0700",
-      "news": [
-        {
-          "title": "'김민재 선발! 요나탄 타는 벤치' 콤파니의 선택은 韓 철기둥이었다...바이에른, 도르트문트와 분데스리가 1위 놓고 정면충돌",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112902057"
-        },
-        {
-          "title": "바이에른 뮌헨 vs 보루시아 도르트문트 예측: 선두 자리를 향한 경쟁이 더욱 치열해집니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-bayern-munchen-vs-borussia-dortmund-cuoc-dua-ngoi-dau-nong-len"
-        },
-        {
-          "title": "분데스리가 바이에른 뮌헨 대 도르트문트 생중계 링크",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-bayern-munich-vs-dortmund-tai-bundesliga-1792458.ldo"
-        }
-      ]
-    },
-    {
-      "title": "헐 시티 대 입스위치",
-      "approx_traffic": "100+",
-      "published": "Sat, 31 Oct 2026 09:20:00 -0700",
-      "news": [
-        {
-          "title": "Hull City 2-2 Ipswich: Stunning Julio Enciso strike earns visitors point as Tigers' winless run extends to seven games",
-          "source": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/13606108/hull-city-2-2-ipswich-stunning-julio-enciso-strike-earns-visitors-point-as-tigers-winless-run-extends-to-seven-games"
-        },
-        {
-          "title": "Premier League: Sergej Jakirovic post match interview",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/videos/ck0e0y180z90o"
-        },
-        {
-          "title": "Hull 2-2 Ipswich (Oct 31, 2026) Game Analysis",
-          "source": "ESPN",
-          "url": "https://www.espn.com/soccer/report/_/gameId/401878763"
         }
       ]
     }
