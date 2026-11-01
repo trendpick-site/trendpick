@@ -1,8 +1,146 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-01T07:38:26+00:00",
+  "fetched_at": "2026-11-01T08:26:02+00:00",
   "items": [
+    {
+      "title": "india vs new zealand",
+      "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 00:20:00 -0700",
+      "news": [
+        {
+          "title": "Vaibhav Sooryavanshi Snubbed Again As India Make 2 Changes In Playing XI For 5th T20I",
+          "source": "NDTV Sports",
+          "url": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/vaibhav-sooryavanshi-snubbed-again-as-india-make-2-changes-in-playing-xi-for-5th-t20i-12266375"
+        },
+        {
+          "title": "New Zealand field in final T20I; Bhuvneshwar and Varun in for India",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/story/nz-vs-ind-5th-t20i-new-zealand-field-bhuvneshwar-kumar-and-varun-chakravarthy-in-for-india-1560931"
+        },
+        {
+          "title": "Ready for Action one last time in NZ v IND T20Is",
+          "source": "BCCI",
+          "url": "https://www.bcci.tv/videos/s-ready-for-action-one-last-time-in-nz-v-ind-t20is-tbcul"
+        }
+      ]
+    },
+    {
+      "title": "울산 hd fc 대 강원 fc 순위",
+      "approx_traffic": "5000+",
+      "published": "Sun, 1 Nov 2026 00:10:00 -0700",
+      "news": [
+        {
+          "title": "’에릭 멀티골’ 프로축구 울산, 강원에 2-1 역전승…2위 사수",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261101170004V3F"
+        },
+        {
+          "title": "K리그1 울산, 강원에 2-1 역전승…포항은 제주와 무승부",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261101_0003849749"
+        },
+        {
+          "title": "[울산 토크박스] '이동경 제로톱 카드' 김현석 울산 감독 “득점 많고 실점 적었다”…정경호 강원 감독 \"생각하지 못했던 멤버, 피드백 다시\"",
+          "source": "스포츠월드",
+          "url": "https://www.sportsworldi.com/newsView/20261101506455"
+        }
+      ]
+    },
+    {
+      "title": "오타니 쇼헤이",
+      "approx_traffic": "500+",
+      "published": "Sun, 1 Nov 2026 00:10:00 -0700",
+      "news": [
+        {
+          "title": "이게 1조짜리 선수의 인성… 부친상 동료에 오타니가 건넨 한 마디, \"평생 못 잊을 것\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/10/31/GEZTEZDEGRRTKNZZMVSGCZDCHA/"
+        },
+        {
+          "title": "오타니가 '부친상' 동료를 챙기는 방법…이러니 감동 받을 수밖에 \"세계 최고의 선수, 얼마나 마음 따뜻한지\"",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016781"
+        },
+        {
+          "title": "\"아버지 돌아가셨는데, 오타니에게 전화가 왔다\" 이게 1조짜리 선수 인성",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/baseball/2026-10-31/202611010100001410014251"
+        }
+      ]
+    },
+    {
+      "title": "윤종훈",
+      "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 00:00:00 -0700",
+      "news": [
+        {
+          "title": "배우 윤종훈, 11세 연하 한은서와 백년가약",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261101/134943465/1"
+        },
+        {
+          "title": "윤종훈, 11세 연하 ♥한은서와 오늘 결혼…“평생 함께할 사람”",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20108650"
+        },
+        {
+          "title": "윤종훈♥한은서, 10살 차이 극복하고 오늘(1일) 결혼..\"책임감 있게 살 것\" [Oh!쎈 이슈]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/01/GY3DCNBSGVQTOMBWMVSGINTGGI/"
+        }
+      ]
+    },
+    {
+      "title": "탑",
+      "approx_traffic": "100+",
+      "published": "Sat, 31 Oct 2026 23:50:00 -0700",
+      "news": [
+        {
+          "title": "탑, 20년 운영 팬페이지 폐쇄에 사과..\"소중한 세월이 오해로 남지않길\" [공식]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/01/MEZTAMDEMMYDONZVMUYTMM3CGY/"
+        },
+        {
+          "title": "빅뱅 출신 탑, '20년' 팬사이트 폐쇄에 결국 사과 \"상처 드려 죄송\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261101_0003849707"
+        },
+        {
+          "title": "마약→은퇴 번복 다 참아줬는데..'빅뱅 출신' 탑, 20년 팬 손절에 뒤늦은 사과 [스타이슈]",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/music/2026/11/01/2026110111471211218"
+        }
+      ]
+    },
+    {
+      "title": "fc 서울 대 인천",
+      "approx_traffic": "5000+",
+      "published": "Sat, 31 Oct 2026 23:40:00 -0700",
+      "news": []
+    },
+    {
+      "title": "로이킴",
+      "approx_traffic": "1000+",
+      "published": "Sat, 31 Oct 2026 23:40:00 -0700",
+      "news": [
+        {
+          "title": "로이킴 추락사고, 무대서 갑자기 쿵 “14년 만에 떨어져 봤다”",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261101/134943410/1"
+        },
+        {
+          "title": "로이킴, 14년 만에 공연 중 부상 뒤늦게 공개 “뼈 안 부러진 게 천만다행”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610301713003"
+        },
+        {
+          "title": "로이킴, 콘서트 한 달 앞두고 ‘무대서 추락’…“14년 만 떨어져봤다”",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12191449"
+        }
+      ]
+    },
     {
       "title": "코스피 200",
       "approx_traffic": "200+",
@@ -31,9 +169,9 @@
       "published": "Sat, 31 Oct 2026 23:30:00 -0700",
       "news": [
         {
-          "title": "한준수 '내가 해냈어요'",
+          "title": "1년 만에 반등 성공한 KIA, 한국시리즈 우승 향해 다시 뛴다",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/PYH20261030194100054"
+          "url": "https://www.yna.co.kr/view/AKR20261101035700007"
         },
         {
           "title": "‘94구→3일 휴식→99구’ 역대급 투혼 외인 에이스 “치어리더처럼 응원하겠다, 정말 KS 가고 싶어” [PO5]",
@@ -58,158 +196,14 @@
           "url": "https://www.hankyung.com/article/2026110178927"
         },
         {
+          "title": "외국인도 반한 ‘뚱바’… 빙그레 바나나맛우유, 해외 매출 4년 새 96% 증가",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3444902"
+        },
+        {
           "title": "빙그레 바나나맛우유 수출 4년새 두배…해외에 4번째 법인 설립",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20261031036600030"
-        },
-        {
-          "title": "빙그레 바나나맛우유, 해외 매출 4년 새 96%↑… 호주 생산기지로 글로벌 공략",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261101500263"
-        }
-      ]
-    },
-    {
-      "title": "김지찬",
-      "approx_traffic": "200+",
-      "published": "Sat, 31 Oct 2026 23:10:00 -0700",
-      "news": [
-        {
-          "title": "김지찬, 적시타 치고 도루까지",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261101_0021513578"
-        },
-        {
-          "title": "[사진] 득점 올린 강민호와 이재원, 박진만 감독과 하이파이브",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/01/GI2GGZRZHEZTKMRZMUYDKNRRGQ/"
-        },
-        {
-          "title": "[한번에쓱]카스트로 키 넘기며 '6회말 양현종 상대로 1타점 3루타' 김지찬 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/01/2026110116073826086"
-        }
-      ]
-    },
-    {
-      "title": "스포츠",
-      "approx_traffic": "200+",
-      "published": "Sat, 31 Oct 2026 23:00:00 -0700",
-      "news": [
-        {
-          "title": "고교야구 타격왕 송현우 로드FC 데뷔전 승리",
-          "source": "m.mksports.co.kr",
-          "url": "https://www.mksports.co.kr/news/breaking-news/12192742"
-        },
-        {
-          "title": "K리그2 수원FC, 안산에 1-0 승리",
-          "source": "기호일보",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3039519"
-        },
-        {
-          "title": "'승격권 상대로 박빙 승부' 고춧가루 뿌릴 뻔한 최문식 안산 감독 \"골만 넣었다면...\" [수원 현장] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/01/2026110112385193658"
-        }
-      ]
-    },
-    {
-      "title": "kbo",
-      "approx_traffic": "2000+",
-      "published": "Sat, 31 Oct 2026 22:50:00 -0700",
-      "news": [
-        {
-          "title": "Samsung Lions Target Oler Early in Decisive Playoff Game",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/11/01/RJ3ZLAVTJBAB3IYBH4YUJAT3NU/"
-        },
-        {
-          "title": "Díaz pulls a 146-kph fastball; KIM Do-young drives a 152-kph heater the other way... Home-run showdown between Díaz and KIM Do-young in playoff Game 3",
-          "source": "파이낸셜뉴스",
-          "url": "https://en.fnnews.com/news/202610291955108894"
-        },
-        {
-          "title": "'FA is just around the corner, really?' The Daegu local boys who are serious about fall baseball: Koo Ja-wook and Won Tae-in's tearful fighting spirit",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/en/sports/2026/10/28/2026102722394938658"
-        }
-      ]
-    },
-    {
-      "title": "상장지수펀드",
-      "approx_traffic": "500+",
-      "published": "Sat, 31 Oct 2026 22:50:00 -0700",
-      "news": [
-        {
-          "title": "\"시장 흔들려도 버텨라\"…연령별 ETF 투자 황금비율은",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611018106i"
-        },
-        {
-          "title": "최고민수의 442 포트폴리오 전술✨",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/video/channel/475303"
-        },
-        {
-          "title": "고금리·고유가 ‘이중고’…변동성 장세 투자 대안은?",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1708997/%EA%B3%A0%EA%B8%88%EB%A6%AC%EA%B3%A0%EC%9C%A0-%E2%80%98%EC%9D%B4%EC%A4%91%EA%B3%A0%E2%80%99%EB%B3%80%EB%8F%99%EC%84%B1-%EC%9E%A5%EC%84%B8-%ED%88%AC%EC%9E%90-2026"
-        }
-      ]
-    },
-    {
-      "title": "england vs south africa",
-      "approx_traffic": "200+",
-      "published": "Sat, 31 Oct 2026 22:50:00 -0700",
-      "news": [
-        {
-          "title": "Bowl, Final, Hong Kong International Sixes at Mong Kok, Nov 1 2026",
-          "source": "ESPN",
-          "url": "https://www.espn.com/cricket/series/8768/scorecard/1559214/england-vs-south-africa-bowl-final-hong-kong-international-sixes-2026-27"
-        }
-      ]
-    },
-    {
-      "title": "크보",
-      "approx_traffic": "100+",
-      "published": "Sat, 31 Oct 2026 22:50:00 -0700",
-      "news": [
-        {
-          "title": "Samsung's Fedde Vows to Cheer Team to Korean Series",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/11/01/UXBTH2YXNFDQBHR2ZSAIID5OEY/"
-        },
-        {
-          "title": "Game 5 of the playoffs (PO, best-of-five) between the 2026 Shinhan SOL KBO postseason (PS) KIA Tiger..",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/en/sports/12192683"
-        },
-        {
-          "title": "\"Lost all three games against KIA → Personal feelings arose\" — FedEx, who had been seeking revenge, threw a heroic 99 pitches after just three days of rest! 5⅓ innings, 1 run allowed, met winning pitcher criteria with a top speed of 153 km/h",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/en/sports/2026/10/30/2026103020473229612"
-        }
-      ]
-    },
-    {
-      "title": "닥터 x 시청률",
-      "approx_traffic": "500+",
-      "published": "Sat, 31 Oct 2026 22:40:00 -0700",
-      "news": [
-        {
-          "title": "시청률 20% 앞두고 15%대로…‘닥터X’ 전공의 파업 일침, 2회 연속 하락",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12192541"
-        },
-        {
-          "title": "의료 파업 다룬 ‘닥터X’ 시청률 하락…20% 못 넘고 15.6%",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261101/134945053/1"
-        },
-        {
-          "title": "김지원 어쩌나 ‘닥터X’, 연이은 논란에 결국 시청률 대폭 하락…20% 돌파 급제동[Oh!쎈 이슈]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/01/MVRGMYRTMY3TGNJZHEZGEMZTMQ/"
         }
       ]
     }
