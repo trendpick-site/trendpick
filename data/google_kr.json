@@ -1,193 +1,215 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-01T06:21:19+00:00",
+  "fetched_at": "2026-11-01T07:38:26+00:00",
   "items": [
     {
-      "title": "야구중계",
-      "approx_traffic": "1000+",
-      "published": "Sat, 31 Oct 2026 22:00:00 -0700",
-      "news": [
-        {
-          "title": "'범인 찾기 중계' 그만하자...현직 캐스터 쓴소리에 야구팬 공감 [지금 이뉴스]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0103_202610311905262720"
-        },
-        {
-          "title": "\"실책한 선수 그만 비췄으면\"…정우영 캐스터, 야구 중계 관행에 쓴소리",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261031_0003849273"
-        },
-        {
-          "title": "김영웅 두 번 죽인 방송 카메라... '표적' 관행 사라져야",
-          "source": "오마이스타",
-          "url": "https://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0003280441"
-        }
-      ]
-    },
-    {
-      "title": "고양 소노 대 수원 kt",
-      "approx_traffic": "500+",
-      "published": "Sat, 31 Oct 2026 22:00:00 -0700",
-      "news": []
-    },
-    {
-      "title": "후라도",
-      "approx_traffic": "500+",
-      "published": "Sat, 31 Oct 2026 22:00:00 -0700",
-      "news": [
-        {
-          "title": "역투하는 후라도",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261101_0021513392"
-        },
-        {
-          "title": "[포토] '김도영 땅볼로 잡는' 후라도 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/01/2026110114083425894"
-        },
-        {
-          "title": "'바꿔도 또 바꿔도 답이 없다' 벼랑 끝 KIA, 테이블세터 24타수 2안타 충격 부진…이범호 감독도 깊은 고민 [PO]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/30/GVRDINBQMNSGMOBZMRRTCMJTHA/"
-        }
-      ]
-    },
-    {
-      "title": "야구 중계",
-      "approx_traffic": "5000+",
-      "published": "Sat, 31 Oct 2026 22:00:00 -0700",
-      "news": [
-        {
-          "title": "원태인 ‘불펜 전환’, 삼성의 ‘신의 한 수’ 될까 ‘무리수’ 될까",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20261101/134943592/1"
-        },
-        {
-          "title": "내일 없는 삼성·KIA 마운드 총력전…기다리는 kt만 미소",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261030029900007"
-        },
-        {
-          "title": "“(김)도영이와 승부하고 싶었다” 승리에도 아쉬운 원태인, 4차전 생애 첫 연투 각오 “내가 최후의 보루” - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/30/202610301046773411O"
-        }
-      ]
-    },
-    {
-      "title": "tving",
-      "approx_traffic": "1000+",
-      "published": "Sat, 31 Oct 2026 22:00:00 -0700",
-      "news": []
-    },
-    {
-      "title": "kia 대 삼성",
-      "approx_traffic": "100000+",
-      "published": "Sat, 31 Oct 2026 21:50:00 -0700",
-      "news": [
-        {
-          "title": "삼성-KIA PO 5차전 매진…PS 46경기 연속 만원 관중",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261101027500007"
-        },
-        {
-          "title": "역투하는 올러",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261101_0021513395"
-        },
-        {
-          "title": "[사진]디아즈 실책으로 진루하는 하주석",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/01/MI4DENDGMIZDMMBQMZRDCZJTG4/"
-        }
-      ]
-    },
-    {
-      "title": "티빙",
-      "approx_traffic": "5000+",
-      "published": "Sat, 31 Oct 2026 21:50:00 -0700",
-      "news": [
-        {
-          "title": "[티빙 해킹사태]② “차라리 피해보상 안 받는다”…보상 신청 14% 그쳐, “복잡한 인증, 고객 두 번 괴롭혀”",
-          "source": "CEO스코어데일리",
-          "url": "https://m.ceoscoredaily.com/page/view/2026103014270595526"
-        },
-        {
-          "title": "CJ ENM 실적 전망 천지 차…티빙 보상비용 '관건' [엔터코노미]",
-          "source": "MTN 머니투데이방송",
-          "url": "https://news.mtn.co.kr/article/2026102615271589813"
-        },
-        {
-          "title": "3954만 계정 유출에도 설치 역대 최대…티빙의 역설",
-          "source": "메트로신문",
-          "url": "https://www.metroseoul.co.kr/article/20261025500085"
-        }
-      ]
-    },
-    {
-      "title": "집",
-      "approx_traffic": "500+",
-      "published": "Sat, 31 Oct 2026 21:50:00 -0700",
-      "news": [
-        {
-          "title": "김포 정치권·시민단체, ‘김포아라지구’ 공공택지 발표에 전면 반발",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261101580084"
-        },
-        {
-          "title": "“그린벨트 왕창 풀어 집짓는다는데”…실수요자 반기는데, 왜 시끄럽지?",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/realestate/12192560"
-        },
-        {
-          "title": "김포 허허벌판 논밭, 신도시로 '싹' 바뀐다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026103068071"
-        }
-      ]
-    },
-    {
-      "title": "7호선",
+      "title": "코스피 200",
       "approx_traffic": "200+",
-      "published": "Sat, 31 Oct 2026 21:40:00 -0700",
+      "published": "Sat, 31 Oct 2026 23:30:00 -0700",
       "news": [
         {
-          "title": "서울지하철 7호선 고장으로 2시간 가까이 운행 지연",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611011357286046_005.html"
+          "title": "연금 고수들, 美 지수 대신 코스피200·반도체 담았다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611018112i"
         },
         {
-          "title": "서울 지하철 7호선 열차 고장…한때 상행선 운행 차질",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261101151055wI7"
+          "title": "“퇴직연금 다 날릴 수도”…ETF 투자한도 100%의 함정 [잇슈 머니]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8699397"
         },
         {
-          "title": "7호선 보라매역서 열차 고장으로 승객 전원 하차…현재 정상운행(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261101026051004"
+          "title": "\"실질수익률 0.5%..\" 60대 DC형 퇴직연금, 그냥 두면 손해인 이유 1위",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/6lVPujqFjx"
         }
       ]
     },
     {
-      "title": "보안 취약점",
-      "approx_traffic": "100+",
-      "published": "Sat, 31 Oct 2026 21:40:00 -0700",
+      "title": "kia 타이거즈 대 삼성 라이온즈 방송 채널",
+      "approx_traffic": "200+",
+      "published": "Sat, 31 Oct 2026 23:30:00 -0700",
       "news": [
         {
-          "title": "PHP 보안 취약점에…연구재단, 무료 논문 표절검사 중단",
+          "title": "한준수 '내가 해냈어요'",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261031048300017"
+          "url": "https://www.yna.co.kr/view/PYH20261030194100054"
         },
         {
-          "title": "PHP 보안 취약점 여파…한국연구재단, 무료 논문 유사도 검사 중단",
+          "title": "‘94구→3일 휴식→99구’ 역대급 투혼 외인 에이스 “치어리더처럼 응원하겠다, 정말 KS 가고 싶어” [PO5]",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112902136"
+        },
+        {
+          "title": "PO 승부는 5차전으로!…사자의 실책, 호랑이 살렸다!",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700726"
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700184"
+        }
+      ]
+    },
+    {
+      "title": "빙그레",
+      "approx_traffic": "1000+",
+      "published": "Sat, 31 Oct 2026 23:20:00 -0700",
+      "news": [
+        {
+          "title": "\"젠슨 황도 100개 쏘더니\"…해외서 불티난 52살 '국민 간식'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026110178927"
         },
         {
-          "title": "한국연구재단, 무료 논문 유사도 검사 중단…재개 불투명",
-          "source": "서울경제TV",
-          "url": "https://www.sentv.co.kr/article/view/sentv202611010005"
+          "title": "빙그레 바나나맛우유 수출 4년새 두배…해외에 4번째 법인 설립",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261031036600030"
+        },
+        {
+          "title": "빙그레 바나나맛우유, 해외 매출 4년 새 96%↑… 호주 생산기지로 글로벌 공략",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261101500263"
+        }
+      ]
+    },
+    {
+      "title": "김지찬",
+      "approx_traffic": "200+",
+      "published": "Sat, 31 Oct 2026 23:10:00 -0700",
+      "news": [
+        {
+          "title": "김지찬, 적시타 치고 도루까지",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261101_0021513578"
+        },
+        {
+          "title": "[사진] 득점 올린 강민호와 이재원, 박진만 감독과 하이파이브",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/01/GI2GGZRZHEZTKMRZMUYDKNRRGQ/"
+        },
+        {
+          "title": "[한번에쓱]카스트로 키 넘기며 '6회말 양현종 상대로 1타점 3루타' 김지찬 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/01/2026110116073826086"
+        }
+      ]
+    },
+    {
+      "title": "스포츠",
+      "approx_traffic": "200+",
+      "published": "Sat, 31 Oct 2026 23:00:00 -0700",
+      "news": [
+        {
+          "title": "고교야구 타격왕 송현우 로드FC 데뷔전 승리",
+          "source": "m.mksports.co.kr",
+          "url": "https://www.mksports.co.kr/news/breaking-news/12192742"
+        },
+        {
+          "title": "K리그2 수원FC, 안산에 1-0 승리",
+          "source": "기호일보",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3039519"
+        },
+        {
+          "title": "'승격권 상대로 박빙 승부' 고춧가루 뿌릴 뻔한 최문식 안산 감독 \"골만 넣었다면...\" [수원 현장] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/01/2026110112385193658"
+        }
+      ]
+    },
+    {
+      "title": "kbo",
+      "approx_traffic": "2000+",
+      "published": "Sat, 31 Oct 2026 22:50:00 -0700",
+      "news": [
+        {
+          "title": "Samsung Lions Target Oler Early in Decisive Playoff Game",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/11/01/RJ3ZLAVTJBAB3IYBH4YUJAT3NU/"
+        },
+        {
+          "title": "Díaz pulls a 146-kph fastball; KIM Do-young drives a 152-kph heater the other way... Home-run showdown between Díaz and KIM Do-young in playoff Game 3",
+          "source": "파이낸셜뉴스",
+          "url": "https://en.fnnews.com/news/202610291955108894"
+        },
+        {
+          "title": "'FA is just around the corner, really?' The Daegu local boys who are serious about fall baseball: Koo Ja-wook and Won Tae-in's tearful fighting spirit",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/en/sports/2026/10/28/2026102722394938658"
+        }
+      ]
+    },
+    {
+      "title": "상장지수펀드",
+      "approx_traffic": "500+",
+      "published": "Sat, 31 Oct 2026 22:50:00 -0700",
+      "news": [
+        {
+          "title": "\"시장 흔들려도 버텨라\"…연령별 ETF 투자 황금비율은",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611018106i"
+        },
+        {
+          "title": "최고민수의 442 포트폴리오 전술✨",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/video/channel/475303"
+        },
+        {
+          "title": "고금리·고유가 ‘이중고’…변동성 장세 투자 대안은?",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1708997/%EA%B3%A0%EA%B8%88%EB%A6%AC%EA%B3%A0%EC%9C%A0-%E2%80%98%EC%9D%B4%EC%A4%91%EA%B3%A0%E2%80%99%EB%B3%80%EB%8F%99%EC%84%B1-%EC%9E%A5%EC%84%B8-%ED%88%AC%EC%9E%90-2026"
+        }
+      ]
+    },
+    {
+      "title": "england vs south africa",
+      "approx_traffic": "200+",
+      "published": "Sat, 31 Oct 2026 22:50:00 -0700",
+      "news": [
+        {
+          "title": "Bowl, Final, Hong Kong International Sixes at Mong Kok, Nov 1 2026",
+          "source": "ESPN",
+          "url": "https://www.espn.com/cricket/series/8768/scorecard/1559214/england-vs-south-africa-bowl-final-hong-kong-international-sixes-2026-27"
+        }
+      ]
+    },
+    {
+      "title": "크보",
+      "approx_traffic": "100+",
+      "published": "Sat, 31 Oct 2026 22:50:00 -0700",
+      "news": [
+        {
+          "title": "Samsung's Fedde Vows to Cheer Team to Korean Series",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/11/01/UXBTH2YXNFDQBHR2ZSAIID5OEY/"
+        },
+        {
+          "title": "Game 5 of the playoffs (PO, best-of-five) between the 2026 Shinhan SOL KBO postseason (PS) KIA Tiger..",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/en/sports/12192683"
+        },
+        {
+          "title": "\"Lost all three games against KIA → Personal feelings arose\" — FedEx, who had been seeking revenge, threw a heroic 99 pitches after just three days of rest! 5⅓ innings, 1 run allowed, met winning pitcher criteria with a top speed of 153 km/h",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/en/sports/2026/10/30/2026103020473229612"
+        }
+      ]
+    },
+    {
+      "title": "닥터 x 시청률",
+      "approx_traffic": "500+",
+      "published": "Sat, 31 Oct 2026 22:40:00 -0700",
+      "news": [
+        {
+          "title": "시청률 20% 앞두고 15%대로…‘닥터X’ 전공의 파업 일침, 2회 연속 하락",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12192541"
+        },
+        {
+          "title": "의료 파업 다룬 ‘닥터X’ 시청률 하락…20% 못 넘고 15.6%",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261101/134945053/1"
+        },
+        {
+          "title": "김지원 어쩌나 ‘닥터X’, 연이은 논란에 결국 시청률 대폭 하락…20% 돌파 급제동[Oh!쎈 이슈]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/01/MVRGMYRTMY3TGNJZHEZGEMZTMQ/"
         }
       ]
     }
