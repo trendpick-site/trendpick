@@ -1,11 +1,89 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-01T13:50:32+00:00",
+  "fetched_at": "2026-11-01T14:43:03+00:00",
   "items": [
     {
-      "title": "김건모",
+      "title": "손석구",
       "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 05:40:00 -0800",
+      "news": []
+    },
+    {
+      "title": "전국노래자랑",
+      "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 05:30:00 -0800",
+      "news": [
+        {
+          "title": "‘전국노래자랑’ 동작구 박서진 편",
+          "source": "BNT뉴스",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202610300056"
+        },
+        {
+          "title": "\"박서진부터 진성까지\"… '전국노래자랑' 화려한 초대가수 라인업",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738721"
+        },
+        {
+          "title": "'전국노래자랑' 박서진·진성·박혜신·유민·미스김 초대가수 완성",
+          "source": "비즈엔터",
+          "url": "https://enter.etoday.co.kr/news/view/304568"
+        }
+      ]
+    },
+    {
+      "title": "중산층",
+      "approx_traffic": "2000+",
+      "published": "Sun, 1 Nov 2026 05:00:00 -0800",
+      "news": [
+        {
+          "title": "[그래픽] 소득분위별 근로·사업소득 감소 비율",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/GYH20261101000500044"
+        },
+        {
+          "title": "“주변에 큰돈 벌었단 얘기 들리는데”…중산층 10명 중 4명 되레 소득 줄어",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1186370"
+        },
+        {
+          "title": "중간소득층 40% 벌이 줄었다…8명 중 1명은 소득 '반토막'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261101_0003849585"
+        }
+      ]
+    },
+    {
+      "title": "배용준",
+      "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 05:00:00 -0800",
+      "news": [
+        {
+          "title": "[포토] 배용준, 사랑하는 부모님과 함께",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03037286645641456&mediaCodeNo=257"
+        },
+        {
+          "title": "배용준, KPGA 렉서스 마스터즈서 2차 연장 끝 정상…통산 3승 달성",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261101_0003849931"
+        },
+        {
+          "title": "배용준, 2차 연장 우승…스트로크 플레이 대회 첫 정상",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026110118223142932"
+        }
+      ]
+    },
+    {
+      "title": "살림하는 남자들",
+      "approx_traffic": "100+",
+      "published": "Sun, 1 Nov 2026 04:50:00 -0800",
+      "news": []
+    },
+    {
+      "title": "김건모",
+      "approx_traffic": "500+",
       "published": "Sun, 1 Nov 2026 04:40:00 -0800",
       "news": [
         {
@@ -109,117 +187,7 @@
         {
           "title": "日 국적 포기 귀화 허미미, 먹고 충격받은 한식은? “일본엔 ‘이것’ 없어”(냉부)",
           "source": "뉴스엔",
-          "url": "https://www.newsen.com/news_view.php?uid=202611011953236110&code=100100"
-        }
-      ]
-    },
-    {
-      "title": "como vs venezia",
-      "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 04:00:00 -0800",
-      "news": [
-        {
-          "title": "Con Nico Paz titular, el Como vence al Venezia con polémica :: Olé - ole.com.ar",
-          "source": "Olé",
-          "url": "https://www.ole.com.ar/futbol-internacional/italia/nico-paz-titular-recibe-venezia-serie_0_tSvkAwHGFT.html"
-        },
-        {
-          "title": "Como – Venecia el partido de fútbol de la jornada 10 de la Serie A, en directo",
-          "source": "La Vanguardia",
-          "url": "https://www.lavanguardia.com/deportes/futbol/20261101/2453/como-venecia-serie-a-ca-en-directo-ctx.html"
-        },
-        {
-          "title": "Venezia se concentra para salir del último lugar ante Como 1907",
-          "source": "Anecdotarios",
-          "url": "https://anecdotarios.com/2026/11/01/venezia-se-concentra-para-salir-del-ultimo-lugar-ante-como-1907/"
-        }
-      ]
-    },
-    {
-      "title": "한세실업",
-      "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 03:50:00 -0800",
-      "news": [
-        {
-          "title": "\"미국인 3명 중 1명이 입는다\"…베트남서 옷 쏟아내는 韓기업",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611018137i"
-        },
-        {
-          "title": "3년 숙련공 일도 신입이 척척... ‘연 4억장’ 의류 기업의 자동화",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/industry-company/2026/11/01/HILFABSW7NA2NDHNB5SD53ER3Q/"
-        },
-        {
-          "title": "“자동화로 생산량 3배…미국인 3명 중 1명은 한세실업의 옷을 입는다”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261101/134945091/1"
-        }
-      ]
-    },
-    {
-      "title": "논쟁",
-      "approx_traffic": "500+",
-      "published": "Sun, 1 Nov 2026 03:40:00 -0800",
-      "news": [
-        {
-          "title": "“李 코피 골프탓” “소주 챙기던 尹 잊었나”…‘해외순방’ 여야 충돌",
-          "source": "중앙일보",
-          "url": "https://www.joongang.co.kr/article/25474759"
-        },
-        {
-          "title": "“돼지 눈엔 돼지만”…이 대통령 SNS, 소통 창구서 ‘설전 도구’로",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611012132015"
-        },
-        {
-          "title": "이재명 대통령 시정연설 D-1, 외교성과 감싼 정부…\"돼지눈엔 돼지만\" 정상 외교 공방 계속",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12325893"
-        }
-      ]
-    },
-    {
-      "title": "퇴직",
-      "approx_traffic": "500+",
-      "published": "Sun, 1 Nov 2026 03:30:00 -0800",
-      "news": [
-        {
-          "title": "KT 퇴직자가 어르신 AI 선생님으로…시니어 1인가구 교육",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261101_0003849611"
-        },
-        {
-          "title": "KT, 은퇴 임직원이 어르신에 생성형 AI 교육",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/economy/industry/2026/11/02/20261102030004"
-        },
-        {
-          "title": "KT, 퇴직 임직원 AI 강사로 육성⋯시니어 교육 확대",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261101500135"
-        }
-      ]
-    },
-    {
-      "title": "송강",
-      "approx_traffic": "100+",
-      "published": "Sun, 1 Nov 2026 03:10:00 -0800",
-      "news": [
-        {
-          "title": "“성수 핫플이 집 앞에”…송강이 67억 주고 산 고급 아파트[누구집]",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01131606645641456&mediaCodeNo=257"
-        },
-        {
-          "title": "'포핸즈' 장규리 '단 몇컷 위해 비올라 2달간 맹훈련… 송강 눈빛 연기에 도움 받아'[인터뷰]",
-          "source": "한국아이닷컴",
-          "url": "https://www.hankooki.com/news/articleView.html?idxno=347363"
-        },
-        {
-          "title": "이준영, '포핸즈' 끝나도 응원 계속…기사후원 1위 (배우 브랜드 리포트)",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16265166"
+          "url": "https://www.newsen.com/news_view.php?uid=202611011953236110"
         }
       ]
     }
