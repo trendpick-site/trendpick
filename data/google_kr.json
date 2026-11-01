@@ -1,44 +1,132 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-01T12:13:02+00:00",
+  "fetched_at": "2026-11-01T13:04:00+00:00",
   "items": [
+    {
+      "title": "como vs venezia",
+      "approx_traffic": "100+",
+      "published": "Sun, 1 Nov 2026 04:00:00 -0800",
+      "news": [
+        {
+          "title": "Con Nico Paz titular, el Como vence al Venezia con polémica :: Olé - ole.com.ar",
+          "source": "Olé",
+          "url": "https://www.ole.com.ar/futbol-internacional/italia/nico-paz-titular-recibe-venezia-serie_0_tSvkAwHGFT.html"
+        },
+        {
+          "title": "Como – Venecia el partido de fútbol de la jornada 10 de la Serie A, en directo",
+          "source": "La Vanguardia",
+          "url": "https://www.lavanguardia.com/deportes/futbol/20261101/2453/como-venecia-serie-a-ca-en-directo-ctx.html"
+        },
+        {
+          "title": "Venezia se concentra para salir del último lugar ante Como 1907",
+          "source": "Anecdotarios",
+          "url": "https://anecdotarios.com/2026/11/01/venezia-se-concentra-para-salir-del-ultimo-lugar-ante-como-1907/"
+        }
+      ]
+    },
+    {
+      "title": "한세실업",
+      "approx_traffic": "100+",
+      "published": "Sun, 1 Nov 2026 03:50:00 -0800",
+      "news": [
+        {
+          "title": "\"미국인 3명 중 1명이 입는다\"…베트남서 옷 쏟아내는 韓기업",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611018137i"
+        },
+        {
+          "title": "3년 숙련공 일도 신입이 척척... ‘연 4억장’ 의류 기업의 자동화",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/industry-company/2026/11/01/HILFABSW7NA2NDHNB5SD53ER3Q/"
+        },
+        {
+          "title": "“자동화로 생산량 3배…미국인 3명 중 1명은 한세실업의 옷을 입는다”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261101/134945091/1"
+        }
+      ]
+    },
+    {
+      "title": "논쟁",
+      "approx_traffic": "500+",
+      "published": "Sun, 1 Nov 2026 03:40:00 -0800",
+      "news": [
+        {
+          "title": "“李 코피 골프탓” “소주 챙기던 尹 잊었나”…‘해외순방’ 여야 충돌",
+          "source": "중앙일보",
+          "url": "https://www.joongang.co.kr/article/25474759"
+        },
+        {
+          "title": "“돼지 눈엔 돼지만”…이 대통령 SNS, 소통 창구서 ‘설전 도구’로",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611012132015"
+        },
+        {
+          "title": "이재명 대통령 시정연설 D-1, 외교성과 감싼 정부…\"돼지눈엔 돼지만\" 정상 외교 공방 계속",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12325893"
+        }
+      ]
+    },
+    {
+      "title": "퇴직",
+      "approx_traffic": "500+",
+      "published": "Sun, 1 Nov 2026 03:30:00 -0800",
+      "news": [
+        {
+          "title": "KT 퇴직자가 어르신 AI 선생님으로…시니어 1인가구 교육",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261101_0003849611"
+        },
+        {
+          "title": "KT, 은퇴 임직원이 어르신에 생성형 AI 교육",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/economy/industry/2026/11/02/20261102030004"
+        },
+        {
+          "title": "KT, 퇴직 임직원 AI 강사로 육성⋯시니어 교육 확대",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261101500135"
+        }
+      ]
+    },
     {
       "title": "송강",
       "approx_traffic": "100+",
       "published": "Sun, 1 Nov 2026 03:10:00 -0800",
       "news": [
         {
-          "title": "“성수 핫플이 집 앞에”…송강이 67억 주고 산 고급 아파트[누구집]",
+          "title": "‘67억’ 송강 사는 핫플레이스 성수동 고급 아파트는[누구집]",
           "source": "이데일리",
           "url": "https://www.edaily.co.kr/News/Read?newsId=01131606645641456&mediaCodeNo=257"
+        },
+        {
+          "title": "“성수 핫플이 집 앞에”…송강이 67억 주고 산 고급 아파트",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01131606645641456"
         },
         {
           "title": "'포핸즈' 장규리 '단 몇컷 위해 비올라 2달간 맹훈련… 송강 눈빛 연기에 도움 받아'[인터뷰]",
           "source": "한국아이닷컴",
           "url": "https://www.hankooki.com/news/articleView.html?idxno=347363"
-        },
-        {
-          "title": "이준영, '포핸즈' 끝나도 응원 계속…기사후원 1위 (배우 브랜드 리포트)",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16265166"
         }
       ]
     },
     {
       "title": "현대자동차그룹",
-      "approx_traffic": "2000+",
+      "approx_traffic": "5000+",
       "published": "Sun, 1 Nov 2026 03:00:00 -0800",
       "news": [
-        {
-          "title": "새만금이 이렇게 달라진다고? - 카드/한컷 | 멀티미디어",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148974630"
-        },
         {
           "title": "국감 끝, 이젠 ‘예산 국회’…전북 11조 원 ‘사활’",
           "source": "KBS 뉴스",
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8699436"
+        },
+        {
+          "title": "새만금이 이렇게 달라진다고? - 카드/한컷 | 멀티미디어",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148974630"
         },
         {
           "title": "[비즈&] 현대차, 데이터센터 건립 본격 착수…새만금 사무소 外",
@@ -48,63 +136,24 @@
       ]
     },
     {
-      "title": "7 호선 고장",
-      "approx_traffic": "1000+",
-      "published": "Sun, 1 Nov 2026 03:00:00 -0800",
-      "news": [
-        {
-          "title": "7호선 보라매역서 열차 고장으로 승객 전원 하차…상행선 운행 지장",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261101026000004"
-        },
-        {
-          "title": "서울지하철 7호선 고장으로 한때 지연...조금 전 재개",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611011504094490_005.html"
-        },
-        {
-          "title": "운행에 차질 빚던 7호선 정상화",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20261101_0021513462"
-        }
-      ]
-    },
-    {
       "title": "고양시",
       "approx_traffic": "200+",
       "published": "Sun, 1 Nov 2026 02:50:00 -0800",
       "news": [
         {
-          "title": "고양시, 주말 곳곳 축제 물결.. ‘주민자치부터 도시농업까지’ 풍성[포토]",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/region/article/all/20261101/134943296/1"
+          "title": "고양시, 일산문화광장서 도시농업축제 개최…어린이 농업기계 체험 ‘눈길’",
+          "source": "메트로신문",
+          "url": "https://www.metroseoul.co.kr/article/20261101500069"
         },
         {
-          "title": "민경선 고양시장, 흥도동·삼송2동 주민축제 참석...주민자치 활성화 강조",
-          "source": "아주경제",
-          "url": "https://www.ajunews.com/view/20261101140917680"
-        }
-      ]
-    },
-    {
-      "title": "2호선",
-      "approx_traffic": "100+",
-      "published": "Sun, 1 Nov 2026 02:50:00 -0800",
-      "news": [
-        {
-          "title": "서울 지하철 2호선, 서초역-종합운동장역 단전으로 한때 운행 차질",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6862335_36918.html"
+          "title": "[포토] 고양특례시 포토뉴스, 민경선 시장",
+          "source": "내외뉴스통신",
+          "url": "https://www.nbnnews.co.kr/news/articleView.html?idxno=1066752"
         },
         {
-          "title": "서울 지하철 2호선 단전으로 한때 운행 차질",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700803"
-        },
-        {
-          "title": "2호선 단전으로 서초역∼종합운동장역 한때 운행차질",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261101046700004"
+          "title": "축산물 홍보·판로 확대 힘쏟아",
+          "source": "농민신문",
+          "url": "https://www.nongmin.com/article/20261026500656"
         }
       ]
     },
@@ -132,7 +181,7 @@
     },
     {
       "title": "노벨상",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Sun, 1 Nov 2026 02:10:00 -0800",
       "news": [
         {
@@ -168,53 +217,9 @@
           "url": "https://biz.chosun.com/entertainment/tv/2026/10/30/MY4DKZTDMIZWEZLDG44GENRWME/"
         },
         {
-          "title": "방송용 썸? 이번엔 진짜 연애?...김승수, 박혜연에 개인 연락하더니 (미우새)",
-          "source": "www.xportsnews.com",
-          "url": "https://www.xportsnews.com/article/2213334"
-        }
-      ]
-    },
-    {
-      "title": "부평",
-      "approx_traffic": "2000+",
-      "published": "Sun, 1 Nov 2026 01:40:00 -0800",
-      "news": [
-        {
-          "title": "'골목길 사정 가장 잘 아는' 집배원, 촘촘한 동네 촘촘한 파수꾼으로 뜬다",
-          "source": "중도일보",
-          "url": "https://m.joongdo.co.kr/view.php?key=20261031010009228"
-        },
-        {
-          "title": "인천부평경찰서, 협력단체와 함께하는 다중운집시설 민‧경 합동순찰 실시",
-          "source": "한국미디어뉴스",
-          "url": "https://www.kitvnews.co.kr/news/article.html?no=1683833"
-        },
-        {
-          "title": "영덕우체국·영덕경찰서「영덕군 생명지킴이」MOU체결",
-          "source": "고향신문",
-          "url": "https://m.ghcyy.kr/view.php?idx=22107"
-        }
-      ]
-    },
-    {
-      "title": "악뮤",
-      "approx_traffic": "500+",
-      "published": "Sun, 1 Nov 2026 01:40:00 -0800",
-      "news": [
-        {
-          "title": "\"월세 지원에 주 4일 근무까지\"…이찬혁이 만든 기획사 파격 복지",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01859766645641456&mediaCodeNo=257"
-        },
-        {
-          "title": "'악뮤' 이찬혁-수현 남매, 북악산 뷰 3층집 공개 \"동거는 계속할 듯\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/01/2026110107275391684"
-        },
-        {
-          "title": "‘주4일+월세 지원’ 꿈의 직장인데..‘소속사 대표’ 악뮤 “성 겹치면 입사 불가” ('전참시')",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/01/MRTDCNJTGE2GCODEHFSDQMLEMI/"
+          "title": "'미우새' 김승수, 박혜연 아나운서와 첫 데이트",
+          "source": "비즈엔터",
+          "url": "https://enter.etoday.co.kr/news/view/304599"
         }
       ]
     }
