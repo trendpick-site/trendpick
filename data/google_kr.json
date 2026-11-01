@@ -1,12 +1,56 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-01T17:44:51+00:00",
+  "fetched_at": "2026-11-01T18:47:45+00:00",
   "items": [
     {
-      "title": "레알마드리드",
-      "approx_traffic": "500+",
-      "published": "Sun, 1 Nov 2026 08:00:00 -0800",
+      "title": "킬리안 음바페",
+      "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 09:30:00 -0800",
+      "news": [
+        {
+          "title": "[특파원 칼럼/김철중]음바페가 마주한 中 ‘소비자 민족주의’",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Opinion/article/all/20261101/134946791/2"
+        },
+        {
+          "title": "[특파원 시선] 음바페에게 날아든 천문학적 규모의 '中청구서'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261030161200083"
+        },
+        {
+          "title": "\"독재자\" '낄낄' 한번에 1400억 날릴 판…음바페 사과에도 中중계 통째로 중단",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026103114260459751"
+        }
+      ]
+    },
+    {
+      "title": "ลิเวอร์พูล พบ อาร์เซนอล",
+      "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 08:50:00 -0800",
+      "news": [
+        {
+          "title": "LIVE ดูบอลสด ลิเวอร์พูล พบ อาร์เซนอล บอลวันนี้ (1 พ.ย. 69) 23.30 น. พรีเมียร์ลีก 2026-27",
+          "source": "Thairath.co.th",
+          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2968279"
+        },
+        {
+          "title": "ทำนายผลการแข่งขันพรีเมียร์ลีกอังกฤษ: ลิเวอร์พูลถล่มอาร์เซนอลที่แอนฟิลด์",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/th/du-doan-ti-so-ngoai-hang-anh-liverpool-khien-arsenal-bat-luc-tai-anfield"
+        },
+        {
+          "title": "โปรแกรมกีฬาวันนี้ พร้อมช่องถ่ายทอดสด วันอาทิตย์ที่ 1 พฤศจิกายน 69",
+          "source": "TNN Thailand",
+          "url": "https://www.tnnthailand.com/sports/251126/"
+        }
+      ]
+    },
+    {
+      "title": "레알 마드리드",
+      "approx_traffic": "100+",
+      "published": "Sun, 1 Nov 2026 08:10:00 -0800",
       "news": [
         {
           "title": "'무리뉴는 해냈다' 레알 마드리드에서 벌어진 놀라운 변화...레알 5연승에 엘 클라시코 승리까지 '완벽한 변신' - 머니투데이",
@@ -26,46 +70,68 @@
       ]
     },
     {
+      "title": "레알마드리드",
+      "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 08:00:00 -0800",
+      "news": [
+        {
+          "title": "라리가 라싱 데 산탄데르 대 레알 마드리드 생중계 링크",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-racing-de-santander-vs-real-madrid-tai-la-liga-1792942.ldo"
+        },
+        {
+          "title": "라싱 vs 레알 마드리드 축구 경기 예측: 무리뉴의 추억",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-bong-da-racing-vs-real-madrid-ky-uc-mourinho"
+        },
+        {
+          "title": "[라리가 REVIEW] 비니시우스 빠진 레알 마드리드, 오히려 더 강해졌다…음바페·벨링엄·디오망데 골 폭발→라싱 산탄데르 3-0 완파",
+          "source": "인터풋볼",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=697597"
+        }
+      ]
+    },
+    {
       "title": "liverpool vs arsenal",
       "approx_traffic": "500+",
       "published": "Sun, 1 Nov 2026 07:50:00 -0800",
       "news": [
+        {
+          "title": "Gary Neville bemoans ‘nonsense’ Premier League injury rule during Liverpool vs Arsenal",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/gary-neville-bemoans-nonsense-premier-182237762.html"
+        },
         {
           "title": "Liverpool vs Arsenal LIVE: Premier League score, lineups, commentary & updates",
           "source": "BBC",
           "url": "https://www.bbc.com/sport/football/live/cqev37r8jvvxt"
         },
         {
-          "title": "🥇 Another goal in the big clash! Havertz sets a German record",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/another-goal-big-clash-havertz-171600735.html"
-        },
-        {
-          "title": "Surpassing a City legend: a historic achievement for Havertz in the Premier League",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/en/news/surpassing-a-city-legend-a-historic-achievement-for-havertz-in-the-premier-league/blt1f48dd3811037ed3"
+          "title": "Liverpool v Arsenal: Premier League – live",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/nov/01/liverpool-v-arsenal-premier-league-live"
         }
       ]
     },
     {
       "title": "리버풀 대 아스널",
-      "approx_traffic": "5000+",
+      "approx_traffic": "10000+",
       "published": "Sun, 1 Nov 2026 07:30:00 -0800",
       "news": [
         {
-          "title": "프리미어 리그 리버풀 대 아스날 생중계 링크",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-liverpool-vs-arsenal-tai-premier-league-1792934.ldo"
+          "title": "'맨시티 제치고 선두 탈환' 디펜딩 챔피언 위엄 증명했다! 아스날, 하베르츠 결승골→리버풀 1-0 격파...14년 만에 안필드 원정 승리",
+          "source": "MHN스포츠",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1660457"
         },
         {
-          "title": "안필드의 14년 징크스와 미켈 아르테타의 임무.",
+          "title": "잉글랜드 프리미어 리그 경기 결과 예측: 리버풀, 안필드에서 아스널을 무력화시킬 것",
           "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/cai-dop-14-nam-tai-anfield-va-su-menh-cua-mikel-arteta"
+          "url": "https://www.vietnam.vn/ko/du-doan-ti-so-ngoai-hang-anh-liverpool-khien-arsenal-bat-luc-tai-anfield"
         },
         {
-          "title": "\"우리는 자신감을 되찾았다! 이제 가장 중요한 아스널전\"…'5경기 연속 무패행진' 이라올라, 아스널전 앞두고 자신감 폭발!",
-          "source": "포포투",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100072"
+          "title": "아스널과 빅 매치… 천군만마 복귀에 반색하는 이라올라 리버풀 감독, “소보슬라이·무뇨스 출전 가능성 있다”",
+          "source": "베스트일레븐",
+          "url": "https://www.besteleven.com/news/articleView.html?idxno=313622"
         }
       ]
     },
@@ -92,19 +158,19 @@
       "published": "Sun, 1 Nov 2026 07:20:00 -0800",
       "news": [
         {
-          "title": "Ла Лига. «Расинг» — «Реал» Мадрид. Прямая трансляция: смотреть бесплатно",
-          "source": "Sport24.ru",
-          "url": "https://sport24.ru/football/news-894370-la-liga-rasing-real-madrid-pryamaya-translyatsiya-smotret-besplatno"
+          "title": "«Реал» учинил разгром после Эль-Класико",
+          "source": "Sports.kz",
+          "url": "https://www.sports.kz/news/real-uchinil-razgrom-posle-el-klasiko"
         },
         {
-          "title": "Матч Расинг - Реал Мадрид: смотреть онлайн прямую трансляцию матча",
-          "source": "fclmnews",
-          "url": "https://fclm.news/online/138089-rasing-real-madrid-video.html"
-        },
-        {
-          "title": "Реал определился с вратарём на матч против Расинга – что решили насчёт Лунина",
+          "title": "Ла Лига. Реал продолжает ломать домашние серии: вслед за Барселоной пострадал Расинг",
           "source": "UA-Football",
-          "url": "https://www.ua-football.com/ukrainian/ukrainians/1793541948-real-opredelilsya-s-vrataryom-na-match-protiv-rasinga-chto-reshili-naschyot-lunina.html"
+          "url": "https://www.ua-football.com/foreign/spain/1793552296-la-liga-real-prodolzhaet-lomat-domashnie-serii-vsled-za-barselonoy-postradal-rasing.html"
+        },
+        {
+          "title": "Расинг Реал Мадрид – смотреть результат матча 11 тура Ла Лиги с участием команды Лунина – Футбол 24",
+          "source": "Футбол 24",
+          "url": "https://football24.ua/ru/news/rasing-real-madrid-smotret-rezultat-matcha-11-tura-la-ligi-s-uchastiem-komandi-lunina-973488"
         }
       ]
     },
@@ -114,14 +180,19 @@
       "published": "Sun, 1 Nov 2026 07:20:00 -0800",
       "news": [
         {
-          "title": "통신주 급락, 스페이스X 위성이 기지국을 대체할까?",
-          "source": "네이버페이 머니스토리",
-          "url": "https://story.pay.naver.com/content/3724"
+          "title": "아시아 각국 국방 당국, 스타링크 통신 제한 전례에 상업 위성 계약 재검토 착수",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/11/20261102030820200420990b2dc5_1"
         },
         {
-          "title": "\"일론 머스크가 쏘아올린 코스닥 기업?\"…쏠리드에 무슨 일이",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261030_0003847886"
+          "title": "푸틴 \"머스크는 진정한 천재\" 극찬...러시아판 스타링크 개발은 이제 첫걸음",
+          "source": "AI타임스",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216811"
+        },
+        {
+          "title": "우크라 드론이 하늘서 우수수, 왜?… 머스크 손에 달린 전쟁 향방 [세계는 왜?]",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026102518540001419"
         }
       ]
     },
@@ -131,85 +202,19 @@
       "published": "Sun, 1 Nov 2026 06:50:00 -0800",
       "news": [
         {
-          "title": "Harry Kane Edges Out Kylian Mbappé by 28 Points to Win Ballon d'Or",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/10/31/SIMSNAHDI5GGDK2F6NUACHNTNM/"
+          "title": "Racing Santander 0-3 Real Madrid: England's Jude Bellingham scores in win",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c6zxj7vpggn2t"
         },
         {
-          "title": "He compared him to a Brazilian wizard: Yamal's father corrects a common mistake about his son and challenges Real Madrid",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/en/news/he-likened-him-to-a-brazilian-magician-yamal-s-father-corrects-a-common-mistake-about-his-son-and-challenges-real-madrid/blt79e44227b3e3c300"
+          "title": "Real Madrid's expected lineup against Racing Santander in La Liga: Courtois returns, Valverde is absent",
+          "source": "صوت الإمارات",
+          "url": "https://www.voiceofemirates.com/en/sport/2026/11/01/real-madrids-expected-lineup-against-racing-santander-in-la-liga-courtois-returns-valverde-is-absent/"
         },
         {
-          "title": "Bayern Munich Home Kit Gets Gold Sponsor Logo for Harry Kane Ballon d'Or Celebrations",
-          "source": "Footy Headlines",
-          "url": "https://www.footyheadlines.com/0269764338/bayern-munich-home-kit-gets-gold-sponsor-logo-for-harry-kane-ballon-d-or-celebrations.html"
-        }
-      ]
-    },
-    {
-      "title": "성유리",
-      "approx_traffic": "1000+",
-      "published": "Sun, 1 Nov 2026 06:40:00 -0800",
-      "news": [
-        {
-          "title": "\"핑클도 완전체로?\" 중년의 아이돌이 왜 자꾸 컴백할까",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/weekend/2026/10/24/RTHDEQSWXZHRPJPZNLW5WMYUME/"
-        },
-        {
-          "title": "[단독] 성유리, 핑클 복귀하는데···화장품 매출 ‘반토막’에 자본잠식",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611011826003"
-        },
-        {
-          "title": "\"어찌나 재밌는지\"… 이효리도 벌써 즐거운 '핑클 완전체'",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026102919530005259"
-        }
-      ]
-    },
-    {
-      "title": "racing santander vs real madrid",
-      "approx_traffic": "1000+",
-      "published": "Sun, 1 Nov 2026 06:20:00 -0800",
-      "news": [
-        {
-          "title": "Racing - Real Madrid, en directo | Última hora de LALIGA EA Sports en vivo hoy",
-          "source": "MARCA",
-          "url": "https://www.marca.com/futbol/laliga-ea-sports/racing-santander-r-madrid/2026/11/01/01_0101_20261101_189_186-directo.html"
-        },
-        {
-          "title": "La galerna de Mourinho arrasa al Racing en El Sardinero",
-          "source": "El Periódico",
-          "url": "https://www.elperiodico.com/es/deportes/20261101/racing-real-madrid-resumen-resultado-laliga-135980742"
-        },
-        {
-          "title": "¿A qué hora es el partido Racing de Santander vs Real Madrid y cómo verlo en TV y streaming online?",
-          "source": "Sports Illustrated",
-          "url": "https://www.si.com/es-us/a-que-hora-es-el-partido-racing-de-santander-vs-real-madrid-y-como-verlo-en-tv-y-streaming-online-01-11-2026"
-        }
-      ]
-    },
-    {
-      "title": "코리아 오픈",
-      "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 06:10:00 -0800",
-      "news": [
-        {
-          "title": "[오피셜]\"재정비 시간 필요\" '세계 최강' 안세영 다시 뛴다…대한배드민턴협회 'AN 경기 눈앞에서, 여수에서 만나요' 공식 발표",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_general/2026/11/02/MM3DEM3FHAZWGMLFGBSGCNBTG4/"
-        },
-        {
-          "title": "[공식발표] \"많이 힘들긴 하다\" 안세영, 결국 기권 확정...日 구마모토 마스터스 포기→코리아 오픈은 뛴다 '시즌 11승 도전' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/01/202611011715771530O"
-        },
-        {
-          "title": "1년 전 코리아오픈 결승전 야마구치에 무릎 꿇었던 안세영, 올해는 코리아오픈 출전할까?…발목 부상이 변수다",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112901878"
+          "title": "Sixth consecutive victory",
+          "source": "Real Madrid CF | Web Oficial",
+          "url": "https://www.realmadrid.com/en-US/news/football/first-team/reports/cronica-racing-rm-j11-liga-01-11-2026"
         }
       ]
     }
