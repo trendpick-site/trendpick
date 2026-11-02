@@ -1,225 +1,220 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-02T04:38:19+00:00",
+  "fetched_at": "2026-11-02T05:37:38+00:00",
   "items": [
     {
-      "title": "중대범죄 수사청",
-      "approx_traffic": "1000+",
-      "published": "Sun, 1 Nov 2026 19:30:00 -0800",
+      "title": "기인",
+      "approx_traffic": "100+",
+      "published": "Sun, 1 Nov 2026 20:30:00 -0800",
       "news": [
         {
-          "title": "깐깐해진 공소청 검사, 이삿짐 덜 푼 중수청, 수사 늪에 빠진 경찰",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/court_law/2026/11/02/L3ACB4PKOZBIBDC75XP454VQ3A/"
+          "title": "춘길X장혜리, 연습실 문까지 잠갔다…핑크빛 폭발 커플 요가 (천만기인쇼)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261102/134947673/1"
         },
         {
-          "title": "보완수사 요구 49% 늘어난 경기남부청…수사 초임 인력 약 10%",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261102087700061"
+          "title": "‘천만기인쇼’ 표창원 파격 변신에 춘길·장혜리 묘한 기류… 195점 기록 깨질까",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3445033"
         },
         {
-          "title": "[태화강]새로운 형사사법체계의 과제",
-          "source": "경상일보",
-          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1071222"
+          "title": "춘길, 장혜리와 묘한 핑크빛 기류? 수위부터 남다른 '커플 요가' 포착 (천만기인쇼)",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/11/02/MMZTIMZYME3WINDDGFRTKZBXMQ/"
         }
       ]
     },
     {
-      "title": "주식시장",
+      "title": "정년 연장",
       "approx_traffic": "5000+",
-      "published": "Sun, 1 Nov 2026 19:20:00 -0800",
+      "published": "Sun, 1 Nov 2026 20:20:00 -0800",
       "news": [
         {
-          "title": "주식 판 돈, 이틀 말고 하루 만에 받는다… 54년 만에 결제주기 단축 2028년 목표",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/stock-finance/2026/11/02/EXQXMPTKWFFDNDFINQRJ4Y7EZE/"
-        },
-        {
-          "title": "증권시장 결제주기 단축 로드맵 발표...2028년 중 시행 목표",
-          "source": "YTN 사이언스",
-          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611021102287860"
-        },
-        {
-          "title": "\"주식 팔면 다음 날 받는다\"…주식 결제주기 'T+1일' 2028년 도입",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261102_0003850468"
-        }
-      ]
-    },
-    {
-      "title": "이동건",
-      "approx_traffic": "1000+",
-      "published": "Sun, 1 Nov 2026 19:20:00 -0800",
-      "news": [
-        {
-          "title": "제주 카페 왜 문 닫았나 했더니…이동건, 결국 서울로 옮긴다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611029090H"
-        },
-        {
-          "title": "\"소문에 망했다던데\" 이동건, 제주도 카페 1년 6개월 만에 문 닫은 이유",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6339540"
-        },
-        {
-          "title": "이동건, 제주카페 폐업 이유 밝혔다 \"너무 힘들어\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261101_0003850014"
-        }
-      ]
-    },
-    {
-      "title": "마쓰이 유키",
-      "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 19:10:00 -0800",
-      "news": [
-        {
-          "title": "직장폐쇄 우려? ERA 1.83 → PS 5G 비자책 마쓰이, 옵트아웃 실행 X…SD 잔류",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/11/02/GMZGCYZTMMZDIMLGMQ3DCMBSMY/"
-        },
-        {
-          "title": "샌디에이고, 좌완 불펜 마쓰이 옵트아웃 포기하고 하트 옵션 행사로 2027시즌 동행",
-          "source": "데일리스포츠한국",
-          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435060"
-        },
-        {
-          "title": "'고우석과 엇갈린 희비' 마쓰이, SD 잔류…옵트아웃 NO→연봉 87억 확보",
-          "source": "일간스포츠",
-          "url": "https://isplus.com/article/view/isp202611020042"
-        }
-      ]
-    },
-    {
-      "title": "콜 오브 듀티",
-      "approx_traffic": "1000+",
-      "published": "Sun, 1 Nov 2026 19:00:00 -0800",
-      "news": [
-        {
-          "title": "[단독] '이태원 참사 박제' 콜오브듀티 \"머리 숙여 사과‥전면 삭제\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6862063_37004.html"
-        },
-        {
-          "title": "[ZD e게임] 익숙한 한국 도심이 전장으로…'콜 오브 듀티' 신작 해보니",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261101143744"
-        },
-        {
-          "title": "\"우크라 침공·이란전 예언했나\"…'콜 오브 듀티' 논란의 역사 주목 [지금이뉴스]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0545_202610310920013748"
-        }
-      ]
-    },
-    {
-      "title": "헤지펀드",
-      "approx_traffic": "500+",
-      "published": "Sun, 1 Nov 2026 19:00:00 -0800",
-      "news": [
-        {
-          "title": "\"이제 진짜 바닥 찍었나\"…4년 반 만에 벌어진 '이례적 현상' [도쿄나우]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611028901i"
-        },
-        {
-          "title": "日엔화, 4년 반 만에 '최소 변동폭'…헤지펀드 매도세 '8분의 1' 뚝",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02200886645641784"
-        },
-        {
-          "title": "엔화, 美 중간선거 전 포지션 조정에 1달러=157엔대 중반 출발",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261102_0003850535"
-        }
-      ]
-    },
-    {
-      "title": "밸류에이션",
-      "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 19:00:00 -0800",
-      "news": [
-        {
-          "title": "KB국민은행, 국내 최초 GPU 파이낸싱 금융주선 총괄",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261030166300002"
-        },
-        {
-          "title": "국민은행, 10조7000억 AI 인프라 대출 주선…국내 신디론 역대 최대 규모 - 머니투데이",
+          "title": "'박애'를 흔드는 프랑스 연금 갈등[투데이窓/박경덕] - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/finance/2026/11/01/2026110109414173549"
+          "url": "https://www.mt.co.kr/opinion/2026/11/02/2026110110081316176"
         },
         {
-          "title": "김유원 네이버클라우드 12조 'AI 팩토리' 키 잡아, 네이버 '매출 20조' 이끄는 핵심 급부상 전망",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450692"
+          "title": "“임금 삭감·촉탁직 재고용 말고, 65세 온전한 정년연장 입법하라”",
+          "source": "https://www.ilabor.org/",
+          "url": "https://www.ilabor.org/news/articleView.html?idxno=12450"
+        },
+        {
+          "title": "정년연장, 나이만 올리면 끝?…임금·연금·퇴직 등 통합 설계해야\"[만났습니다②]",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01666246645618168&mediaCodeNo=257"
         }
       ]
     },
     {
-      "title": "lafc",
-      "approx_traffic": "500+",
-      "published": "Sun, 1 Nov 2026 19:00:00 -0800",
+      "title": "신의 구슬",
+      "approx_traffic": "1000+",
+      "published": "Sun, 1 Nov 2026 20:20:00 -0800",
       "news": [
         {
-          "title": "Son Heung-min Plays Full Match as LAFC Suffers 3-1 Home Defeat to Minnesota",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008826336"
+          "title": "안보현·이성민, 세대 뛰어넘는 특별한 전우호흡 예고…든든한 투샷(‘신의 구슬’)",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112902607"
         },
         {
-          "title": "'Son Heung-min to Start Again' Set to Make Final Home Appearance Ahead of National Team Call-Up... LAFC Desperately Needs Victory to Climb Up the Table",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/en/sports/2026/11/02/2026110209534657278"
+          "title": "‘신의 구슬’ 안보현·이성민, 관음보주 호송 작전서 맞선다… 첫 투샷 공개",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3445062"
         },
         {
-          "title": "Live coverage of Los Angeles FC vs Minnesota United FC: Second half begins, Minnesota United FC leads 2-0.",
-          "source": "Báo Nghệ An",
-          "url": "https://baonghean.vn/en/truc-tiep-los-angeles-fc-vs-minnesota-united-fc-hiep-2-bat-dau-minnesota-united-fc-dan-2-0-10354876.html"
+          "title": "'신의 구슬' 안보현·이성민, 관음보주 호송대 이끈다…세대 초월 전우 호흡",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/523182"
         }
       ]
     },
     {
-      "title": "warriors vs clippers",
-      "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 18:50:00 -0800",
+      "title": "당구",
+      "approx_traffic": "1000+",
+      "published": "Sun, 1 Nov 2026 20:10:00 -0800",
       "news": [
         {
-          "title": "\"As you get older, you start to understand\" - Aaron Gordon admits he got caught up in NBA materialism early in his career",
-          "source": "Basketball Network",
-          "url": "https://www.basketballnetwork.net/off-the-court/aaron-gordon-admits-he-got-caught-up-in-nba-materialism-early-in-his-career"
+          "title": "경복당구회, ‘창립 20주년 기념 당구축제’ 성황리 마무리",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/sports/article/all/20261102/134950261/1"
         },
         {
-          "title": "Yaxel Lendeborg is making name for himself with Warriors",
-          "source": "New York Post",
-          "url": "https://nypost.com/2026/10/30/sports/yaxel-lendeborg-warriors-steph-curry/"
-        },
-        {
-          "title": "Steve Kerr Explains How Yaxel Lendeborg Was Penalized In The Draft, And The Major Advantage Helping His Game",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/steve-kerr-explains-yaxel-lendeborg-213431236.html"
-        }
-      ]
-    },
-    {
-      "title": "라이언 와이스",
-      "approx_traffic": "5000+",
-      "published": "Sun, 1 Nov 2026 18:40:00 -0800",
-      "news": [
-        {
-          "title": "한화 복귀 원했던 팬들 '날벼락'… 라이언 와이스 '재취업' 길 열렸다",
+          "title": "'2026 진주시당구연맹회장배 3쿠션 당구대회' 열려",
           "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3739421"
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3739380"
         },
         {
-          "title": "'한화 어쩌나' 美도 와이스 관심 보인다…\"빠듯한 자금력 구단, 지체없이 움직여야 한다\"",
+          "title": "내달 1일, 나주서 4개 시군 당구대회 개최",
+          "source": "대한청년일보",
+          "url": "https://www.koreayouthdaily.com/news/575307"
+        }
+      ]
+    },
+    {
+      "title": "손태영",
+      "approx_traffic": "100+",
+      "published": "Sun, 1 Nov 2026 20:10:00 -0800",
+      "news": [
+        {
+          "title": "'미코 출신' 손태영, 실물 얼마나 예쁘길래..美카페 사장도 반해서 마카롱 선물 [핫피플]",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112902197"
+        },
+        {
+          "title": "손태영, 10분 메이크업에도 미코 비주얼…제작진도 “거의 생얼인데” 감탄 [RE:뷰]",
+          "source": "TV리포트",
+          "url": "https://tvreport.co.kr/breaking/article/1087515/"
+        },
+        {
+          "title": "'권상우♥' 손태영, '미코' 출신 미모 어디 안 가네…미국 카페 사장에 깜짝 디저트 선물 받아 [MHN:픽]",
+          "source": "MHN스포츠",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1658684"
+        }
+      ]
+    },
+    {
+      "title": "농업",
+      "approx_traffic": "500+",
+      "published": "Sun, 1 Nov 2026 20:00:00 -0800",
+      "news": [
+        {
+          "title": "대동, 역대 최대 규모 키엠스타 참가…AI트랙터·신형 농업드론 공개 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/living/2026/11/02/2026110213391627658"
+        },
+        {
+          "title": "[게시판] 농식품부, 4∼7일 대구서 '2026 국제농기계자재박람회'",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1186686"
+        },
+        {
+          "title": "딸기 휴머노이드·자율주행 한자리에…'농기계자재박람회' 열려",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261102000270"
+        }
+      ]
+    },
+    {
+      "title": "철원",
+      "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 20:00:00 -0800",
+      "news": [
+        {
+          "title": "[속보] 육군 “강원도 철원 소재 전방 부대서 하사 1명 외상입고 사망”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611021114001"
+        },
+        {
+          "title": "[속보] 철원 육군 전방부대서 20대 하사 숨진 채 발견",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261102.99099000381"
+        },
+        {
+          "title": "육군 \"강원 철원 전방부대 하사 1명 외상 입고 사망\"",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261102114428ACT"
+        }
+      ]
+    },
+    {
+      "title": "로스앤젤레스 fc 대 미네소타 유나이티드 fc 순위",
+      "approx_traffic": "50000+",
+      "published": "Sun, 1 Nov 2026 19:50:00 -0800",
+      "news": [
+        {
+          "title": "'손흥민 풀타임' LAFC, 미네소타에 1-3 완패…PO 상위 시드 불발",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261102091400007"
+        },
+        {
+          "title": "손흥민 선발 풀타임에도 '대참사' LAFC, 12위 미네소타에 1-3 완패...전반에만 2골 허용→후반 추가골까지 '속수무책'",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112902576"
+        },
+        {
+          "title": "'손흥민 또 선발 출격' 대표팀 합류 앞두고 마지막 홈경기 나선다... LAFC, 상위권 도약 위해 승리 절실 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/02/2026110209534657278"
+        }
+      ]
+    },
+    {
+      "title": "부평구",
+      "approx_traffic": "1000+",
+      "published": "Sun, 1 Nov 2026 19:50:00 -0800",
+      "news": [
+        {
+          "title": "인천 부평구, ‘재개발·재건축 원스톱 지원센터’ 신설 박차… 현장 소통 강화",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=353607"
+        },
+        {
+          "title": "부평구, 내년 '재개발·재건축 원스탑 지원센터' 신설",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3739290"
+        }
+      ]
+    },
+    {
+      "title": "과태료",
+      "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 19:40:00 -0800",
+      "news": [
+        {
+          "title": "\"과태료 부과했다\"…택시민원 허위종결한 부평구 공무원 해임",
+          "source": "KBC광주방송",
+          "url": "https://www.ikbc.co.kr/article/view/kbc202611020013"
+        },
+        {
+          "title": "택시 민원 전산기록 조작한 부평구 공무원 해임…공소청 송치",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261102580018"
+        },
+        {
+          "title": "택시 요금 민원에 \"과태료 부과했다\" 거짓 답변… 전 공무원, 공소청 송치",
           "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/10/31/GM2WEZJXMVTGEN3CME2TEY3DGU/"
-        },
-        {
-          "title": "'한화 출신' 와이스, MLB 휴스턴 떠나 FA 신분…KBO리그 복귀하나",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261030_0003848374"
+          "url": "https://www.chosun.com/national/incident/2026/11/02/S632BMNXQRG2XKDKR3MX5AS5XI/"
         }
       ]
     }
