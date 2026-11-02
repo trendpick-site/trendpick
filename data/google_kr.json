@@ -1,11 +1,122 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-02T02:14:48+00:00",
+  "fetched_at": "2026-11-02T03:30:11+00:00",
   "items": [
     {
-      "title": "정의선",
+      "title": "휴고 칼데라 노",
+      "approx_traffic": "1000+",
+      "published": "Sun, 1 Nov 2026 18:10:00 -0800",
+      "news": [
+        {
+          "title": "남자탁구 에이스 장우진, 한국 탁구 사상 첫 WTT 챔피언스 우승",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6862453_36946.html"
+        },
+        {
+          "title": "\"1-3→4-3 대역전승\" '투혼의 탁구짱!' 장우진이 돌아왔다! 생애 첫 WTT챔피언스 단식 우승[WTT 챔피언스 몽펠리에]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/11/02/MYZGCMRSHA3WEYZXMIYGINJZMY/"
+        },
+        {
+          "title": "\"운이 좋아서 이겼습니다\" 세계 7위 칼데라노 제압한 장우진의 겸손...7게임 대혈투 끝 승리에도 상대부터 치켜세웠다",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112902450"
+        }
+      ]
+    },
+    {
+      "title": "가덕도",
       "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 18:10:00 -0800",
+      "news": [
+        {
+          "title": "가덕 첫삽 끝내 연내로 후퇴…당정 “공사비 8500억 증액”(종합)",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261102.22003000232"
+        },
+        {
+          "title": "가덕도신공항 공사비 증액 공방…연내 착공은?",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8700264&ref=A"
+        },
+        {
+          "title": "대우건설 핵심 일감 가덕도, 11월 착공 불투명…국토부 연내 계약 목표",
+          "source": "아주경제",
+          "url": "https://www.ajunews.com/view/20261030114719369"
+        }
+      ]
+    },
+    {
+      "title": "리노베이션",
+      "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 18:00:00 -0800",
+      "news": [
+        {
+          "title": "Provo Community Church gathering funds for renovation, restoration",
+          "source": "KSL News",
+          "url": "https://www.ksl.com/article/51638767/provo-community-church-gathering-funds-for-renovation-restoration"
+        },
+        {
+          "title": "Wausau’s Grand Theater to reopen Nov. 7 after six-month renovation",
+          "source": "WSAW",
+          "url": "https://www.wsaw.com/2026/11/01/wausaus-grand-theater-reopen-nov-7-after-six-month-renovation/"
+        },
+        {
+          "title": "Judge says court will investigate government officials in DC golf course case",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://abcnews.com/Politics/judge-court-investigate-government-officials-dc-golf-case/story?id=137723824"
+        }
+      ]
+    },
+    {
+      "title": "트리니티 항공",
+      "approx_traffic": "100+",
+      "published": "Sun, 1 Nov 2026 18:00:00 -0800",
+      "news": []
+    },
+    {
+      "title": "계주",
+      "approx_traffic": "500+",
+      "published": "Sun, 1 Nov 2026 17:40:00 -0800",
+      "news": [
+        {
+          "title": "\"계주 위험하다\" 학부모 민원에 운동회 경기 취소…아이들 울상",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6338961"
+        },
+        {
+          "title": "“위험하잖아요!” 초등학교 운동회의 꽃, 계주 경기 취소",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11627973"
+        }
+      ]
+    },
+    {
+      "title": "lg화학",
+      "approx_traffic": "100+",
+      "published": "Sun, 1 Nov 2026 17:20:00 -0800",
+      "news": [
+        {
+          "title": "LG화학, 엔솔 지분 유동화에도 순차입금 26조...신용도 개선 제한적",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/fvafoGLxon"
+        },
+        {
+          "title": "LG화학·LG엔솔, 지분 유동화로 재무·투자 기반 동반 강화 기대감",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261030_0003848834"
+        },
+        {
+          "title": "‘아직 남았다’…LG엔솔 주주 짓누르는 오버행 부담 [재계톡톡]",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/business/12191616"
+        }
+      ]
+    },
+    {
+      "title": "정의선",
+      "approx_traffic": "500+",
       "published": "Sun, 1 Nov 2026 17:10:00 -0800",
       "news": [
         {
@@ -31,19 +142,19 @@
       "published": "Sun, 1 Nov 2026 17:00:00 -0800",
       "news": [
         {
-          "title": "Steph Curry, Draymond Green ruled out for front end of Warriors' back-to-back",
+          "title": "How to watch Clippers vs Warriors: Live stream NBA, TV channel",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/steph-curry-draymond-green-ruled-144308312.html"
+          "url": "https://sports.yahoo.com/articles/watch-clippers-vs-warriors-live-003000348.html"
         },
         {
-          "title": "Clippers Injury Report vs. Warriors: Are Brandon Ingram & Steph Curry Playing?",
-          "source": "Sports Illustrated",
-          "url": "https://www.si.com/nba/clippers/onsi/clippers-injury-report-warriors-brandon-ingram-steph-curry-playing-01m6cjjhwna5"
+          "title": "LA Clippers at Golden State Warriors odds, picks and predictions",
+          "source": "Sportsbook Wire",
+          "url": "https://sportsbookwire.usatoday.com/story/sports/nba/2026/11/01/clippers-at-warriors-odds-picks-and-predictions/92533162007/"
         },
         {
-          "title": "With Steph Curry out, Yaxel Lendeborg could be key for Warriors",
-          "source": "KNBR",
-          "url": "https://www.thesportsleader.com/2026/10/31/with-steph-curry-out-yaxel-lendeborg-could-be-key-for-warriors/"
+          "title": "Warriors vs. Clippers Prediction, Odds, Picks, Best Bets for Nov. 1",
+          "source": "FanDuel",
+          "url": "https://www.fanduel.com/research/warriors-vs-clippers-prediction-nba-odds-spread-best-bets-for-11-1-2026"
         }
       ]
     },
@@ -53,14 +164,14 @@
       "published": "Sun, 1 Nov 2026 16:50:00 -0800",
       "news": [
         {
-          "title": "영광군, 착한가격업소 이용 시 영광사랑카드 혜택 확대",
-          "source": "데일리한국",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1420584"
+          "title": "한우·자동차 50% 할인한다고? 소비 대축제 '코그페' 시작!",
+          "source": "네이버페이 머니스토리",
+          "url": "https://story.pay.naver.com/content/3834"
         },
         {
-          "title": "한춘옥 특별시의원, “공공요금 심의 및 물가안정 기반 마련” > 뉴스",
-          "source": "더코리아",
-          "url": "https://www.thekorea.kr/567691"
+          "title": "과천시 \"과천토리 쓰면 5% 더 환급\"…11일간 국비 지원 추가 캐시백 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/policy/2026/11/02/2026110211081839208"
         }
       ]
     },
@@ -70,151 +181,19 @@
       "published": "Sun, 1 Nov 2026 16:40:00 -0800",
       "news": [
         {
-          "title": "옥주현의 190억 한남더힐, 왜 경매에 넘어갔을까",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261101_0003849898"
+          "title": "'190억' 한남더힐 산 옥주현, 빚은 300억?…변호사가 본 '경매' 이유 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/11/02/2026110207514776285"
+        },
+        {
+          "title": "'190억 한남더힐' 경매 넘어가자…옥주현 측 \"투자사가 상환 예정\"",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610294537H"
         },
         {
           "title": "옥주현, '190억'에 산 한남동 고급주택 '경매' 넘어간 이유..\"M&A 절차\" [공식]",
           "source": "조선일보",
           "url": "https://www.chosun.com/entertainments/broadcast/2026/10/30/GMYGEZJQHFTDMYJSGNSWMZBUMI/"
-        },
-        {
-          "title": "'190억' 신고가에 산 지 6개월 만에…옥주현 아파트 무슨 일",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610293897H"
-        }
-      ]
-    },
-    {
-      "title": "t 멤버십",
-      "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 16:40:00 -0800",
-      "news": [
-        {
-          "title": "늦가을의 특별한 즐거움, 11월 T 멤버십 혜택 총정리",
-          "source": "SK텔레콤 뉴스룸",
-          "url": "https://news.sktelecom.com/232556"
-        },
-        {
-          "title": "파파존스, KT 멤버십 고객에 방문 포장 50% 할인 혜택",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261102000129"
-        },
-        {
-          "title": "수능 끝나면 KT가 커피 쏜다…11월 멤버십 혜택 공개",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261101_0003849621"
-        }
-      ]
-    },
-    {
-      "title": "삼성증권",
-      "approx_traffic": "100+",
-      "published": "Sun, 1 Nov 2026 16:40:00 -0800",
-      "news": [
-        {
-          "title": "삼성증권, 올해 IPO 주관 1위 노리나…3분기 누적 '선두' 올라",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442401"
-        },
-        {
-          "title": "삼성 선두에 미래에셋·NH 추격…연말 IPO 주관 순위 경쟁 가열",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03086486645641456"
-        },
-        {
-          "title": "[IPO 주관사 점검] [삼성증권] 올해 주관금액 1등…기술기업 '러브콜'",
-          "source": "DealSite경제TV",
-          "url": "https://news.dealsitetv.com/articles/177807"
-        }
-      ]
-    },
-    {
-      "title": "november",
-      "approx_traffic": "100+",
-      "published": "Sun, 1 Nov 2026 16:30:00 -0800",
-      "news": [
-        {
-          "title": "First week of November weather forecast",
-          "source": "KATU",
-          "url": "https://katu.com/news/local/first-week-of-november-weather-forecast"
-        },
-        {
-          "title": "Widespread, heavy rain to kick off November",
-          "source": "KEYC News Now",
-          "url": "https://www.keyc.com/2026/10/31/widespread-heavy-rain-kick-off-november/"
-        },
-        {
-          "title": "A sunny and seasonable first Sunday of November",
-          "source": "WTNH.com",
-          "url": "https://www.wtnh.com/weather/a-sunny-and-seasonable-first-sunday-of-november/"
-        }
-      ]
-    },
-    {
-      "title": "한국투자증권",
-      "approx_traffic": "100+",
-      "published": "Sun, 1 Nov 2026 15:50:00 -0800",
-      "news": [
-        {
-          "title": "한투증권, MTS 업데이트…\"연금자산 통합조회·관심종목 개편\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261102063400008"
-        },
-        {
-          "title": "한국투자증권, MTS 개편…편의성 대폭 확대",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261102103557dz4"
-        },
-        {
-          "title": "[여의도단신]한국투자증권·신한투자증권·우리투자증권",
-          "source": "매일신문",
-          "url": "https://www.imaeil.com/page/view/2026110210251634115"
-        }
-      ]
-    },
-    {
-      "title": "교도소",
-      "approx_traffic": "2000+",
-      "published": "Sun, 1 Nov 2026 15:40:00 -0800",
-      "news": [
-        {
-          "title": "[속보] “세금으로 먹고 자는데?”…교도소·구치소 수용자에 민생지원금 ‘73억’ 지급",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261102580032"
-        },
-        {
-          "title": "수감 중에도 민생지원금 받았다…지원 규모 73억원 이상 추산",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6339546"
-        },
-        {
-          "title": "[단독]교도소 7만명 민생지원금 수령…“숙식 제공받는데 맞나” 지적",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261102/134946979/2"
-        }
-      ]
-    },
-    {
-      "title": "뉴잉글랜드 대 인터 마이애미",
-      "approx_traffic": "2000+",
-      "published": "Sun, 1 Nov 2026 15:30:00 -0800",
-      "news": [
-        {
-          "title": "Inter Miami name XI for New England trip, final away game of regular season",
-          "source": "OneFootball",
-          "url": "https://onefootball.com/en/news/inter-miami-name-xi-for-new-england-trip-final-away-game-of-regular-season-43710859"
-        },
-        {
-          "title": "Starting Lineups (November 1) | Revolution vs. Inter Miami CF",
-          "source": "revolutionsoccer.net",
-          "url": "https://www.revolutionsoccer.net/news/starting-lineups-november-1-revs-vs-inter-miami-cf"
-        },
-        {
-          "title": "%*[[[SPORT TV>]* Miami vs. New England LIVE Free Broadcast ON Tv Channel 01 November ２０２6",
-          "source": "Pierce Manufacturing",
-          "url": "https://www.piercemfg.com/hubfs/StaticContentPages/Other/Webouts/Velocity.Impel/Tour.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5aHVicy5ubC92b3MvbmV3L2EueG1sIi8+PC9rcnBhbm8+&id=video-miami-vs-new-england-match-lie-nwdtumy"
         }
       ]
     }
