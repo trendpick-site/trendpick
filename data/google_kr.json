@@ -1,11 +1,155 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-02T05:37:38+00:00",
+  "fetched_at": "2026-11-02T06:38:46+00:00",
   "items": [
     {
-      "title": "기인",
+      "title": "협박",
+      "approx_traffic": "1000+",
+      "published": "Sun, 1 Nov 2026 21:30:00 -0800",
+      "news": [
+        {
+          "title": "“신세경에 염산 테러” 두달간 450회 협박·모욕글…징역 8개월에 법정구속",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261102/134950358/2"
+        },
+        {
+          "title": "신세경 향해 수백 차례 악성 게시물…협박한 악플러 ‘법정구속’",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261102580303"
+        },
+        {
+          "title": "배우 신세경 괴롭힌 악플러, 2심서 징역 8개월 법정구속",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261102117700005"
+        }
+      ]
+    },
+    {
+      "title": "배추",
+      "approx_traffic": "500+",
+      "published": "Sun, 1 Nov 2026 21:20:00 -0800",
+      "news": [
+        {
+          "title": "농관원, 김장철 배추김치 원산지 표시 집중 단속",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261102143154Knf"
+        },
+        {
+          "title": "김장철 고춧가루 '국내산 둔갑' 막는다…원산지 거짓 표시 1억 이하 벌금",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261102_0003850373"
+        }
+      ]
+    },
+    {
+      "title": "기술",
+      "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 21:10:00 -0800",
+      "news": [
+        {
+          "title": "GC녹십자, 콜롬비아 기업과 독감백신 계약…생산기술 지원",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261102082300017"
+        },
+        {
+          "title": "GC녹십자, 콜롬비아 독감백신 현지 생산 추진…중남미 공급망 확대",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261102000256"
+        },
+        {
+          "title": "GC녹십자, 콜롬비아에 독감백신 기술 수출…592억원 규모",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/science-chosun/bio/2026/11/02/AXYQY3UKNZCT5NLYXB74LZDCBE/"
+        }
+      ]
+    },
+    {
+      "title": "한진칼",
+      "approx_traffic": "500+",
+      "published": "Sun, 1 Nov 2026 21:00:00 -0800",
+      "news": [
+        {
+          "title": "호반, 한진칼 최대주주? 경영권 분쟁 시계제로",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/industry-company/2026/11/02/SN3N3CKNG5AJPF2X5RB3YJSTOA/"
+        },
+        {
+          "title": "호반그룹, 한진칼 ‘최대주주’로 공정위 기업결합 심사 중⋯한진칼 ‘미확정’",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261102500987"
+        },
+        {
+          "title": "한진칼 최대주주 올라선 호반그룹…조원태 경영권은 또 안갯속",
+          "source": "인베스트조선",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/11/02/2026110280113.html"
+        }
+      ]
+    },
+    {
+      "title": "보안",
+      "approx_traffic": "1000+",
+      "published": "Sun, 1 Nov 2026 20:50:00 -0800",
+      "news": [
+        {
+          "title": "해킹 퇴치 방패부터 로봇팔까지… 부산서 사이버보안 맞붙는다",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026110214490035788"
+        },
+        {
+          "title": "주택금융공사, '2026 부산 사이버보안 콘퍼런스' 공동 개최",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261102000202"
+        },
+        {
+          "title": "부산시, 4~5일 '사이버보안 콘퍼런스'…AI 보안 위협 대응 논의",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3739558"
+        }
+      ]
+    },
+    {
+      "title": "조경태",
       "approx_traffic": "100+",
+      "published": "Sun, 1 Nov 2026 20:50:00 -0800",
+      "news": [
+        {
+          "title": "[속보]이 대통령 “30년 만에 IMF 졸업···K자 성장 극복은 새 성장 공식으로”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611021017001"
+        },
+        {
+          "title": "텅 빈 국힘 의원석에 남은 한 사람…대통령이 먼저 다가갔다 [현장영상]",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12325953"
+        }
+      ]
+    },
+    {
+      "title": "수원삼성",
+      "approx_traffic": "100+",
+      "published": "Sun, 1 Nov 2026 20:50:00 -0800",
+      "news": [
+        {
+          "title": "수원 삼성 3년 만의 승격 보인다!…매직넘버 ‘1’",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700604"
+        },
+        {
+          "title": "K리그2 수원, 대구와 무승부...3년 만의 1부 승격 확정 다음 주로",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0107_202610312323090902"
+        },
+        {
+          "title": "수원 삼성, 승격잔치 다음에...수원FC는 자동 승격 유리한 고지 점령",
+          "source": "중부일보",
+          "url": "https://www.joongboo.com/news/articleView.html?idxno=363741103"
+        }
+      ]
+    },
+    {
+      "title": "기인",
+      "approx_traffic": "200+",
       "published": "Sun, 1 Nov 2026 20:30:00 -0800",
       "news": [
         {
@@ -27,7 +171,7 @@
     },
     {
       "title": "정년 연장",
-      "approx_traffic": "5000+",
+      "approx_traffic": "10000+",
       "published": "Sun, 1 Nov 2026 20:20:00 -0800",
       "news": [
         {
@@ -49,7 +193,7 @@
     },
     {
       "title": "신의 구슬",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Sun, 1 Nov 2026 20:20:00 -0800",
       "news": [
         {
@@ -66,155 +210,6 @@
           "title": "'신의 구슬' 안보현·이성민, 관음보주 호송대 이끈다…세대 초월 전우 호흡",
           "source": "iMBC 연예",
           "url": "https://enews.imbc.com/News/RetrieveNewsInfo/523182"
-        }
-      ]
-    },
-    {
-      "title": "당구",
-      "approx_traffic": "1000+",
-      "published": "Sun, 1 Nov 2026 20:10:00 -0800",
-      "news": [
-        {
-          "title": "경복당구회, ‘창립 20주년 기념 당구축제’ 성황리 마무리",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20261102/134950261/1"
-        },
-        {
-          "title": "'2026 진주시당구연맹회장배 3쿠션 당구대회' 열려",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3739380"
-        },
-        {
-          "title": "내달 1일, 나주서 4개 시군 당구대회 개최",
-          "source": "대한청년일보",
-          "url": "https://www.koreayouthdaily.com/news/575307"
-        }
-      ]
-    },
-    {
-      "title": "손태영",
-      "approx_traffic": "100+",
-      "published": "Sun, 1 Nov 2026 20:10:00 -0800",
-      "news": [
-        {
-          "title": "'미코 출신' 손태영, 실물 얼마나 예쁘길래..美카페 사장도 반해서 마카롱 선물 [핫피플]",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112902197"
-        },
-        {
-          "title": "손태영, 10분 메이크업에도 미코 비주얼…제작진도 “거의 생얼인데” 감탄 [RE:뷰]",
-          "source": "TV리포트",
-          "url": "https://tvreport.co.kr/breaking/article/1087515/"
-        },
-        {
-          "title": "'권상우♥' 손태영, '미코' 출신 미모 어디 안 가네…미국 카페 사장에 깜짝 디저트 선물 받아 [MHN:픽]",
-          "source": "MHN스포츠",
-          "url": "https://mhnse.com/news/articleView.html?idxno=1658684"
-        }
-      ]
-    },
-    {
-      "title": "농업",
-      "approx_traffic": "500+",
-      "published": "Sun, 1 Nov 2026 20:00:00 -0800",
-      "news": [
-        {
-          "title": "대동, 역대 최대 규모 키엠스타 참가…AI트랙터·신형 농업드론 공개 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/living/2026/11/02/2026110213391627658"
-        },
-        {
-          "title": "[게시판] 농식품부, 4∼7일 대구서 '2026 국제농기계자재박람회'",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1186686"
-        },
-        {
-          "title": "딸기 휴머노이드·자율주행 한자리에…'농기계자재박람회' 열려",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261102000270"
-        }
-      ]
-    },
-    {
-      "title": "철원",
-      "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 20:00:00 -0800",
-      "news": [
-        {
-          "title": "[속보] 육군 “강원도 철원 소재 전방 부대서 하사 1명 외상입고 사망”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611021114001"
-        },
-        {
-          "title": "[속보] 철원 육군 전방부대서 20대 하사 숨진 채 발견",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261102.99099000381"
-        },
-        {
-          "title": "육군 \"강원 철원 전방부대 하사 1명 외상 입고 사망\"",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261102114428ACT"
-        }
-      ]
-    },
-    {
-      "title": "로스앤젤레스 fc 대 미네소타 유나이티드 fc 순위",
-      "approx_traffic": "50000+",
-      "published": "Sun, 1 Nov 2026 19:50:00 -0800",
-      "news": [
-        {
-          "title": "'손흥민 풀타임' LAFC, 미네소타에 1-3 완패…PO 상위 시드 불발",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261102091400007"
-        },
-        {
-          "title": "손흥민 선발 풀타임에도 '대참사' LAFC, 12위 미네소타에 1-3 완패...전반에만 2골 허용→후반 추가골까지 '속수무책'",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112902576"
-        },
-        {
-          "title": "'손흥민 또 선발 출격' 대표팀 합류 앞두고 마지막 홈경기 나선다... LAFC, 상위권 도약 위해 승리 절실 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/02/2026110209534657278"
-        }
-      ]
-    },
-    {
-      "title": "부평구",
-      "approx_traffic": "1000+",
-      "published": "Sun, 1 Nov 2026 19:50:00 -0800",
-      "news": [
-        {
-          "title": "인천 부평구, ‘재개발·재건축 원스톱 지원센터’ 신설 박차… 현장 소통 강화",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=353607"
-        },
-        {
-          "title": "부평구, 내년 '재개발·재건축 원스탑 지원센터' 신설",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3739290"
-        }
-      ]
-    },
-    {
-      "title": "과태료",
-      "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 19:40:00 -0800",
-      "news": [
-        {
-          "title": "\"과태료 부과했다\"…택시민원 허위종결한 부평구 공무원 해임",
-          "source": "KBC광주방송",
-          "url": "https://www.ikbc.co.kr/article/view/kbc202611020013"
-        },
-        {
-          "title": "택시 민원 전산기록 조작한 부평구 공무원 해임…공소청 송치",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261102580018"
-        },
-        {
-          "title": "택시 요금 민원에 \"과태료 부과했다\" 거짓 답변… 전 공무원, 공소청 송치",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/incident/2026/11/02/S632BMNXQRG2XKDKR3MX5AS5XI/"
         }
       ]
     }
