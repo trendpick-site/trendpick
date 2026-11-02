@@ -1,11 +1,116 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-01T23:13:57+00:00",
+  "fetched_at": "2026-11-02T00:09:38+00:00",
   "items": [
     {
+      "title": "2027년 afc 아시안컵",
+      "approx_traffic": "500+",
+      "published": "Sun, 1 Nov 2026 15:00:00 -0800",
+      "news": [
+        {
+          "title": "'한국 축구 초대형 변수' 손흥민 라스트댄스 어쩌나...'64년만의 우승 도전' 2027 아시안컵, 끝내 연기 가능성 높다",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016931"
+        },
+        {
+          "title": "사우디 아시안컵 1년 연기 가능성…손흥민 '라스트 댄스' 변수",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261102000017"
+        },
+        {
+          "title": "'캡틴 손흥민 왕따설' 대한민국, 오히려 좋아?...카타르 매체 \"아시안컵 1년 전격 연기\"",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/football/2026-11-01/202611010100006850000352"
+        }
+      ]
+    },
+    {
+      "title": "홍지선",
+      "approx_traffic": "1000+",
+      "published": "Sun, 1 Nov 2026 15:00:00 -0800",
+      "news": [
+        {
+          "title": "“김포가 주택공급 호구냐”…3만7천 호 신규택지 발표에 SNS 민심 ‘부글부글’",
+          "source": "중부일보",
+          "url": "https://www.joongboo.com/news/articleView.html?idxno=363741088"
+        },
+        {
+          "title": "7.7만 가구 신규택지 '자족도시' 내걸었지만…일자리 계획 '빈칸'",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/realestate/general/6338541"
+        },
+        {
+          "title": "“그린벨트 왕창 풀어 집짓는다는데”…실수요자 반기는데, 왜 시끄럽지?",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/realestate/12192560"
+        }
+      ]
+    },
+    {
+      "title": "인베스팅닷컴",
+      "approx_traffic": "100+",
+      "published": "Sun, 1 Nov 2026 15:00:00 -0800",
+      "news": [
+        {
+          "title": "[특파원 리포트] 판자촌이 된 파리에서",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/opinion/correspondent_column/2026/11/01/YQ7YPXQWYFD3ZB7OQIDXF7UWDY/"
+        },
+        {
+          "title": "프랑스 국채 매도세가 전 세계 정부에 보내는 경고",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2152359"
+        },
+        {
+          "title": "佛 신용전망 안정→부정…유럽 전역 '핼러윈 시위' 불길",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026110185351"
+        }
+      ]
+    },
+    {
+      "title": "중대범죄수사청",
+      "approx_traffic": "500+",
+      "published": "Sun, 1 Nov 2026 14:30:00 -0800",
+      "news": [
+        {
+          "title": "[개정 형소법 한달]추미애는 보내고, 한동훈은 묵히고···중수청은 왜 한 달째 사건 뒤적이나",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611020600121"
+        },
+        {
+          "title": "대혼란 없었지만… 중수청, 종이 수사기록 ‘배달’하고 구속 5건",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261102/134946918/2"
+        },
+        {
+          "title": "출범 1개월 부산중수청, 구속수사·송치 사건 아직 없어",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261030113300051"
+        }
+      ]
+    },
+    {
+      "title": "카를로스 알카라스",
+      "approx_traffic": "1000+",
+      "published": "Sun, 1 Nov 2026 14:30:00 -0800",
+      "news": [
+        {
+          "title": "알카라스, 드미노 꺾고 빈오픈 정상",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261102_0002279834&pID=1&cID=&sID=1&type=photoMain&idx=7"
+        },
+        {
+          "title": "알카라스, 빈에서 폴 상대로 서브...ATP 500 8강전 현장",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738280"
+        }
+      ]
+    },
+    {
       "title": "휴고 칼데라노",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Sun, 1 Nov 2026 14:10:00 -0800",
       "news": [
         {
@@ -14,42 +119,42 @@
           "url": "https://www.mt.co.kr/sports/2026/11/01/202611012131770272O"
         },
         {
+          "title": "'우승 확률 희박했던 1-3 열세' 장우진이 해냈다! 독일 프란치스카에 내리 3게임 따내며 4-3 대역전...몽펠리에의 기적",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/11/02/MU4DOOBTMFSTCZBSG42TQMJVGQ/"
+        },
+        {
           "title": "‘거침없다’ 탁구 에이스 장우진, 세계랭킹 6위와 결승 티켓 다툰다…WTT 챔피언스 몽펠리에 4강 진출",
           "source": "OSEN",
           "url": "https://www.osen.co.kr/article/G1112902055"
-        },
-        {
-          "title": "장우진 쾌거! 韓 탁구 최초 WTT 챔피언스 2회 결승 진출…세계 7위 칼데라누에 4-3 역전승→18위 프란치스카와 트로피 다툰다",
-          "source": "엑스포츠뉴스",
-          "url": "https://www.xportsnews.com/article/2214143"
         }
       ]
     },
     {
       "title": "비트코인",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Sun, 1 Nov 2026 14:10:00 -0800",
       "news": [
         {
-          "title": "北해커 훔친 비트코인, 테슬라 보유량 넘어‥北연간 수출액 3배",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6862373_36925.html"
+          "title": "北해커가 훔친 비트코인, 테슬라 보유량 추월…北연간 수출액 3배",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202611020603292b0"
         },
         {
-          "title": "“8조 원이 한순간에 증발”…바이낸스, 대체 왜 털렸나? [잇슈 머니]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8700945"
-        },
-        {
-          "title": "트럼프 \"바이낸스 해킹, 북한 소행 확인되면 대화할 것\"",
+          "title": "바이낸스 해킹 충격…가상자산 선물 16억달러 청산·美 관련주 급락",
           "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442367"
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442399"
+        },
+        {
+          "title": "\"눈 뜨고 8.4조 털렸다\"…20분 만에 세계 최대 코인거래소 뚫은 北 해커 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/11/02/2026110122225096026"
         }
       ]
     },
     {
       "title": "구미시",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Sun, 1 Nov 2026 14:00:00 -0800",
       "news": [
         {
@@ -96,100 +201,6 @@
       "approx_traffic": "100+",
       "published": "Sun, 1 Nov 2026 14:00:00 -0800",
       "news": []
-    },
-    {
-      "title": "사학연금",
-      "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 13:50:00 -0800",
-      "news": []
-    },
-    {
-      "title": "김호령",
-      "approx_traffic": "5000+",
-      "published": "Sun, 1 Nov 2026 13:40:00 -0800",
-      "news": [
-        {
-          "title": "KIA 가을 최악 악몽 주인공… FA 가치 시험대 오른다, 설마 이렇게 KIA 떠날까",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016924"
-        },
-        {
-          "title": "[사진]아쉬운 김호령 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/30/202610302057770725O"
-        },
-        {
-          "title": "이범호 감독 ‘이호연 대타’[포토]",
-          "source": "www.xportsnews.com",
-          "url": "https://www.xportsnews.com/article/2214015"
-        }
-      ]
-    },
-    {
-      "title": "파업",
-      "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 13:40:00 -0800",
-      "news": [
-        {
-          "title": "포스코노조, 7일 조합원 대상 임금교섭 잠정 합의안 찬반투표",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261101014100053"
-        },
-        {
-          "title": "포스코 노조 파업 철회하고 7일 임금협상 잠정합의안 투표, 과반 찬성하면 최종 타결",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450846"
-        },
-        {
-          "title": "포스코 노사, 올해 임금협상 '극적 합의'…\"철강 위기 극복 위해 힘 합친다\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261101_0003849616"
-        }
-      ]
-    },
-    {
-      "title": "미국 중간선거",
-      "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 13:30:00 -0800",
-      "news": [
-        {
-          "title": "美, 5200만명 사전투표 역대 최대… 민주당원 비율이 11%p 더 높아",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/11/02/J7MG2TX5ABG4DKTJFURO3HROLQ/"
-        },
-        {
-          "title": "트럼프, 아이오와·캔자스에서 마지막 투표 호소...알래스카 공화 후보 \"패해도 결과 받아들일 것\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202611020715590752"
-        },
-        {
-          "title": "美중간선거 D-2…트럼프 텃밭사수 안간힘, 민주 내부갈등 분출(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261102002151071"
-        }
-      ]
-    },
-    {
-      "title": "신인감독 김연경",
-      "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 13:20:00 -0800",
-      "news": [
-        {
-          "title": "김연경 큰 실망…자존심 다 걸고 핑크스파이더스 맞대결",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261101/134944838/1"
-        },
-        {
-          "title": "‘신인감독 김연경2’ 표승주 팀과 맞대결서 고전…김연경 “할 말이 없다”",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20108740"
-        },
-        {
-          "title": "'신인감독' 김연경 감독, 친정팀 '흥국생명' 맞춤형 훈련 공개",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/523092"
-        }
-      ]
     }
   ]
 }
