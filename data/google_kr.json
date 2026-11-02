@@ -1,22 +1,193 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-02T06:38:46+00:00",
+  "fetched_at": "2026-11-02T08:00:32+00:00",
   "items": [
     {
-      "title": "협박",
+      "title": "시체",
+      "approx_traffic": "10000+",
+      "published": "Sun, 1 Nov 2026 22:20:00 -0800",
+      "news": [
+        {
+          "title": "아산 오폐수장서 발견된 태아 시신...“낳은 줄도 몰랐다”",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261031580007"
+        },
+        {
+          "title": "산모 “낳은 줄 몰라”···아산 오폐수처리시설 태아 ‘출생 전 사산’ 범죄 혐의 없어 종결",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610302215001"
+        },
+        {
+          "title": "오수처리장 '20㎝ 태아' 시신...범죄 아니다? 혐의점 없어 '종결' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/31/2026103022515618610"
+        }
+      ]
+    },
+    {
+      "title": "제트기",
+      "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 22:10:00 -0800",
+      "news": [
+        {
+          "title": "제트기, 플로리다 주택가 도로 추락…탑승자 9명 전원 사망 [현장영상]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8701183"
+        },
+        {
+          "title": "\"곧 지면 충돌\" 교신 뒤 수직으로 주택가에‥美 플로리다 '제트기 참사'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6862461_36925.html"
+        },
+        {
+          "title": "美 플로리다주 제트기 추락 사고…탑승자 전원 사망",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH202611020948124Mt"
+        }
+      ]
+    },
+    {
+      "title": "김도영",
+      "approx_traffic": "2000+",
+      "published": "Sun, 1 Nov 2026 22:00:00 -0800",
+      "news": [
+        {
+          "title": "MLB닷컴 \"노시환, 빅리그서 통할 장타력\"…수비는 보완 과제",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261102071500007"
+        },
+        {
+          "title": "노시환이 갑이다, 왜? 美언론 평가 → \"이미 2300만달러급 계약, 상당한 경제적 안정성 확보\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/11/02/GJRWGNZXGUYTMNRVGEYWKNTGHE/"
+        },
+        {
+          "title": "“김도영 메츠-양키스-다저스-보스턴-에인절스 딱이야” 韓슈퍼스타 관심 폭발! 벌써 ML이 주목한다 “미국 와도 20~25홈런 칠 것” - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/02/202611020903772157O"
+        }
+      ]
+    },
+    {
+      "title": "황사",
+      "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 22:00:00 -0800",
+      "news": [
+        {
+          "title": "[날씨] 찬바람에 황사 점차 해소...밤사이 기온 '뚝', 서울 3℃ 올가을 최저",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0108_202611021626285713"
+        },
+        {
+          "title": "[날씨] 내일 출근길 반짝 추위…일교차 15도 안팎 커",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261102161028l50"
+        },
+        {
+          "title": "서울 등 황사 관측…서해안·제주 미세먼지 한때 ‘나쁨’",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8701433"
+        }
+      ]
+    },
+    {
+      "title": "암표",
+      "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 21:50:00 -0800",
+      "news": [
+        {
+          "title": "프로야구 한국시리즈 입장권 '110배' 부풀려 판매‥매크로 암표상 검거",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6862448_36918.html"
+        },
+        {
+          "title": "[D리포트] 아이돌·프로야구 티켓 '110배' 뻥튀기…22억 챙긴 일당",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008826717&plink=RSSLINK&cooper=GSTAND"
+        },
+        {
+          "title": "한국시리즈 표 한 장에 893만원…암표로 22억 챙긴 일당 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/02/2026110214242068189"
+        }
+      ]
+    },
+    {
+      "title": "선박",
+      "approx_traffic": "2000+",
+      "published": "Sun, 1 Nov 2026 21:40:00 -0800",
+      "news": [
+        {
+          "title": "트럼프, 알래스카 또 거론…\"한중일行 선박 위한 가스관 있다\"(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261102023651071"
+        },
+        {
+          "title": "중간선거 유세서 알래스카 LNG 꺼낸 트럼프… “한·중·일로 운송”",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/international/international_general/2026/11/02/IUEWJL5B3BDO3EQHQBU5F2KZ3U/"
+        },
+        {
+          "title": "침울한 표정으로 춤추는 트럼프 대통령",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261102_0002279958"
+        }
+      ]
+    },
+    {
+      "title": "방은희",
       "approx_traffic": "1000+",
+      "published": "Sun, 1 Nov 2026 21:40:00 -0800",
+      "news": [
+        {
+          "title": "\"1년간 엄마 피했는데…\" 방은희, 모친 고독사 이틀 만에 발견 '오열' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/02/2026110207363741441"
+        },
+        {
+          "title": "“母 고독사, 특수 업체 유품 정리” 고백 방은희, 가슴치고 오열하며 후회 “미안해”(운명네컷)",
+          "source": "뉴스엔",
+          "url": "https://www.newsen.com/news_view.php?uid=202611020822076710&code=100100"
+        },
+        {
+          "title": "방은희, 母 고독사 이틀만에 발견→특수청소업체 연락..\"옆에 못 있어 미안\"",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-11-02/202611020100008590000463"
+        }
+      ]
+    },
+    {
+      "title": "랜섬웨어",
+      "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 21:40:00 -0800",
+      "news": [
+        {
+          "title": "한국 기업 최다 타격 랜섬웨어 ‘논’, 공격 위한 AI에만 월 1000만원 썼다",
+          "source": "보안뉴스",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=146900"
+        },
+        {
+          "title": "바이낸스부터 글로벌 은행까지…국경 없이 번지는 해킹 공포",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261102_0003850719"
+        },
+        {
+          "title": "[해킹 도미노] ② 10월 해킹 대란이 남긴 질문…왜 잇따라 뚫렸나",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261031035200017"
+        }
+      ]
+    },
+    {
+      "title": "협박",
+      "approx_traffic": "2000+",
       "published": "Sun, 1 Nov 2026 21:30:00 -0800",
       "news": [
         {
           "title": "“신세경에 염산 테러” 두달간 450회 협박·모욕글…징역 8개월에 법정구속",
           "source": "동아일보",
           "url": "https://www.donga.com/news/Society/article/all/20261102/134950358/2"
-        },
-        {
-          "title": "신세경 향해 수백 차례 악성 게시물…협박한 악플러 ‘법정구속’",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261102580303"
         },
         {
           "title": "배우 신세경 괴롭힌 악플러, 2심서 징역 8개월 법정구속",
@@ -31,185 +202,14 @@
       "published": "Sun, 1 Nov 2026 21:20:00 -0800",
       "news": [
         {
-          "title": "농관원, 김장철 배추김치 원산지 표시 집중 단속",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261102143154Knf"
+          "title": "농관원, 김장철 원산지 표시 위반 집중 단속…배추김치·양념류 점검",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261102580225"
         },
         {
           "title": "김장철 고춧가루 '국내산 둔갑' 막는다…원산지 거짓 표시 1억 이하 벌금",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20261102_0003850373"
-        }
-      ]
-    },
-    {
-      "title": "기술",
-      "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 21:10:00 -0800",
-      "news": [
-        {
-          "title": "GC녹십자, 콜롬비아 기업과 독감백신 계약…생산기술 지원",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261102082300017"
-        },
-        {
-          "title": "GC녹십자, 콜롬비아 독감백신 현지 생산 추진…중남미 공급망 확대",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261102000256"
-        },
-        {
-          "title": "GC녹십자, 콜롬비아에 독감백신 기술 수출…592억원 규모",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/science-chosun/bio/2026/11/02/AXYQY3UKNZCT5NLYXB74LZDCBE/"
-        }
-      ]
-    },
-    {
-      "title": "한진칼",
-      "approx_traffic": "500+",
-      "published": "Sun, 1 Nov 2026 21:00:00 -0800",
-      "news": [
-        {
-          "title": "호반, 한진칼 최대주주? 경영권 분쟁 시계제로",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/industry-company/2026/11/02/SN3N3CKNG5AJPF2X5RB3YJSTOA/"
-        },
-        {
-          "title": "호반그룹, 한진칼 ‘최대주주’로 공정위 기업결합 심사 중⋯한진칼 ‘미확정’",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261102500987"
-        },
-        {
-          "title": "한진칼 최대주주 올라선 호반그룹…조원태 경영권은 또 안갯속",
-          "source": "인베스트조선",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/11/02/2026110280113.html"
-        }
-      ]
-    },
-    {
-      "title": "보안",
-      "approx_traffic": "1000+",
-      "published": "Sun, 1 Nov 2026 20:50:00 -0800",
-      "news": [
-        {
-          "title": "해킹 퇴치 방패부터 로봇팔까지… 부산서 사이버보안 맞붙는다",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026110214490035788"
-        },
-        {
-          "title": "주택금융공사, '2026 부산 사이버보안 콘퍼런스' 공동 개최",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261102000202"
-        },
-        {
-          "title": "부산시, 4~5일 '사이버보안 콘퍼런스'…AI 보안 위협 대응 논의",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3739558"
-        }
-      ]
-    },
-    {
-      "title": "조경태",
-      "approx_traffic": "100+",
-      "published": "Sun, 1 Nov 2026 20:50:00 -0800",
-      "news": [
-        {
-          "title": "[속보]이 대통령 “30년 만에 IMF 졸업···K자 성장 극복은 새 성장 공식으로”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611021017001"
-        },
-        {
-          "title": "텅 빈 국힘 의원석에 남은 한 사람…대통령이 먼저 다가갔다 [현장영상]",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12325953"
-        }
-      ]
-    },
-    {
-      "title": "수원삼성",
-      "approx_traffic": "100+",
-      "published": "Sun, 1 Nov 2026 20:50:00 -0800",
-      "news": [
-        {
-          "title": "수원 삼성 3년 만의 승격 보인다!…매직넘버 ‘1’",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700604"
-        },
-        {
-          "title": "K리그2 수원, 대구와 무승부...3년 만의 1부 승격 확정 다음 주로",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0107_202610312323090902"
-        },
-        {
-          "title": "수원 삼성, 승격잔치 다음에...수원FC는 자동 승격 유리한 고지 점령",
-          "source": "중부일보",
-          "url": "https://www.joongboo.com/news/articleView.html?idxno=363741103"
-        }
-      ]
-    },
-    {
-      "title": "기인",
-      "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 20:30:00 -0800",
-      "news": [
-        {
-          "title": "춘길X장혜리, 연습실 문까지 잠갔다…핑크빛 폭발 커플 요가 (천만기인쇼)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261102/134947673/1"
-        },
-        {
-          "title": "‘천만기인쇼’ 표창원 파격 변신에 춘길·장혜리 묘한 기류… 195점 기록 깨질까",
-          "source": "천지일보",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3445033"
-        },
-        {
-          "title": "춘길, 장혜리와 묘한 핑크빛 기류? 수위부터 남다른 '커플 요가' 포착 (천만기인쇼)",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/tv/2026/11/02/MMZTIMZYME3WINDDGFRTKZBXMQ/"
-        }
-      ]
-    },
-    {
-      "title": "정년 연장",
-      "approx_traffic": "10000+",
-      "published": "Sun, 1 Nov 2026 20:20:00 -0800",
-      "news": [
-        {
-          "title": "'박애'를 흔드는 프랑스 연금 갈등[투데이窓/박경덕] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/opinion/2026/11/02/2026110110081316176"
-        },
-        {
-          "title": "“임금 삭감·촉탁직 재고용 말고, 65세 온전한 정년연장 입법하라”",
-          "source": "https://www.ilabor.org/",
-          "url": "https://www.ilabor.org/news/articleView.html?idxno=12450"
-        },
-        {
-          "title": "정년연장, 나이만 올리면 끝?…임금·연금·퇴직 등 통합 설계해야\"[만났습니다②]",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01666246645618168&mediaCodeNo=257"
-        }
-      ]
-    },
-    {
-      "title": "신의 구슬",
-      "approx_traffic": "2000+",
-      "published": "Sun, 1 Nov 2026 20:20:00 -0800",
-      "news": [
-        {
-          "title": "안보현·이성민, 세대 뛰어넘는 특별한 전우호흡 예고…든든한 투샷(‘신의 구슬’)",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112902607"
-        },
-        {
-          "title": "‘신의 구슬’ 안보현·이성민, 관음보주 호송 작전서 맞선다… 첫 투샷 공개",
-          "source": "천지일보",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3445062"
-        },
-        {
-          "title": "'신의 구슬' 안보현·이성민, 관음보주 호송대 이끈다…세대 초월 전우 호흡",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/523182"
         }
       ]
     }
