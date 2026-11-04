@@ -1,11 +1,143 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-04T11:19:11+00:00",
+  "fetched_at": "2026-11-04T12:25:24+00:00",
   "items": [
     {
-      "title": "김지찬",
+      "title": "다니엘기도회 2026",
       "approx_traffic": "100+",
+      "published": "Wed, 4 Nov 2026 03:20:00 -0800",
+      "news": [
+        {
+          "title": "[2026 다니엘기도회: 3일] 원천희 선교사 “고난은 실패가 아니라 하나님의 훈련” : 목회/신학",
+          "source": "크리스천투데이",
+          "url": "https://www.christiantoday.co.kr/news/378363"
+        },
+        {
+          "title": "‘2026 다니엘기도회’ 21일간 영적 대장정 돌입",
+          "source": "기독신문",
+          "url": "https://www.kidok.com/news/articleView.html?idxno=509327"
+        },
+        {
+          "title": "'2026 다니엘기도회' 21일간의 여정 돌입…GOODTV 전 과정 생중계",
+          "source": "데일리굿뉴스",
+          "url": "https://www.goodnews1.com/news/articleView.html?idxno=465742"
+        }
+      ]
+    },
+    {
+      "title": "류지혁",
+      "approx_traffic": "200+",
+      "published": "Wed, 4 Nov 2026 03:10:00 -0800",
+      "news": [
+        {
+          "title": "[한번에쓱] 최형우도 빼며 승부걸었는데 '아...역기서 병살타라니' 류지혁 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/04/2026110420382150373"
+        },
+        {
+          "title": "[사진]충돌하는 류지혁과 류현인",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/11/04/GJSTGOLBMI3TKMTGGZTDGYTCMQ/"
+        },
+        {
+          "title": "만루 찬스 놓친 류지혁",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261104_0021519437"
+        }
+      ]
+    },
+    {
+      "title": "엘앤에프",
+      "approx_traffic": "200+",
+      "published": "Wed, 4 Nov 2026 03:00:00 -0800",
+      "news": [
+        {
+          "title": "[단독] 배터리 3사 싹쓸이…엘앤에프, 6만t LFP 신공장 짓는다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611033805i"
+        },
+        {
+          "title": "현대차, 포스코퓨처엠 베트남 음극재 사업에 1천억 투자 추진",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261103137900003"
+        },
+        {
+          "title": "엘앤에프플러스, 현대제철과 LFP 양극재용 산화철 공급 협력",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374252"
+        }
+      ]
+    },
+    {
+      "title": "송혜교",
+      "approx_traffic": "2000+",
+      "published": "Wed, 4 Nov 2026 02:20:00 -0800",
+      "news": [
+        {
+          "title": "송혜교, 또 헤어스타일리스트 이일중과 투샷 포착",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261104_0003853703"
+        },
+        {
+          "title": "45세 송혜교, 흑백 사진 속 ‘눈부신 미모’..화면 뚫고 나오는 우아함",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112903727"
+        },
+        {
+          "title": "송혜교, 홍콩서 남사친 어깨에 '브이'…독보적 비주얼 [N샷]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6342126"
+        }
+      ]
+    },
+    {
+      "title": "klasemen melbourne victory vs persib bandung",
+      "approx_traffic": "500+",
+      "published": "Wed, 4 Nov 2026 02:20:00 -0800",
+      "news": [
+        {
+          "title": "Persib Luar Biasa, Sapu Bersih 4 Laga dan Lolos ke 16 Besar ACL 2",
+          "source": "CNN Indonesia",
+          "url": "https://www.cnnindonesia.com/olahraga/20261104172840-142-1423340/persib-luar-biasa-sapu-bersih-4-laga-dan-lolos-ke-16-besar-acl-2"
+        },
+        {
+          "title": "Remontada Persib Atas Melbourne Victory Memicu Bonus Cuan Melimpah Dari AFC",
+          "source": "https://janalokajournal.id/",
+          "url": "https://janalokajournal.id/remontada-persib-atas-melbourne-victory-memicu-bonus-cuan-melimpah/"
+        },
+        {
+          "title": "Nyaris Bikin Persib Kalah, Tangis Fitrah Maulana Pecah di Pelukan Sandy Walsh",
+          "source": "Radar Cirebon",
+          "url": "https://radarcirebon.disway.id/sport/read/235089/nyaris-bikin-persib-kalah-tangis-fitrah-maulana-pecah-di-pelukan-sandy-walsh"
+        }
+      ]
+    },
+    {
+      "title": "디아즈",
+      "approx_traffic": "500+",
+      "published": "Wed, 4 Nov 2026 02:10:00 -0800",
+      "news": [
+        {
+          "title": "[포토] 디아즈 '힐리어드 애썼데이' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/04/2026110419364014137"
+        },
+        {
+          "title": "페덱의 실수",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261104_0021519397"
+        },
+        {
+          "title": "[사진]펜스와 충동하는 최원준",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112904124"
+        }
+      ]
+    },
+    {
+      "title": "김지찬",
+      "approx_traffic": "200+",
       "published": "Wed, 4 Nov 2026 02:10:00 -0800",
       "news": [
         {
@@ -19,21 +151,21 @@
           "url": "https://www.chosun.com/sports/sports_photo/2026/11/03/GRRGEZJWMNQWMZDGGU3WKNJSG4/"
         },
         {
-          "title": "\"(김)상수 형, 은퇴 전 삼성 돌아왔으면\" 적으로 만난 4회 우승 선배 향한 김지찬 진심 \"그래도 반지는 우리가 가져갈게요\" [KS2 현장] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/04/2026110414025245468"
+          "title": "형은 스태프로, 동생은 선수로…KS에서 재회한 ‘김지찬 브라더스’",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261103222026810"
         }
       ]
     },
     {
       "title": "서울 sk 대 대구 한국가스공사",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Wed, 4 Nov 2026 01:50:00 -0800",
       "news": [
         {
-          "title": "[BK 프리뷰] ‘같은 5승, 다른 무게’ 5연승 SK vs 5할 복귀 노리는 한국가스공사",
-          "source": "바스켓코리아",
-          "url": "https://www.basketkorea.com/news/newsview.php?ncode=1065549458513778"
+          "title": "‘벨란겔 클러치타임 3점슛 미쳤다!’ 한국가스공사, SK 6연승 저지했다",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112904320"
         },
         {
           "title": "“힉스, 기대보다 훨씬 잘해준다”…전희철 감독이 꼽은 SK 상승세 이유 [쿠키 현장]",
@@ -41,9 +173,9 @@
           "url": "https://www.kukinews.com/article/view/kuk202611040242"
         },
         {
-          "title": "프로농구 오늘(4일) 경기 일정…서울 SK VS 대구 한국가스공사, 중계 채널→현재 순위?",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16268060"
+          "title": "[BK 프리뷰] ‘같은 5승, 다른 무게’ 5연승 SK vs 5할 복귀 노리는 한국가스공사",
+          "source": "바스켓코리아",
+          "url": "https://www.basketkorea.com/news/newsview.php?ncode=1065549458513778"
         }
       ]
     },
@@ -53,41 +185,19 @@
       "published": "Wed, 4 Nov 2026 01:50:00 -0800",
       "news": [
         {
-          "title": "난파선 화물표에 ‘장씨 댁 쌀 12석’…800년 전 고려시대 물류 ‘생생’",
+          "title": "고려 난파선서 길어 올린 800년 전 물류의 비밀",
           "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611040900001"
+          "url": "https://www.khan.co.kr/article/202611042028015"
+        },
+        {
+          "title": "800년 전 함께 침몰했나… 판박이 ‘고려 운송장’ 찾았다",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/life/cultural-heritage/2026/11/05/20261105016001"
         },
         {
           "title": "영암서 곡물 싣고 개경으로…800년 전 태안 바다에 잠든 고려 배",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20261104000700005"
-        },
-        {
-          "title": "'바다의 경주'서…50㎏ 잠수복 입고 고려 청자 찾았다[현장]",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261104_0003855050"
-        }
-      ]
-    },
-    {
-      "title": "최원준",
-      "approx_traffic": "200+",
-      "published": "Wed, 4 Nov 2026 01:30:00 -0800",
-      "news": [
-        {
-          "title": "[포토] 디아즈 '힐리어드 애썼데이' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/04/2026110419364014137"
-        },
-        {
-          "title": "페덱의 실수",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261104_0021519397"
-        },
-        {
-          "title": "‘PS 타율 .167’ 디아즈, 데뷔 첫 3루타 폭발…삼성 선취점 이끌었다 [KS2]",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112904106"
         }
       ]
     },
@@ -97,119 +207,19 @@
       "published": "Wed, 4 Nov 2026 01:30:00 -0800",
       "news": [
         {
-          "title": "[Photo] Choi Won-joon collects consecutive hits",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-photo-spo/2026/11/04/KI54LELVT5GBVISDQSP54QCTEY/"
-        },
-        {
           "title": "Kim Jeong-woon's Seventh-Inning Struggle Leads to KT's 8-7 Victory",
           "source": "조선일보",
           "url": "https://www.chosun.com/english/sports-en/2026/11/04/YWR7HGDQ5RE2TFDT3VIV2RIVW4/"
         },
         {
+          "title": "Jang Chan-hee mixes confidence and regret after Korean Series debut loss",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/11/04/BFGLBJFBAJAYRNVQFQJASZ3NAU/"
+        },
+        {
           "title": "Wiz closer Park Yeong-hyun says belief in himself, catcher led to big Korean Series save",
           "source": "Yonhap News Agency",
           "url": "https://en.yna.co.kr/view/AEN20261104002400315"
-        }
-      ]
-    },
-    {
-      "title": "한국시리즈 중계",
-      "approx_traffic": "100+",
-      "published": "Wed, 4 Nov 2026 01:30:00 -0800",
-      "news": [
-        {
-          "title": "'오늘N'-'가족관계증명서', 오늘(4일) 결방…프로야구 한국시리즈 2차전 중계",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16268298"
-        },
-        {
-          "title": "25만 개 팔린 bhc '콰삭모짜킹'... 이제 전국 매장서 만난다",
-          "source": "금강일보",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1190543"
-        }
-      ]
-    },
-    {
-      "title": "뉴욕 마라톤",
-      "approx_traffic": "100+",
-      "published": "Wed, 4 Nov 2026 01:20:00 -0800",
-      "news": [
-        {
-          "title": "美 뉴욕서도 마라톤 20대 사망 \"하키선수도 했는데‥\" 애도·충격",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6863093_36925.html"
-        },
-        {
-          "title": "\"마라톤 결승선 500m 앞 쓰러진 유지원, 도와달라\"…유족, 목격자 찾는다",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6341131"
-        },
-        {
-          "title": "뉴욕 마라톤에서 횡문근융해증으로 20대 여성 숨져",
-          "source": "YTN 사이언스",
-          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611041107056991"
-        }
-      ]
-    },
-    {
-      "title": "포항 대 감바 오사카",
-      "approx_traffic": "2000+",
-      "published": "Wed, 4 Nov 2026 01:10:00 -0800",
-      "news": [
-        {
-          "title": "포항, 김성재 감독대행 체제로 시즌 마무리 예정…새 사령탑 선임 시간 갖는다",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20261103/134956815/1"
-        },
-        {
-          "title": "日 3부에서 1부로 올라온 공격수, 韓 K리그1 상대 첫 공식전···“FC 서울과 연습경기 치르며 자신감 얻은 기억 있어” [MK포항]",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/sports/12195951"
-        }
-      ]
-    },
-    {
-      "title": "한우",
-      "approx_traffic": "500+",
-      "published": "Wed, 4 Nov 2026 01:10:00 -0800",
-      "news": [
-        {
-          "title": "경주한우·축산물축제 성황리 마무리…지역 축산물 우수성 알려",
-          "source": "웹이코노미",
-          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2361398"
-        },
-        {
-          "title": "경주한우·축산물축제 성료…할인 판매·시식 행사에 방문객 호응",
-          "source": "경북매일",
-          "url": "https://www.kbmaeil.com/article/20261104500181"
-        },
-        {
-          "title": "\"여보, 오늘은 한우 파티\"…반값 할인에 온 나라가 '들썩'",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611044985g"
-        }
-      ]
-    },
-    {
-      "title": "대장암",
-      "approx_traffic": "100+",
-      "published": "Wed, 4 Nov 2026 01:10:00 -0800",
-      "news": [
-        {
-          "title": "대장암은 왜 젊은층에 더 치명적일까?",
-          "source": "덴탈투데이",
-          "url": "https://www.dttoday.com/news/articleView.html?idxno=97358"
-        },
-        {
-          "title": "대장암 발생률, 20년 만에 전 연령대서 동시에 올랐다",
-          "source": "매일신문",
-          "url": "https://www.imaeil.com/page/view/2026102810180585332"
-        },
-        {
-          "title": "가는 변보다 더 흔한 신호…50세 미만 대장암 환자 45%가 겪었다",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261030501314"
         }
       ]
     }
