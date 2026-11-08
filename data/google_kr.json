@@ -1,225 +1,209 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-08T01:45:24+00:00",
+  "fetched_at": "2026-11-08T02:55:47+00:00",
   "items": [
     {
-      "title": "코리아 그랜드 뮤직 어워즈",
+      "title": "미스 베트남",
       "approx_traffic": "500+",
-      "published": "Sat, 7 Nov 2026 16:40:00 -0800",
+      "published": "Sat, 7 Nov 2026 17:50:00 -0800",
       "news": [
         {
-          "title": "튜이드, 데뷔 2개월 반만에 ‘2026 KGMA’ 첫 신인상 수상 ‘대세 신인’",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/music/2026/11/08/GY3DQMTDMZSGMMRUHEYDSNDGMQ/"
+          "title": "새로운 미스 베트남 응우옌 짱(Nguyen Yen Trang)의 첫 걸음.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhung-buoc-chan-dau-tien-cua-tan-hoa-hau-nguyen-yen-trang"
         },
         {
-          "title": "영케이, KGMA '5관왕' 기염……리센느·앤더블도 '최고상'",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261108000004"
+          "title": "응우옌 옌 짱,,,베트남 미인대회 2026 우승",
+          "source": "굿모닝베트남미디어",
+          "url": "https://www.goodmorningvietnam.co.kr/news/article.html?no=84464"
         },
         {
-          "title": "트레저, '대상' 포함 4관왕 됐다..성공적 'YG 힙합 DNA'",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112906225"
+          "title": "지아라이 출신의 미녀 레 푸옹 응이가 2026 미스 베트남 대회에서 3위(준우승)를 차지했습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nguoi-dep-gia-lai-le-phuong-nghi-gianh-danh-hieu-a-hau-2-hoa-hau-viet-nam-2026"
         }
       ]
     },
     {
-      "title": "눈",
+      "title": "이다현",
+      "approx_traffic": "500+",
+      "published": "Sat, 7 Nov 2026 17:40:00 -0800",
+      "news": []
+    },
+    {
+      "title": "미디어오늘",
       "approx_traffic": "100+",
-      "published": "Sat, 7 Nov 2026 16:40:00 -0800",
+      "published": "Sat, 7 Nov 2026 17:40:00 -0800",
       "news": [
         {
-          "title": "\"이대로 겨울 오는 건 아냐\"...때 이른 추위, 언제까지? [Y녹취록]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0134_202611080929115361_001"
+          "title": "언론노조, 국회서 'YTN 청문 지연' 방미통위 규탄 \"무책임\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6863653_36911.html"
         },
         {
-          "title": "쌀쌀하고 흐린 주말…산불 주의",
+          "title": "유진 청문연기 “방미통위와 무관” 유체이탈에 쏟아진 비판",
+          "source": "미디어오늘",
+          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=338244"
+        },
+        {
+          "title": "전국언론노조, 방미통위 규탄…\"YTN 청문 절차 즉각 재개해야\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/politics/assembly/6345687"
+        }
+      ]
+    },
+    {
+      "title": "루이바오",
+      "approx_traffic": "100+",
+      "published": "Sat, 7 Nov 2026 17:30:00 -0800",
+      "news": [
+        {
+          "title": "용인시, 루이·후이바오에 ‘명예시민증’… 슈바오는 ‘아기 주민증’",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261106580394"
+        },
+        {
+          "title": "쌍둥이 판다, 중국행 앞두고 용인 명예시민증 받아",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706864"
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706067"
         },
         {
-          "title": "기온 낮고 중부지방 비…강원 산지엔 1㎝ 안팎 눈",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261108004100034"
+          "title": "용인특례시의회, 루이·후이바오에 ‘시민행복 감사장’ 전달",
+          "source": "메트로신문",
+          "url": "https://www.metroseoul.co.kr/article/20261107500047"
         }
       ]
     },
     {
-      "title": "sk하이닉스",
-      "approx_traffic": "20000+",
-      "published": "Sat, 7 Nov 2026 16:30:00 -0800",
-      "news": [
-        {
-          "title": "지난주 삼전닉스 7조 던진 외인...보유율도 최저",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0102_202611080926229369_005.html"
-        },
-        {
-          "title": "외국인, 지난주 삼전닉스 7.6조 던졌다…보유율도 수년만 최저",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261107026400008"
-        },
-        {
-          "title": "오를 땐 팔고 급락하니 산다…'떨어지는 칼날' 잡는 개미들",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/finance/general-stock/6346269"
-        }
-      ]
-    },
-    {
-      "title": "후티",
-      "approx_traffic": "200+",
-      "published": "Sat, 7 Nov 2026 16:30:00 -0800",
-      "news": [
-        {
-          "title": "후티 반군 \"사우디 국제공항·아람코 석유 저장탱크 타격\"",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443609"
-        },
-        {
-          "title": "후티 \"사우디 공습으로 예멘 수도 인근서 27명 사망\" 주장(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261107052851099"
-        },
-        {
-          "title": "후티 \"사우디 공습에 60여 명 사상\"...시리아, 사우디 지원군 보내나?",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202611080750445178"
-        }
-      ]
-    },
-    {
-      "title": "메이저 리그 베이스볼",
-      "approx_traffic": "200+",
-      "published": "Sat, 7 Nov 2026 16:20:00 -0800",
-      "news": [
-        {
-          "title": "\"날 떠나지마\" 최대 4억불 초대어 투수 잔류 원하는 다저스, 스넬까지 나섰다…결말은",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/11/06/MY2TQMJQGUZDQOBYMNQTSYZRMU/"
-        },
-        {
-          "title": "[오늘의 MLB] (11/5) 2026-27 메이저리그 FA 랭킹 TOP 20",
-          "source": "네이버 프리미엄콘텐츠",
-          "url": "https://contents.premium.naver.com/mlbtoday/mlb/contents/261106173425396jg"
-        },
-        {
-          "title": "'4910억→9548억→1조435억→3274억' 이 계보 스쿠벌은? LAD-메츠-컵스 3파전 \"다음 주 본격화\"",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/baseball/2026-11-07/202611070100050990005112"
-        }
-      ]
-    },
-    {
-      "title": "밥",
-      "approx_traffic": "2000+",
-      "published": "Sat, 7 Nov 2026 15:50:00 -0800",
-      "news": [
-        {
-          "title": "“30분 만에 밥이 뚝딱”…1만원 '마카롱 밥솥' 써보니[득템기]",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01118486645643752&mediaCodeNo=257"
-        },
-        {
-          "title": "햇반 30주년 ‘갓 지은 AI디어 공모전’… 13일까지 접수",
-          "source": "한국영농신문",
-          "url": "https://www.youngnong.co.kr/news/articleView.html?idxno=71631"
-        },
-        {
-          "title": "비상식량이 일상밥으로... 햇반 출시 30년 만에 연 매출 1조 돌파한 비결",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/kid/kid_economy/kid_honeybee/2026/11/06/LH7JQ3OPJZEINCJ5WUXYODJYFY/"
-        }
-      ]
-    },
-    {
-      "title": "남대문시장",
-      "approx_traffic": "500+",
-      "published": "Sat, 7 Nov 2026 15:50:00 -0800",
-      "news": [
-        {
-          "title": "몰려드는 인파 '통제불가'…남대문 스카프 아저씨, 경호원까지 고용 [지금이뉴스]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0545_202611061650015146"
-        },
-        {
-          "title": "\"사지 마\" 말리는데도 산다…요즘 SNS 뒤집어놓은 '이 가게' [권용훈의 트렌드워치]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611069848i"
-        },
-        {
-          "title": "스카프에 아동복까지…’핫플’ 된 남대문시장",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261107091619emp"
-        }
-      ]
-    },
-    {
-      "title": "기초 연구",
-      "approx_traffic": "200+",
-      "published": "Sat, 7 Nov 2026 15:40:00 -0800",
-      "news": [
-        {
-          "title": "[김우재의 플라이룸](89) 빈 의자의 R&D…예산은 39.5조원, 사람은 왜 늘지 않나",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202611061327001"
-        },
-        {
-          "title": "2027년도 기초연구사업 2.91조 원 투자 총 과제 수 18,516개로 역대 최대 지원",
-          "source": "BRIC",
-          "url": "https://www.ibric.org/bric/trend/bio-news.do?mode=view&articleNo=10063428&title=2027%EB%85%84%EB%8F%84+%EA%B8%B0%EC%B4%88%EC%97%B0%EA%B5%AC%EC%82%AC%EC%97%85+2.91%EC%A1%B0+%EC%9B%90+%ED%88%AC%EC%9E%90+%EC%B4%9D+%EA%B3%BC%EC%A0%9C+%EC%88%98+18%2C516%EA%B0%9C%EB%A1%9C+%EC%97%AD%EB%8C%80+%EC%B5%9C%EB%8C%80+%EC%A7%80%EC%9B%90"
-        },
-        {
-          "title": "내년 '기초연구' 2조 9102억 투자…지역·청년 연구 지원 확대",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975126"
-        }
-      ]
-    },
-    {
-      "title": "도루묵",
-      "approx_traffic": "100+",
-      "published": "Sat, 7 Nov 2026 15:40:00 -0800",
-      "news": [
-        {
-          "title": "\"돌아온 겨울 별미\" 도루묵 등 동해안 특산어종 어획 '급증'",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1193088"
-        },
-        {
-          "title": "가을 햇볕 아래 양미리",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/PYH20261106054500062"
-        },
-        {
-          "title": "\"겨울 별미 '도루묵' 돌아왔다\"…동해안 어획량 늘고 속초선 축제 한창",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/kangwon/6346396"
-        }
-      ]
-    },
-    {
-      "title": "솔트레이크 대 la 갤럭시",
+      "title": "자산",
       "approx_traffic": "5000+",
-      "published": "Sat, 7 Nov 2026 15:30:00 -0800",
+      "published": "Sat, 7 Nov 2026 17:20:00 -0800",
       "news": [
         {
-          "title": "How the LA Galaxy can clinch a spot in the Audi 2026 MLS Cup Playoffs",
-          "source": "LA Galaxy",
-          "url": "https://www.lagalaxy.com/news/how-the-la-galaxy-can-clinch-a-spot-in-the-audi-2026-mls-cup-playoffs"
+          "title": "가상자산업계 잇단 해킹에…금융당국, 보안 책임자 소집",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261107044200002"
         },
         {
-          "title": "RSL Hosts Must-Win Matchup Against Storied Rival LA Galaxy Saturday in Sandy",
-          "source": "Real Salt Lake",
-          "url": "https://www.rsl.com/news/rsl-hosts-must-win-matchup-against-storied-rival-la-galaxy-saturday-in-sandy"
+          "title": "\"AI 날개 단 북한 해커들 기가 막히네\"…1조8700억 털어간 소름 돋는 수법[시사쇼]",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026110808092315966"
         },
         {
-          "title": "Real Salt Lake fights for a playoff spot in season finale game",
-          "source": "KUTV",
-          "url": "https://kutv.com/features/fresh-living/real-salt-lake-fights-for-a-playoff-spot-in-season-finale-game"
+          "title": "닉 칼슨 “북한, ‘가상화폐 절도’ 주요 외화 수입…미한 정부 대응 필요”",
+          "source": "VOA 한국어 홈페이지",
+          "url": "https://www.voakorea.com/a/8219838.html"
+        }
+      ]
+    },
+    {
+      "title": "blg t1",
+      "approx_traffic": "100+",
+      "published": "Sat, 7 Nov 2026 17:20:00 -0800",
+      "news": [
+        {
+          "title": "T1 Doran: “What Makes You A Great Player Is How You Get Through The Pressure”",
+          "source": "Hotspawn",
+          "url": "https://www.hotspawn.com/league-of-legends/news/t1-doran-worlds-2026-interview"
+        },
+        {
+          "title": "Claudio Castagnoli Calls League of Legends ‘the Best Sport to Watch’",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/aews-claudio-castagnoli-calls-league-012456063.html"
+        },
+        {
+          "title": "T1 Eliminate Karmine Corp, Face BLG in Worlds 2026 Semifinal",
+          "source": "RG.org",
+          "url": "https://rg.org/news/esports/t1-beat-karmine-corp-worlds-2026-quarterfinal-blg-semifinal"
+        }
+      ]
+    },
+    {
+      "title": "액화천연가스",
+      "approx_traffic": "200+",
+      "published": "Sat, 7 Nov 2026 17:10:00 -0800",
+      "news": [
+        {
+          "title": "K조선 독주하던 LNG 운반선마저…중국 10월 수주 한국 추월",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261107049200003"
+        },
+        {
+          "title": "“LNG선도 중국에 내줄라”...韓, 기술 우위 지키기 과제",
+          "source": "에너지경제신문",
+          "url": "https://www.ekn.kr/web/view.php?key=20261108023126758"
+        },
+        {
+          "title": "수주잔고 200조인데 인력은 반토막…K-조선 호황의 이면",
+          "source": "매일신문",
+          "url": "https://www.imaeil.com/page/view/2026110717482202215"
+        }
+      ]
+    },
+    {
+      "title": "장재인",
+      "approx_traffic": "200+",
+      "published": "Sat, 7 Nov 2026 17:00:00 -0800",
+      "news": [
+        {
+          "title": "장재인, 22세에 반신마비 진단…\"하루 2시간 자며 행사 뛰어\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261107_0003858922"
+        },
+        {
+          "title": "\"기타 치는 게 두려웠어\" 장재인, '반신마비' 투병 당시 심경 전해",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6603572"
+        },
+        {
+          "title": "‘슈스케’ 장재인, 22살에 반신마비 진단…“몸보다 정신이 문제였다”",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/society/12201491"
+        }
+      ]
+    },
+    {
+      "title": "인구감소지역",
+      "approx_traffic": "500+",
+      "published": "Sat, 7 Nov 2026 16:50:00 -0800",
+      "news": [
+        {
+          "title": "경남 인구감소지역 11곳, 등록 인구↓·체류 인구↑",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706757"
+        },
+        {
+          "title": "인구 10만 공주에 74만명 발길…생활인구 전국 2위",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20261105021545761"
+        },
+        {
+          "title": "사람은 많이 오는데 “여기서 살 생각은 없어요”…인구감소 ‘경남의 역설’",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/society/12201563"
+        }
+      ]
+    },
+    {
+      "title": "이자",
+      "approx_traffic": "500+",
+      "published": "Sat, 7 Nov 2026 16:50:00 -0800",
+      "news": [
+        {
+          "title": "같은 3억 대출인데 이자는 왜 다를까…대출금리 낮추는 5가지 전략",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611045024i"
+        },
+        {
+          "title": "전셋값 39개월째 오르는데⋯5대 은행 전세대출 14개월 연속 감소",
+          "source": "아이뉴스24",
+          "url": "https://www.inews24.com/view/2022599"
+        },
+        {
+          "title": "\"전세대출 이자가 월세보다 비싸다\"…서울 아파트 전세 6억4천, 대출 이자 171만원 vs 월세 166만원",
+          "source": "경제시그널",
+          "url": "https://www.economicsignal.co.kr/news/articleView.html?idxno=1960"
         }
       ]
     }
