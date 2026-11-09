@@ -1,33 +1,61 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-09T16:06:48+00:00",
+  "fetched_at": "2026-11-09T17:14:04+00:00",
   "items": [
     {
-      "title": "nvda",
-      "approx_traffic": "100+",
-      "published": "Mon, 9 Nov 2026 06:50:00 -0800",
+      "title": "kf-21 보라매",
+      "approx_traffic": "1000+",
+      "published": "Mon, 9 Nov 2026 07:20:00 -0800",
+      "news": []
+    },
+    {
+      "title": "gta6",
+      "approx_traffic": "200+",
+      "published": "Mon, 9 Nov 2026 07:20:00 -0800",
       "news": [
         {
-          "title": "NVDA support and resistance levels as stock trades in oversold territory",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/news/stock-market-news/nvda-support-and-resistance-levels-as-stock-trades-in-oversold-territory-93CH-5012758"
+          "title": "GTA6 Release Triggers 1.5M U.S. Absences",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/industry-en/2026/11/10/SGZQM3ZS6NBEPE7EBXVFVCBDTE/"
         },
         {
-          "title": "Stock of the Day: Where is the Bottom for NVIDIA?",
-          "source": "Benzinga",
-          "url": "https://www.benzinga.com/trading-ideas/technicals/26/11/63041933/stock-of-the-day-where-is-the-bottom-for-nvidia-2"
+          "title": "GTA VI launch set to cost bosses £12m as workers book 83,000 days off to play long-awaited game",
+          "source": "The Sun",
+          "url": "https://www.thesun.co.uk/news/40963228/gta-vi-launch-cost-workers-book-days-off/"
         },
         {
-          "title": "Nvidia shares tumble, on pace to shed $300 billion in market value",
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-nvidia-investigation-ceo-jensen-huang-relationship-chinese-spy/card/nvidia-shares-tumble-on-pace-to-shed-300-billion-in-market-value-boiHuL6LP2QuyiVfF8gG?mod=mw_FV"
+          "title": "Australia Reminds GTA 6 Players Their Boss Can Ask for Sick Leave Evidence",
+          "source": "GTA BOOM",
+          "url": "https://www.gtaboom.com/fair-work-ombudsman-follows-up-igta-6-leave-advice-with-a-sickie-warning-8cdb"
+        }
+      ]
+    },
+    {
+      "title": "버거킹",
+      "approx_traffic": "200+",
+      "published": "Mon, 9 Nov 2026 07:10:00 -0800",
+      "news": [
+        {
+          "title": "\"소방관 응원해요\"…유통가, 소방의 날 맞이 캠페인",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261109133837fmD"
+        },
+        {
+          "title": "료혼, 소방의 날 맞아 소방공무원 대상 ‘1+1’ 사은 행사 개최",
+          "source": "로이슈",
+          "url": "https://www.lawissue.co.kr/view.php?ud=202611091831329301204ead0791_12"
+        },
+        {
+          "title": "버거킹, 소방관·가족 초청해 감사 행사…와퍼 콤보 1190개 전달",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261109000029"
         }
       ]
     },
     {
       "title": "안드레이 알롭스키",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Mon, 9 Nov 2026 06:20:00 -0800",
       "news": [
         {
@@ -53,9 +81,9 @@
           "url": "https://www.khan.co.kr/article/202611081638001"
         },
         {
-          "title": "노르웨이도 데이터센터 규제…전력망 부담에 신규 전력 연결 중단 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/11/09/2026110920291565451"
+          "title": "\"이러다 전기 다 빨린다\"…국가전력 30% 먹는 '흡혈귀' 정체",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026110832841"
         },
         {
           "title": "재경장관 \"대미 투자 1호 '텍사스 발전소', 상황 지켜볼 필요\"",
@@ -66,7 +94,7 @@
     },
     {
       "title": "안랩",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Mon, 9 Nov 2026 06:00:00 -0800",
       "news": []
     },
@@ -89,28 +117,6 @@
           "title": "티머니, ‘모두의카드’ 편의점 판매 시작… 4000원에 구매",
           "source": "문화일보",
           "url": "https://www.munhwa.com/article/11629758"
-        }
-      ]
-    },
-    {
-      "title": "신인감독 김연경 시즌2",
-      "approx_traffic": "5000+",
-      "published": "Mon, 9 Nov 2026 04:40:00 -0800",
-      "news": [
-        {
-          "title": "'신인감독' 김연경, 흥국생명에 3대2 대역전 '2연승 쾌거' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/09/2026110902291872728"
-        },
-        {
-          "title": "“짜증 나 죽겠네” 작전판 내던진 김연경…역대급 대노한 이유는",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261109504342"
-        },
-        {
-          "title": "'신인감독 김연경2' 5주 연속 日 예능 시청률 1위",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/524051"
         }
       ]
     },
@@ -138,11 +144,11 @@
     },
     {
       "title": "빅테크",
-      "approx_traffic": "2000+",
+      "approx_traffic": "5000+",
       "published": "Mon, 9 Nov 2026 03:50:00 -0800",
       "news": [
         {
-          "title": "한국 AI 생태계의 에이전틱 AI 고도화하고 보안 강화하는 NVIDIA",
+          "title": "한국 AI 생태계의 에이전틱 AI 고도화하고 보안 강화하는 NVIDIA - NVIDIA Blog Korea",
           "source": "NVIDIA",
           "url": "https://blogs.nvidia.co.kr/blog/korea-secure-agentic-ai/"
         },
@@ -177,28 +183,6 @@
           "title": "한 달여 앞둔 대한항공·아시아나 통합…경쟁력·편의성 제고에 박차",
           "source": "매일경제",
           "url": "https://www.mk.co.kr/news/business/12202585"
-        }
-      ]
-    },
-    {
-      "title": "박승규",
-      "approx_traffic": "1000+",
-      "published": "Mon, 9 Nov 2026 03:50:00 -0800",
-      "news": [
-        {
-          "title": "무명서 가을 스타로… 박승규 “우승 반지로 청혼할래요”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11629827"
-        },
-        {
-          "title": "\"팬도 선수도 함께 쓰러질 때까지…\" 박승규의 비장한 우승 다짐 [베이스볼S]",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/sports/2026baseballs/clip/89153/22000639518"
-        },
-        {
-          "title": "\"미친 X 되겠다\" 삼성에 대기록까지 포기하더니 또 팀만 먼저 생각하는 '영웅'이 있다 [KS] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/08/2026110809521745200"
         }
       ]
     }
