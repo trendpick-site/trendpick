@@ -1,11 +1,11 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-13T19:36:18+00:00",
+  "fetched_at": "2026-11-13T20:31:17+00:00",
   "items": [
     {
       "title": "탄핵",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Fri, 13 Nov 2026 08:50:00 -0800",
       "news": [
         {
@@ -14,36 +14,14 @@
           "url": "https://news.jtbc.co.kr/article/NB12327963"
         },
         {
-          "title": "국회 영상기자단, 최민희 '하이에나' 발언 규탄‥\"분노 넘어 자괴감\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6865481_36911.html"
-        },
-        {
           "title": "[사설] 이재명 정권, 넘쳐나는 권력 감당 안 돼 자기들끼리 싸우나",
           "source": "조선일보",
           "url": "https://www.chosun.com/opinion/editorial/2026/11/14/ESUUCOCQBREZBD3OPQ3V4YEGE4/"
-        }
-      ]
-    },
-    {
-      "title": "월즈 결승",
-      "approx_traffic": "200+",
-      "published": "Fri, 13 Nov 2026 08:50:00 -0800",
-      "news": [
-        {
-          "title": "[롤드컵]쵸비·기인·듀로의 첫 우승 꿈…룰러·캐니언과 이룰까",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261112_0003864630"
         },
         {
-          "title": "[e모션] 韓中 최강 격돌…젠지, LCK의 `롤드컵` 왕좌 지킬까",
-          "source": "디지털데일리",
-          "url": "https://www.ddaily.co.kr/page/view/2026111316090144636"
-        },
-        {
-          "title": "롤드컵 무관의 한 풀 주인공은, ‘최강 미드’ 쵸비·나이트 정면충돌",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261112142609756"
+          "title": "“김민석이 감찰 대상” “분열주의”…민주당 ‘계파 갈등’ 전면전 양상",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712498"
         }
       ]
     },
@@ -70,6 +48,50 @@
       ]
     },
     {
+      "title": "젠지 blg",
+      "approx_traffic": "200+",
+      "published": "Fri, 13 Nov 2026 08:40:00 -0800",
+      "news": [
+        {
+          "title": "[롤드컵]쵸비·기인·듀로의 첫 우승 꿈…룰러·캐니언과 이룰까",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261112_0003864630"
+        },
+        {
+          "title": "[e모션] 韓中 최강 격돌…젠지, LCK의 `롤드컵` 왕좌 지킬까",
+          "source": "디지털데일리",
+          "url": "https://www.ddaily.co.kr/page/view/2026111316090144636"
+        },
+        {
+          "title": "롤드컵 무관의 한 풀 주인공은, ‘최강 미드’ 쵸비·나이트 정면충돌",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261112142609756"
+        }
+      ]
+    },
+    {
+      "title": "오세훈",
+      "approx_traffic": "100+",
+      "published": "Fri, 13 Nov 2026 08:20:00 -0800",
+      "news": [
+        {
+          "title": "[단독] \"배현진 1년\"·\"제명\"‥장동혁 측 외부 인사가 징계 수위 전달",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6865535_36911.html"
+        },
+        {
+          "title": "\"한동훈 제명은 조작\"...진실공방 '내홍' [앵커리포트]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0101_202611131621150460_005.html"
+        },
+        {
+          "title": "국힘 조경태, '당원권 정지' 징계 불복…가처분·무효소송 제기",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261113127200001"
+        }
+      ]
+    },
+    {
       "title": "인벤",
       "approx_traffic": "200+",
       "published": "Fri, 13 Nov 2026 07:40:00 -0800",
@@ -91,9 +113,9 @@
           "url": "https://www.donga.com/news/Entertainment/article/all/20261114/135023608/1"
         },
         {
-          "title": "박지현 \"일주일 이상 모텔에서 지내기도\"…쉴 틈 없는 '행사 프린스'",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6353799"
+          "title": "'모텔 프린스' 박지현, 코드쿤스트와 부산 데이트…서로 향한 마음 전달? (나혼산)",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/11/13/GI4TSZRTHBQTAMBSMM4WMZBQGI/"
         }
       ]
     },
@@ -130,14 +152,36 @@
           "url": "https://www.khan.co.kr/article/202611131959001"
         },
         {
-          "title": "법원, 김수현 측에 '광고 중단' 모델료 11억여원 반환 판결",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261113171700061"
-        },
-        {
           "title": "‘누명 벗은 김수현’에 법원 “김수현, 광고 중단 기간 모델료 반환해야”",
           "source": "경기일보",
           "url": "https://www.kyeonggi.com/article/20261113580438"
+        },
+        {
+          "title": "[단독]법원 \"김수현 등, 프롬바이오에 11억6000만원 배상\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/13/2026111315280951965"
+        }
+      ]
+    },
+    {
+      "title": "축구중계",
+      "approx_traffic": "1000+",
+      "published": "Fri, 13 Nov 2026 06:20:00 -0800",
+      "news": [
+        {
+          "title": "“에이~ 매치” 되어버린 A매치···축구대표팀 인기 추락하는 소리",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611112246001"
+        },
+        {
+          "title": "'무엇이든 해줄지니 비서진' 축구 한국 사우디 축구 중계로 결방",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3751617"
+        },
+        {
+          "title": "‘흥행 보증수표’의 몰락…외면 받는 한국 축구 A매치",
+          "source": "스포츠월드",
+          "url": "https://www.sportsworldi.com/newsView/20261112514439"
         }
       ]
     },
@@ -147,6 +191,11 @@
       "published": "Fri, 13 Nov 2026 06:20:00 -0800",
       "news": [
         {
+          "title": "대한민국 초격차로의 첫 삽 - 영상 | 멀티미디어",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148975621&pWise=main&pWiseMain=A8"
+        },
+        {
           "title": "[게시판] 농식품부, 15일까지 '2026 대한민국 우리술 대축제'",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20261113129300030"
@@ -155,39 +204,6 @@
           "title": "막걸리부터 증류주까지…전통 양조장에서 빚어낸 우리 술의 매력 [이슈픽]",
           "source": "KBS 뉴스",
           "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711215"
-        },
-        {
-          "title": "다양한 술을 맛볼 수 있는 우리술 대축제",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261113001303"
-        }
-      ]
-    },
-    {
-      "title": "쿠플",
-      "approx_traffic": "500+",
-      "published": "Fri, 13 Nov 2026 06:20:00 -0800",
-      "news": []
-    },
-    {
-      "title": "포수",
-      "approx_traffic": "100+",
-      "published": "Fri, 13 Nov 2026 06:20:00 -0800",
-      "news": [
-        {
-          "title": "KBO FA 시장 개장! 원태인·구자욱·양의지 등 28명 자격 공시",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712285"
-        },
-        {
-          "title": "kt 위즈, 외야수 김민혁·배정대 FA 시장 나온다",
-          "source": "기호일보",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040879"
-        },
-        {
-          "title": "'이럴 수가' KIA 보상선수 사라졌다! 김호령, 왜 'B등급 아닌 C등급' 됐나... 최고 가성비 카드 변신 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/13/2026111316162411970"
         }
       ]
     }
