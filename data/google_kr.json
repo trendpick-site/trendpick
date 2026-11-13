@@ -1,8 +1,74 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-13T16:32:40+00:00",
+  "fetched_at": "2026-11-13T17:31:30+00:00",
   "items": [
+    {
+      "title": "오세훈",
+      "approx_traffic": "100+",
+      "published": "Fri, 13 Nov 2026 08:20:00 -0800",
+      "news": [
+        {
+          "title": "조작기소 특검 찬성 44%·반대 37%‥\"역대 특검 중 찬성 적은 편\" [갤럽]",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6865403_36911.html"
+        },
+        {
+          "title": "오세훈 \"李, 특검법에 거부권 안쓰면 국민 심판 시작될 것\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/assembly/2026/11/14/76Z3CRFRLNDSLE7L7HFHLVK7EI/"
+        },
+        {
+          "title": "검찰 불법 행위 밝히자는데 저주 퍼붓는 주류 매체들",
+          "source": "뉴스타파",
+          "url": "https://newstapa.org/article/iKKSJ"
+        }
+      ]
+    },
+    {
+      "title": "인벤",
+      "approx_traffic": "200+",
+      "published": "Fri, 13 Nov 2026 07:40:00 -0800",
+      "news": [
+        {
+          "title": "Innventure Q3 실적, 수익 에상치보다 저조",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/earnings/article-2174000"
+        },
+        {
+          "title": "인벤처, 3분기 영업손실 3억 5138만 달러로 적자 확대…영업권 손상차손 영향",
+          "source": "데이터투자",
+          "url": "https://www.datatooza.com/article/20261113062315840052ef3bff6b_80"
+        },
+        {
+          "title": "인벤처 3분기 순손실 3억3384만달러…손상차손 반영 : 기업·산업",
+          "source": "재경일보",
+          "url": "https://news.jkn.co.kr/post/1091968"
+        }
+      ]
+    },
+    {
+      "title": "박지현",
+      "approx_traffic": "200+",
+      "published": "Fri, 13 Nov 2026 07:40:00 -0800",
+      "news": [
+        {
+          "title": "나 혼자 산다",
+          "source": "MBC",
+          "url": "https://m.imbc.com/VOD/VodView?progCode=1002831100000100000&broadcastID=1002831101572100000&type=Prevod"
+        },
+        {
+          "title": "박지현, 코드쿤스트에 감동…‘대학가요제’서 깜짝 만남",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261114/135023608/1"
+        },
+        {
+          "title": "박지현, 돈 많이 벌어도 여전히 ‘모텔 사랑’... 침대서 벌떡 “가만히 있으면 안 바뀌어”",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/12/GU4DKZLFG4ZTENTCGE4TOMZTGM/"
+        }
+      ]
+    },
     {
       "title": "구성환",
       "approx_traffic": "200+",
@@ -14,9 +80,9 @@
           "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/14/MU3DAZJUMIZGCM3CMIYWMNZYGI/"
         },
         {
-          "title": "구성환 “학창 시절 4대 천왕…초콜릿·편지 많이 받았다”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261114/135023588/1"
+          "title": "구성환, 첫사랑과 재회 “50일 사귀고 1년 더 좋아해” (나혼산)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261113/135023281/1"
         },
         {
           "title": "\"조승우·손예진의 '클래식'이었다\"…구성환, 30년전 50일 사귄 동창 재회",
@@ -49,29 +115,29 @@
     },
     {
       "title": "대한민국",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Fri, 13 Nov 2026 06:20:00 -0800",
       "news": [
         {
-          "title": "[게시판] 농식품부, 15일까지 '2026 대한민국 우리술 대축제'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261113129300030"
+          "title": "대한민국 초격차로의 첫 삽 - 영상 | 멀티미디어",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148975621&pWise=main&pWiseMain=A8"
         },
         {
-          "title": "막걸리부터 증류주까지…전통 양조장에서 빚어낸 우리 술의 매력 [이슈픽]",
+          "title": "‘내분설’에 첫 심정 밝힌 손흥민…“주장 완장이 주는 무게감 견딜 것”",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711215"
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712566"
         },
         {
-          "title": "다양한 술을 맛볼 수 있는 우리술 대축제",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261113001303"
+          "title": "모레노호, 반목 뒤로하고 나선 사우디전서 42년 만의 3실점 패배(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261114002051007"
         }
       ]
     },
     {
       "title": "쿠플",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Fri, 13 Nov 2026 06:20:00 -0800",
       "news": []
     },
@@ -86,9 +152,9 @@
           "url": "https://www.yonhapnewstv.co.kr/news/MYH20261113232604RDP"
         },
         {
-          "title": "와~60위 됐으면 어쩔뻔, 연봉 61위 C등급 깜짝 호재...하늘이 돕는 FA 김호령, 실수령 1억5천 고우석이 왜 도우미로 거론되나",
+          "title": "구자욱 어렵다면 스톱갭이라도 필요한 롯데 → 이택근 단장 기본 방침 \"그룹도 설득하겠다",
           "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/14/GQ4DSYTDGAYDINJRGY2GEOLFGM/"
+          "url": "https://www.chosun.com/sports/baseball/2026/11/14/HAYDAODCMQ3TQYZVMY2TEMBYMU/"
         },
         {
           "title": "kt 위즈, 외야수 김민혁·배정대 FA 시장 나온다",
@@ -138,67 +204,6 @@
           "title": "민희진에 패소한 하이브 레이블들, 즉각 항소…\"판결 납득 못해\" - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/society/2026/11/13/2026111319430064691"
-        }
-      ]
-    },
-    {
-      "title": "대한민국 기후에너지환경부",
-      "approx_traffic": "200+",
-      "published": "Fri, 13 Nov 2026 05:20:00 -0800",
-      "news": [
-        {
-          "title": "“기후행동 실천하면 포인트·금리우대”…민관 금융협력 체계 구축",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=374702"
-        },
-        {
-          "title": "은행 앱으로 '기후시민' 등록하면 은행 포인트도 준다… 기후부, KB·IBK와 협약",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202611121400203488"
-        },
-        {
-          "title": "온라인 기후행동 공간 '굳티튜드 숲' 열렸다…대변인실이 AI로 개발",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261112_0003864872"
-        }
-      ]
-    },
-    {
-      "title": "대한민국 야구",
-      "approx_traffic": "200+",
-      "published": "Fri, 13 Nov 2026 05:20:00 -0800",
-      "news": [
-        {
-          "title": "[영상] ‘세미 프로’ 호주에 진 한국 야구의 씁쓸한 현실",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712049"
-        },
-        {
-          "title": "'와' 이러니 MLB가 주목하지... '홈런+2루타 장타폭발' 김주원, \"포스팅시 많은 팀이 원할 것\" 이유 증명 [APBC] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/13/2026111219552258076"
-        },
-        {
-          "title": "2026 아시아 프로야구 챔피언십 : 한국 야구의 미래, APBC 우승 도전하는 대한민국 [대한민국 vs 호주]",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/sports/2026apbc/clip/90890/22000639802"
-        }
-      ]
-    },
-    {
-      "title": "明天的天氣",
-      "approx_traffic": "100+",
-      "published": "Fri, 13 Nov 2026 04:50:00 -0800",
-      "news": [
-        {
-          "title": "要變天了！週六「華南雲雨區」東移　全台降雨機率高",
-          "source": "鏡新聞",
-          "url": "https://www.mnews.tw/story/20261113sot1951001"
-        },
-        {
-          "title": "好天氣掰了！華南雲雨帶逼近　「這地區」慎防較大雨勢",
-          "source": "三立新聞網SETN.com",
-          "url": "https://www.setn.com/news/1938469"
         }
       ]
     }
