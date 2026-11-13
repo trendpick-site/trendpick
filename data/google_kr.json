@@ -1,209 +1,220 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-13T22:24:33+00:00",
+  "fetched_at": "2026-11-13T23:21:55+00:00",
   "items": [
     {
-      "title": "天気",
-      "approx_traffic": "100+",
-      "published": "Fri, 13 Nov 2026 13:20:00 -0800",
-      "news": [
-        {
-          "title": "【冬の嵐】18日（水）「台風並み」に発達する低気圧 大雨だけでなく「暴風と高波」にも警戒【3時間ごと雨風シミュレーション19日（木）まで／ 3連休まで天気予報（23日まで）】気象庁",
-          "source": "TBS NEWS DIG",
-          "url": "https://newsdig.tbs.co.jp/articles/gallery/3085472"
-        },
-        {
-          "title": "週間天気予報 明日は広く本降りの雨 来週中頃は全国的に荒天注意",
-          "source": "ウェザーニュース",
-          "url": "https://weathernews.jp/news/202611/140031/"
-        },
-        {
-          "title": "【11月14日 きょうの天気】週末雨エリア拡大 関東は冷たい雨に 来週半ば以降広い範囲で荒天のおそれ",
-          "source": "au Webポータル",
-          "url": "https://article.auone.jp/ab49dbf0-ec8b-46b9-9b0b-0f92d58eea38"
-        }
-      ]
-    },
-    {
-      "title": "김하성",
-      "approx_traffic": "200+",
-      "published": "Fri, 13 Nov 2026 13:00:00 -0800",
-      "news": [
-        {
-          "title": "한국 돌아갈 일 없다! 타율 .116 최악의 해였는데…김하성 FA 인기 폭발 \"예상보다 높은 관심, 1년 계약 모색\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/13/202611121142773551O"
-        },
-        {
-          "title": "타격 부진에 FA 인기 걱정했는데‥\"필라델피아, 김하성 영입 검토\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6864665_37004.html"
-        },
-        {
-          "title": "'김하성 시애틀 링크' 초대박! 가성비 선택지 3인 거론→3루수 활용 가능성까지…부상 없이 타격 생산성 회복 기대",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/baseball/2026-11-12/202611120100087870008295"
-        }
-      ]
-    },
-    {
-      "title": "중앙일보",
+      "title": "참교육",
       "approx_traffic": "2000+",
-      "published": "Fri, 13 Nov 2026 12:50:00 -0800",
+      "published": "Fri, 13 Nov 2026 14:10:00 -0800",
       "news": [
         {
-          "title": "용산구, '용산형 생활안심디자인'으로 대한민국 범죄예방대상 경찰청장 표창 수상",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/RPR20261113001700353"
+          "title": "아동학대 논란 휩싸인 민속촌 귀신…“웃는다고 괜찮은 건 아냐” 세계의 ‘공포 훈육’ 돌아보니 [이윤정 기자의 소소월드]",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611121023001"
         },
         {
-          "title": "안성 여성가구 안심특구 효과 톡톡…112신고 21.3% 감소",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261113_0003867261"
-        },
-        {
-          "title": "김해외국인근로자지원센터, 범죄예방대상 국무총리표창",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=721843"
-        }
-      ]
-    },
-    {
-      "title": "제네시스 gv90",
-      "approx_traffic": "200+",
-      "published": "Fri, 13 Nov 2026 12:50:00 -0800",
-      "news": [
-        {
-          "title": "제네시스 GV90 계약 시작, 1억 3,950만원부터 2억 4,710만원까지",
-          "source": "네이버페이 머니스토리",
-          "url": "https://story.pay.naver.com/content/3927_24_C62"
-        },
-        {
-          "title": "\"차가 아니라 호텔방?\"…제네시스가 내놓은 2억짜리 SUV",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611110499g"
-        },
-        {
-          "title": "[경제 단신] 전동화 ‘GV90’ 출시… 최고 2억3950만원 외",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261110515889"
-        }
-      ]
-    },
-    {
-      "title": "은행나무",
-      "approx_traffic": "200+",
-      "published": "Fri, 13 Nov 2026 12:40:00 -0800",
-      "news": [
-        {
-          "title": "[김정호의 생명과 환경](21) 은행나무가 내건 노란색의 ‘휴업 안내문’",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202611131500021"
-        },
-        {
-          "title": "‘인생샷’ 찍으려 차도 점령…외국인 몰린 서울 단풍명소 몸살",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/national_general/2026/11/12/B3JAWSQ3TFB63CABDZRNXJ5DJU/"
-        },
-        {
-          "title": "\"단풍 인생샷 찍어야지\" 돌연…'위험천만' 광경들",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840007"
-        }
-      ]
-    },
-    {
-      "title": "디에고 시메오네",
-      "approx_traffic": "500+",
-      "published": "Fri, 13 Nov 2026 12:40:00 -0800",
-      "news": [
-        {
-          "title": "'이강인은 60분 만에 뺐으면서...' 시메오네 감독의 단호한 한마디 \"알바레스는 교체하지 않을 거야\"... 스페인 현지서도 논란 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/11/2026111108070646917"
-        },
-        {
-          "title": "\"이강인이 공만 잡으면 축구가 달라진다\"…바르샤전 패배에도 스페인 언론이 감탄한 이유",
-          "source": "fn스타",
-          "url": "https://star.fnnews.com/article/202611091910232899"
-        },
-        {
-          "title": "'참담했던 일주일, 점유율 축구가 무너졌다'…'이강인 활약' 아틀레티코, UCL 토너먼트 진출·라리가 우승 경쟁 흔들",
-          "source": "마이데일리",
-          "url": "https://mydaily.co.kr/page/view/2026111209391266820"
-        }
-      ]
-    },
-    {
-      "title": "이재영",
-      "approx_traffic": "200+",
-      "published": "Fri, 13 Nov 2026 12:40:00 -0800",
-      "news": [
-        {
-          "title": "이재영-이다영 뛴 투란, 챔피언스리그 본선행 확정…이재영 경기 MVP 선정",
-          "source": "마이데일리",
-          "url": "https://mydaily.co.kr/page/view/2026111110032629481"
-        },
-        {
-          "title": "[오피셜] 이재영, 유럽 챔피언스리그 MVP 선정…구단 역사상 첫 본선 진출 이끈 후 \"행복하고 만족한다\"",
-          "source": "www.xportsnews.com",
-          "url": "https://www.xportsnews.com/article/2218545"
-        },
-        {
-          "title": "한국 배구계 속쓰릴 소식… 쌍둥이 이재영, 믿기지 않는 '초대형' 근황 떴다",
-          "source": "위키트리",
-          "url": "https://www.wikitree.co.kr/articles/1173983"
-        }
-      ]
-    },
-    {
-      "title": "군수산업",
-      "approx_traffic": "100+",
-      "published": "Fri, 13 Nov 2026 12:40:00 -0800",
-      "news": []
-    },
-    {
-      "title": "헌법",
-      "approx_traffic": "200+",
-      "published": "Fri, 13 Nov 2026 12:40:00 -0800",
-      "news": [
-        {
-          "title": "북한, 헌법 개정으로 국기 비율 변경",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712033"
-        },
-        {
-          "title": "北, 78년 만에 인공기 비율 변경…\"김정은식 국가성 강화\"",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261113181944dP5"
-        },
-        {
-          "title": "北, 인공기 비율 변경‥정권 수립 이후 처음",
+          "title": "\"학대냐 아니냐\" 불붙은 '어둠의 오은영' 논란",
           "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6865420_36967.html"
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6865333_37012.html"
+        },
+        {
+          "title": "[참성단] ‘귀신 훈육’ 딜레마",
+          "source": "경인일보",
+          "url": "https://www.kyeongin.com/article/1774690"
         }
       ]
     },
     {
-      "title": "김유정",
-      "approx_traffic": "1000+",
-      "published": "Fri, 13 Nov 2026 12:30:00 -0800",
+      "title": "돈",
+      "approx_traffic": "2000+",
+      "published": "Fri, 13 Nov 2026 14:10:00 -0800",
       "news": [
         {
-          "title": "김유정, 오프숄더 입으니 분위기 달라졌네…청순+섹시 [DA★]",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261113/135020372/1"
+          "title": "\"돈 펑펑 쓸 때 아니다\"…AI 호황 누리는 한국에 날린 경고",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026111236311"
         },
         {
-          "title": "김유정, 칼 단발에 오프숄더 상의 입고 섹시미 발산…물오른 미모 [N샷]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6352728"
+          "title": "\"국가부채는 공짜 점심? 근본적으로 틀린 믿음\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/economy_general/2026/11/13/DHLZ47QWIZHDXNU7CVGNR77CJE/"
         },
         {
-          "title": "김유정, 윙크 셀카로 전한 반짝이는 근황…‘100일의 거짓말’ 호평 속 활약",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16275225"
+          "title": "[한은은 지금] 로고프가 던진 '공짜점심'과 신현송의 '재정지속 가능성'",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444493"
+        }
+      ]
+    },
+    {
+      "title": "보안",
+      "approx_traffic": "200+",
+      "published": "Fri, 13 Nov 2026 14:00:00 -0800",
+      "news": [
+        {
+          "title": "해킹 당한 금융보안원 “공격 IP 246개 차단완료…국적은 한국”",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1198487"
+        },
+        {
+          "title": "금융위, 해킹에 뚫린 금융보안원 다음 주 감사",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6865227_36932.html"
+        },
+        {
+          "title": "고개 숙인 금융보안원…금융권 해킹 수습 기준 보여줘야",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04080326645645064"
+        }
+      ]
+    },
+    {
+      "title": "날씨",
+      "approx_traffic": "500000+",
+      "published": "Fri, 13 Nov 2026 13:50:00 -0800",
+      "news": [
+        {
+          "title": "은행나무 ‘노란 단풍’ 절정…토요일 전국에 비",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712490"
+        },
+        {
+          "title": "제주, 흐리고 곳에 따라 비",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261114012500056"
+        },
+        {
+          "title": "전국 대부분 흐리고 비‥낮 최고 11~18도",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6865601_37012.html"
+        }
+      ]
+    },
+    {
+      "title": "주한 미군의 철수",
+      "approx_traffic": "1000+",
+      "published": "Fri, 13 Nov 2026 13:50:00 -0800",
+      "news": [
+        {
+          "title": "美전문가들 \"트럼프, 전작권 전환을 주한미군 철수 수단으로 봐\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261114002200071"
+        },
+        {
+          "title": "브룩스 前사령관, ‘전작권 당장 전환 가능’ 강신철에 “매우 실망”",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/us/2026/11/14/UNVTC33XERFVLDHL3IAUAS74YQ/"
+        },
+        {
+          "title": "김건 의원 \"한미 조인트 팩트시트 1년에도 핵잠수함·원자력 협력 제자리\"",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261113000598"
+        }
+      ]
+    },
+    {
+      "title": "天氣",
+      "approx_traffic": "200+",
+      "published": "Fri, 13 Nov 2026 13:50:00 -0800",
+      "news": [
+        {
+          "title": "又有冷空氣要來了！下週低溫急探16度 專家示警：恐比上一波更冷",
+          "source": "Yahoo新聞",
+          "url": "https://tw.news.yahoo.com/%E5%8F%88%E6%9C%89%E5%86%B7%E7%A9%BA%E6%B0%A3%E8%A6%81%E4%BE%86%E4%BA%86-%E4%B8%8B%E9%80%B1%E4%BD%8E%E6%BA%AB%E6%80%A5%E6%8E%A216%E5%BA%A6-%E5%B0%88%E5%AE%B6%E7%A4%BA%E8%AD%A6-%E6%81%90%E6%AF%94%E4%B8%8A-%E6%B3%A2%E6%9B%B4%E5%86%B7-111328874.html"
+        },
+        {
+          "title": "週六鋒面通過「西部大雨」！未來一週2鋒面、2降溫天氣不穩",
+          "source": "自由時報",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5639958"
+        }
+      ]
+    },
+    {
+      "title": "weather",
+      "approx_traffic": "2000+",
+      "published": "Fri, 13 Nov 2026 13:40:00 -0800",
+      "news": [
+        {
+          "title": "Cold and windy days ahead",
+          "source": "NBC10 Philadelphia",
+          "url": "https://www.nbcphiladelphia.com/video/weather/video-weather/cold-and-windy-days-ahead/4496988/"
+        },
+        {
+          "title": "Frosty, sunny start but the weekend deteriorates, snow showers for the north by Monday",
+          "source": "Netweather",
+          "url": "https://www.netweather.tv/weather-forecasts/news/13654-frosty-sunny-start-but-the-weekend-deteriorates-snow-showers-for-the-north-by-monday"
+        },
+        {
+          "title": "Cold weather settling in this weekend",
+          "source": "Local 3 News",
+          "url": "https://www.local3news.com/local-news/cold-weather-settling-in-this-weekend/article_ca348ccc-d6f0-4e19-b850-1581885a47c4.html"
+        }
+      ]
+    },
+    {
+      "title": "天气",
+      "approx_traffic": "1000+",
+      "published": "Fri, 13 Nov 2026 13:40:00 -0800",
+      "news": [
+        {
+          "title": "最新天气消息｜黄色暴雨警告信号一度生效 凌晨5时30分取消",
+          "source": "香港01",
+          "url": "https://global.hk01.com/%E5%A4%A9%E6%B0%94/60410538/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%94%E6%B6%88%E6%81%AF-%E9%BB%84%E8%89%B2%E6%9A%B4%E9%9B%A8%E8%AD%A6%E5%91%8A%E4%BF%A1%E5%8F%B7%E4%B8%80%E5%BA%A6%E7%94%9F%E6%95%88-%E5%87%8C%E6%99%A85%E6%97%B630%E5%88%86%E5%8F%96%E6%B6%88"
+        },
+        {
+          "title": "本港广泛地区下暴雨进行电力工作须注意安全｜即时新闻｜中港台｜on.cc东网",
+          "source": "on.cc東網",
+          "url": "https://hk.on.cc/hk/bkn/cnt/news/20261114/bkn-20261114040551299-1114_00822_001_cn.html"
+        },
+        {
+          "title": "天文台｜黄雨信号一度悬挂近2小时 全日仍间中有雨",
+          "source": "星島頭條",
+          "url": "https://www.stheadline.com/zh-hans/society/3636928/%E5%A4%A9%E6%96%87%E5%8F%B0%E9%BB%84%E9%9B%A8%E4%BF%A1%E5%8F%B7%E4%B8%80%E5%BA%A6%E6%82%AC%E6%8C%82%E8%BF%912%E5%B0%8F%E6%97%B6-%E5%85%A8%E6%97%A5%E4%BB%8D%E9%97%B4%E4%B8%AD%E6%9C%89%E9%9B%A8"
+        }
+      ]
+    },
+    {
+      "title": "สภาพอากาศ",
+      "approx_traffic": "1000+",
+      "published": "Fri, 13 Nov 2026 13:30:00 -0800",
+      "news": [
+        {
+          "title": "สภาพอากาศวันนี้ -19 พ.ย.ลมหนาวพักยก ไทยอุณหภูมิสูงขึ้น ฝนฟ้าคะนองบางแห่ง",
+          "source": "thansettakij",
+          "url": "https://www.thansettakij.com/general-news/673733"
+        },
+        {
+          "title": "ชุมพรอ่วมฝนถล่มข้ามคืน น้ำท่วมถนนหลายสาย โรงพยาบาลเร่งป้องกันน้ำเข้า CT-SCAN",
+          "source": "www.topnews.co.th",
+          "url": "https://www.topnews.co.th/news/1746285"
+        },
+        {
+          "title": "เตือนภาคใต้ ยังมีฝนตกหนัก 70% เสี่ยงน้ำท่วมฉับพลัน | 13 พ.ย. 69 | ข่าวเย็นไทยรัฐ",
+          "source": "www.thairath.co.th",
+          "url": "https://www.thairath.co.th/video/channel/thairath_news/thairath-evening-news/1199340"
+        }
+      ]
+    },
+    {
+      "title": "погода",
+      "approx_traffic": "500+",
+      "published": "Fri, 13 Nov 2026 13:30:00 -0800",
+      "news": [
+        {
+          "title": "Приближается похолодание: как изменит погоду в Украине на выходных антициклон",
+          "source": "РБК-Україна",
+          "url": "https://www.rbc.ua/ukr/news/nablizhaetsya-poholodannya-k-zminit-pogodu-1794572566.html"
+        },
+        {
+          "title": "После теплой и влажной пятницы на выходных прогнозируется похолодание",
+          "source": "Українська правда",
+          "url": "https://www.pravda.com.ua/rus/news/2026/11/12/8062489/"
+        },
+        {
+          "title": "Снег, морозы и до +20: в Гидрометцентре рассказали об изменении погоды до конца ноября",
+          "source": "OBOZ.UA",
+          "url": "https://www.obozrevatel.com/section-novosti-obschestvo/news-snih-morozy-i-do-20-v-hidromettsentri-rozpovily-pro-zminu-pohody-do-kintsya-lystopada-12-11-2026.html"
         }
       ]
     }
