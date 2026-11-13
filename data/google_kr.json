@@ -1,8 +1,47 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-13T07:56:30+00:00",
+  "fetched_at": "2026-11-13T09:02:26+00:00",
   "items": [
+    {
+      "title": "035420",
+      "approx_traffic": "100+",
+      "published": "Thu, 12 Nov 2026 23:50:00 -0800",
+      "news": [
+        {
+          "title": "Naver's Q3 operating profit falls 21% as it bets on 2 trillion won deal, AI agent app and logistics subsidiary",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/en/tech/2026/11/12/2026111215474393674"
+        },
+        {
+          "title": "Naver Establishes Logistics Subsidiary to Challenge Coupang's Rocket Delivery",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/industry-en/2026/11/13/NIY2CTCHFFCZHLNWVLTNUGBS74/"
+        },
+        {
+          "title": "NAVER's Core Ad Business Wavers... Personalized AI Agents as Its Big Bet",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/en/article/IT/2026111310295830817"
+        }
+      ]
+    },
+    {
+      "title": "주간조선",
+      "approx_traffic": "500+",
+      "published": "Thu, 12 Nov 2026 23:30:00 -0800",
+      "news": [
+        {
+          "title": "반도체 물 ‘속도전’의 숙제…가뭄 검증도, 농민 설득도, 기업 절수도 ‘아직’",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611130600011"
+        },
+        {
+          "title": "엉뚱한 영산강물 더럽다고 손가락질한 주간조선",
+          "source": "세상을 바꾸는 시민언론 민들레",
+          "url": "https://www.mindlenews.com/news/articleView.html?idxno=23169"
+        }
+      ]
+    },
     {
       "title": "로보택시",
       "approx_traffic": "100+",
@@ -49,45 +88,23 @@
     },
     {
       "title": "sk해운",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Thu, 12 Nov 2026 22:30:00 -0800",
       "news": [
+        {
+          "title": "가스공사 LNG 화물창 설계 결함 책임, SK해운에 2204억 배상 판결 나와",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451990"
+        },
         {
           "title": "한국가스공사, LNG선 화물창 결함에 2684억원 배상… 2심서 800억원 늘어",
           "source": "Chosunbiz",
           "url": "https://biz.chosun.com/topics/law_firm/2026/11/13/LTVT7C2Q6JFWXIKKZS3M7FUA7Y/"
         },
         {
-          "title": "[단독] “가스공사, 2200억원 물어줘라”…‘한국형 LNG 화물창’ 초유의 소송전 SK해운 웃었다 [세상&]",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10935820"
-        },
-        {
-          "title": "법원 \"'한국형 LNG선 하자' 가스공사, SK해운에 2200억 배상\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/court-prosecution/6353183"
-        }
-      ]
-    },
-    {
-      "title": "이혼숙려캠프",
-      "approx_traffic": "100+",
-      "published": "Thu, 12 Nov 2026 22:20:00 -0800",
-      "news": [
-        {
-          "title": "이호선 “헛소리 마요” 경고… 숙소 발칵 뒤집혀 (이혼숙려캠프)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261113/135020414/1"
-        },
-        {
-          "title": "'월 360만원' 남편, N잡러 아내에 전업주부 요구 \"육각형 엄마 원해\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/index.php/entertainment/2026/11/13/2026111305564946112"
-        },
-        {
-          "title": "“여자가 예쁘면 남사친 절대 불가”…누구보다 보수적인 캐나다 남편 (이숙캠)",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611130759003"
+          "title": "'LNG선 화물창 결함' 가스공사 2심서 배상액↑…\"2천600억 지급\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261113086900004"
         }
       ]
     },
@@ -119,31 +136,31 @@
       "published": "Thu, 12 Nov 2026 22:10:00 -0800",
       "news": [
         {
-          "title": "\"기업 고충 바로바로 해결\"…익산시 '기업 119 동행단' 가동",
+          "title": "현대백화점그룹, 익산시 '발달장애인 특화사업장' 1억원 후원",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261113122700055"
+          "url": "https://www.yna.co.kr/view/AKR20261113107800030"
         },
         {
-          "title": "익산 기업 고충 즉각 해결…'기업119 동행단' 뛴다",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/RPR20261113007300353"
+          "title": "스마트팜 돕고 백화점 판로연다…현대백화점그룹, 익산 발달장애인 사업장 후원",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261113/135021231/1"
         },
         {
-          "title": "오산 가장3산단 기업들 \"출퇴근 교통 불편 개선해 달라\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261113_0003867229"
+          "title": "현대백화점그룹, 발달장애인 경제적 자립 지원에 1억원 후원",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611131508381855"
         }
       ]
     },
     {
       "title": "구본현",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Thu, 12 Nov 2026 21:50:00 -0800",
       "news": [
         {
-          "title": "’주가조작’ 범LG가 3세 구본현 검거…해외도피 8년 만",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261113142509Zjm"
+          "title": "범LG家 3세 구본현, 해외 도피 8년 만에 캄보디아에서 검거",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/national_general/2026/11/13/P4FORY5VSFCMHFGCH4FZESVYNI/"
         },
         {
           "title": "‘145억원 주가조작’ 혐의 재벌 3세 구본현, 8년 해외도피 끝에 캄보디아서 검거",
@@ -151,9 +168,9 @@
           "url": "https://www.khan.co.kr/article/202611131437001"
         },
         {
-          "title": "8년간 해외도피 범LG家 3세 구본현 캄보디아서 송환…주가조작 혐의",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261113580276"
+          "title": "’주가조작’ 범LG가 3세 구본현 검거…해외도피 8년 만",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261113142509Zjm"
         }
       ]
     },
@@ -163,19 +180,19 @@
       "published": "Thu, 12 Nov 2026 21:50:00 -0800",
       "news": [
         {
-          "title": "‘AI 안경 의혹’ 세무사 수석 합격자, CCTV는 없었지만 감독관 바로 앞에서 시험",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611131019001"
-        },
-        {
           "title": "63회 세무사시험 수석 한원석씨 “매일 새벽 2시30분 싸주신 김밥...어머니가 합격 시켰다”",
           "source": "Daily NTN",
           "url": "https://www.intn.co.kr/news/articleView.html?idxno=3000154"
         },
         {
-          "title": "“너도 AI 안경?” 의심에 리트 만점자 “수능 국어 생중계 풀이”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1287171.html"
+          "title": "‘AI 안경’ 의혹 세무사 수석, 변호사 선임했다…“사실관계 확인 응할 것”",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/society/2026/11/13/20261113500283"
+        },
+        {
+          "title": "‘AI 안경 의혹’ 세무사 수석 합격자, CCTV는 없었지만 감독관 바로 앞에서 시험",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611131019001"
         }
       ]
     },
@@ -190,36 +207,14 @@
           "url": "https://www.yna.co.kr/view/AKR20261113030351504"
         },
         {
-          "title": "北, 78년 만에 국기 비율 변경…김정은 시대 차별화 포석",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261112193925025"
+          "title": "북한, 헌법 개정으로 국기 비율 변경",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712033"
         },
         {
-          "title": "북한, 선전매체에 헌법 전문 공개…’두 국가’ 공식화",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261112053319dE2"
-        }
-      ]
-    },
-    {
-      "title": "블랙웰",
-      "approx_traffic": "1000+",
-      "published": "Thu, 12 Nov 2026 21:40:00 -0800",
-      "news": [
-        {
-          "title": "“오픈AI, 美 의회 中 AI칩 수출 제한 법안 지지”",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/it-science/ict/2026/11/13/W3GSV2HRNVCW5HMKBABFHSBOEA/"
-        },
-        {
-          "title": "미국의 반도체 수출 규제 강화 우려에 중국 AI 주식 급락",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2174451"
-        },
-        {
-          "title": "美 무역대표 \"엔비디아 우려…핵심 기술자산 美나 동맹국에 있어야\"",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444506"
+          "title": "北, 정권 수립 78년 만에 인공기 비율 바꿨다",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261113506383"
         }
       ]
     }
