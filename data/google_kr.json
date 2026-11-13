@@ -1,225 +1,209 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-13T21:28:45+00:00",
+  "fetched_at": "2026-11-13T22:24:33+00:00",
   "items": [
     {
-      "title": "고속철도",
+      "title": "天気",
       "approx_traffic": "100+",
-      "published": "Fri, 13 Nov 2026 12:20:00 -0800",
+      "published": "Fri, 13 Nov 2026 13:20:00 -0800",
       "news": [
         {
-          "title": "5차 철도망 계획 12월 말 고시…지자체 “우리 노선 담아달라” 한목소리",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=374731"
+          "title": "【冬の嵐】18日（水）「台風並み」に発達する低気圧 大雨だけでなく「暴風と高波」にも警戒【3時間ごと雨風シミュレーション19日（木）まで／ 3連休まで天気予報（23日まで）】気象庁",
+          "source": "TBS NEWS DIG",
+          "url": "https://newsdig.tbs.co.jp/articles/gallery/3085472"
         },
         {
-          "title": "“CTX 서대전역 연장”·“세종 도심에 KTX” 현안 건의",
+          "title": "週間天気予報 明日は広く本降りの雨 来週中頃は全国的に荒天注意",
+          "source": "ウェザーニュース",
+          "url": "https://weathernews.jp/news/202611/140031/"
+        },
+        {
+          "title": "【11月14日 きょうの天気】週末雨エリア拡大 関東は冷たい雨に 来週半ば以降広い範囲で荒天のおそれ",
+          "source": "au Webポータル",
+          "url": "https://article.auone.jp/ab49dbf0-ec8b-46b9-9b0b-0f92d58eea38"
+        }
+      ]
+    },
+    {
+      "title": "김하성",
+      "approx_traffic": "200+",
+      "published": "Fri, 13 Nov 2026 13:00:00 -0800",
+      "news": [
+        {
+          "title": "한국 돌아갈 일 없다! 타율 .116 최악의 해였는데…김하성 FA 인기 폭발 \"예상보다 높은 관심, 1년 계약 모색\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/13/202611121142773551O"
+        },
+        {
+          "title": "타격 부진에 FA 인기 걱정했는데‥\"필라델피아, 김하성 영입 검토\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6864665_37004.html"
+        },
+        {
+          "title": "'김하성 시애틀 링크' 초대박! 가성비 선택지 3인 거론→3루수 활용 가능성까지…부상 없이 타격 생산성 회복 기대",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/baseball/2026-11-12/202611120100087870008295"
+        }
+      ]
+    },
+    {
+      "title": "중앙일보",
+      "approx_traffic": "2000+",
+      "published": "Fri, 13 Nov 2026 12:50:00 -0800",
+      "news": [
+        {
+          "title": "용산구, '용산형 생활안심디자인'으로 대한민국 범죄예방대상 경찰청장 표창 수상",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/RPR20261113001700353"
+        },
+        {
+          "title": "안성 여성가구 안심특구 효과 톡톡…112신고 21.3% 감소",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261113_0003867261"
+        },
+        {
+          "title": "김해외국인근로자지원센터, 범죄예방대상 국무총리표창",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=721843"
+        }
+      ]
+    },
+    {
+      "title": "제네시스 gv90",
+      "approx_traffic": "200+",
+      "published": "Fri, 13 Nov 2026 12:50:00 -0800",
+      "news": [
+        {
+          "title": "제네시스 GV90 계약 시작, 1억 3,950만원부터 2억 4,710만원까지",
+          "source": "네이버페이 머니스토리",
+          "url": "https://story.pay.naver.com/content/3927_24_C62"
+        },
+        {
+          "title": "\"차가 아니라 호텔방?\"…제네시스가 내놓은 2억짜리 SUV",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611110499g"
+        },
+        {
+          "title": "[경제 단신] 전동화 ‘GV90’ 출시… 최고 2억3950만원 외",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261110515889"
+        }
+      ]
+    },
+    {
+      "title": "은행나무",
+      "approx_traffic": "200+",
+      "published": "Fri, 13 Nov 2026 12:40:00 -0800",
+      "news": [
+        {
+          "title": "[김정호의 생명과 환경](21) 은행나무가 내건 노란색의 ‘휴업 안내문’",
+          "source": "주간경향",
+          "url": "https://weekly.khan.co.kr/article/202611131500021"
+        },
+        {
+          "title": "‘인생샷’ 찍으려 차도 점령…외국인 몰린 서울 단풍명소 몸살",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/national_general/2026/11/12/B3JAWSQ3TFB63CABDZRNXJ5DJU/"
+        },
+        {
+          "title": "\"단풍 인생샷 찍어야지\" 돌연…'위험천만' 광경들",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840007"
+        }
+      ]
+    },
+    {
+      "title": "디에고 시메오네",
+      "approx_traffic": "500+",
+      "published": "Fri, 13 Nov 2026 12:40:00 -0800",
+      "news": [
+        {
+          "title": "'이강인은 60분 만에 뺐으면서...' 시메오네 감독의 단호한 한마디 \"알바레스는 교체하지 않을 거야\"... 스페인 현지서도 논란 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/11/2026111108070646917"
+        },
+        {
+          "title": "\"이강인이 공만 잡으면 축구가 달라진다\"…바르샤전 패배에도 스페인 언론이 감탄한 이유",
+          "source": "fn스타",
+          "url": "https://star.fnnews.com/article/202611091910232899"
+        },
+        {
+          "title": "'참담했던 일주일, 점유율 축구가 무너졌다'…'이강인 활약' 아틀레티코, UCL 토너먼트 진출·라리가 우승 경쟁 흔들",
+          "source": "마이데일리",
+          "url": "https://mydaily.co.kr/page/view/2026111209391266820"
+        }
+      ]
+    },
+    {
+      "title": "이재영",
+      "approx_traffic": "200+",
+      "published": "Fri, 13 Nov 2026 12:40:00 -0800",
+      "news": [
+        {
+          "title": "이재영-이다영 뛴 투란, 챔피언스리그 본선행 확정…이재영 경기 MVP 선정",
+          "source": "마이데일리",
+          "url": "https://mydaily.co.kr/page/view/2026111110032629481"
+        },
+        {
+          "title": "[오피셜] 이재영, 유럽 챔피언스리그 MVP 선정…구단 역사상 첫 본선 진출 이끈 후 \"행복하고 만족한다\"",
+          "source": "www.xportsnews.com",
+          "url": "https://www.xportsnews.com/article/2218545"
+        },
+        {
+          "title": "한국 배구계 속쓰릴 소식… 쌍둥이 이재영, 믿기지 않는 '초대형' 근황 떴다",
+          "source": "위키트리",
+          "url": "https://www.wikitree.co.kr/articles/1173983"
+        }
+      ]
+    },
+    {
+      "title": "군수산업",
+      "approx_traffic": "100+",
+      "published": "Fri, 13 Nov 2026 12:40:00 -0800",
+      "news": []
+    },
+    {
+      "title": "헌법",
+      "approx_traffic": "200+",
+      "published": "Fri, 13 Nov 2026 12:40:00 -0800",
+      "news": [
+        {
+          "title": "북한, 헌법 개정으로 국기 비율 변경",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712373"
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712033"
         },
         {
-          "title": "추미애 \"철도는 경기도민 삶 걸린 절박한 민생 문제\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261113107000060"
+          "title": "北, 78년 만에 인공기 비율 변경…\"김정은식 국가성 강화\"",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261113181944dP5"
+        },
+        {
+          "title": "北, 인공기 비율 변경‥정권 수립 이후 처음",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6865420_36967.html"
         }
       ]
     },
     {
-      "title": "도지코인",
-      "approx_traffic": "500+",
-      "published": "Fri, 13 Nov 2026 12:20:00 -0800",
-      "news": [
-        {
-          "title": "도지코인 밈코인 꼬리표 뗀다…디파이·예측시장 영토 확장",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Securities/2026/11/202611130310511461e7e8286d56_1"
-        },
-        {
-          "title": "도지코인 랩스 창업자 \"도지코인(DOGE), 머스크 트윗에 흔들리던 시절은 갔다\"",
-          "source": "코인리더스",
-          "url": "https://www.coinreaders.com/269920"
-        },
-        {
-          "title": "도지코인, 메인넷 출시 임박",
-          "source": "디지털애셋",
-          "url": "https://www.digitalasset.works/news/articleView.html?idxno=44236"
-        }
-      ]
-    },
-    {
-      "title": "김부선",
-      "approx_traffic": "2000+",
-      "published": "Fri, 13 Nov 2026 12:10:00 -0800",
-      "news": [
-        {
-          "title": "2억 보낸 고인과 \"각별한 사이\" 인정받은 김부선...유족 분통",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02072966645645392&mediaCodeNo=257"
-        },
-        {
-          "title": "\"고인과 각별한 사이\" 김부선, 2억 대여금 소송서 일부 승소...유족 분통",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202611130822348655"
-        },
-        {
-          "title": "김부선, 2억 보낸 고인과 “각별한 사이”?…법원 판단에 유족 “망자 명예훼손” 항소",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10936081"
-        }
-      ]
-    },
-    {
-      "title": "배추",
+      "title": "김유정",
       "approx_traffic": "1000+",
-      "published": "Fri, 13 Nov 2026 12:10:00 -0800",
+      "published": "Fri, 13 Nov 2026 12:30:00 -0800",
       "news": [
         {
-          "title": "“김장 도와주실 이웃 구해요”…요즘 당근에 몰리는 이색 알바",
-          "source": "국민일보",
-          "url": "https://www.kmib.co.kr/article/20261113500265"
-        },
-        {
-          "title": "“배추 버무리고 설거지 해주실 분” 구인공고 급증…겨울철 뜨는 ‘이 알바’ 시급은?",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20114247"
-        },
-        {
-          "title": "[포토뉴스]손양면부녀회 독거노인에 김장김치·이불 전달",
-          "source": "강원일보",
-          "url": "https://www.kwnews.co.kr/article/20261113500418"
-        }
-      ]
-    },
-    {
-      "title": "노동조합",
-      "approx_traffic": "200+",
-      "published": "Fri, 13 Nov 2026 12:10:00 -0800",
-      "news": [
-        {
-          "title": "'영업비밀 유출' 삼성바이오로직스 노조 위원장 송치",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6865432_36918.html"
-        },
-        {
-          "title": "삼성바이오 노사 다시 만난다…17일 교섭 재개",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261113064300017"
-        },
-        {
-          "title": "삼성바이오로직스 노사, 다음주 교섭 재개…장기 파업 '분수령' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/thebio/2026/11/12/2026111219244527331"
-        }
-      ]
-    },
-    {
-      "title": "김소현",
-      "approx_traffic": "200+",
-      "published": "Fri, 13 Nov 2026 12:00:00 -0800",
-      "news": [
-        {
-          "title": "“손준호가 두 명?”…♥김소현 14살 子, 아빠 붕어빵 비주얼 [DA★]",
+          "title": "김유정, 오프숄더 입으니 분위기 달라졌네…청순+섹시 [DA★]",
           "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261112/135016925/1"
+          "url": "https://sports.donga.com/ent/article/all/20261113/135020372/1"
         },
         {
-          "title": "“누가 손준호야?” 김소현♥손준호 子 주안, 아빠 쏙 빼닮은 ‘폭풍 성장’ 근황",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611121717003"
-        },
-        {
-          "title": "김소현♥손준호 아들 주안이 벌써 14세…몰라보게 폭풍성장 [N샷]",
+          "title": "김유정, 칼 단발에 오프숄더 상의 입고 섹시미 발산…물오른 미모 [N샷]",
           "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6352117"
-        }
-      ]
-    },
-    {
-      "title": "이란",
-      "approx_traffic": "2000+",
-      "published": "Fri, 13 Nov 2026 11:50:00 -0800",
-      "news": [
-        {
-          "title": "이란 외무부 \"뱁새가 황새 따라가다 가랑이‥\" 청해부대 겨냥",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6865457_36911.html"
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6352728"
         },
         {
-          "title": "\"뱁새가 황새 따라가다…\" 이란 외무부 대변인 ‘한국 속담’으로 경고",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12327965"
-        },
-        {
-          "title": "이란 “한국, 가랑이 찢어진다”…한국계 유조선 2척 발사체 피격 [배틀라인]",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/international/2026/11/13/20261113500151"
-        }
-      ]
-    },
-    {
-      "title": "서인영",
-      "approx_traffic": "500+",
-      "published": "Fri, 13 Nov 2026 11:50:00 -0800",
-      "news": [
-        {
-          "title": "'최지훈과 재혼' 서인영, 극심한 불안 \"8년 자고 땅굴\"..\"10년 제정신 아냐\" [핫피플]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/13/GJSGEYJZMI2DMZLCME2WEN3GMY/"
-        },
-        {
-          "title": "‘12월 결혼’ 서인영 “예비 신랑 덕분에 우울증 이겨내고 활동”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261112/135017716/1"
-        },
-        {
-          "title": "서인영 \"공황장애로 8년간 거의 잠만 자…문지방도 못 넘었다\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/13/2026111309552465013"
-        }
-      ]
-    },
-    {
-      "title": "항공 엔진",
-      "approx_traffic": "100+",
-      "published": "Fri, 13 Nov 2026 11:00:00 -0800",
-      "news": [
-        {
-          "title": "한화, 국내 첫 1만파운드급 항공엔진 개발한다…1천773억 규모",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261113133400003"
-        },
-        {
-          "title": "한화에어로, 국과연과 ‘1만 파운드급’ 항공 엔진 개발 나선다",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/industry/company/2026/11/13/Z43BE5HBMRDLHCTNNDCIRCHFS4/"
-        },
-        {
-          "title": "한화에어로스페이스, '1만파운드급 터보팬 엔진' 개발 우협대상자 선정",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451981"
-        }
-      ]
-    },
-    {
-      "title": "탄핵",
-      "approx_traffic": "200+",
-      "published": "Fri, 13 Nov 2026 08:50:00 -0800",
-      "news": [
-        {
-          "title": "최민희 48분 육성 녹취엔…\"윤석열 탄핵에 이 대통령 반대했다. 하야시키고 가자 했다\"",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12327963"
-        },
-        {
-          "title": "[사설] 이재명 정권, 넘쳐나는 권력 감당 안 돼 자기들끼리 싸우나",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/opinion/editorial/2026/11/14/ESUUCOCQBREZBD3OPQ3V4YEGE4/"
-        },
-        {
-          "title": "\"최민희 윤리감찰\" 김민석 지시에‥친청계 '보이콧' 맞불",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6865539_37004.html"
+          "title": "김유정, 윙크 셀카로 전한 반짝이는 근황…‘100일의 거짓말’ 호평 속 활약",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16275225"
         }
       ]
     }
