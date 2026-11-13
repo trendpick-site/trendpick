@@ -1,225 +1,220 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-13T03:31:14+00:00",
+  "fetched_at": "2026-11-13T04:38:45+00:00",
   "items": [
     {
-      "title": "김창평",
-      "approx_traffic": "500+",
-      "published": "Thu, 12 Nov 2026 18:20:00 -0800",
-      "news": [
-        {
-          "title": "SSG, 베테랑 포수 김민식과 결별…선수단 추가 정비",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8710823"
-        },
-        {
-          "title": "\"선수가 먼저…\" 최정, 박병호도 감탄한 한국판 애런 저지, 왜 은퇴를 결심했나",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/13/GZRGMZRUMQYGGY3CMQYTSMJRGE/"
-        },
-        {
-          "title": "프로야구 SSG랜더스, 선수 및 코칭스태프 추가 재정비…재계약 불가 통보",
-          "source": "기호일보",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040763"
-        }
-      ]
-    },
-    {
-      "title": "최혜진",
+      "title": "이더 리움",
       "approx_traffic": "100+",
-      "published": "Thu, 12 Nov 2026 18:20:00 -0800",
+      "published": "Thu, 12 Nov 2026 19:30:00 -0800",
       "news": [
         {
-          "title": "최혜진, LPGA 투어 디안니카 1R 9언더파 선두…첫 우승 재도전",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261113026200007"
-        },
-        {
-          "title": "‘시즌 3승 도전’ 유해란, 명예의 전당 앞둔 코르다와 최종전 앞두고 격돌",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20261112/135011271/1"
-        },
-        {
-          "title": "'황유민 라이벌' 하라 에리카, 신인상 확정하나?…안니카 대회 첫날 9위 [LPGA]",
-          "source": "골프한국",
-          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20022624"
-        }
-      ]
-    },
-    {
-      "title": "종합격투기",
-      "approx_traffic": "100+",
-      "published": "Thu, 12 Nov 2026 18:10:00 -0800",
-      "news": [
-        {
-          "title": "[공식발표] \"가까스로 목숨 건졌지만...\" 日 격투기 충격 사고, 뒤통수부터 떨어져 의식 불명 \"두 차례 수술에도 위중한 상태\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_general/2026/11/13/G4YGCY3DMI4TAMRTGQ3WINDDMQ/"
-        },
-        {
-          "title": "뇌출혈 전력 日 파이터, 또 뇌출혈로 생명 위독",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10935935"
-        },
-        {
-          "title": "\"매우 위중한 상황\" 日 격투기 선수 의식불명…두 차례 긴급 수술에도 위중",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019481"
-        }
-      ]
-    },
-    {
-      "title": "도지코인",
-      "approx_traffic": "200+",
-      "published": "Thu, 12 Nov 2026 17:50:00 -0800",
-      "news": [
-        {
-          "title": "도지코인 밈코인 꼬리표 뗀다…디파이·예측시장 영토 확장",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Securities/2026/11/202611130310511461e7e8286d56_1"
-        },
-        {
-          "title": "도지코인 랩스 창업자 \"도지코인(DOGE), 머스크 트윗에 흔들리던 시절은 갔다\"",
+          "title": "이더리움(ETH), 2,000달러 하회 후 2,024달러 회복…ETF 이탈·비트마인 매집 맞부딪혀",
           "source": "코인리더스",
-          "url": "https://www.coinreaders.com/269920"
+          "url": "https://www.coinreaders.com/269786"
         },
         {
-          "title": "도지코인, 메인넷 출시 임박",
-          "source": "디지털애셋",
-          "url": "https://www.digitalasset.works/news/articleView.html?idxno=44236"
+          "title": "이더리움 2000달러선 위태…ETF도 5거래일 연속 순유출",
+          "source": "디지털투데이",
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715246"
+        },
+        {
+          "title": "이더리움 5% 하락…美 중간선거 여파에 290만원대로 '뚝'[특징코인]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/finance/blockchain-fintech/6347790"
         }
       ]
     },
     {
-      "title": "스마트 글래스",
-      "approx_traffic": "2000+",
-      "published": "Thu, 12 Nov 2026 17:50:00 -0800",
-      "news": [
-        {
-          "title": "삼성전자, 구글·젠틀몬스터·워비파커와 협업한 인텔리전트 아이웨어 전격 공개 - 삼성전자 뉴스룸",
-          "source": "samsung.com",
-          "url": "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B5%AC%EA%B8%80%C2%B7%EC%A0%A0%ED%8B%80%EB%AA%AC%EC%8A%A4%ED%84%B0%C2%B7%EC%9B%8C%EB%B9%84%ED%8C%8C%EC%BB%A4%EC%99%80-%ED%98%91%EC%97%85%ED%95%9C-%EC%9D%B8"
-        },
-        {
-          "title": "삼성 첫 스마트안경 예약판매 시작…제미나이 장착, 가격 65만~75만원",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611122300001"
-        },
-        {
-          "title": "톡 치니 통역에 맛집 추천도… 삼성 AI 안경 ‘출격’",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/int_economy/2026/11/13/KO2KEISQA5A45EJO5UKCB32KFE/"
-        }
-      ]
-    },
-    {
-      "title": "진학사",
-      "approx_traffic": "500+",
-      "published": "Thu, 12 Nov 2026 17:10:00 -0800",
-      "news": [
-        {
-          "title": "진학사 캐치 조사서 취준생 70% AI 면접 연습 의향…실전은 대면 선호",
-          "source": "로이슈",
-          "url": "https://www.lawissue.co.kr/view.php?ud=20261113085015441204ead0791_12"
-        },
-        {
-          "title": "\"연습 상대 OK, 실제론 글쎄\"…Z세대 구직자가 본 `AI 면접관`은",
-          "source": "디지털데일리",
-          "url": "https://www.ddaily.co.kr/page/view/2026111310440733410"
-        },
-        {
-          "title": "‘AI가 서류 심사’ 안내받는 경우 지원자는 경력 부풀려 쓰는 경향",
-          "source": "동아비즈니스리뷰",
-          "url": "https://dbr.donga.com/article/view/1904/article_no/12325"
-        }
-      ]
-    },
-    {
-      "title": "공군사관학교",
+      "title": "우기",
       "approx_traffic": "100+",
-      "published": "Thu, 12 Nov 2026 17:10:00 -0800",
+      "published": "Thu, 12 Nov 2026 19:30:00 -0800",
       "news": [
         {
-          "title": "국방부, 사관학교 생도 대상 설문조사 실시‥\"국군사관학교 보완 의견 수렴\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6865402_36911.html"
-        },
-        {
-          "title": "국방부, 육해공 사관생도 2천350명 대상 국군사관학교 설문 착수",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261113081000504"
-        },
-        {
-          "title": "조성칠 대전시의회 의장 \"과학기술·연구개발 연계한 공공기관 유치 총력\"",
-          "source": "뉴데일리 충청세종",
-          "url": "https://cc.newdaily.co.kr/site/data/html/2026/11/12/2026111200431.html"
-        }
-      ]
-    },
-    {
-      "title": "평가",
-      "approx_traffic": "2000+",
-      "published": "Thu, 12 Nov 2026 16:40:00 -0800",
-      "news": [
-        {
-          "title": "삼성바이오로직스, 한국ESG기준원 평가서 '통합 A+' 획득",
-          "source": "팜이데일리",
-          "url": "https://pharm.edaily.co.kr/News/Read?newsId=03129126645645392"
-        },
-        {
-          "title": "영진약품, 한국ESG기준원 ESG 평가 통합 'A' 등급 획득",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=721800"
-        },
-        {
-          "title": "ESG 성적 'A+' 자랑한 KB·신한금융…옥에 티는 'LTV 담합'",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444583"
-        }
-      ]
-    },
-    {
-      "title": "아시아 프로야구 챔피언십",
-      "approx_traffic": "2000+",
-      "published": "Thu, 12 Nov 2026 16:30:00 -0800",
-      "news": [
-        {
-          "title": "호주에도 지는 한국야구",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20261113/135017424/2"
-        },
-        {
-          "title": "'와' 이러니 MLB가 주목하지... '홈런+2루타 장타폭발' 김주원, \"포스팅시 많은 팀이 원할 것\" 이유 증명 [APBC] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/13/2026111219552258076"
-        },
-        {
-          "title": "야구 대표팀, APBC 호주에 충격패…막판 와르르 붕괴",
+          "title": "대형 행사 잇따라 앞둔 시진핑, 대만 문제 유화 발언…“평화통일·대화 원해”",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711126"
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8711074"
+        },
+        {
+          "title": "시진핑, APEC·대만지방선거 앞두고 '평화통일·대화' 유화 발언",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261112116900083"
+        },
+        {
+          "title": "[속보] 시진핑 “대만 통일은 역사적 임무…양안관계 평화발전 노력해야”",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/international/international_general/2026/11/12/MWVXOWLX5NBWZHYPB26FH6IWFU/"
         }
       ]
     },
     {
-      "title": "금융통화위원회",
-      "approx_traffic": "100+",
-      "published": "Thu, 12 Nov 2026 16:30:00 -0800",
+      "title": "lpga",
+      "approx_traffic": "200+",
+      "published": "Thu, 12 Nov 2026 19:30:00 -0800",
       "news": [
         {
-          "title": "11월엔 올린다지만 그다음은…금통위가 주목한 소비의 온도",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444388"
+          "title": "Choi Hye-jin Grabs First-Round Lead with 9-Under at LPGA The Annika, Renewing Quest for Maiden Title",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008844282"
         },
         {
-          "title": "[이슈&인사이트] 연준의 결정을 기다리지 않는 통화정책",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20261110022330363"
+          "title": "Korda Trails Katsu and Choi by Two on Day One at The ANNIKA",
+          "source": "LPGA",
+          "url": "https://www.lpga.com/news/2026/korda-trails-katsu-and-choi-by-two-on-day-one-at-the-annika"
         },
         {
-          "title": "[현승윤 칼럼] 한은, 기준금리 인상에 신중할 때",
+          "title": "Choi Hyejin's Flawless Play... 'Nine Birdies, No Bogeys'",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/en/article/world-general/2026111307501346440"
+        }
+      ]
+    },
+    {
+      "title": "공매도",
+      "approx_traffic": "200+",
+      "published": "Thu, 12 Nov 2026 19:20:00 -0800",
+      "news": [
+        {
+          "title": "실적 부진에 급락했는데…초고수들이 대거 사들인 종목",
           "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026111109361"
+          "url": "https://www.hankyung.com/article/202611134741i"
+        },
+        {
+          "title": "\"공매도, 또 너냐?\"…'반토막' 삼전닉스 반등 확률 90% 까닭",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02315686645645064&mediaCodeNo=257"
+        },
+        {
+          "title": "\"반토막 난 삼성전자, 3개월 내 반등 확률 97%\"…'역대급' 분석 나온 결정적 이유",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611121541308635"
+        }
+      ]
+    },
+    {
+      "title": "전광훈",
+      "approx_traffic": "200+",
+      "published": "Thu, 12 Nov 2026 19:20:00 -0800",
+      "news": [
+        {
+          "title": "\"부동산 불법행위 걸리면 패가망신\"… '알박기' 전수조사 지시 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/11/11/2026111020024868141"
+        },
+        {
+          "title": "인허가·자금 조달 ‘원스톱 지원’…22곳서 3.9만가구 공급 박차",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20113178"
+        }
+      ]
+    },
+    {
+      "title": "신상진",
+      "approx_traffic": "200+",
+      "published": "Thu, 12 Nov 2026 19:10:00 -0800",
+      "news": [
+        {
+          "title": "신상진 성남시장, 노후소각장 대체 건립공사 점검",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261112_0003865947"
+        },
+        {
+          "title": "[포토] 신상진 성남시장, 상대원 노후 소각장 대체 공사 현장 점검",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3751104"
+        },
+        {
+          "title": "신상진 시장 환경과 시민 편익 모두 고려한 소각시설 만들어야",
+          "source": "아주경제",
+          "url": "https://www.ajunews.com/view/20261112212413675"
+        }
+      ]
+    },
+    {
+      "title": "jensen huang third affair",
+      "approx_traffic": "1000+",
+      "published": "Thu, 12 Nov 2026 19:10:00 -0800",
+      "news": [
+        {
+          "title": "EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/"
+        },
+        {
+          "title": "How Jensen Huang’s Yearslong Ties to Alice Huang Enabled $7 Billion-Plus Nvidia Chip Sales to China",
+          "source": "The Information",
+          "url": "https://www.theinformation.com/articles/jensen-huangs-yearslong-ties-alice-huang-enabled-nvidia-chip-sales-china"
+        },
+        {
+          "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cmq5vd1wdgz6o"
+        }
+      ]
+    },
+    {
+      "title": "미래에셋",
+      "approx_traffic": "100+",
+      "published": "Thu, 12 Nov 2026 19:10:00 -0800",
+      "news": [
+        {
+          "title": "[분석]스페이스X 욕심이 부른 부메랑…미래에셋증권, ‘0주 참사’ 이어 대규모 적자 전환 By 알파경제 alphabiz",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2174133"
+        },
+        {
+          "title": "증권사 빅5, 올 누적순익 8.5조 육박 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/11/13/2026111219553795190"
+        },
+        {
+          "title": "키움증권, 미래에셋증권 목표가↓…\"투자역량 추가 입증 필요\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261113029700008"
+        }
+      ]
+    },
+    {
+      "title": "마우리시오 포체티노",
+      "approx_traffic": "1000+",
+      "published": "Thu, 12 Nov 2026 19:00:00 -0800",
+      "news": [
+        {
+          "title": "맨유 새 감독에 포체티노 유력",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611122023005"
+        },
+        {
+          "title": "‘추락한 명가’ EPL 맨유, 캐릭 감독 경질…퍼거슨 이후 7번째",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20261113/135018915/1"
+        },
+        {
+          "title": "\"난 이제 간다\" 캐릭, 선수들 앞 끝내 눈물 터졌다 \"악수한 뒤 쓸쓸히 떠나\"... 그래도 '위약금 90억' 챙겨 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/13/2026111310174716793"
+        }
+      ]
+    },
+    {
+      "title": "사우디아라비아 축구 국가대표팀",
+      "approx_traffic": "200+",
+      "published": "Thu, 12 Nov 2026 18:40:00 -0800",
+      "news": [
+        {
+          "title": "주장 손흥민, ‘내분설’ 이후 첫 심경 고백…“팀이 건강해지는 과정이라 생각”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711758"
+        },
+        {
+          "title": "[스포츠엔터] 불화설에 입 연 손흥민 \"내려놓고 싶지만…\"",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261113125318ZVy"
+        },
+        {
+          "title": "'92-96라인 입장문 발표' 모레노 감독 \"어른처럼 대화 나눈 선수들 자랑스러워\"...거취 불투명에는 \"오늘 당장 할 수 있는 일에 집중할 것\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/football/2026/11/13/ME4GMNJRMNTGGOJSGBRWKNRYMQ/"
         }
       ]
     }
