@@ -1,11 +1,187 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-13T23:21:55+00:00",
+  "fetched_at": "2026-11-14T00:16:43+00:00",
   "items": [
     {
-      "title": "참교육",
+      "title": "대한민국의 특별검사제도",
       "approx_traffic": "2000+",
+      "published": "Fri, 13 Nov 2026 15:00:00 -0800",
+      "news": [
+        {
+          "title": "검찰 불법 행위 밝히자는데 저주 퍼붓는 주류 매체들",
+          "source": "뉴스타파",
+          "url": "https://newstapa.org/article/iKKSJ"
+        },
+        {
+          "title": "국힘, 부산서 ‘조작기소 특검법’ 규탄 장외 집회",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611140852001"
+        },
+        {
+          "title": "오세훈 \"정부가 법치주의 훼손하면 목소리 아끼지 않을 것\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6865482_36911.html"
+        }
+      ]
+    },
+    {
+      "title": "조현",
+      "approx_traffic": "100+",
+      "published": "Fri, 13 Nov 2026 14:50:00 -0800",
+      "news": [
+        {
+          "title": "APEC 닷새 앞 방중 조현 “북미회담 가능성 있다”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20261113/135023336/2"
+        },
+        {
+          "title": "조현 “한반도 문제 건설적 역할 당부” 왕이 “한반도 정책 변함 없어”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611140759001"
+        },
+        {
+          "title": "조현 \"한반도 평화는 한중 공동이익\"…왕이 \"관계개선 정상궤도\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261113174600083"
+        }
+      ]
+    },
+    {
+      "title": "명태균",
+      "approx_traffic": "1000+",
+      "published": "Fri, 13 Nov 2026 14:40:00 -0800",
+      "news": [
+        {
+          "title": "명태균 '정자법 위반' 2심서 김한정 \"여론조사업체 명씨가 운영\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261113132700052"
+        },
+        {
+          "title": "명태균 ‘정치자금법 위반’ 항소심… 김한정 “여론조사업체 명씨가 운영\"",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/topics/law_firm/2026/11/13/L7Y7FIMVBBC4JH7RY3N5XX5V5U/"
+        },
+        {
+          "title": "오세훈 후원자, 명태균 재판에 증인 출석…“미한연 운영자는 명씨”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20261113/135021133/1"
+        }
+      ]
+    },
+    {
+      "title": "아르헨티나 대 우루과이",
+      "approx_traffic": "2000+",
+      "published": "Fri, 13 Nov 2026 14:30:00 -0800",
+      "news": [
+        {
+          "title": "한국 4-1로 무너뜨리더니 자신감 제대로 붙었다…포를란 감독, 모레노호 상대 대승에 만족 “수준 높은 한국 상대로 매우 좋은 경기력 보여줬다”",
+          "source": "인터풋볼",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=698363"
+        },
+        {
+          "title": "전 맨체스터 유나이티드 공격수 포를란이 우루과이 대표팀을 이끌며 눈부신 활약을 펼치고 있다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/cuu-tien-dao-man-united-forlan-toa-sang-khi-dan-dat-uruguay"
+        },
+        {
+          "title": "아르헨티나 vs 우루과이 예측: 상대 전적에서 우세.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-argentina-vs-uruguay-diem-tua-tu-thanh-tich-doi-dau"
+        }
+      ]
+    },
+    {
+      "title": "argentina vs uruguay",
+      "approx_traffic": "1000+",
+      "published": "Fri, 13 Nov 2026 14:30:00 -0800",
+      "news": [
+        {
+          "title": "Licensable picture: International Friendly - Argentina v Uruguay",
+          "source": "Reuters Connect",
+          "url": "https://www.reutersconnect.com/item/international-friendly-argentina-v-uruguay/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkQxUDNJUlg"
+        },
+        {
+          "title": "Soccer Streams!Soccer:Uruguay vs Argentina LIVE Streams ON TV CHANNEL",
+          "source": "Gold Derby",
+          "url": "https://www.goldderby.com/topic/soccer-streamssocceruruguay-vs-argentina-live-streams-on-tv-channel/"
+        },
+        {
+          "title": "Argentina vs Uruguay Lineups CONFIRMED: Who Replaces Lionel Messi In Starting XI",
+          "source": "Sportsdunia",
+          "url": "https://www.sportsdunia.com/football-news/argentina-vs-uruguay-lineups-confirmed-nico-paz-starts-13th-november-2026"
+        }
+      ]
+    },
+    {
+      "title": "faa",
+      "approx_traffic": "200+",
+      "published": "Fri, 13 Nov 2026 14:30:00 -0800",
+      "news": [
+        {
+          "title": "Live updates: FAA issues nationwide ground stop for all flights",
+          "source": "CNN",
+          "url": "https://edition.cnn.com/2026/11/13/us/live-news/flights-ground-stop-faa"
+        },
+        {
+          "title": "US Federal Aviation Administration Issues Rare Ground Stop Order for All US Airports",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008845674"
+        },
+        {
+          "title": "Flights grounded across US after air traffic communications outage",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/us/faa-issues-national-ground-stop-due-extraordinary-circumstance-reasons-safety-2026-11-13/"
+        }
+      ]
+    },
+    {
+      "title": "ionq",
+      "approx_traffic": "100+",
+      "published": "Fri, 13 Nov 2026 14:30:00 -0800",
+      "news": [
+        {
+          "title": "IonQ Names Gary Merrill CFO and Thomas Austin CAO",
+          "source": "IonQ",
+          "url": "https://www.ionq.com/news/ionq-announces-executive-leadership-evolution"
+        },
+        {
+          "title": "IonQ’s finance reshuffle seen as orderly succession by Wedbush",
+          "source": "Proactive financial news",
+          "url": "https://www.proactiveinvestors.com/companies/news/1101773/ionq-s-finance-reshuffle-seen-as-orderly-succession-by-wedbush-1101773.html"
+        },
+        {
+          "title": "IonQ Appoints New Chief Financial and Accounting Officers",
+          "source": "TipRanks",
+          "url": "https://www.tipranks.com/news/company-announcements/ionq-appoints-new-chief-financial-and-accounting-officers"
+        }
+      ]
+    },
+    {
+      "title": "집",
+      "approx_traffic": "500+",
+      "published": "Fri, 13 Nov 2026 14:20:00 -0800",
+      "news": [
+        {
+          "title": "탕웨이가 2년 만에 손절한 '분당 신혼집' 땅, 그때 안 팔았더라면…",
+          "source": "땅집고",
+          "url": "https://realty.chosun.com/site/data/html_dir/2026/11/10/2026111002798.html"
+        },
+        {
+          "title": "강민경, 이해리에게 작업실 넘겼다…고가 커피머신까지 300만원",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261114/135023548/1"
+        },
+        {
+          "title": "\"해리 언니랑...\" 강민경, 집 떠나며 사연 많은 사람처럼 '눈물' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/14/2026111407343724876"
+        }
+      ]
+    },
+    {
+      "title": "참교육",
+      "approx_traffic": "10000+",
       "published": "Fri, 13 Nov 2026 14:10:00 -0800",
       "news": [
         {
@@ -14,207 +190,36 @@
           "url": "https://www.khan.co.kr/article/202611121023001"
         },
         {
-          "title": "\"학대냐 아니냐\" 불붙은 '어둠의 오은영' 논란",
+          "title": "\"학대냐 아니냐\" 불붙은 논란‥'어둠의 오은영' 이제 못 보나",
           "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6865333_37012.html"
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6865252_37004.html"
         },
         {
-          "title": "[참성단] ‘귀신 훈육’ 딜레마",
-          "source": "경인일보",
-          "url": "https://www.kyeongin.com/article/1774690"
+          "title": "\"아이 좀 무서워했다고 아동학대?\"…'귀신 참교육' 논란에 변호사 반박 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/13/2026111306583396829"
         }
       ]
     },
     {
       "title": "돈",
-      "approx_traffic": "2000+",
+      "approx_traffic": "5000+",
       "published": "Fri, 13 Nov 2026 14:10:00 -0800",
       "news": [
+        {
+          "title": "[사설]“국가 부채 공짜 점심 아냐… 거품 꺼질 때 관건은 재정 여력”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Opinion/article/all/20261113/135022984/2"
+        },
         {
           "title": "\"돈 펑펑 쓸 때 아니다\"…AI 호황 누리는 한국에 날린 경고",
           "source": "한국경제",
           "url": "https://www.hankyung.com/article/2026111236311"
         },
         {
-          "title": "\"국가부채는 공짜 점심? 근본적으로 틀린 믿음\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/economy_general/2026/11/13/DHLZ47QWIZHDXNU7CVGNR77CJE/"
-        },
-        {
           "title": "[한은은 지금] 로고프가 던진 '공짜점심'과 신현송의 '재정지속 가능성'",
           "source": "연합인포맥스",
           "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444493"
-        }
-      ]
-    },
-    {
-      "title": "보안",
-      "approx_traffic": "200+",
-      "published": "Fri, 13 Nov 2026 14:00:00 -0800",
-      "news": [
-        {
-          "title": "해킹 당한 금융보안원 “공격 IP 246개 차단완료…국적은 한국”",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1198487"
-        },
-        {
-          "title": "금융위, 해킹에 뚫린 금융보안원 다음 주 감사",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6865227_36932.html"
-        },
-        {
-          "title": "고개 숙인 금융보안원…금융권 해킹 수습 기준 보여줘야",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04080326645645064"
-        }
-      ]
-    },
-    {
-      "title": "날씨",
-      "approx_traffic": "500000+",
-      "published": "Fri, 13 Nov 2026 13:50:00 -0800",
-      "news": [
-        {
-          "title": "은행나무 ‘노란 단풍’ 절정…토요일 전국에 비",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712490"
-        },
-        {
-          "title": "제주, 흐리고 곳에 따라 비",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261114012500056"
-        },
-        {
-          "title": "전국 대부분 흐리고 비‥낮 최고 11~18도",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6865601_37012.html"
-        }
-      ]
-    },
-    {
-      "title": "주한 미군의 철수",
-      "approx_traffic": "1000+",
-      "published": "Fri, 13 Nov 2026 13:50:00 -0800",
-      "news": [
-        {
-          "title": "美전문가들 \"트럼프, 전작권 전환을 주한미군 철수 수단으로 봐\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261114002200071"
-        },
-        {
-          "title": "브룩스 前사령관, ‘전작권 당장 전환 가능’ 강신철에 “매우 실망”",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/us/2026/11/14/UNVTC33XERFVLDHL3IAUAS74YQ/"
-        },
-        {
-          "title": "김건 의원 \"한미 조인트 팩트시트 1년에도 핵잠수함·원자력 협력 제자리\"",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261113000598"
-        }
-      ]
-    },
-    {
-      "title": "天氣",
-      "approx_traffic": "200+",
-      "published": "Fri, 13 Nov 2026 13:50:00 -0800",
-      "news": [
-        {
-          "title": "又有冷空氣要來了！下週低溫急探16度 專家示警：恐比上一波更冷",
-          "source": "Yahoo新聞",
-          "url": "https://tw.news.yahoo.com/%E5%8F%88%E6%9C%89%E5%86%B7%E7%A9%BA%E6%B0%A3%E8%A6%81%E4%BE%86%E4%BA%86-%E4%B8%8B%E9%80%B1%E4%BD%8E%E6%BA%AB%E6%80%A5%E6%8E%A216%E5%BA%A6-%E5%B0%88%E5%AE%B6%E7%A4%BA%E8%AD%A6-%E6%81%90%E6%AF%94%E4%B8%8A-%E6%B3%A2%E6%9B%B4%E5%86%B7-111328874.html"
-        },
-        {
-          "title": "週六鋒面通過「西部大雨」！未來一週2鋒面、2降溫天氣不穩",
-          "source": "自由時報",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5639958"
-        }
-      ]
-    },
-    {
-      "title": "weather",
-      "approx_traffic": "2000+",
-      "published": "Fri, 13 Nov 2026 13:40:00 -0800",
-      "news": [
-        {
-          "title": "Cold and windy days ahead",
-          "source": "NBC10 Philadelphia",
-          "url": "https://www.nbcphiladelphia.com/video/weather/video-weather/cold-and-windy-days-ahead/4496988/"
-        },
-        {
-          "title": "Frosty, sunny start but the weekend deteriorates, snow showers for the north by Monday",
-          "source": "Netweather",
-          "url": "https://www.netweather.tv/weather-forecasts/news/13654-frosty-sunny-start-but-the-weekend-deteriorates-snow-showers-for-the-north-by-monday"
-        },
-        {
-          "title": "Cold weather settling in this weekend",
-          "source": "Local 3 News",
-          "url": "https://www.local3news.com/local-news/cold-weather-settling-in-this-weekend/article_ca348ccc-d6f0-4e19-b850-1581885a47c4.html"
-        }
-      ]
-    },
-    {
-      "title": "天气",
-      "approx_traffic": "1000+",
-      "published": "Fri, 13 Nov 2026 13:40:00 -0800",
-      "news": [
-        {
-          "title": "最新天气消息｜黄色暴雨警告信号一度生效 凌晨5时30分取消",
-          "source": "香港01",
-          "url": "https://global.hk01.com/%E5%A4%A9%E6%B0%94/60410538/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%94%E6%B6%88%E6%81%AF-%E9%BB%84%E8%89%B2%E6%9A%B4%E9%9B%A8%E8%AD%A6%E5%91%8A%E4%BF%A1%E5%8F%B7%E4%B8%80%E5%BA%A6%E7%94%9F%E6%95%88-%E5%87%8C%E6%99%A85%E6%97%B630%E5%88%86%E5%8F%96%E6%B6%88"
-        },
-        {
-          "title": "本港广泛地区下暴雨进行电力工作须注意安全｜即时新闻｜中港台｜on.cc东网",
-          "source": "on.cc東網",
-          "url": "https://hk.on.cc/hk/bkn/cnt/news/20261114/bkn-20261114040551299-1114_00822_001_cn.html"
-        },
-        {
-          "title": "天文台｜黄雨信号一度悬挂近2小时 全日仍间中有雨",
-          "source": "星島頭條",
-          "url": "https://www.stheadline.com/zh-hans/society/3636928/%E5%A4%A9%E6%96%87%E5%8F%B0%E9%BB%84%E9%9B%A8%E4%BF%A1%E5%8F%B7%E4%B8%80%E5%BA%A6%E6%82%AC%E6%8C%82%E8%BF%912%E5%B0%8F%E6%97%B6-%E5%85%A8%E6%97%A5%E4%BB%8D%E9%97%B4%E4%B8%AD%E6%9C%89%E9%9B%A8"
-        }
-      ]
-    },
-    {
-      "title": "สภาพอากาศ",
-      "approx_traffic": "1000+",
-      "published": "Fri, 13 Nov 2026 13:30:00 -0800",
-      "news": [
-        {
-          "title": "สภาพอากาศวันนี้ -19 พ.ย.ลมหนาวพักยก ไทยอุณหภูมิสูงขึ้น ฝนฟ้าคะนองบางแห่ง",
-          "source": "thansettakij",
-          "url": "https://www.thansettakij.com/general-news/673733"
-        },
-        {
-          "title": "ชุมพรอ่วมฝนถล่มข้ามคืน น้ำท่วมถนนหลายสาย โรงพยาบาลเร่งป้องกันน้ำเข้า CT-SCAN",
-          "source": "www.topnews.co.th",
-          "url": "https://www.topnews.co.th/news/1746285"
-        },
-        {
-          "title": "เตือนภาคใต้ ยังมีฝนตกหนัก 70% เสี่ยงน้ำท่วมฉับพลัน | 13 พ.ย. 69 | ข่าวเย็นไทยรัฐ",
-          "source": "www.thairath.co.th",
-          "url": "https://www.thairath.co.th/video/channel/thairath_news/thairath-evening-news/1199340"
-        }
-      ]
-    },
-    {
-      "title": "погода",
-      "approx_traffic": "500+",
-      "published": "Fri, 13 Nov 2026 13:30:00 -0800",
-      "news": [
-        {
-          "title": "Приближается похолодание: как изменит погоду в Украине на выходных антициклон",
-          "source": "РБК-Україна",
-          "url": "https://www.rbc.ua/ukr/news/nablizhaetsya-poholodannya-k-zminit-pogodu-1794572566.html"
-        },
-        {
-          "title": "После теплой и влажной пятницы на выходных прогнозируется похолодание",
-          "source": "Українська правда",
-          "url": "https://www.pravda.com.ua/rus/news/2026/11/12/8062489/"
-        },
-        {
-          "title": "Снег, морозы и до +20: в Гидрометцентре рассказали об изменении погоды до конца ноября",
-          "source": "OBOZ.UA",
-          "url": "https://www.obozrevatel.com/section-novosti-obschestvo/news-snih-morozy-i-do-20-v-hidromettsentri-rozpovily-pro-zminu-pohody-do-kintsya-lystopada-12-11-2026.html"
         }
       ]
     }
