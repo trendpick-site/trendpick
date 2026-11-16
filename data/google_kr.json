@@ -1,7 +1,7 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-16T16:57:18+00:00",
+  "fetched_at": "2026-11-16T18:06:22+00:00",
   "items": [
     {
       "title": "robert pattinson",
@@ -9,19 +9,19 @@
       "published": "Mon, 16 Nov 2026 07:40:00 -0800",
       "news": [
         {
-          "title": "James Bond live updates: Robert Pattinson named as new 007",
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/live/ckg5j69ndv2vt"
+          "title": "Robert Pattinson Named as the Next James Bond",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/16/movies/james-bond-robert-pattinson.html"
+        },
+        {
+          "title": "Royal Family Embraces Robert Pattinson’s 007 Casting: ‘Welcome to His Majesty’s Secret Service, Mr. Bond’",
+          "source": "Yahoo",
+          "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/royal-family-embraces-robert-pattinson-174245728.html"
         },
         {
           "title": "Robert Pattinson Is Officially James Bond: Meet the New 007 Actor",
           "source": "Variety",
           "url": "https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/"
-        },
-        {
-          "title": "Robert Pattinson reportedly leads James Bond contenders",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/film/2026/nov/13/robert-pattinson-reportedly-leads-james-bond-contenders"
         }
       ]
     },
@@ -34,16 +34,6 @@
           "title": "[다시보기] 11월 16일 (월) 오후 사이언스 투데이",
           "source": "YTN 사이언스",
           "url": "https://science.ytn.co.kr/program/program_view.php?s_mcd=0082&key=202611161604549260&s_hcd=0023"
-        },
-        {
-          "title": "[이시각헤드라인] 11월 16일 뉴스현장",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261116132324DuC"
-        },
-        {
-          "title": "[여담야담] 초유의 'AI 커닝' 시인…사흘 남은 수능 어쩌나?",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008847977"
         }
       ]
     },
@@ -53,9 +43,9 @@
       "published": "Mon, 16 Nov 2026 07:10:00 -0800",
       "news": [
         {
-          "title": "로버트 패틴슨, 차기 제임스 본드 공식 확정",
-          "source": "Hypebeast.KR",
-          "url": "https://hypebeast.kr/2026/11/robert-pattinson-officially-next-james-bond-announcement"
+          "title": "로버트 패틴슨, 7대 제임스 본드 된다…'007시리즈' 주인공 낙점",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261117002400075"
         },
         {
           "title": "로버트 패틴슨, 다니엘 크레이그 이어 차기 제임스 본드로 선정",
@@ -75,9 +65,9 @@
       "published": "Mon, 16 Nov 2026 07:10:00 -0800",
       "news": [
         {
-          "title": "경기도, 내년 국비 8841억원 추가 확보 추진…부지사 국회에 상주",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261116000545"
+          "title": "추미애 “경기도 가용재원 2조원 줄어···정부·국회 세제 개편 응답해달라”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611161131021"
         },
         {
           "title": "경기 버스 환승할인 내년 8월 폐지…추미애, 재정 쥐어짜 민생예산만 편성",
@@ -87,7 +77,7 @@
         {
           "title": "MBC의 편파 왜곡 방송, 무단 침입에 대해 법적 책임을 묻겠습니다",
           "source": "경기도뉴스포털",
-          "url": "https://gnews.gg.go.kr/news/news_detail.do?number=202611161447356798C117&s_code=daily"
+          "url": "https://gnews.gg.go.kr/news/news_detail_m.do?number=202611161447356798C117&s_code=C500&page=1&SchYear=&SchMonth="
         }
       ]
     },
@@ -163,19 +153,19 @@
       "published": "Mon, 16 Nov 2026 06:00:00 -0800",
       "news": [
         {
-          "title": "TOKİ'den 405 konutluk dev proje!",
-          "source": "Antalya Ekspres",
-          "url": "https://www.antalyaekspres.com.tr/tokiden-405-konutluk-dev-proje"
-        },
-        {
           "title": "Isparta'daki 274 TOKİ Konutu Ne Zaman Teslim Edilecek? İşte Yeni Tarih",
           "source": "Demokrat32.com",
           "url": "https://www.demokrat32.com/ispartadaki-274-toki-konutu-ne-zaman-teslim-edilecek-iste-yeni-tarih"
         },
         {
-          "title": "Isparta'ya 405 konut, 10 dükkan ve cami geliyor! TOKİ ihale tarihini açıkladı",
-          "source": "Antalya Körfez Gazetesi",
-          "url": "https://www.antalyakorfez.com/ispartaya-405-konut-10-dukkan-ve-cami-geliyor-toki-ihale-tarihini-acikladi"
+          "title": "TOKİ'den 405 konutluk dev proje!",
+          "source": "Antalya Ekspres",
+          "url": "https://www.antalyaekspres.com.tr/tokiden-405-konutluk-dev-proje"
+        },
+        {
+          "title": "Isparta'ya 249 İşyeri Yapılacak! TOKİ İhale Tarihi Açıklandı",
+          "source": "Haber32",
+          "url": "https://www.haber32.com.tr/ispartaya-249-isyeri-yapilacak-toki-ihale-tarihi-aciklandi"
         }
       ]
     },
