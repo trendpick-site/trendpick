@@ -1,27 +1,115 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-17T20:10:54+00:00",
+  "fetched_at": "2026-11-17T21:00:24+00:00",
   "items": [
+    {
+      "title": "아이폰",
+      "approx_traffic": "100+",
+      "published": "Tue, 17 Nov 2026 11:50:00 -0800",
+      "news": [
+        {
+          "title": "Apple to Let Users Face-Unlock iPhone Duo, Addressing Key Drawback",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-16/apple-to-let-users-face-unlock-iphone-duo-addressing-key-drawback"
+        },
+        {
+          "title": "The iPhone Duo feels far more intuitive with Apple’s new face unlock",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1035437/iphone-duo-face-unlock-front-camera-hands-on"
+        },
+        {
+          "title": "Everything New in iOS 27.3 Beta 2",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/11/16/ios-27-3-beta-2-everything-new/"
+        }
+      ]
+    },
+    {
+      "title": "백신",
+      "approx_traffic": "100+",
+      "published": "Tue, 17 Nov 2026 11:40:00 -0800",
+      "news": [
+        {
+          "title": "예방접종 피해 국가보상, 대리인도 신청 가능",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261117059800530"
+        },
+        {
+          "title": "「감염병예방법 시행령 및 시행규칙」 일부개정령안 공포·시행(11.17.화)",
+          "source": "서울Pn",
+          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=457313"
+        },
+        {
+          "title": "이소희 의원, ‘코로나 백신 피해 국가책임법’ 발의…피해 입증책임 국가로",
+          "source": "월간조선",
+          "url": "https://monthly.chosun.com/news/articleView.html?idxno=72005"
+        }
+      ]
+    },
+    {
+      "title": "경찰",
+      "approx_traffic": "10000+",
+      "published": "Tue, 17 Nov 2026 11:20:00 -0800",
+      "news": [
+        {
+          "title": "\"이렇게까지 한다고?\" 웃음보인 장관‥\"믿음 깨져\" 냉소 속출",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6866389_37004.html"
+        },
+        {
+          "title": "당정, '수능 AI 부정행위' 대책 협의회…입법 과제 등 논의",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261117175800001"
+        },
+        {
+          "title": "문과 '士'자 직업이면 뭐하나…수험생 돌변에 '서늘한 경고'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026111727641"
+        }
+      ]
+    },
+    {
+      "title": "국제 통화 기금",
+      "approx_traffic": "200+",
+      "published": "Tue, 17 Nov 2026 11:20:00 -0800",
+      "news": [
+        {
+          "title": "IMF, 올해 우리나라 성장률 3.9% 전망…내년엔 3.3%",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975912"
+        },
+        {
+          "title": "IMF, 올해 경제 성장률 3.9%로 상향…’통화 긴축’ 주문",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261118044902M56"
+        },
+        {
+          "title": "기자 질문 받는 코린 들레샤 단장",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261117_0021535578"
+        }
+      ]
+    },
     {
       "title": "gta6",
       "approx_traffic": "200+",
       "published": "Tue, 17 Nov 2026 10:20:00 -0800",
       "news": [
         {
-          "title": "Pre-Load Grand Theft Auto VI Now",
-          "source": "Rockstar Games",
-          "url": "https://www.rockstargames.com/newswire/article/89834o94713o21/pre-load-grand-theft-auto-vi-now"
+          "title": "Lucía Caminos is the first Latina ‘Grand Theft Auto’ lead – these video game characters paved the way",
+          "source": "The Conversation",
+          "url": "https://theconversation.com/lucia-caminos-is-the-first-latina-grand-theft-auto-lead-these-video-game-characters-paved-the-way-290289"
         },
         {
-          "title": "When will 'GTA 6' be available on Xbox Game Pass and Cloud Gaming?",
-          "source": "Mashable",
-          "url": "https://mashable.com/entertainment/gta-grand-theft-auto-6-xbox-game-pass-cloud-gaming"
+          "title": "GTA 6 is making history with its female lead, and women gamers are here for it",
+          "source": "Yahoo Tech",
+          "url": "https://tech.yahoo.com/gaming/article/gta-6-is-making-history-with-its-female-lead-and-women-gamers-are-here-for-it-173554427.html"
         },
         {
-          "title": "Grand Theft Auto VI Comes to XBOX One and XBOX Series X|S Through XBOX Cloud Gaming on November 19",
-          "source": "XBOX Wire",
-          "url": "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/"
+          "title": "GTA VI’s voice actor for Lucia was revealed by… The Game Awards.",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/games/1035602/gta-vis-voice-actor-for-lucia-was-revealed-by-the-game-awards"
         }
       ]
     },
@@ -48,46 +136,46 @@
       ]
     },
     {
-      "title": "데블스플랜",
-      "approx_traffic": "1000+",
-      "published": "Tue, 17 Nov 2026 09:10:00 -0800",
+      "title": "엔비디아 실적",
+      "approx_traffic": "100+",
+      "published": "Tue, 17 Nov 2026 08:40:00 -0800",
       "news": [
         {
-          "title": "‘데블스 플랜3’ 5회 만에 7명 탈락...판 뒤집을 유배지 등장",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12210932"
+          "title": "9개월 만에 5,000선 붕괴, 코스피에 무슨 일이?",
+          "source": "네이버페이 머니스토리",
+          "url": "https://story.pay.naver.com/content/3985_3_C1"
         },
         {
-          "title": "[TF초점] '데블스 플랜3', 5회 만에 빠져든 두뇌 싸움…역시 근본 조합",
-          "source": "더팩트",
-          "url": "https://news.tf.co.kr/read/entertain/2389546.htm"
+          "title": "엔비디아가 누른 코스피, 실적이 만회할까 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/11/18/2026111719550672404"
         },
         {
-          "title": "????: 장동민이 누군데??ㅣ⚠️무단복제·재가공 엄금 #데블스플랜3 #장동민 #홍진호 #정현규",
-          "source": "K-VIBE",
-          "url": "https://korean-vibe.com/article/179586602921155"
+          "title": "젠슨 황 후폭풍에 ‘5000P’ 무너져… 9개월새 최저",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261117/135043015/2"
         }
       ]
     },
     {
-      "title": "탄도 미사일",
-      "approx_traffic": "200+",
-      "published": "Tue, 17 Nov 2026 07:50:00 -0800",
+      "title": "데블스플랜3",
+      "approx_traffic": "500+",
+      "published": "Tue, 17 Nov 2026 08:20:00 -0800",
       "news": [
         {
-          "title": "젤렌스키 \"더 많은 北미사일 러에 공급‥韓주변에 도전 과제\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6866144_36925.html"
+          "title": "정현규, 공황 증상으로 '데블스 플랜3' 하차 \"극복했다 생각\"",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/525195"
         },
         {
-          "title": "“매달 수십 발씩 러시아에 공급”…우크라전 겪으며 진화하는 北 미사일의 공포 [밀리터리노트]",
-          "source": "서울Pn",
-          "url": "https://m.go.seoul.co.kr/news/international/europe/2026/11/17/20261117500289"
+          "title": "정현규, 비난 여론 딛고 '데블스플랜' 새 시즌 합류하더니 공황으로 중도 하차",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020407"
         },
         {
-          "title": "\"북한, 한 달 수십 발씩 러시아에 탄도미사일 제공…미사일 성능 갈고 닦아\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/11/17/ZN7KQ3MVTRBQDFLCF4JHHPYDJY/"
+          "title": "데블스플랜 정현규 공황으로 하차, 괜찮을 줄 알았는데 아니었다…퇴소 후 공개한 현재 건강 상태와 마지막 고백",
+          "source": "Naver Blog",
+          "url": "https://blog.naver.com/PostView.naver?blogId=yooju0913&logNo=224481199187&redirect=Dlog"
         }
       ]
     },
@@ -119,107 +207,19 @@
       "published": "Tue, 17 Nov 2026 07:30:00 -0800",
       "news": [
         {
-          "title": "정우영 2년 7개월 만에 복귀…카타르전 대거 로테이션 : 스포츠",
-          "source": "재경일보",
-          "url": "https://news.jkn.co.kr/post/1102804"
+          "title": "이강인은 오른쪽 고정 전망… 카타르전 왼쪽은 ‘돌아온 돌격대장’ 정우영이 기회 얻을까?",
+          "source": "풋볼리스트",
+          "url": "https://www.footballist.co.kr/news/articleView.html?idxno=216906"
         },
         {
           "title": "모레노 감독이 원하는 높은 '에너지 레벨'에 딱! 분데스서도 '최상위급 고강도' 정우영, 측면 경쟁에 '새바람'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/football/2026/11/13/MVSWIMRRHBSDAMBVGU4DSNBTMQ/"
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/football/2026-11-13/202611130100091450008645"
         },
         {
-          "title": "황희찬 입지는 어떻게 될까… 韓 대표팀 고민거리 ‘왼쪽 윙어’, 송민규·엄지성·정우영과 무한 경쟁?",
-          "source": "베스트일레븐",
-          "url": "https://www.besteleven.com/news/articleView.html?idxno=313996"
-        }
-      ]
-    },
-    {
-      "title": "서울경제",
-      "approx_traffic": "200+",
-      "published": "Tue, 17 Nov 2026 07:00:00 -0800",
-      "news": [
-        {
-          "title": "일본 경유하려다 ‘날벼락’ 맞을 수도…“이것 없인 비행기 못 탄다” 대체 무슨 제도길래",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20114910"
-        },
-        {
-          "title": "日, 2028년부터 일부 환승객도 전자여행허가 추진…인천공항과 허브 경쟁 변수",
-          "source": "메디컬투데이",
-          "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625420"
-        },
-        {
-          "title": "日, 입국 안 하는 환승객도 사전 인증 추진…항공업계 우려",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261116_0003869538"
-        }
-      ]
-    },
-    {
-      "title": "헝거게임",
-      "approx_traffic": "100+",
-      "published": "Tue, 17 Nov 2026 07:00:00 -0800",
-      "news": [
-        {
-          "title": "잔인한 생존 게임, 판을 뒤집어라…'헝거게임 50번째 추첨의 날'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261114033700005"
-        },
-        {
-          "title": "연말 극장가 8천억원 블록버스터 전쟁",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/culture/12211334"
-        },
-        {
-          "title": "‘헝거게임 50번째 추첨의 날’, 개봉 외화 예매율 1위…18일 출격",
-          "source": "스포츠월드",
-          "url": "https://www.sportsworldi.com/newsView/20261116519561"
-        }
-      ]
-    },
-    {
-      "title": "한국",
-      "approx_traffic": "100+",
-      "published": "Tue, 17 Nov 2026 06:50:00 -0800",
-      "news": [
-        {
-          "title": "'방한 관광객 2000만 명 시대' 개막…대체불가 관광대국 도약",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975915&pWise=main&pWiseMain=A6"
-        },
-        {
-          "title": "방한 외국인에게 꽃다발 전달하는 이부진 위원장",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/photos/8218963"
-        },
-        {
-          "title": "방한 입국객 환영하는 최휘영 장관",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20261117_0021535910"
-        }
-      ]
-    },
-    {
-      "title": "친선경기",
-      "approx_traffic": "1000+",
-      "published": "Tue, 17 Nov 2026 06:40:00 -0800",
-      "news": [
-        {
-          "title": "콜롬비아, 칠레와 친선 경기…수아레스, 마리판·울로아와 공 다툼",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752319"
-        },
-        {
-          "title": "칠레 vs 콜롬비아 친선 경기 예측 - 국제 친선 경기",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-chile-vs-colombia-giao-huu-dtqg-friendlies"
-        },
-        {
-          "title": "콜롬비아 대 칠레 경기 예측: 예측하기 어려운 경기",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-colombia-vs-chile-cuoc-doi-dau-kho-phan-dinh"
+          "title": "“곧 평균 30살 되는 한국 국대” 황희찬 자리까지 위태롭다, 2000년대생 2명의 반란",
+          "source": "FT스포츠",
+          "url": "https://www.ftimes.kr/news/articleView.html?idxno=41017"
         }
       ]
     }
