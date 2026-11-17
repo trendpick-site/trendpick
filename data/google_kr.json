@@ -1,8 +1,30 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-17T18:07:58+00:00",
+  "fetched_at": "2026-11-17T19:05:44+00:00",
   "items": [
+    {
+      "title": "애플",
+      "approx_traffic": "200+",
+      "published": "Tue, 17 Nov 2026 09:30:00 -0800",
+      "news": [
+        {
+          "title": "[단독]카카오뱅크, 애플페이 서비스 시작",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261116000304"
+        },
+        {
+          "title": "카뱅 이어 토스뱅크도 연내 애플페이 출시…카드사 진입 포문 열리나",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445087"
+        },
+        {
+          "title": "카드업권, 애플페이 인뱅 진출에도 머뭇…삼성페이 '눈치'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261117137300002"
+        }
+      ]
+    },
     {
       "title": "데블스플랜3",
       "approx_traffic": "1000+",
@@ -58,36 +80,14 @@
           "url": "https://news.jkn.co.kr/post/1102804"
         },
         {
-          "title": "‘엄지성 천금 결승골’...일본 꺾고 AG 축구 4연패",
-          "source": "뉴스N연합",
-          "url": "https://www.newsyonhap.com/news/137332"
-        },
-        {
           "title": "모레노 감독이 원하는 높은 '에너지 레벨'에 딱! 분데스서도 '최상위급 고강도' 정우영, 측면 경쟁에 '새바람'",
           "source": "조선일보",
           "url": "https://www.chosun.com/sports/football/2026/11/13/MVSWIMRRHBSDAMBVGU4DSNBTMQ/"
-        }
-      ]
-    },
-    {
-      "title": "mbk파트너스",
-      "approx_traffic": "100+",
-      "published": "Tue, 17 Nov 2026 07:30:00 -0800",
-      "news": [
-        {
-          "title": "회수부터 투자까지…MBK SS, 신규 펀드레이징 배경은",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/Read?newsId=04149206645646704"
         },
         {
-          "title": "MBK파트너스, 2026 연차총회 개최…내년 해외투자 적극 확대",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261117056600008"
-        },
-        {
-          "title": "한국 노인 2050년 39.7%...MBK \"고령화사회 필요섹터에 투자하겠다\"",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202611171054413817"
+          "title": "황희찬 입지는 어떻게 될까… 韓 대표팀 고민거리 ‘왼쪽 윙어’, 송민규·엄지성·정우영과 무한 경쟁?",
+          "source": "베스트일레븐",
+          "url": "https://www.besteleven.com/news/articleView.html?idxno=313996"
         }
       ]
     },
@@ -129,9 +129,9 @@
           "url": "https://sports.khan.co.kr/article/202611171459003"
         },
         {
-          "title": "‘가요무대’ 가수 김범룡·신승태·신유 등 “이름 모를 소녀” 가을에 떠난 사람",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16277350"
+          "title": "가요무대 오늘(16일) 출연진·곡명...진시몬, 류원정, 박진도, 하루, 윤태화, 신유, 배아현, 풍금, 김다현, 빈예서, 신승태, 최유나, 미스김, 김희진, 김범룡",
+          "source": "더페어",
+          "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=94177"
         }
       ]
     },
@@ -146,14 +146,14 @@
           "url": "https://www.hankyung.com/article/2026111710841"
         },
         {
-          "title": "장인화 “기술력이 성과 원동력”…‘트리플코어’ 역량 강화 주문",
-          "source": "뉴스토마토",
-          "url": "https://www.newstomato.com/readnews.aspx?no=1320059"
+          "title": "장인화의 '선택과 집중' 통했다 … 2.2조 실탄 확보하고 리튬은 8년만에 흑자 전환",
+          "source": "뉴데일리 경제",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/11/2026111100053.html"
         },
         {
-          "title": "[현장] 폐배터리에서 리튬·니켈 뽑아 양극재까지, '16년 담금질' 포스코그룹의 2차전지 소재 사업 본격 도약 채비",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451523"
+          "title": "[현장] 전기로로 저탄소 쇳물 생산…전지소재·희귀가스 공급망도 지킨다",
+          "source": "기후에너지데이터뱅크",
+          "url": "https://edata.ekn.kr/article/view/ekn202611100004"
         }
       ]
     },
