@@ -1,225 +1,225 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-17T21:57:51+00:00",
+  "fetched_at": "2026-11-17T22:58:44+00:00",
   "items": [
     {
-      "title": "배당",
-      "approx_traffic": "1000+",
-      "published": "Tue, 17 Nov 2026 12:50:00 -0800",
-      "news": [
-        {
-          "title": "미래에셋자산운용, TIGER 액티브 커버드콜 ETF 순자산 4조원 돌파",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261117000070"
-        },
-        {
-          "title": "ETF 투자자도 '삼전닉스 배당'에 웃는다…분배율 5배 껑충",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02955286645646376"
-        },
-        {
-          "title": "'매월 따박따박' 100조 몰렸는데…'몰빵 vs 적립' 누가 더 벌었나 [조아라의 ETF 돋보기]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611108011i"
-        }
-      ]
-    },
-    {
-      "title": "wales đấu với bồ đào nha",
-      "approx_traffic": "200+",
-      "published": "Tue, 17 Nov 2026 12:50:00 -0800",
-      "news": [
-        {
-          "title": "HLV Bồ Đào Nha tiếp tục mâu thuẫn với học trò",
-          "source": "Znews",
-          "url": "https://znews.vn/hlv-bo-dao-nha-tiep-tuc-mau-thuan-voi-hoc-tro-post1696902.html"
-        },
-        {
-          "title": "Bồ Đào Nha chia tay 3 ngôi sao trước trận đấu với xứ Wales",
-          "source": "Báo và Phát thanh Truyền hình Hà Nội",
-          "url": "https://hanoionline.vn/bo-dao-nha-chia-tay-3-ngoi-sao-truoc-tran-dau-voi-xu-wales-246261117235532744.htm"
-        },
-        {
-          "title": "Bernardo Silva rời tuyển Bồ Đào Nha để ủng hộ Ronaldo?",
-          "source": "Tạp chí Bóng đá",
-          "url": "https://bongdaplus.vn/nations-league/bernardo-silva-roi-tuyen-bo-dao-nha-de-ung-ho-ronaldo-5292242611.html"
-        }
-      ]
-    },
-    {
-      "title": "롤 점검",
-      "approx_traffic": "200+",
-      "published": "Tue, 17 Nov 2026 12:50:00 -0800",
-      "news": [
-        {
-          "title": "리그 오브 레전드 26.23 패치 노트",
-          "source": "League of Legends",
-          "url": "https://www.leagueoflegends.com/ko-kr/news/game-updates/league-of-legends-patch-26-23-notes/"
-        },
-        {
-          "title": "라이엇게임즈, LoL 2027 시즌1 공개... '도벽' 복귀·랭크 보상 개편",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261117000187"
-        },
-        {
-          "title": "[게임업계 소식] 라이엇 게임즈, LoL 2027년 첫 콘텐츠 공개 外",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261117500407"
-        }
-      ]
-    },
-    {
-      "title": "수출",
-      "approx_traffic": "200+",
-      "published": "Tue, 17 Nov 2026 12:50:00 -0800",
-      "news": [
-        {
-          "title": "수출 1조 달러 시대, 세계가 찾는 기술에서 세계인의 일상 속 제품까지 - 영상 | 멀티미디어",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148975889"
-        },
-        {
-          "title": "다음 과제는 시장 다변화… 美-中 넘어 ‘글로벌 사우스’로 넓혀야",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261118/135043055/2"
-        },
-        {
-          "title": "수출 1조 달러 눈앞…김정관 산업장관, 인천신항 방문",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=374865"
-        }
-      ]
-    },
-    {
-      "title": "수사",
-      "approx_traffic": "200+",
-      "published": "Tue, 17 Nov 2026 12:50:00 -0800",
-      "news": [
-        {
-          "title": "‘조작기소 특검법’ 국무회의 통과, 최장 200일 수사",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261118/135043027/2"
-        },
-        {
-          "title": "“형사법 시스템 근본 훼손 위헌 법률”⋯ 위헌소송 줄줄이 이어질 듯",
-          "source": "국민일보",
-          "url": "https://www.kmib.co.kr/article/20261117501945"
-        },
-        {
-          "title": "‘검찰범죄’ 특검이 밝혀야 할 50가지 의혹⑭ 구치감 2박3일, 아이 사진, 장기 협박",
-          "source": "뉴스타파",
-          "url": "https://newstapa.org/article/e-tKd"
-        }
-      ]
-    },
-    {
-      "title": "안세영",
+      "title": "이민정",
       "approx_traffic": "2000+",
-      "published": "Tue, 17 Nov 2026 12:40:00 -0800",
+      "published": "Tue, 17 Nov 2026 13:50:00 -0800",
       "news": [
         {
-          "title": "[뉴스9 강원 클로징]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713273"
-        },
-        {
-          "title": "세계 최강 안세영의 미소",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/PYH20261116156200013"
-        },
-        {
-          "title": "[스포츠 영상] '12승 신기록 도전' 안세영 '오늘은 팬들과 함께!'",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6866097_37004.html"
-        }
-      ]
-    },
-    {
-      "title": "뉴스",
-      "approx_traffic": "1000+",
-      "published": "Tue, 17 Nov 2026 12:40:00 -0800",
-      "news": [
-        {
-          "title": "“임원들에 고성·압박, 12명 줄퇴사···엔비디아 경영진도 꼼짝 못 한 젠슨 황 딸은 사실상 ‘아버지 비서실장’”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611171508001"
-        },
-        {
-          "title": "젠슨 황 사임 후 첫 입장 “요청 시 복귀”…“청문회 출석”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8715632"
-        },
-        {
-          "title": "[데스크 칼럼] 거목 빈 자리 ‘K-반도체’",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261117500039"
-        }
-      ]
-    },
-    {
-      "title": "노동자",
-      "approx_traffic": "100+",
-      "published": "Tue, 17 Nov 2026 12:40:00 -0800",
-      "news": [
-        {
-          "title": "얼굴 파랗게 질려 숨진 27살…HD현대삼호 하청 ‘장례도 못 치른 보름’",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/area/honam/1287732.html"
-        },
-        {
-          "title": "'노동자 사망' 영암 조선소 협력사들 \"사고 책임 단정해선 안돼\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261117122100054"
-        },
-        {
-          "title": "\"사람이 할 짓인가\"…20대 용접공 유족 사과 요구에 HD현대삼호 협력사들 '규탄 시위'",
-          "source": "프레시안",
-          "url": "https://www.pressian.com/pages/articles/2026111715145583237"
-        }
-      ]
-    },
-    {
-      "title": "정웅인",
-      "approx_traffic": "200+",
-      "published": "Tue, 17 Nov 2026 12:30:00 -0800",
-      "news": [
-        {
-          "title": "정웅인, 전 매니저 사기 피해→소속사 대표 사망…\"또 위기\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/17/2026111706401419953"
-        },
-        {
-          "title": "정웅인, 세 딸 근황 공개…\"첫째는 배우 준비, 둘째는 예고 재학\"",
+          "title": "이병헌·이민정 LA 저택 공개…주방만 봐도 좋아 보인다",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261116_0003870591"
+          "url": "https://www.newsis.com/view/NISX20261117_0003872161"
         },
         {
-          "title": "“어떻게 일 할지”…정웅인, 소속사 대표 사망 언급하며 눈물",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261116095006328"
+          "title": "이민정, 맥주 배달한 ♥이병헌 덕에 행복…쿨한 퇴장",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6357198"
+        },
+        {
+          "title": "이병헌, 집에선 ♥이민정 술 심부름 드는 스윗남..문자 한 통에 바로 배달(MJ)",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/17/MMZDIYRZHA2GINRXHBTDIMJYGI/"
         }
       ]
     },
     {
-      "title": "훈련",
-      "approx_traffic": "100+",
-      "published": "Tue, 17 Nov 2026 12:30:00 -0800",
+      "title": "김현태",
+      "approx_traffic": "500+",
+      "published": "Tue, 17 Nov 2026 13:50:00 -0800",
       "news": [
         {
-          "title": "러 외무 “한·미·일 군사훈련 목적은 북한 억제” 비난",
+          "title": "법원, ‘국회 봉쇄’ 김현태 전 707 단장 구속취소 요청 기각",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8715580"
+          "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8712031"
         },
         {
-          "title": "러 \"한미 훈련 탓에 한반도 긴장 높아져\" \"푸틴, 李대통령 만날 것\"",
+          "title": "내란특검 완패 뒤 벌어진 일... \"나도 무죄\" 쏟아졌다",
+          "source": "OhmyNews",
+          "url": "https://www.ohmynews.com/NWS_Web/Series/series_premium_pg.aspx?CNTN_CD=A0003285743"
+        },
+        {
+          "title": "김현태 前707단장측 \"특임단 아닌, 시민들이 폭동 행위\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261117150400004"
+        }
+      ]
+    },
+    {
+      "title": "погода",
+      "approx_traffic": "500+",
+      "published": "Tue, 17 Nov 2026 13:50:00 -0800",
+      "news": [
+        {
+          "title": "В Москве к вечеру 18 ноября может появиться снежный покров",
+          "source": "Сноб",
+          "url": "https://snob.ru/news/v-moskve-k-vecheru-18-noiabria-mozhet-poiavitsia-snezhnyi-pokrov/"
+        },
+        {
+          "title": "Снег и гололедица ожидаются в Москве в ближайшие сутки",
+          "source": "Интерфакс",
+          "url": "https://www.interfax.ru/russia/1129643"
+        },
+        {
+          "title": "В Москве появится снег",
+          "source": "Гидрометцентр России",
+          "url": "https://meteoinfo.ru/novosti/22735-v-moskve-poyavitsya-sneg"
+        }
+      ]
+    },
+    {
+      "title": "天気",
+      "approx_traffic": "100+",
+      "published": "Tue, 17 Nov 2026 13:50:00 -0800",
+      "news": [
+        {
+          "title": "１９日の天気（西日本）",
+          "source": "沖縄タイムス社",
+          "url": "https://www.okinawatimes.co.jp/articles/-/1968656"
+        },
+        {
+          "title": "＜北海道の天気予報＞太平洋側は朝から雨 強風に注意！【井坂予報士と油野アナのお天気ライフ】",
+          "source": "TVer",
+          "url": "https://tver.jp/episodes/epmzla4wi8"
+        },
+        {
+          "title": "今週後半は大雪や猛吹雪も？",
+          "source": "札幌美容形成外科",
+          "url": "https://s-bi.com/wp_diary/kou/2026/11/17/post-91239.html"
+        }
+      ]
+    },
+    {
+      "title": "denmark vs norway",
+      "approx_traffic": "200+",
+      "published": "Tue, 17 Nov 2026 13:40:00 -0800",
+      "news": [
+        {
+          "title": "Denmark vs Norway: UEFA Nations League stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cq1k974v3m9dt"
+        },
+        {
+          "title": "Football Bet of the Day: Danish delight in front of goal on Tuesday",
+          "source": "MrFixitsTips",
+          "url": "https://mrfixitstips.co.uk/football-bet-of-the-day-danish-delight-in-front-of-goal-on-tuesday/"
+        },
+        {
+          "title": "Licensable picture: Denmark V Norway: Group Stage - UEFA Nations League",
+          "source": "Reuters Connect",
+          "url": "https://www.reutersconnect.com/item/denmark-v-norway-group-stage-uefa-nations-league/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBYRU9IWVQ"
+        }
+      ]
+    },
+    {
+      "title": "nvda stock",
+      "approx_traffic": "100+",
+      "published": "Tue, 17 Nov 2026 13:40:00 -0800",
+      "news": [
+        {
+          "title": "Nvidia interim CEO Kress says it’s ‘business as usual’ at company: Live updates",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html"
+        },
+        {
+          "title": "Nvidia earnings live: Nvidia posts Q3 beat, board says it will not reinstate Jensen Huang as CEO",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/live/nvidia-earnings-live-nvidia-posts-q3-beat-board-says-it-will-not-reinstate-jensen-huang-as-ceo-221428433.html"
+        },
+        {
+          "title": "NVIDIA Posts 14th Consecutive Record Revenue Amid CEO Transition",
           "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/11/18/D5RLZIK4LJB5HHCCTU5XU74VWY/"
+          "url": "https://www.chosun.com/english/industry-en/2026/11/18/DHPTHYRBQFCI5AALQKMZJGTKNM/"
+        }
+      ]
+    },
+    {
+      "title": "변상일",
+      "approx_traffic": "100+",
+      "published": "Tue, 17 Nov 2026 13:40:00 -0800",
+      "news": [
+        {
+          "title": "[속보] 대이변…세계 1위 신진서 무너졌다, 韓 4위 변상일 결승行",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6608315"
         },
         {
-          "title": "러 외무 \"대북 제재·한미일 핵 군사훈련이 한반도 긴장 고조 원인\"",
+          "title": "변상일 '천적' 신진서 꺾고 삼성화재배 첫 결승 진출",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261117161700007"
+        },
+        {
+          "title": "삼성화재 월드바둑마스터스의 탄생 동기와 30년의 역사[세계바둑산책 22]",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611171701487004"
+        }
+      ]
+    },
+    {
+      "title": "보안 취약점",
+      "approx_traffic": "500+",
+      "published": "Tue, 17 Nov 2026 13:30:00 -0800",
+      "news": [
+        {
+          "title": "PHP 이어 '자바'서도 치명적 취약점…공공·기업 보안 비상",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261118014000017"
+        },
+        {
+          "title": "국가안보실, '자바' 취약점 확인에 민관군 긴급회의…대책 수립",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261118018300001"
+        },
+        {
+          "title": "방화벽이 침투 통로로... 이스라엘 기관, 체크포인트 장비 뚫려 서버 파일까지 삭제",
+          "source": "보안뉴스",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=147277"
+        }
+      ]
+    },
+    {
+      "title": "사고",
+      "approx_traffic": "200+",
+      "published": "Tue, 17 Nov 2026 13:20:00 -0800",
+      "news": [
+        {
+          "title": "고경표 때문에 더 주목받는 '술꾼들'...신동엽·성시경이 '무사고' 지킨 비결",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/11/17/MNQTOM3BG5SDONJTGQ2TMMLDGY/"
+        },
+        {
+          "title": "고경표처럼 청소차 '쾅'...호란, 세 번째 음주운전 사고 '재조명' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/17/2026111707460827049"
+        },
+        {
+          "title": "고경표까지 음주운전 사고로 활동 중단…끊이지 않는 연예계 음주운전 [N이슈]",
           "source": "뉴스1",
-          "url": "https://www.news1.kr/world/europe/6357283"
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6356206"
+        }
+      ]
+    },
+    {
+      "title": "nations league",
+      "approx_traffic": "200+",
+      "published": "Tue, 17 Nov 2026 13:20:00 -0800",
+      "news": [
+        {
+          "title": "Preview: Poland vs Sweden - prediction, team news, lineups",
+          "source": "Sports Mole",
+          "url": "https://www.sportsmole.co.uk/football/poland/uefa-nations-league/preview/poland-vs-sweden-prediction-team-news-lineups_609183.html"
+        },
+        {
+          "title": "Licensable picture: Football. UEFA Nations League. Poland - Sweden. 17.11.2026",
+          "source": "Reuters Connect",
+          "url": "https://www.reutersconnect.com/item/football-uefa-nations-league-poland-sweden-17112026/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBZVEJEOEU"
+        },
+        {
+          "title": "Poland vs Sweden: Benedyczak and Larsson Trade Goals in 1-1 UEFA Nations League Draw",
+          "source": "BBN Times",
+          "url": "https://www.bbntimes.com/technology/poland-vs-sweden-benedyczak-and-larsson-trade-goals-in-1-1-uefa-nations-league-draw"
         }
       ]
     }
