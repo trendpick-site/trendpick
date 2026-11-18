@@ -1,220 +1,209 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-18T03:32:59+00:00",
+  "fetched_at": "2026-11-18T04:39:35+00:00",
   "items": [
     {
-      "title": "양주시",
-      "approx_traffic": "100+",
-      "published": "Tue, 17 Nov 2026 18:20:00 -0800",
-      "news": [
-        {
-          "title": "양주시, 버스노선 체계 개선 설문… 30일까지 시민 의견 수렴",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11632083"
-        },
-        {
-          "title": "[양주 소식]버스노선 체계 개선 설문조사 등",
-          "source": "프레시안",
-          "url": "https://www.pressian.com/pages/articles/2026111717361407420"
-        },
-        {
-          "title": "양주시, 버스노선 개선 시민 설문…11월 30일까지 이용객 참여",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3754895"
-        }
-      ]
-    },
-    {
-      "title": "혈당",
-      "approx_traffic": "5000+",
-      "published": "Tue, 17 Nov 2026 18:00:00 -0800",
-      "news": [
-        {
-          "title": "당뇨병 환자들, 혈당 데이터 통제권 강화 요구…국제 디지털 권리 헌장 발표",
-          "source": "메디컬투데이",
-          "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625863"
-        },
-        {
-          "title": "단 한 끗 차이로 '정상'·'전당뇨' 나뉜다?…알쏭달쏭 혈당 수치의 진실",
-          "source": "코리아헬스로그",
-          "url": "https://www.koreahealthlog.com/news/articleView.html?idxno=59997"
-        },
-        {
-          "title": "순창군, 당뇨병 예방 '자기혈관 숫자알기' 캠페인…걷기 챌린지 운영",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3755039"
-        }
-      ]
-    },
-    {
-      "title": "10억",
-      "approx_traffic": "1000+",
-      "published": "Tue, 17 Nov 2026 18:00:00 -0800",
-      "news": [
-        {
-          "title": "'아빠, 이 집 나 줄 거지?'…10억 있는 3040 부모들 '뜻밖의 대답'",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026111727421"
-        },
-        {
-          "title": "\"자녀 성인 되기 전에 물려주겠다\"…유자녀 3040 자산가 40%, '조기 증여' 원해",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202611180851556738"
-        },
-        {
-          "title": "자산 30억 넘는 3040 절반 이상 “현금·부동산 이미 물려받았다”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611171102001"
-        }
-      ]
-    },
-    {
-      "title": "선수",
-      "approx_traffic": "1000+",
-      "published": "Tue, 17 Nov 2026 18:00:00 -0800",
-      "news": [
-        {
-          "title": "러시아 피겨 선수 7명, 핀란드 입국 금지로 그랑프리 출전 무산",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261118082900007"
-        },
-        {
-          "title": "캐나다 세계 주니어 선수권대회에서 러시아가 배제된 뒤 해킹 보도…IIHF 웹사이트 접속 불가",
-          "source": "Mezha.net",
-          "url": "https://mezha.net/ko/news/mezha-ee3b03f57aa84a08d430dc88_iihf-website-offline-after-reported-hack/"
-        },
-        {
-          "title": "5전 전승으로 1부 승격했는데…러시아 복귀에 노르웨이 U20 하키 2부로",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261109_0003860298"
-        }
-      ]
-    },
-    {
-      "title": "수능 샤프심",
-      "approx_traffic": "2000+",
-      "published": "Tue, 17 Nov 2026 18:00:00 -0800",
-      "news": [
-        {
-          "title": "수능 하루 전 또 바뀐 규정…\"필기구는 흑색 연필만 지참 가능\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/education/2026/11/18/BSG5DBTQMFCWXAKDZW5OVXAPNY/"
-        },
-        {
-          "title": "시험장에 ’흑색 연필’만 허용…수능 하루 앞두고 필기구 반입 기준 변경",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261118101544MPp"
-        },
-        {
-          "title": "\"샤프심도 안 되나요\"…수능 전날 필기구 지침 변경에 수험생 혼란(종합)",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/education/6357783"
-        }
-      ]
-    },
-    {
-      "title": "lpga",
+      "title": "북한이탈주민",
       "approx_traffic": "500+",
-      "published": "Tue, 17 Nov 2026 18:00:00 -0800",
+      "published": "Tue, 17 Nov 2026 19:30:00 -0800",
       "news": [
         {
-          "title": "LPGA Tour season ends with $4 million prize and PGA Tour season ends with 100 players earning cards",
-          "source": "Marietta Daily Journal",
-          "url": "https://www.mdjonline.com/sports/wire/lpga-tour-season-ends-with-4-million-prize-and-pga-tour-season-ends-with-100/article_09a22a02-8aa0-5686-bdd3-a3fcf720223d.html"
+          "title": "[단독] 탈북민 주거지원금 12억 못받았다…706세대에 ‘추가신청’ 안내없어",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/politics/12212193"
         },
         {
-          "title": "Golf Glance: PGA, LPGA return to U.S.; DP, Champions set for finales",
-          "source": "KNBR",
-          "url": "https://www.thesportsleader.com/2026/11/11/golf-glance-pga-lpga-return-to-u-s-dp-champions-set-for-finales/"
+          "title": "북한이탈주민 겨울나기 돕는다…시흥서 김장김치 100통 나눔",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261117580169"
         },
         {
-          "title": "LPGA Tour season ends with $2 million prize and PGA Tour season ends with 100 players earning cards",
-          "source": "Corsicana Daily Sun",
-          "url": "https://www.corsicanadailysun.com/sports/national_sports/lpga-tour-season-ends-with-2-million-prize-and-pga-tour-season-ends-with-100/article_feb1b705-2e71-53dc-b316-21c32bbf33e7.html"
+          "title": "달성군자원봉사센터·대구하나센터, 북한이탈주민 위해 김장 나눔",
+          "source": "매일신문",
+          "url": "https://www.imaeil.com/page/view/2026111717203890008"
         }
       ]
     },
     {
-      "title": "삼전닉스",
-      "approx_traffic": "10000+",
-      "published": "Tue, 17 Nov 2026 17:50:00 -0800",
+      "title": "표절",
+      "approx_traffic": "500+",
+      "published": "Tue, 17 Nov 2026 19:20:00 -0800",
       "news": [
         {
-          "title": "코스피, 삼전닉스 독주속 누적 매출 3천조…3분기 실적둔화",
+          "title": "\"카피라니 속상해\" 최예나 측, '사브리나 카펜터 표절 의혹'에 꺼내 든 결정적 증거",
+          "source": "부산파이낸셜뉴스",
+          "url": "https://busan.fnnews.com/news/202611171519491481"
+        },
+        {
+          "title": "[포토]레이, 뿔테의 정석",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/photos/12209495"
+        },
+        {
+          "title": "최예나, MMA 베스트 솔로 여자 수상 후 근황…인형 비주얼 [N샷]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6354600"
+        }
+      ]
+    },
+    {
+      "title": "xrp",
+      "approx_traffic": "200+",
+      "published": "Tue, 17 Nov 2026 19:20:00 -0800",
+      "news": [
+        {
+          "title": "XRP technical indicators signal rebound; can it regain $1",
+          "source": "디지털투데이",
+          "url": "https://www.digitaltoday.co.kr/en/view/127361/xrp-technical-indicators-signal-rebound-can-it-regain-1-dollar"
+        },
+        {
+          "title": "Analyzing XRP’s $44M liquidation imbalance – Is a market reset underway?",
+          "source": "AMBCrypto",
+          "url": "https://ambcrypto.com/analyzing-xrps-44m-liquidation-imbalance-is-a-market-reset-underway/"
+        },
+        {
+          "title": "Ripple and Stellar outlook: What next as XRP returns to November 2024 levels and XLM touches a two-year low?",
+          "source": "www.tmgm.com",
+          "url": "https://www.tmgm.com/en-in/analysis/market-news/article/ripple-and-stellar-outlook-xrp-revisits-november-2024-levels-xlm-hits-a-two-year-low-202611170410"
+        }
+      ]
+    },
+    {
+      "title": "영화",
+      "approx_traffic": "2000+",
+      "published": "Tue, 17 Nov 2026 19:00:00 -0800",
+      "news": [
+        {
+          "title": "CGV, 11월 기술 특별관 라인업 공개…공연 실황·애니메이션·스릴러 등 6편 – CJ 뉴스룸",
+          "source": "CJ 뉴스룸",
+          "url": "https://cjnews.cj.net/cgv-11%EC%9B%94-%EA%B8%B0%EC%88%A0-%ED%8A%B9%EB%B3%84%EA%B4%80-%EB%9D%BC%EC%9D%B8%EC%97%85-%EA%B3%B5%EA%B0%9C%EA%B3%B5%EC%97%B0-%EC%8B%A4%ED%99%A9%C2%B7%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4/"
+        },
+        {
+          "title": "임영웅 고양 콘서트, 스크린으로 만난다",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/life/pop-culture/2026/11/18/20261118500068"
+        },
+        {
+          "title": "임영웅, 오늘(18일) 극장 접수…CGV 단독 개봉에도 전체 예매율 1위 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/18/2026111808357253755"
+        }
+      ]
+    },
+    {
+      "title": "윤혜진",
+      "approx_traffic": "500+",
+      "published": "Tue, 17 Nov 2026 19:00:00 -0800",
+      "news": [
+        {
+          "title": "‘엄태웅♥’ 윤혜진, 몸 상태 어떻길래..발레 금지령 “골반 물 차고 연골 상해”(왓씨티비)",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/18/HAYGKNBWGM4WMNBSGUZDCNJXGM/"
+        },
+        {
+          "title": "`엄태웅♥` 윤혜진, 평생 함께 한 발레 이제 못 해…\"골반에 물이 차 재활 중\" [마데핫리뷰]",
+          "source": "마이데일리",
+          "url": "https://mydaily.co.kr/page/view/2026111311284776741"
+        },
+        {
+          "title": "'엄태웅♥' 윤혜진, 건강 이상에 발레 금지령 \"골반 염증 수치 높아\"",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-11-16/202611160100104330009681"
+        }
+      ]
+    },
+    {
+      "title": "대한민국 해군",
+      "approx_traffic": "1000+",
+      "published": "Tue, 17 Nov 2026 19:00:00 -0800",
+      "news": [
+        {
+          "title": "무신사 “해군과 컬래버”… ‘네이비 짐’ 컬렉션 선봬[금주의 핫딜]",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11632133"
+        },
+        {
+          "title": "젊은 여자도 입고 다니네…예상밖 인기에 '군대 콜라보' 티셔츠 나온다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611106360g"
+        },
+        {
+          "title": "해군 PX에 무신사 옷 들어온다…GS25, 운동복 6종 판매",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261110100128"
+        }
+      ]
+    },
+    {
+      "title": "중도일보",
+      "approx_traffic": "200+",
+      "published": "Tue, 17 Nov 2026 19:00:00 -0800",
+      "news": []
+    },
+    {
+      "title": "apec",
+      "approx_traffic": "200+",
+      "published": "Tue, 17 Nov 2026 19:00:00 -0800",
+      "news": [
+        {
+          "title": "Apec summit live: Xi and Putin speak as world leaders gather in China",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china"
+        },
+        {
+          "title": "Analysis: Trump is about to see up close why US efforts won’t stop China’s rise as tech powerhouse",
+          "source": "CNN",
+          "url": "https://www.cnn.com/2026/11/17/china/trump-us-china-tech-asia-summit-intl-hnk"
+        },
+        {
+          "title": "China’s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/18/china-xi-trade-investment-barriers.html"
+        }
+      ]
+    },
+    {
+      "title": "잠실래미안아이파크",
+      "approx_traffic": "1000+",
+      "published": "Tue, 17 Nov 2026 18:50:00 -0800",
+      "news": [
+        {
+          "title": "“43억 잠실 아파트를 18억에?”…눈 돌아가는 ‘24억 줍줍’ 3가구 떴다",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/realestate/12212165"
+        },
+        {
+          "title": "잠실서 또 '로또 청약'…래미안아이파크 3가구 무순위 공급",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261117001303"
+        },
+        {
+          "title": "\"당첨되면 20억\"…잠실 아파트 '줍줍' 3가구 나온다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261117_0003872071"
+        }
+      ]
+    },
+    {
+      "title": "삼성바이오로직스",
+      "approx_traffic": "200+",
+      "published": "Tue, 17 Nov 2026 18:50:00 -0800",
+      "news": [
+        {
+          "title": "삼성바이오로직스 노조, 한국노총 가입…조합원 88% 찬성",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261118580155"
+        },
+        {
+          "title": "삼성바이오로직스 노사 교섭 재개…사측, 임금 6.2% 선적용 카드 꺼내",
+          "source": "팜이데일리",
+          "url": "https://pharm.edaily.co.kr/news/read?newsId=04851126645646704"
+        },
+        {
+          "title": "삼성바이오 노사 교섭 재개했지만…임금 인상 입장차 여전",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261118092800008"
-        },
-        {
-          "title": "코스피 영업익 증가분 83% '반도체 투톱' 몫…코스닥 전기전자 62% 적자",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445353"
-        },
-        {
-          "title": "삼성전자 3분기 법인세 22.8조…작년의 690배",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261117/135040554/1"
-        }
-      ]
-    },
-    {
-      "title": "한화 이글스",
-      "approx_traffic": "5000+",
-      "published": "Tue, 17 Nov 2026 17:50:00 -0800",
-      "news": [
-        {
-          "title": "한화 역사에 남을 트레이드 성공작인데…하필 FA 앞두고 부상→1할7푼 시련, 그런데 실망은 아직 이르다",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020415"
-        },
-        {
-          "title": "류지현 감독의 생각을 깬 한화 선수가 있다! → 도대체 누구야 \"솔직히 열정적으로 하는 선수로 보이지는 않았다\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/18/GU2DGZLFGRTGIYJSMY2TGNRYMM/"
-        },
-        {
-          "title": "'한화 최초 GG 2루수' 성실함에 신임 감독 놀랐다…\"들어와서 보니 내 생각을 깼다\"→日 코치들 호평까지, 부활 시동 걸었다 [미야자키 현장]",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20261117n00527"
-        }
-      ]
-    },
-    {
-      "title": "혼인",
-      "approx_traffic": "200+",
-      "published": "Tue, 17 Nov 2026 17:50:00 -0800",
-      "news": [
-        {
-          "title": "'순천 미래 100년 연다'...순천시, 23일 신청사 개청식 개최",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202611181208178985"
-        },
-        {
-          "title": "‘새로운 순천’ 신청사 시대 연다…23일 개청식",
-          "source": "남도일보",
-          "url": "https://www.namdonews.com/news/articleView.html?idxno=929637"
-        }
-      ]
-    },
-    {
-      "title": "정치",
-      "approx_traffic": "200+",
-      "published": "Tue, 17 Nov 2026 17:40:00 -0800",
-      "news": [
-        {
-          "title": "'체포 지시 부인' 조태용 전 국정원장 징역 2년 6개월 확정",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6866573_36918.html"
-        },
-        {
-          "title": "'계엄 위증' 조태용 전 국정원장, 징역형 확정",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0103_202611181109358207"
-        },
-        {
-          "title": "[속보] “‘尹 정치인 체포 지시’ 보고 안 받아” 조태용 전 국정원장, 대법서 징역 2년 6개월 확정",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/court_law/2026/11/18/3SYWNG2CPFFUJFRUAOV7NQPGN4/"
+          "url": "https://www.yna.co.kr/view/AKR20261117152200017"
         }
       ]
     }
