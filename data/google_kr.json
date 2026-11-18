@@ -1,225 +1,220 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-18T02:35:36+00:00",
+  "fetched_at": "2026-11-18T03:32:59+00:00",
   "items": [
     {
-      "title": "국제 a매치",
-      "approx_traffic": "1000+",
-      "published": "Tue, 17 Nov 2026 17:30:00 -0800",
-      "news": [
-        {
-          "title": "축구 A매치에서 \"대~한민국\" 구호가 사라졌다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/football/2026/11/18/PEHQPEUKWNCQFIKOJ6PWL4TNUQ/"
-        },
-        {
-          "title": "[로드 투 아시안컵①] 최악의 1년 뒤 희망의 1년… 아시안컵·월드컵 향한 재건의 시간",
-          "source": "스포츠월드",
-          "url": "https://www.sportsworldi.com/newsView/20261112520068"
-        },
-        {
-          "title": "축구대표팀 인기 이 정도였나…손흥민∙이강인 출전 11월 중동 A매치, '10년 계약' TV조선 미중계→지상파가 나눠 맡는다",
-          "source": "엑스포츠뉴스",
-          "url": "https://www.xportsnews.com/article/2217893"
-        }
-      ]
-    },
-    {
-      "title": "삼천당제약",
-      "approx_traffic": "200+",
-      "published": "Tue, 17 Nov 2026 17:20:00 -0800",
-      "news": [
-        {
-          "title": "[속보] 삼천당제약 주가 돌연 급락, 장초반 강세 어디로…18% 가까이 ‘뚝’",
-          "source": "CBC뉴스",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=628089"
-        },
-        {
-          "title": "'53억 승부수' 삼천당제약, 日 약가 등재 … 셀트리온과 맞대결",
-          "source": "뉴데일리 경제",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/12/2026111200274.html"
-        },
-        {
-          "title": "삼천당제약 2%대 하락…매출·이익 개선 뒤 임상 변수 주목",
-          "source": "잡포스트",
-          "url": "https://www.job-post.co.kr/news/articleView.html?idxno=239027"
-        }
-      ]
-    },
-    {
-      "title": "탄약",
-      "approx_traffic": "500+",
-      "published": "Tue, 17 Nov 2026 16:50:00 -0800",
-      "news": [
-        {
-          "title": "인니 방산 컨설턴트, KF-21 계약 지연과 풍산 탄약 미납이 양국 신뢰 흔든다고 진단",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611180348057973fbbec65dfb_1"
-        },
-        {
-          "title": "KAI, 민항기로 글로벌 시장 진출한다",
-          "source": "경남매일",
-          "url": "https://www.gnmaeil.com/news/articleView.html?idxno=598709"
-        },
-        {
-          "title": "[중화학 ON] KAI, 인니 PTDI와 항공산업협력 확대 外 : 네이버 블로그",
-          "source": "Naver Blog",
-          "url": "https://blog.naver.com/PostView.naver?blogId=dealsite&logNo=224478042568&redirect=Dlog"
-        }
-      ]
-    },
-    {
-      "title": "변요한",
-      "approx_traffic": "200+",
-      "published": "Tue, 17 Nov 2026 16:40:00 -0800",
-      "news": [
-        {
-          "title": "변요한·티파니 영, MMA 동반 참석…달달한 신혼부부",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0117_202611160936386674"
-        },
-        {
-          "title": "티파니 영♥변요한, 시상식서 애정 폭발…손 꼭 잡고 달달 [DA★]",
-          "source": "동아일보",
-          "url": "https://www.donga.com/SODA/article/0210/20261117/135038989/1"
-        },
-        {
-          "title": "‘혼인신고만 한’ 변요한♥티파니, 시상식이 결혼식장인 줄…부부 첫 공식활동[Oh!쎈 이슈]",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261115152613295"
-        }
-      ]
-    },
-    {
-      "title": "argentina đấu với costa rica",
+      "title": "양주시",
       "approx_traffic": "100+",
-      "published": "Tue, 17 Nov 2026 16:40:00 -0800",
+      "published": "Tue, 17 Nov 2026 18:20:00 -0800",
       "news": [
         {
-          "title": "Pronostico Argentina-Costa Rica, ore 06:00 del 18 novembre: l'Albiceleste cerca di ritrovare il sorriso.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/it/nhan-dinh-argentina-vs-costa-rica-06h00-ngay-18-11-albiceleste-tim-lai-nu-cuoi"
+          "title": "양주시, 버스노선 체계 개선 설문… 30일까지 시민 의견 수렴",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11632083"
         },
         {
-          "title": "Emiliano Martinez bắt kịp kỷ lục lịch sử của Sergio Romero",
-          "source": "bongda.com.vn",
-          "url": "https://bongda.com.vn/emiliano-martinez-bat-kip-ky-luc-lich-su-cua-sergio-romero-d855437.html"
+          "title": "[양주 소식]버스노선 체계 개선 설문조사 등",
+          "source": "프레시안",
+          "url": "https://www.pressian.com/pages/articles/2026111717361407420"
         },
         {
-          "title": "Trực tiếp Argentina vs Costa Rica: Hết hiệp 1, Argentina dẫn 4-0",
-          "source": "Báo Nghệ An",
-          "url": "https://baonghean.vn/truc-tiep-argentina-vs-costa-rica-het-hiep-1-argentina-dan-4-0-10356057.html"
+          "title": "양주시, 버스노선 개선 시민 설문…11월 30일까지 이용객 참여",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3754895"
         }
       ]
     },
     {
-      "title": "argentina vs kosta rika",
-      "approx_traffic": "100+",
-      "published": "Tue, 17 Nov 2026 16:40:00 -0800",
+      "title": "혈당",
+      "approx_traffic": "5000+",
+      "published": "Tue, 17 Nov 2026 18:00:00 -0800",
       "news": [
         {
-          "title": "Argentina Crush Costa Rica 7-0 Without Messi",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008851462"
+          "title": "당뇨병 환자들, 혈당 데이터 통제권 강화 요구…국제 디지털 권리 헌장 발표",
+          "source": "메디컬투데이",
+          "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625863"
         },
         {
-          "title": "Licensable picture: International Friendly - Argentina v Costa Rica",
-          "source": "Reuters Connect",
-          "url": "https://www.reutersconnect.com/item/international-friendly-argentina-v-costa-rica/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkgxUkZXVEQ"
+          "title": "단 한 끗 차이로 '정상'·'전당뇨' 나뉜다?…알쏭달쏭 혈당 수치의 진실",
+          "source": "코리아헬스로그",
+          "url": "https://www.koreahealthlog.com/news/articleView.html?idxno=59997"
         },
         {
-          "title": "[Soccer-Live]@!~Costa Rica vs ArgentinaIn Diretta Streaming",
-          "source": "Comité Asesor de Vacunas de la AEP",
-          "url": "https://vacunasaep.org/sites/all/libraries/fckeditor/editor/filemanager/browser/default/browser.html?Type=File&CONNECTOR=/%5C/keeplearningeveryday.xyz%2Ffc%2Fconnector.php/&GetFoldersAndFiles=soccer-live-costa-rica-vs-argentinain-diretta-4gco7"
+          "title": "순창군, 당뇨병 예방 '자기혈관 숫자알기' 캠페인…걷기 챌린지 운영",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3755039"
         }
       ]
     },
     {
-      "title": "음료",
+      "title": "10억",
       "approx_traffic": "1000+",
-      "published": "Tue, 17 Nov 2026 16:10:00 -0800",
+      "published": "Tue, 17 Nov 2026 18:00:00 -0800",
       "news": [
         {
-          "title": "이마트24, '옐로우' 차음료 2종 출시…헬시 플레저 수요 공략",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261118000110"
+          "title": "'아빠, 이 집 나 줄 거지?'…10억 있는 3040 부모들 '뜻밖의 대답'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026111727421"
         },
         {
-          "title": "이마트24, 겨울 음료 1000원대로 즐긴다…자허블·배도라지로 상품군 확대",
+          "title": "\"자녀 성인 되기 전에 물려주겠다\"…유자녀 3040 자산가 40%, '조기 증여' 원해",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611180851556738"
+        },
+        {
+          "title": "자산 30억 넘는 3040 절반 이상 “현금·부동산 이미 물려받았다”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611171102001"
+        }
+      ]
+    },
+    {
+      "title": "선수",
+      "approx_traffic": "1000+",
+      "published": "Tue, 17 Nov 2026 18:00:00 -0800",
+      "news": [
+        {
+          "title": "러시아 피겨 선수 7명, 핀란드 입국 금지로 그랑프리 출전 무산",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261118082900007"
+        },
+        {
+          "title": "캐나다 세계 주니어 선수권대회에서 러시아가 배제된 뒤 해킹 보도…IIHF 웹사이트 접속 불가",
+          "source": "Mezha.net",
+          "url": "https://mezha.net/ko/news/mezha-ee3b03f57aa84a08d430dc88_iihf-website-offline-after-reported-hack/"
+        },
+        {
+          "title": "5전 전승으로 1부 승격했는데…러시아 복귀에 노르웨이 U20 하키 2부로",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261118_0003872444"
-        },
-        {
-          "title": "이마트24, 자허블T·배도담으로 ‘옐로우’ 차음료 라인업 확대",
-          "source": "메트로신문",
-          "url": "https://www.metroseoul.co.kr/article/20261118500068"
+          "url": "https://www.newsis.com/view/NISX20261109_0003860298"
         }
       ]
     },
     {
-      "title": "금양",
+      "title": "수능 샤프심",
+      "approx_traffic": "2000+",
+      "published": "Tue, 17 Nov 2026 18:00:00 -0800",
+      "news": [
+        {
+          "title": "수능 하루 전 또 바뀐 규정…\"필기구는 흑색 연필만 지참 가능\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/education/2026/11/18/BSG5DBTQMFCWXAKDZW5OVXAPNY/"
+        },
+        {
+          "title": "시험장에 ’흑색 연필’만 허용…수능 하루 앞두고 필기구 반입 기준 변경",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261118101544MPp"
+        },
+        {
+          "title": "\"샤프심도 안 되나요\"…수능 전날 필기구 지침 변경에 수험생 혼란(종합)",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/education/6357783"
+        }
+      ]
+    },
+    {
+      "title": "lpga",
       "approx_traffic": "500+",
-      "published": "Tue, 17 Nov 2026 16:10:00 -0800",
+      "published": "Tue, 17 Nov 2026 18:00:00 -0800",
       "news": [
         {
-          "title": "금양, 분기보고서 미제출로 상장폐지 사유 추가…가처분 결과까지 절차 보류",
-          "source": "CBC뉴스",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=627441"
+          "title": "LPGA Tour season ends with $4 million prize and PGA Tour season ends with 100 players earning cards",
+          "source": "Marietta Daily Journal",
+          "url": "https://www.mdjonline.com/sports/wire/lpga-tour-season-ends-with-4-million-prize-and-pga-tour-season-ends-with-100/article_09a22a02-8aa0-5686-bdd3-a3fcf720223d.html"
         },
         {
-          "title": "[상폐 호흡기] 120억 떼먹고 \"할말 없다\"…류광지 금양, 끝없는 추락",
-          "source": "한스경제",
-          "url": "https://www.hansbiz.co.kr/news/articleView.html?idxno=884225"
+          "title": "Golf Glance: PGA, LPGA return to U.S.; DP, Champions set for finales",
+          "source": "KNBR",
+          "url": "https://www.thesportsleader.com/2026/11/11/golf-glance-pga-lpga-return-to-u-s-dp-champions-set-for-finales/"
         },
         {
-          "title": "피씨엘, 정기보고서 잇단 미제출에도 상장폐지 절차 보류 상태 유지",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16278031"
+          "title": "LPGA Tour season ends with $2 million prize and PGA Tour season ends with 100 players earning cards",
+          "source": "Corsicana Daily Sun",
+          "url": "https://www.corsicanadailysun.com/sports/national_sports/lpga-tour-season-ends-with-2-million-prize-and-pga-tour-season-ends-with-100/article_feb1b705-2e71-53dc-b316-21c32bbf33e7.html"
         }
       ]
     },
     {
-      "title": "공무원연금공단",
-      "approx_traffic": "100+",
-      "published": "Tue, 17 Nov 2026 16:00:00 -0800",
+      "title": "삼전닉스",
+      "approx_traffic": "10000+",
+      "published": "Tue, 17 Nov 2026 17:50:00 -0800",
       "news": [
         {
-          "title": "공무원연금공단, 제주 ‘런케이션’ 프로그램 운영",
-          "source": "제민일보",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=847518"
+          "title": "코스피, 삼전닉스 독주속 누적 매출 3천조…3분기 실적둔화",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261118092800008"
         },
         {
-          "title": "공무원연금공단, 임직원 대상 제주4·3 역사·문화 교육 실시...\"지역상생 의식 강화\"",
-          "source": "더퍼스트미디어",
-          "url": "https://www.thefirstmedia.net/news/articleView.html?idxno=213973"
+          "title": "코스피 영업익 증가분 83% '반도체 투톱' 몫…코스닥 전기전자 62% 적자",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445353"
         },
         {
-          "title": "공무원 성공적 퇴직 준비·사회 참여 적극 지원",
-          "source": "제주매일",
-          "url": "https://www.jejumaeil.net/news/articleView.html?idxno=406794"
+          "title": "삼성전자 3분기 법인세 22.8조…작년의 690배",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261117/135040554/1"
         }
       ]
     },
     {
-      "title": "카르다노",
-      "approx_traffic": "100+",
-      "published": "Tue, 17 Nov 2026 16:00:00 -0800",
+      "title": "한화 이글스",
+      "approx_traffic": "5000+",
+      "published": "Tue, 17 Nov 2026 17:50:00 -0800",
       "news": [
         {
-          "title": "\"내년엔 모두 행복해질 것\"…ADA 95% 폭락에도 카르다노 창업자의 자신감",
-          "source": "디지털투데이",
-          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715601"
+          "title": "한화 역사에 남을 트레이드 성공작인데…하필 FA 앞두고 부상→1할7푼 시련, 그런데 실망은 아직 이르다",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020415"
         },
         {
-          "title": "에이다, 최고가 대비 95%↓…창립자는 \"가격 상승 보장한 적 없어\"",
-          "source": "블루밍비트",
-          "url": "https://bloomingbit.io/feed/news/124439"
+          "title": "류지현 감독의 생각을 깬 한화 선수가 있다! → 도대체 누구야 \"솔직히 열정적으로 하는 선수로 보이지는 않았다\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/18/GU2DGZLFGRTGIYJSMY2TGNRYMM/"
         },
         {
-          "title": "카르다노(ADA) 0.153달러 지지선 지킬까…ETF 자금 유출·기술주 약세 부담",
-          "source": "코인리더스",
-          "url": "https://www.coinreaders.com/270917"
+          "title": "'한화 최초 GG 2루수' 성실함에 신임 감독 놀랐다…\"들어와서 보니 내 생각을 깼다\"→日 코치들 호평까지, 부활 시동 걸었다 [미야자키 현장]",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20261117n00527"
+        }
+      ]
+    },
+    {
+      "title": "혼인",
+      "approx_traffic": "200+",
+      "published": "Tue, 17 Nov 2026 17:50:00 -0800",
+      "news": [
+        {
+          "title": "'순천 미래 100년 연다'...순천시, 23일 신청사 개청식 개최",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611181208178985"
+        },
+        {
+          "title": "‘새로운 순천’ 신청사 시대 연다…23일 개청식",
+          "source": "남도일보",
+          "url": "https://www.namdonews.com/news/articleView.html?idxno=929637"
+        }
+      ]
+    },
+    {
+      "title": "정치",
+      "approx_traffic": "200+",
+      "published": "Tue, 17 Nov 2026 17:40:00 -0800",
+      "news": [
+        {
+          "title": "'체포 지시 부인' 조태용 전 국정원장 징역 2년 6개월 확정",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6866573_36918.html"
+        },
+        {
+          "title": "'계엄 위증' 조태용 전 국정원장, 징역형 확정",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0103_202611181109358207"
+        },
+        {
+          "title": "[속보] “‘尹 정치인 체포 지시’ 보고 안 받아” 조태용 전 국정원장, 대법서 징역 2년 6개월 확정",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/court_law/2026/11/18/3SYWNG2CPFFUJFRUAOV7NQPGN4/"
         }
       ]
     }
