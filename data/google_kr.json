@@ -1,11 +1,143 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-18T05:42:22+00:00",
+  "fetched_at": "2026-11-18T06:43:13+00:00",
   "items": [
     {
+      "title": "경정",
+      "approx_traffic": "100+",
+      "published": "Tue, 17 Nov 2026 21:30:00 -0800",
+      "news": [
+        {
+          "title": "경정 시즌 막바지, 다승왕과 그랑프리 향한 질주로 수면이 뜨겁다",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/sports/article/all/20261117/135028450/1"
+        },
+        {
+          "title": "경정 시즌 막바지 다승왕 경쟁 치열…심상철·박원규 선두 다툼",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/life/2026-11-18/202611170100110770010201"
+        },
+        {
+          "title": "경정 다승왕·그랑프리 주인공은 누구… 심상철 45승 선두, 박원규 맹추격",
+          "source": "로이슈",
+          "url": "https://www.lawissue.co.kr/view.php?ud=20261116173124326707f28b58b8_12"
+        }
+      ]
+    },
+    {
+      "title": "로또",
+      "approx_traffic": "500+",
+      "published": "Tue, 17 Nov 2026 21:10:00 -0800",
+      "news": [
+        {
+          "title": "\"회사에서 확인한 로또, 1등 31억 당첨\"…인증글 올린 직장인",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02122166645647032&mediaCodeNo=257"
+        },
+        {
+          "title": "\"2등 당첨되는 꿈\" 회사에서 확인한 로또, 31억 대박...'음소거 환호' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/index.php/society/2026/11/18/2026111805495346241"
+        },
+        {
+          "title": "제1250회 로또 1등 9명···당첨금 31억원",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611142052001"
+        }
+      ]
+    },
+    {
+      "title": "병무청",
+      "approx_traffic": "1000+",
+      "published": "Tue, 17 Nov 2026 20:50:00 -0800",
+      "news": [
+        {
+          "title": "병무청, 19일 수능날 병역판정검사 미실시…20일부터 재개",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6357747"
+        },
+        {
+          "title": "경인지방병무청,수능시험 19일 병역판정검사 휴무",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/region/article/all/20261118/135045691/1"
+        },
+        {
+          "title": "부산울산병무청, 수능일 병역판정검사 휴무…20일 재개",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3755771"
+        }
+      ]
+    },
+    {
+      "title": "에레디 아",
+      "approx_traffic": "500+",
+      "published": "Tue, 17 Nov 2026 20:40:00 -0800",
+      "news": [
+        {
+          "title": "‘45홈런’ 김도영, 3루 수비도 1위…데뷔 첫 KBO 수비상",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716061"
+        },
+        {
+          "title": "화려하게 부활한 KIA 김도영, 2026 일구대상 수상",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261118064900007"
+        },
+        {
+          "title": "프로야구 kt 위즈, 4년 연속 KBO 수비상 수상자 배출 실패",
+          "source": "기호일보",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041332"
+        }
+      ]
+    },
+    {
+      "title": "조태용",
+      "approx_traffic": "100+",
+      "published": "Tue, 17 Nov 2026 20:40:00 -0800",
+      "news": [
+        {
+          "title": "'체포 지시 부인' 조태용 전 국정원장 징역 2년 6개월 확정",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6866573_36918.html"
+        },
+        {
+          "title": "대법 “조태용, 윤석열 정치인 체포 지시 보고받아”…징역 2년 6개월 확정",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8716000"
+        },
+        {
+          "title": "[속보]조태용 전 국정원장 ‘계엄 위증·정치관여’ 2년6개월 실형 확정",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611181112001"
+        }
+      ]
+    },
+    {
+      "title": "england vs australia",
+      "approx_traffic": "100+",
+      "published": "Tue, 17 Nov 2026 20:40:00 -0800",
+      "news": [
+        {
+          "title": "AUS vs ENG 2026/27, AUS vs ENG 3rd ODI Match Preview - Beardman back for rare ODI series decider in Hobart",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/england-in-australia-2026-27-1528677/australia-vs-england-3rd-odi-1528705/match-preview"
+        },
+        {
+          "title": "Australia v England: third and deciding men’s cricket one-day international – live",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/sport/live/2026/nov/18/australia-vs-england-cricket-third-odi-mens-one-day-international-hobart-aus-v-eng-live-scores-updates"
+        },
+        {
+          "title": "England wins the toss and will bat 1st in the deciding ODI cricket match against Australia",
+          "source": "The Washington Post",
+          "url": "https://www.washingtonpost.com/sports/2026/11/17/cricket-england-australia-odi/37822c1a-e301-11f1-a99e-b3e3805c6b8b_story.html"
+        }
+      ]
+    },
+    {
       "title": "김치",
-      "approx_traffic": "2000+",
+      "approx_traffic": "5000+",
       "published": "Tue, 17 Nov 2026 20:30:00 -0800",
       "news": [
         {
@@ -14,191 +146,59 @@
           "url": "https://sjbnews.com/news/news.php?number=892856&year=2026"
         },
         {
+          "title": "울산 남구 새마을회, 사랑의 김장 나눔… 따뜻한 이웃사랑 실천",
+          "source": "울산종합일보",
+          "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065594040674012"
+        },
+        {
           "title": "돈암1동 지역사회보장협의체, 취약계층 184가구에 사랑의 김장 전달",
           "source": "국제뉴스",
           "url": "https://www.gukjenews.com/news/articleView.html?idxno=3755159"
-        },
-        {
-          "title": "김치·쌀·성금까지…안성 곳곳서 펼쳐지는 겨울맞이 나눔",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261118_0003873238"
         }
       ]
     },
     {
       "title": "수성구",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Tue, 17 Nov 2026 20:20:00 -0800",
       "news": [
         {
-          "title": "“대구 수성구죠? 내일 ‘총잡이’와 모의연습”…SNS 확산 ‘수능 커닝 대화’ 파문",
-          "source": "대구일보",
-          "url": "https://www.idaegu.com/news/articleView.html?idxno=667073"
+          "title": "부정행위 계획하는 20대 동행해보니… “용산서 커닝용 기판·초소형스피커 3만3000원에 득템”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11632249"
         },
         {
-          "title": "중국어권 텔레그램서 'AI 커닝' 장비 거래…금전 요구 논란까지(종합)",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1201466"
-        }
-      ]
-    },
-    {
-      "title": "건설",
-      "approx_traffic": "500+",
-      "published": "Tue, 17 Nov 2026 20:10:00 -0800",
-      "news": [
-        {
-          "title": "대우건설, 이라크 알포 신항만 침매터널 공사 마무리…중동 최초 시공 기술력 입증",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261118/135045828/1"
-        },
-        {
-          "title": "대우건설, 이라크 침매터널 준공…중동 최초",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445305"
-        },
-        {
-          "title": "대우건설, 중동 최초 침매터널 성공…\"가덕도신공항 공사 기술 기반\"",
-          "source": "스트레이트뉴스",
-          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=315620"
+          "title": "사실로 밝혀지면 심각한 상황...수능까지 개입한 중국? [자막뉴스]",
+          "source": "YTN",
+          "url": "https://m.ytn.co.kr/news_view.php?key=202611181313557562&s_mcd=0134"
         }
       ]
     },
     {
       "title": "부산광역시",
-      "approx_traffic": "500+",
+      "approx_traffic": "2000+",
       "published": "Tue, 17 Nov 2026 20:10:00 -0800",
       "news": []
     },
     {
-      "title": "중국 축구 국가대표팀",
-      "approx_traffic": "200+",
+      "title": "건설",
+      "approx_traffic": "1000+",
       "published": "Tue, 17 Nov 2026 20:10:00 -0800",
       "news": [
         {
-          "title": "한국 U-19 축구, 판다컵 최종전서 중국에 1-2 패배",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20261118_0002294905"
+          "title": "국토부, 사망사고 발생 대형건설사 12곳 안전관리 점검",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374930"
         },
         {
-          "title": "\"더 이상 공한증은 없다\" 韓 축구 대굴욕! 중국 U-19 대표팀에 또 1-2 충격패...\"한중 격차 눈에 띄게 줄어들고 있어\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/18/202611180936776100O"
-        },
-        {
-          "title": "한국 U-19, 중국에 1-2 ‘충격패’ 판다컵 우승 놓쳤다···중국팬 “7년 전 한국 소변 세리머니 설욕”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611180936013"
-        }
-      ]
-    },
-    {
-      "title": "세종역",
-      "approx_traffic": "200+",
-      "published": "Tue, 17 Nov 2026 20:10:00 -0800",
-      "news": [
-        {
-          "title": "“세종에 KTX 세워달라”···선로 바꾼 세종시, 충북과 10년 갈등 다시 불 붙나",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611171416001"
-        },
-        {
-          "title": "5차 철도망 의견수렴 현장 가봤더니... 전국 각지 응원 열기 '후끈' [영상]",
-          "source": "철도경제신문",
-          "url": "https://www.redaily.co.kr/news/articleView.html?idxno=18215"
-        },
-        {
-          "title": "KTX 세종중앙역 갈등 확산…충청권 상생 ‘흔들’",
+          "title": "올 들어 건설 현장서 106명 숨져…절반 가량이 ‘추락’ 사망",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8715320"
-        }
-      ]
-    },
-    {
-      "title": "헝거게임 50번째 추첨의 날",
-      "approx_traffic": "100+",
-      "published": "Tue, 17 Nov 2026 20:10:00 -0800",
-      "news": [
-        {
-          "title": "잔인한 생존 게임, 판을 뒤집어라…'헝거게임 50번째 추첨의 날'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261114033700005"
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8715993"
         },
         {
-          "title": "연말 극장가 8천억원 블록버스터 전쟁",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/culture/12211334"
-        },
-        {
-          "title": "[애프터스크리닝] '헝거게임 50번째 추첨의 날', 캣니스와 함께 사라진 '헝거게임'의 매력 ★★",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/524181"
-        }
-      ]
-    },
-    {
-      "title": "nh농협은행",
-      "approx_traffic": "2000+",
-      "published": "Tue, 17 Nov 2026 20:00:00 -0800",
-      "news": [
-        {
-          "title": "[동정] 강태영 NH농협은행장, 국립창원대에서 특별강연",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1201342"
-        },
-        {
-          "title": "NH농협은행장이 뽑은 인재·조직의 기본조건은?…\"인성\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261118_0003873269"
-        },
-        {
-          "title": "강태영 농협은행장, 창원대서 미래 금융 특강",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202611180932407370"
-        }
-      ]
-    },
-    {
-      "title": "국제 a 매치",
-      "approx_traffic": "2000+",
-      "published": "Tue, 17 Nov 2026 19:50:00 -0800",
-      "news": [
-        {
-          "title": "축구 A매치에서 \"대~한민국\" 구호가 사라졌다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/football/2026/11/18/PEHQPEUKWNCQFIKOJ6PWL4TNUQ/"
-        },
-        {
-          "title": "한국 축구, 올해 A매치 '승률 46.2%'…2019년 이후 최저",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/soccer/6357921"
-        },
-        {
-          "title": "[데스크 시각] 축구협회에 ‘농협룰’ 가져온 문체부",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/editOpinion/column/journalist-viewpoint/2026/11/16/20261116027008"
-        }
-      ]
-    },
-    {
-      "title": "배현진",
-      "approx_traffic": "100+",
-      "published": "Tue, 17 Nov 2026 19:50:00 -0800",
-      "news": [
-        {
-          "title": "“배현진 1년” “네” 문자 공개… 장동혁 조작징계 증거는 제시 안해",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20261118/135042662/2"
-        },
-        {
-          "title": "국힘 윤리위원 \"윤리위 실질적 주인은 장동혁\" 추가 주장",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6866580_36911.html"
-        },
-        {
-          "title": "박정하 \"한동훈, '제명' 정상적이지 않았다면 '가처분 복당'도 고려해야\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/index.php/politics/2026/11/18/2026111810344758336"
+          "title": "수도권매립지관리공사, 겨울철 대비 주요 시설 안전 점검",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261118580215"
         }
       ]
     }
