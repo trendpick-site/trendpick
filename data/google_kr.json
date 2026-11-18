@@ -1,209 +1,204 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-18T04:39:35+00:00",
+  "fetched_at": "2026-11-18T05:42:22+00:00",
   "items": [
     {
-      "title": "북한이탈주민",
-      "approx_traffic": "500+",
-      "published": "Tue, 17 Nov 2026 19:30:00 -0800",
-      "news": [
-        {
-          "title": "[단독] 탈북민 주거지원금 12억 못받았다…706세대에 ‘추가신청’ 안내없어",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/politics/12212193"
-        },
-        {
-          "title": "북한이탈주민 겨울나기 돕는다…시흥서 김장김치 100통 나눔",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261117580169"
-        },
-        {
-          "title": "달성군자원봉사센터·대구하나센터, 북한이탈주민 위해 김장 나눔",
-          "source": "매일신문",
-          "url": "https://www.imaeil.com/page/view/2026111717203890008"
-        }
-      ]
-    },
-    {
-      "title": "표절",
-      "approx_traffic": "500+",
-      "published": "Tue, 17 Nov 2026 19:20:00 -0800",
-      "news": [
-        {
-          "title": "\"카피라니 속상해\" 최예나 측, '사브리나 카펜터 표절 의혹'에 꺼내 든 결정적 증거",
-          "source": "부산파이낸셜뉴스",
-          "url": "https://busan.fnnews.com/news/202611171519491481"
-        },
-        {
-          "title": "[포토]레이, 뿔테의 정석",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/photos/12209495"
-        },
-        {
-          "title": "최예나, MMA 베스트 솔로 여자 수상 후 근황…인형 비주얼 [N샷]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6354600"
-        }
-      ]
-    },
-    {
-      "title": "xrp",
-      "approx_traffic": "200+",
-      "published": "Tue, 17 Nov 2026 19:20:00 -0800",
-      "news": [
-        {
-          "title": "XRP technical indicators signal rebound; can it regain $1",
-          "source": "디지털투데이",
-          "url": "https://www.digitaltoday.co.kr/en/view/127361/xrp-technical-indicators-signal-rebound-can-it-regain-1-dollar"
-        },
-        {
-          "title": "Analyzing XRP’s $44M liquidation imbalance – Is a market reset underway?",
-          "source": "AMBCrypto",
-          "url": "https://ambcrypto.com/analyzing-xrps-44m-liquidation-imbalance-is-a-market-reset-underway/"
-        },
-        {
-          "title": "Ripple and Stellar outlook: What next as XRP returns to November 2024 levels and XLM touches a two-year low?",
-          "source": "www.tmgm.com",
-          "url": "https://www.tmgm.com/en-in/analysis/market-news/article/ripple-and-stellar-outlook-xrp-revisits-november-2024-levels-xlm-hits-a-two-year-low-202611170410"
-        }
-      ]
-    },
-    {
-      "title": "영화",
+      "title": "김치",
       "approx_traffic": "2000+",
-      "published": "Tue, 17 Nov 2026 19:00:00 -0800",
+      "published": "Tue, 17 Nov 2026 20:30:00 -0800",
       "news": [
         {
-          "title": "CGV, 11월 기술 특별관 라인업 공개…공연 실황·애니메이션·스릴러 등 6편 – CJ 뉴스룸",
-          "source": "CJ 뉴스룸",
-          "url": "https://cjnews.cj.net/cgv-11%EC%9B%94-%EA%B8%B0%EC%88%A0-%ED%8A%B9%EB%B3%84%EA%B4%80-%EB%9D%BC%EC%9D%B8%EC%97%85-%EA%B3%B5%EA%B0%9C%EA%B3%B5%EC%97%B0-%EC%8B%A4%ED%99%A9%C2%B7%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4/"
+          "title": "익산 남중동 새마을부녀회, 정성 담은 김장김치 나눔",
+          "source": "새전북신문",
+          "url": "https://sjbnews.com/news/news.php?number=892856&year=2026"
         },
         {
-          "title": "임영웅 고양 콘서트, 스크린으로 만난다",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/life/pop-culture/2026/11/18/20261118500068"
+          "title": "돈암1동 지역사회보장협의체, 취약계층 184가구에 사랑의 김장 전달",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3755159"
         },
         {
-          "title": "임영웅, 오늘(18일) 극장 접수…CGV 단독 개봉에도 전체 예매율 1위 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/18/2026111808357253755"
+          "title": "김치·쌀·성금까지…안성 곳곳서 펼쳐지는 겨울맞이 나눔",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261118_0003873238"
         }
       ]
     },
     {
-      "title": "윤혜진",
-      "approx_traffic": "500+",
-      "published": "Tue, 17 Nov 2026 19:00:00 -0800",
-      "news": [
-        {
-          "title": "‘엄태웅♥’ 윤혜진, 몸 상태 어떻길래..발레 금지령 “골반 물 차고 연골 상해”(왓씨티비)",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/18/HAYGKNBWGM4WMNBSGUZDCNJXGM/"
-        },
-        {
-          "title": "`엄태웅♥` 윤혜진, 평생 함께 한 발레 이제 못 해…\"골반에 물이 차 재활 중\" [마데핫리뷰]",
-          "source": "마이데일리",
-          "url": "https://mydaily.co.kr/page/view/2026111311284776741"
-        },
-        {
-          "title": "'엄태웅♥' 윤혜진, 건강 이상에 발레 금지령 \"골반 염증 수치 높아\"",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/entertainment/2026-11-16/202611160100104330009681"
-        }
-      ]
-    },
-    {
-      "title": "대한민국 해군",
-      "approx_traffic": "1000+",
-      "published": "Tue, 17 Nov 2026 19:00:00 -0800",
-      "news": [
-        {
-          "title": "무신사 “해군과 컬래버”… ‘네이비 짐’ 컬렉션 선봬[금주의 핫딜]",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11632133"
-        },
-        {
-          "title": "젊은 여자도 입고 다니네…예상밖 인기에 '군대 콜라보' 티셔츠 나온다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611106360g"
-        },
-        {
-          "title": "해군 PX에 무신사 옷 들어온다…GS25, 운동복 6종 판매",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261110100128"
-        }
-      ]
-    },
-    {
-      "title": "중도일보",
+      "title": "수성구",
       "approx_traffic": "200+",
-      "published": "Tue, 17 Nov 2026 19:00:00 -0800",
+      "published": "Tue, 17 Nov 2026 20:20:00 -0800",
+      "news": [
+        {
+          "title": "“대구 수성구죠? 내일 ‘총잡이’와 모의연습”…SNS 확산 ‘수능 커닝 대화’ 파문",
+          "source": "대구일보",
+          "url": "https://www.idaegu.com/news/articleView.html?idxno=667073"
+        },
+        {
+          "title": "중국어권 텔레그램서 'AI 커닝' 장비 거래…금전 요구 논란까지(종합)",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1201466"
+        }
+      ]
+    },
+    {
+      "title": "건설",
+      "approx_traffic": "500+",
+      "published": "Tue, 17 Nov 2026 20:10:00 -0800",
+      "news": [
+        {
+          "title": "대우건설, 이라크 알포 신항만 침매터널 공사 마무리…중동 최초 시공 기술력 입증",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261118/135045828/1"
+        },
+        {
+          "title": "대우건설, 이라크 침매터널 준공…중동 최초",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445305"
+        },
+        {
+          "title": "대우건설, 중동 최초 침매터널 성공…\"가덕도신공항 공사 기술 기반\"",
+          "source": "스트레이트뉴스",
+          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=315620"
+        }
+      ]
+    },
+    {
+      "title": "부산광역시",
+      "approx_traffic": "500+",
+      "published": "Tue, 17 Nov 2026 20:10:00 -0800",
       "news": []
     },
     {
-      "title": "apec",
+      "title": "중국 축구 국가대표팀",
       "approx_traffic": "200+",
-      "published": "Tue, 17 Nov 2026 19:00:00 -0800",
+      "published": "Tue, 17 Nov 2026 20:10:00 -0800",
       "news": [
         {
-          "title": "Apec summit live: Xi and Putin speak as world leaders gather in China",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china"
-        },
-        {
-          "title": "Analysis: Trump is about to see up close why US efforts won’t stop China’s rise as tech powerhouse",
-          "source": "CNN",
-          "url": "https://www.cnn.com/2026/11/17/china/trump-us-china-tech-asia-summit-intl-hnk"
-        },
-        {
-          "title": "China’s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/18/china-xi-trade-investment-barriers.html"
-        }
-      ]
-    },
-    {
-      "title": "잠실래미안아이파크",
-      "approx_traffic": "1000+",
-      "published": "Tue, 17 Nov 2026 18:50:00 -0800",
-      "news": [
-        {
-          "title": "“43억 잠실 아파트를 18억에?”…눈 돌아가는 ‘24억 줍줍’ 3가구 떴다",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/realestate/12212165"
-        },
-        {
-          "title": "잠실서 또 '로또 청약'…래미안아이파크 3가구 무순위 공급",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261117001303"
-        },
-        {
-          "title": "\"당첨되면 20억\"…잠실 아파트 '줍줍' 3가구 나온다",
+          "title": "한국 U-19 축구, 판다컵 최종전서 중국에 1-2 패배",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261117_0003872071"
+          "url": "https://mobile.newsis.com/photo/NISI20261118_0002294905"
+        },
+        {
+          "title": "\"더 이상 공한증은 없다\" 韓 축구 대굴욕! 중국 U-19 대표팀에 또 1-2 충격패...\"한중 격차 눈에 띄게 줄어들고 있어\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/18/202611180936776100O"
+        },
+        {
+          "title": "한국 U-19, 중국에 1-2 ‘충격패’ 판다컵 우승 놓쳤다···중국팬 “7년 전 한국 소변 세리머니 설욕”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611180936013"
         }
       ]
     },
     {
-      "title": "삼성바이오로직스",
+      "title": "세종역",
       "approx_traffic": "200+",
-      "published": "Tue, 17 Nov 2026 18:50:00 -0800",
+      "published": "Tue, 17 Nov 2026 20:10:00 -0800",
       "news": [
         {
-          "title": "삼성바이오로직스 노조, 한국노총 가입…조합원 88% 찬성",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261118580155"
+          "title": "“세종에 KTX 세워달라”···선로 바꾼 세종시, 충북과 10년 갈등 다시 불 붙나",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611171416001"
         },
         {
-          "title": "삼성바이오로직스 노사 교섭 재개…사측, 임금 6.2% 선적용 카드 꺼내",
-          "source": "팜이데일리",
-          "url": "https://pharm.edaily.co.kr/news/read?newsId=04851126645646704"
+          "title": "5차 철도망 의견수렴 현장 가봤더니... 전국 각지 응원 열기 '후끈' [영상]",
+          "source": "철도경제신문",
+          "url": "https://www.redaily.co.kr/news/articleView.html?idxno=18215"
         },
         {
-          "title": "삼성바이오 노사 교섭 재개했지만…임금 인상 입장차 여전",
+          "title": "KTX 세종중앙역 갈등 확산…충청권 상생 ‘흔들’",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8715320"
+        }
+      ]
+    },
+    {
+      "title": "헝거게임 50번째 추첨의 날",
+      "approx_traffic": "100+",
+      "published": "Tue, 17 Nov 2026 20:10:00 -0800",
+      "news": [
+        {
+          "title": "잔인한 생존 게임, 판을 뒤집어라…'헝거게임 50번째 추첨의 날'",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261117152200017"
+          "url": "https://www.yna.co.kr/view/AKR20261114033700005"
+        },
+        {
+          "title": "연말 극장가 8천억원 블록버스터 전쟁",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/culture/12211334"
+        },
+        {
+          "title": "[애프터스크리닝] '헝거게임 50번째 추첨의 날', 캣니스와 함께 사라진 '헝거게임'의 매력 ★★",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/524181"
+        }
+      ]
+    },
+    {
+      "title": "nh농협은행",
+      "approx_traffic": "2000+",
+      "published": "Tue, 17 Nov 2026 20:00:00 -0800",
+      "news": [
+        {
+          "title": "[동정] 강태영 NH농협은행장, 국립창원대에서 특별강연",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1201342"
+        },
+        {
+          "title": "NH농협은행장이 뽑은 인재·조직의 기본조건은?…\"인성\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261118_0003873269"
+        },
+        {
+          "title": "강태영 농협은행장, 창원대서 미래 금융 특강",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611180932407370"
+        }
+      ]
+    },
+    {
+      "title": "국제 a 매치",
+      "approx_traffic": "2000+",
+      "published": "Tue, 17 Nov 2026 19:50:00 -0800",
+      "news": [
+        {
+          "title": "축구 A매치에서 \"대~한민국\" 구호가 사라졌다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/football/2026/11/18/PEHQPEUKWNCQFIKOJ6PWL4TNUQ/"
+        },
+        {
+          "title": "한국 축구, 올해 A매치 '승률 46.2%'…2019년 이후 최저",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/soccer/6357921"
+        },
+        {
+          "title": "[데스크 시각] 축구협회에 ‘농협룰’ 가져온 문체부",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/editOpinion/column/journalist-viewpoint/2026/11/16/20261116027008"
+        }
+      ]
+    },
+    {
+      "title": "배현진",
+      "approx_traffic": "100+",
+      "published": "Tue, 17 Nov 2026 19:50:00 -0800",
+      "news": [
+        {
+          "title": "“배현진 1년” “네” 문자 공개… 장동혁 조작징계 증거는 제시 안해",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20261118/135042662/2"
+        },
+        {
+          "title": "국힘 윤리위원 \"윤리위 실질적 주인은 장동혁\" 추가 주장",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6866580_36911.html"
+        },
+        {
+          "title": "박정하 \"한동훈, '제명' 정상적이지 않았다면 '가처분 복당'도 고려해야\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/index.php/politics/2026/11/18/2026111810344758336"
         }
       ]
     }
